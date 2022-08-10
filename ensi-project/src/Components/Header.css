@@ -1,0 +1,47 @@
+.head{
+    text-align: left;
+    padding-top: 20px;
+    display: flex;
+    float: left;
+    padding-bottom: 5px;
+
+    
+    
+}
+.search--text{
+    height: 50px;
+    width: 750px;
+    padding-left: 9px;
+    font-size: 17px;
+    font-family: system-ui;
+   
+}
+.head--img{
+    height: 80px;
+    width: auto;
+    padding-left: 20px;
+    padding-right: 150px;
+    padding-top:5px ;
+    
+}
+.search--btn{
+    height: 55px;
+    width: 40px;
+    background-color: transparent;
+    font-size: 5px;
+    background-color: white;
+    cursor: pointer;
+
+}
+.search--img{
+    height: 24px;
+    width: 24px;
+    
+}
+
+.search--form{
+    margin-right: 360px;
+    display: flex;
+    padding-top: 13px;
+}
+
