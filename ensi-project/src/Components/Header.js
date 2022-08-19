@@ -7,7 +7,7 @@ import {Link} from 'react-router-dom';
 function Header(){
     const[search,setSearch]=React.useState("")
     function Clicked(){
-        if (search=="")
+        if (search==="")
         alert("rien a rechercher")
         else
         console.log(search)
