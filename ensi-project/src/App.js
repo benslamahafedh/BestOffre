@@ -1,5 +1,4 @@
 import logo from './logo.svg';
-import Header from './Components/Header';
 import List1 from './Components/List1';
 import {Routes,Route} from 'react-router-dom';
 import Mainpro from './Components/Mainpro';
@@ -8,6 +7,9 @@ import React from 'react';
 import Card from './Components/card';
 import iphone from './Components/iphone';
 import Details from './Components/details';
+import Header from './Components/Header';
+import CarouselFadeExample from './Components/carousel';
+import Footer from './Components/footer';
 
 function App() {
   const Product=data.map((item) =>{
@@ -31,7 +33,8 @@ function App() {
   return (
       <div className="App">
         <Header/>
-        <List1/>
+        <CarouselFadeExample/>
+       <List1/>
         <div className='product'>
           <Routes>
             <Route exact path='/' element={Product}/>
@@ -39,7 +42,8 @@ function App() {
             <Route path='iphone/:productreference' element={<Details />}/>
           </Routes>
         </div>
-      </div>
+        <Footer/>
+      </div> 
   );
 }
 
