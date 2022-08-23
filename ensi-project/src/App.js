@@ -4,12 +4,13 @@ import {Routes,Route} from 'react-router-dom';
 import Mainpro from './Components/Mainpro';
 import data from './Components/data';
 import React from 'react';
-import Card from './Components/card';
+import Card from './Components/Card/card';
 import iphone from './Components/iphone';
-import Details from './Components/details';
-import Header from './Components/Header';
+import Details from './Components/Details/details';
+import Header from './Components/Header/Header';
 import CarouselFadeExample from './Components/carousel';
-import Footer from './Components/footer';
+import Footer from './Components/Footer/footer';
+import "./App.css"
 
 function App() {
   const Product=data.map((item) =>{
@@ -33,12 +34,17 @@ function App() {
   return (
       <div className="App">
         <Header/>
-        <CarouselFadeExample/>
+        <Routes>
+          <Route exact path='/' element={<CarouselFadeExample/>}/>
+        </Routes>
        <List1/>
         <div className='product'>
           <Routes>
             <Route exact path='/' element={Product}/>
-            <Route exact path='/iphone' element={products}/>
+            <Route exact path='/iphone' element={
+              <div className="product-grid">
+                  {products}
+              </div>}/>
             <Route path='iphone/:productreference' element={<Details />}/>
           </Routes>
         </div>

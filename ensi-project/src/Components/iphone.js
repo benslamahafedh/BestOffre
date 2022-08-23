@@ -836,7 +836,7 @@ export default
         "_id": {
           "$oid": "62ee7e9703b882b1bb81d350"
         },
-        "Name": "Apple - TéLéPHONE PORTABLE IPHONE 12 PRO MAX / 5G / 256 GO",
+        "Name": "Apple -IPHONE 12 PRO MAX / 5G / 256 GO",
         "Reference": "IPHONE12PROMAX-256",
         "type": "/telephonie_internet/telephonie_mobile/iphone",
         "Specs": "Ecran 6.7\" HDR OLED Super Retina XDR (1284 x 2778 px) - Processeur Apple A14 Bionic Hexa Core - Etanche IP68 - RAM 6 Go - Mémoire 256 Go - Système Apple iOS 14 - Appareil Photo: Triple Caméra Arrière 3x 12 MP, 12 MP (Frontale) - 5G - Wi-Fi 6 AX - Bluetooth 5.0 - Batterie Li-Ion 3687 mAh - Couleur Graphite  ",
@@ -1070,7 +1070,7 @@ export default
         "Name": "Apple - IPHONE 12 PRO 128GO",
         "Reference": "IPHONE12PRO-128",
         "type": "/telephonie_internet/telephonie_mobile/iphone",
-        "Specs": "",
+        "Specs": "Puce A13 Bionic Neural Engine troisième générationl / Capacité : 128 Go / Écran Liquid Retina HD LCD Multi-Touch tout écran de 6,1 pouces (diagonale) avec technologie IPS) / Appareil photo 12MP / Touch ID / Wi-Fi / Bluetooth 5.0 / 3G / 4G LTE / GPS / NFC / iOS 13  ",
         "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1615906971_363.jpeg",
         "Offres": [
           {
@@ -1132,7 +1132,7 @@ export default
         "_id": {
           "$oid": "62ee7e9b03b882b1bb81d354"
         },
-        "Name": "Apple - TéLéPHONE PORTABLE IPHONE 12 PRO MAX / 5G / 128 GO",
+        "Name": "Apple - IPHONE 12 PRO MAX / 5G / 128 GO",
         "Reference": "IPHONE12PROMAX-128",
         "type": "/telephonie_internet/telephonie_mobile/iphone",
         "Specs": "Ecran 6.7\" HDR OLED Super Retina XDR (1284 x 2778 px) - Processeur Apple A14 Bionic Hexa Core - Etanche IP68 - RAM 6 Go - Mémoire 128 Go - Système Apple iOS 14 - Appareil Photo: Triple Caméra Arrière 3x 12 MP, 12 MP (Frontale) - 5G - Wi-Fi 6 AX - Bluetooth 5.0 - Batterie Li-Ion 3687 mAh ",
@@ -1600,7 +1600,7 @@ export default
         "_id": {
           "$oid": "62ee7ea803b882b1bb81d360"
         },
-        "Name": "Apple - SMARTPHONE IPHONE 13 PRO MAX / 5G / 6 GO / 512 GO ",
+        "Name": "Apple - IPHONE 13 PRO MAX / 5G / 6 GO / 512 GO ",
         "Reference": "IPHONE13PROMAX512",
         "type": "/telephonie_internet/telephonie_mobile/iphone",
         "Specs": "Double SIM - Ecran Super Retina XDR OLED Pro Motion 6.7\", 120 Hz - R?solution 1284 x 2778px - Processeur Apple A15 Bionic Hexa-Core - RAM 6 Go - Stockage 512 Go - 3x Appareils Photo Arri?re 12 M?gapixels - Appareil photo frontale 12 M?gapixels - Syst?me iOS 15 - 5G - Wifi - NFC - Bluetooth 5.0 - Wi-Fi 6 AX - Dimensions 146.7 x 71.5 x 7.65 mm - Garantie 1 an ",
@@ -2301,7 +2301,7 @@ export default
         "_id": {
           "$oid": "62ee7eb603b882b1bb81d379"
         },
-        "Name": "Apple - IPHONE 11 PRO MAX 64GO (MWHH2AA/A)",
+        "Name": "Apple - IPHONE 11 PRO MAX 64GO",
         "Reference": "IPHONE11PROMAX-64",
         "type": "/telephonie_internet/telephonie_mobile/iphone",
         "Specs": "Réf  MWHH2AA/A :Ecran  6,5\"   Super Retina XDR OLED  - Résolution: 1242 x 2688 pixels  - Processeur:  Apple A13  Bionic Hexa-core - Mémoire RAM:  4 Go  - Stockage : 64  Go  - Appareil photo Arriere:  Triple: 12 MégaPixel   + 12 MégaPixel +  12 MégaPixel  - Appareil Avant  12MégaPixel  - Batterie: lithium?ion - Enregistrement vidéo 4K  - Classé IP68  - Couleur: vert ",
@@ -2318,7 +2318,7 @@ export default
         "_id": {
           "$oid": "62ee7eb703b882b1bb81d37a"
         },
-        "Name": "Apple - TéLéPHONE PORTABLE IPHONE 12 / 256 GO",
+        "Name": "Apple - IPHONE 12 / 256 GO",
         "Reference": "iPhone12-256",
         "type": "/telephonie_internet/telephonie_mobile/iphone",
         "Specs": "Ecran 6.1\" OLED Super Retina XDR (2532 x 1170 px) - Processeur Apple A14 Bionic Hexa Core - Etanche IP68 - RAM 4 Go - Mémoire 256 Go - Système Apple iOS 14 - Appareil Photo: 2x 12 MP ( F/1.6 + F/2.4) (Arrière), 12 MP (Frontale) - 4G - Wi-Fi 6 AX - Bluetooth 5.0 - Batterie 2815 mAh ",
