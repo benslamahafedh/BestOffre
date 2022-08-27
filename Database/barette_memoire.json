@@ -1,0 +1,293 @@
+[{
+  "_id": {
+    "$oid": "62f034eb431fac0a49207a6e"
+  },
+  "Name": "ADATA - Barette Mémoire 2G DDR2 POUR PC BUREAU - AD2U800B2G6-R",
+  "Reference": "AD2U800B2G6-R",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Capacité RAM: 2 Go, Format de mémoire: DDR2 , Fréquence mémoire: PC2-6400-DDR2 800 MHz, Bande passante mémoire: PC2-6400 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1040_1.jpg",
+  "Offres": [
+    {
+      "Price": "63 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/400/Barrette-Mmoire-ADATA-2GB-DDR2-PC2-6400-800mHz"
+    },
+    {
+      "Price": "78 DT",
+      "Last-update": "07/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/memoire/4160-barrette-memoire-adata-2g-ddr2-pour-pc-de-bureau.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034ec431fac0a49207a6f"
+  },
+  "Name": "ADATA - Barette Mémoire 4Go DDR3 pour Pc Portable-Low Voltage - ADDS1600W4G11-R",
+  "Reference": "ADDS1600W4G11-R",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Barrette Mémoire ADATA - Capacité RAM: 4 Go , Format de mémoire: SODIMM, Fréquence mémoire: 1600 MHz , Norme mémoire: DDR3L, Bande passante mémoire: PC3L-12800 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1054_1.jpg",
+  "Offres": [
+    {
+      "Price": "98 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/639/Barette-Mmoire-ADATA-4Go-DDR3-pour-Pc-Portable-Low-Voltage"
+    },
+    {
+      "Price": "115 DT",
+      "Last-update": "07/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/memoire/5049-barrette-memoire-adata-4go-ddr3l-1600-adds1600w4g11-r.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034ed431fac0a49207a70"
+  },
+  "Name": "ADATA - Barette Mémoire 8GB DDR3 pour Ordinateur de bureau - AD3U1600W8G11-R",
+  "Reference": "AD3U1600W8G11-R",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Capacité RAM: 8 Go, Format de mémoire: DRAM , Fréquence mémoire: 1600 MHz, Norme mémoire: DDR3 SDRAM, Bande passante mémoire: PC3-12800 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1083_1.jpg",
+  "Offres": [
+    {
+      "Price": "175 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1202/Barrette-Mmoire-SAMSUNG-8GB-DDR3-1600MHz"
+    },
+    {
+      "Price": "175 DT",
+      "Last-update": "24/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/composants-pc-ordinateur/adata-ad3u1600w8g11-r-barrette-memoire-bureau-8go-ddr3-1600mhz-dimm-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034ee431fac0a49207a71"
+  },
+  "Name": "ADATA - Barette Mémoire 8Go DDR3L pour Pc Portable - ADDS1600W8G11-R",
+  "Reference": "ADDS1600W8G11-R",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Capacité RAM: 8 Go, Format de mémoire: SODIMM, Fréquence mémoire: 1600 MHz, Norme mémoire: DDR3L, Bande passante mémoire: PC 12800 (1600 MHz)  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1084_1.jpg",
+  "Offres": [
+    {
+      "Price": "155 DT",
+      "Last-update": "01/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/memoire/5048-barrette-memoire-adata-8go-ddr3l-1600-adds1600w8g11-r.html"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/397/Barrette-Mmoire-Adata-8-Go-DDR3-L3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034ef431fac0a49207a72"
+  },
+  "Name": "ADATA - Barrette mémoire 8go ddr3 low voltage pour pc de bureau - ADDU1600W8G11-R",
+  "Reference": "ADDU1600W8G11-R",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Capacité RAM: 8Go  Fréquence mémoire: 1600 MHz Norme mémoire: DDR3L  Tension: 1,35 V  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1522843486_929.jpg",
+  "Offres": [
+    {
+      "Price": "175 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1203/Barrette-Mmoire-SAMSUNG-8G-DDR3L-1600-PC12800-LOW-VOLTAGE"
+    },
+    {
+      "Price": "207 DT",
+      "Last-update": "08/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/memoire/4157-barrette-memoire-adata-8go-ddr3-low-voltage-pour-pc-de-bureau.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034f0431fac0a49207a73"
+  },
+  "Name": "ADATA - BARRETTE MéMOIRE 16GO DDR4 POUR ORDINATEUR DE BUREAU",
+  "Reference": "AD4U2400316G17-R",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Barrette Mémoire Pour Ordinateur de Bureau - Capacité: 16 Go  - Type de Mémoire: DDR4   - Fréquence de Mémoire: 2400MHz -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1536099566_443.jpg",
+  "Offres": [
+    {
+      "Price": "349 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1238/Barrette-Mmoire-ADATA-16G-DDR4-2400-MHZ-DIMM"
+    },
+    {
+      "Price": "565 DT",
+      "Last-update": "07/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/memoire/4156-barrette-memoire-adata-16go-ddr4-pour-ordinateur-de-bureau.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034f2431fac0a49207a74"
+  },
+  "Name": "ADATA - BARRETTE MéMOIRE 8GO DDR4 2400 MHZ POUR PC PORTABLE AD4S240038G17",
+  "Reference": "AD4S240038G17-R",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Barrette Mémoire ADATA Pour PC Portable - Capacité : 8Go - Type de mémoire: SO-DIMM - Type de bus: PC-19200 - Interface: 260-Pin - Taux de transfert des données: 2400 MHz - Facteur de forme: 1.18\" - Alimentation: 1.2V ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1539712215_500.jpg",
+  "Offres": [
+    {
+      "Price": "199 DT",
+      "Last-update": "01/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/895/Barrette-mmoire-ADATA-8GB-SODIMM-LAPTOP-DDR4-2400-12V"
+    },
+    {
+      "Price": "279 DT",
+      "Last-update": "07/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/memoire/4158-barrette-memoire-adata-8go-ddr4-2400-mhz-pour-pc-portable.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034f3431fac0a49207a75"
+  },
+  "Name": "ADATA - BARRETTE MéMOIRE 4GO DDR4 POUR PC DE BUREAU AD4U2400J4G17-R",
+  "Reference": "AD4U2400J4G17-R",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Barrette Mémoire ADATA Pour PC de Bureau - Capacité : 4 Go - Type de mémoire: SDRAM DDR4, U-DIMM 288 broches - Vitesse de Mémoire: 2400 MHz - Cadencement CL17 - Tension: 1.2V ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1540218381_507.jpg",
+  "Offres": [
+    {
+      "Price": "99 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/975/Barrette-Mmoire-Pour-PC-de-Bureau-ADATA-4Go-DDR4-2400-MHz"
+    },
+    {
+      "Price": "145 DT",
+      "Last-update": "07/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/memoire/5047-barrette-memoire-adata-4go-ddr4-2400-mhz-pour-pc-de-bureau.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034f3431fac0a49207a76"
+  },
+  "Name": "ADATA - BARRETTE MéMOIRE 8GO DDR4 2400 MHZ POUR PC DE BUREAU AD4U240038G17-R",
+  "Reference": "AD4U240038G17-R",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Barrette Mémoire ADATA Pour PC de Bureau - Capacité : 8 Go  - Type de mémoire:  SDRAM DDR4  - Conception / Connexion: DIMM /  broches 288 - Vitesse de Mémoire: 2400 MHz  - Minutages: latence CAS CL17 - Tension:  1.2V ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1540218555_372.jpg",
+  "Offres": [
+    {
+      "Price": "149 DT",
+      "Last-update": "08/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/974/Barrette-Mmoire-Pour-PC-de-Bureau-ADATA-8Go-DDR4-2400-MHz"
+    },
+    {
+      "Price": "280 DT",
+      "Last-update": "08/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/memoire/4159-barrette-memoire-adata-8go-ddr4-2400-mhz-pour-pc-de-bureau.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034f7431fac0a49207a77"
+  },
+  "Name": "ADATA - Barette Mémoire POUR PC BUREAU 2Go DDR3 - AD3U1600C2G11-R",
+  "Reference": "AD3U1600C2G11-R",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Type de produit: Mémoire RAM - Type de mémoire: DDR3 SDRAM - Vitesse de Mémoire: 1600 MHz - Bande passante mémoire : PC3-12800 - Capacité: 2 Go - Type de mise à niveau: Générique - Connecteurs compatibles: 1 x mémoire - SO DIMM 2 40 broches ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1024_1.jpg",
+  "Offres": [
+    {
+      "Price": "45 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/399/Barrette-Mmoire-ADATA-2G-DDR3-1600-DIMM"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034f8431fac0a49207a78"
+  },
+  "Name": "ADATA - Barette Mémoire 4Go DDR4 2133Mhz pour PC Portable - AD4S2133W4G15-R",
+  "Reference": "AD4S2133W4G15-R",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Barette Mémoire Adata pour PC Portable - Modéle: AD4S2133W4G15-R - Capacité de Mémoire: 4 Go - Type de mémoire: DDR4 - Fréquence Mémoire:  2133MHz - Format de Mémoire: SO-DIMM 260 pins - Voltage: 1.2V ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1063_1.jpg",
+  "Offres": [
+    {
+      "Price": "99 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/398/Barrette-Mmoire-Adata-4GB-DDR4-SO-DIMM"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034f9431fac0a49207a79"
+  },
+  "Name": "Team group - BARRETTE MéMOIRE 8GO DDR4 2400MHZ POUR PC PORTABLE",
+  "Reference": "TED48G2400C16-S01",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Barrette Mémoire Pour PC Portable - Capacité de Mémoire: 8 Go  - Type de mémoire: DDR4 - Fréquence Mémoire: 2400 MHz - Facteur de forme: SO-DIMM 260 broches - Normes de mémoire: PC4-19200 - Voltage: 1.2V ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1536099897_212.jpg",
+  "Offres": [
+    {
+      "Price": "139 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/916/Barrette-Mmoire-SODIMM-8-G-DDR4-2400-TEAM-GROUP"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034fb431fac0a49207a7a"
+  },
+  "Name": "SILICON POWER - BARRETTE MéMOIRE 8 GO DDR4 POUR PC PORTABLE SP008GBSFU240B02",
+  "Reference": "SP008GBSFU240B02",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Barrette Mémoire SILICON POWER - Utilisation type: PC Portable - Capacité de Mmoire: 8 Go  - Type de mémoire: DDR4 SDRAM - Facteur de forme: SODIMM - Vitesse: 2400 MHz  - Latence CAS: CL17 - Débit efficace: PC4-19200 - Tension: 1.2V  - Nombre de broches: 260 broches ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1540218446_686.jpg",
+  "Offres": [
+    {
+      "Price": "219 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/755/Module-mmoire-8GB-DDR4-SODIMM-SP-Silicon-Power"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034fb431fac0a49207a7b"
+  },
+  "Name": "ADATA - BARRETTE MéMOIRE 4GO DDR4 2400 MHZ POUR PC PORTABLE AD4S2400J4G17-R",
+  "Reference": "AD4S2400J4G17-R",
+  "type": "/informatique/composant/barette-memoire",
+  "Specs": "Barrette Mémoire ADATA Pour PC Portable - Capacité : 4Go - Type de mémoire: SODIMM - Type de bus: PC-19200 - Interface: 260-Pin - Taux de transfert des données: 2400 MHz - Facteur de forme: 1.18\" ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1540218542_711.jpg",
+  "Offres": [
+    {
+      "Price": "161 DT",
+      "Last-update": "08/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/memoire/4153-barrette-memoire-adata-4go-ddr4-2400-mhz-pour-pc-portable.html"
+    }
+  ]
+}]

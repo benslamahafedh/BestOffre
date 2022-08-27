@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "62f03546f14e91fbfed34058"
+  },
+  "Name": "COUGAR - BOîTIER PC GAMER CONQUER 15322",
+  "Reference": "15322",
+  "type": "/informatique/composant/boitier",
+  "Specs": "Boîtier PC Gamer COUGAR CONQUER - Format du boitier: Mid-Tower - Matériau châssis: Alliage d'aluminium - Format de carte mère: Mini ITX / MicroATX / ATX - Longeur de Carte graphique (max): 350 mm - Max. Refroidisseur CPU: 190 mm - Nombre d'emplacements 3.5\": 3 Max - Nombre d'emplacement 2.5\": 4 Max - Nombre de ventilateurs fournis: (Façade: 2 x 120 mm , Haut: 3 x 120 mm) - Ventilateur pré-installé: Ventilateur LED COUGAR CFD120 x 3 - Emplacements d'extension: 7 - Connecteurs: 2 x USB3.0 , 1 x Mic , 1 x Audio - Panneau latéral en verre trempé: épaisseur de 5 mm dans Les deux côtés  - Dimension: 255 x 580 x 685 mm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1537291407_958.jpg",
+  "Offres": [
+    {
+      "Price": "947 DT",
+      "Last-update": "17/11/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/boitiers-pc/11207-boitier-pc-cougar-conquer.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f03549f14e91fbfed34059"
+  },
+  "Name": "sharkoon - BOITIER REV100",
+  "Reference": "REV100",
+  "type": "/informatique/composant/boitier",
+  "Specs": "Facteur de forme : ATX Dimensions :  45.2 x 21,5 x 44.4 cm Ventilateur préinstallé : 1x ventilateurs  Avant  a 120 mm -    1x ventilateur  Arrière RVB  120 mm Poids : 5.8 kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1624271209_163.jpg",
+  "Offres": [
+    {
+      "Price": "239 DT",
+      "Last-update": "12/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/boitiers/boitier-sharkoon-rev100-36030.html"
+    }
+  ]
+}]

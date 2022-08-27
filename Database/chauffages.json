@@ -1,0 +1,2587 @@
+[{
+  "_id": {
+    "$oid": "62efe961e328576e4249aa5f"
+  },
+  "Name": "COALA - Chauffage a gaz BUTANE GIII",
+  "Reference": "COALA-G3",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage a gaz Coala GIII ? roulette de mouvement robustes- trois niveau de chauffages- équipé d?un diapositif de sécurité ?encombrement réduit- contrôle par analyseur d?atmosphère- idéal pour les pièces à vivre et les chambre- Puissance e KW: 1.35-2.75-4.1 - Type de gaz : consommation : 89.1g/h-200 g/h-298 g/h  - volume de chauffage en m3 :135 - pression de gaz 28 mbar- niveau de chauffage : 3 - Poids : 13.5kg- Dimension L*P*H : 75*42*34 cm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1049_1.jpg",
+  "Offres": [
+    {
+      "Price": "170 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/chauffage-a-gaz-bouteille-coala-giii-4100w-noir"
+    },
+    {
+      "Price": "175 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-a-gaz-coala-noir-coala-g3.html"
+    },
+    {
+      "Price": "175 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-a-gaz-broken-coala-beige-coala-g3.html"
+    },
+    {
+      "Price": "179 DT",
+      "Last-update": "27/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-a-gaz-bouteille-coala-giii-4100w-blanc.html"
+    },
+    {
+      "Price": "179 DT",
+      "Last-update": "27/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-a-gaz-coala-giii-chauffage.html"
+    },
+    {
+      "Price": "179 DT",
+      "Last-update": "08/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/chauffage-tunisie/28427-chauffage-a-gaz-coala-borken-giii.html"
+    },
+    {
+      "Price": "179 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/climatisation-chauffage/43234-chauffage-a-gaz-coala-borken-giii.html"
+    },
+    {
+      "Price": "179 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2171-radiateur-a-gaz-borken-coala-g-3-4100-w-noir-prix-tunisie.html"
+    },
+    {
+      "Price": "179 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/electromenager/12009-chauffage-a-gaz-coala-borken-giii.html"
+    },
+    {
+      "Price": "203 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/chauffage-a-gaz-bouteille-coala-giii-4100w-avec-thermostat-noir"
+    },
+    {
+      "Price": "205 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-a-gaz-coala-noir-giii-th.html"
+    },
+    {
+      "Price": "209 DT",
+      "Last-update": "20/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/coala-chauffage-gaz-giiit.html"
+    },
+    {
+      "Price": "209 DT",
+      "Last-update": "09/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/coala-giii-thermostat.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe962e328576e4249aa60"
+  },
+  "Name": "MIDEA - RADIATEUR BAIN D'HUILE 2000 WATTS",
+  "Reference": "NY2009-20M",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur bain d'huile 9 éléments - Puissance: 2000 Watts - Nombre d'allures de chauffe: 3 - Surface de chauffe maxi: 15 m² - Thermostat manuel - Protection contre surchauffe - Antigel - Système de protection d'arrêt immédiat en cas de renversement - Poignée de transport encastrée - Pieds avec 4 roues - Couleur: Blanc -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1607623106_962.jpg",
+  "Offres": [
+    {
+      "Price": "200 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/radiateur-bain-d-huile-midea-9-elements-2000w"
+    },
+    {
+      "Price": "225 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/radiateur-bain-d-huile-midea-9-elements-2000w.html"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "05/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/4179-radiateur-bain-dhuile-midea-9-elements-2000w-blanc.html"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "16/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/chauffage/radiateur-midea-9-elements-ny2009-20m-31891.html"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "03/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/radiateur-bain-d-huile-midea-9-elements-2000w-blanc.html"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "24/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/radiateur-bain-d-huile-midea-9-elements-2000w-prix-tunisie"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "15/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/chauffage-tunisie/44795-radiateur-bain-d-huile-midea-9-elements-2000w.html"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage/36249-radiateur-bain-d-huile-midea-2000-watts-ny2009-20m.html"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2284-radiateur-bain-de-huile-midea-9-element-2000w-prix-tunisie.html"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/climatisation-chauffage/6817-radiateur-bain-d-huile-midea-9-elements-2000w.html"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "05/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/midea-ny2009-20m.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe963e328576e4249aa61"
+  },
+  "Name": "MIDEA - RADIATEUR BAIN D'HUILE NY2513-20M 2500 WATTS",
+  "Reference": "NY2513-20M",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur bain d'huile 13 éléments - Puissance: 2500 Watts - Nombre d'allures de chauffe: 3 - Surface de chauffe maxi: 15 m² - Thermostat manuel - Protection contre surchauffe - Antigel - Système de protection d'arrêt immédiat en cas de renversement - Poignée de transport encastrée - Pieds avec 4 roues - Couleur: Blanc -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1607623121_645.jpg",
+  "Offres": [
+    {
+      "Price": "268 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/radiateur-bain-d-huile-midea-13-elements-2500w"
+    },
+    {
+      "Price": "279 DT",
+      "Last-update": "01/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/chauffage/radiateur-midea-13-elements-ny2513-20m-32481.html"
+    },
+    {
+      "Price": "279 DT",
+      "Last-update": "24/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/radiateur-bain-d-huile-midea-13-elements-2500w-prix-tunisie"
+    },
+    {
+      "Price": "279 DT",
+      "Last-update": "04/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/chauffage-tunisie/57597-radiateur-bain-d-huile-midea-13-elements-2500w.html"
+    },
+    {
+      "Price": "279 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2283-radiateur-bain-d-huile-midea-13-elements-2500w-prix-tunisie.html"
+    },
+    {
+      "Price": "279 DT",
+      "Last-update": "05/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/midea-ny2513-20m.html"
+    },
+    {
+      "Price": "285 DT",
+      "Last-update": "05/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/4180-radiateur-bain-dhuile-midea-13-elements-2500w-blanc.html"
+    },
+    {
+      "Price": "285 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/radiateur-bain-d-huile-midea-13-elements-2500w.html"
+    },
+    {
+      "Price": "289 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/climatisation-chauffage/6816-radiateur-bain-d-huile-midea-13-elements-2500w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe963e328576e4249aa62"
+  },
+  "Name": "DELONGHI - Chauffage à Gaz IR3020 4200W",
+  "Reference": "IR3020",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à gaz - Puissance : 4200 Watts - Thermostat réglable - 3 niveaux de chauffages -  Roulettes de mouvement robustes - Thermocouple de sécurité  - Idéal pour les chambres ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1495536421_989.jpg",
+  "Offres": [
+    {
+      "Price": "395 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-a-gaz-delonghi-4200-watt-ir3020.html"
+    },
+    {
+      "Price": "399 DT",
+      "Last-update": "15/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/chauffage-tunisie/52402-chauffage-a-gaz-delonghi-ir3020.html"
+    },
+    {
+      "Price": "402 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/chauffage-a-gaz-delonghi"
+    },
+    {
+      "Price": "409 DT",
+      "Last-update": "26/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/chauffage/chauffage-a-gaz-delonghi-ir3020-6874.html"
+    },
+    {
+      "Price": "409 DT",
+      "Last-update": "12/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-a-gaz-bouteille-delonghi-ir-3020-4200w.html"
+    },
+    {
+      "Price": "409 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2286-chauffage-a-gaz-bouteille-delonghi-ir-3020-prix-tunisie.html"
+    },
+    {
+      "Price": "419 DT",
+      "Last-update": "06/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/delonghi-ir-3020.html"
+    },
+    {
+      "Price": "429 DT",
+      "Last-update": "15/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/6913f-allani-ok.jpg",
+      "product-link": "https://allani.com.tn/chauffage-gaz-butane/1224-https-allanicomtn-55-chauffage-0701000.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe964e328576e4249aa63"
+  },
+  "Name": "COALA - Radiateur à bain d'Huile BH15 7E",
+  "Reference": "BH15N",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur à bain d'Huile BH15  Coala- puissance1500W- 7 éléments radiants- Fréquence: 50 Hz-3 niveau de chauffages- Poids 9.2 kg ? dimensions : 39.5x17.5x68.5 cm- chaleur douce et homogène- économique- Thermostat de contrôle réglable- Protection contre la sur chauffe- Roulette de mouvement robustes ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1515113185_778.jpg",
+  "Offres": [
+    {
+      "Price": "129 DT",
+      "Last-update": "08/02/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/chauffage/radiateur-à-bain-d-huile-1500w-normal-coala-6726.html"
+    },
+    {
+      "Price": "174 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/radiateur-bain-d-huile-coala-7-elements-1500w"
+    },
+    {
+      "Price": "179 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/climatisation-chauffage/5063-radiateur-bain-d-huile-coala-bh15-7-elements-1500w.html"
+    },
+    {
+      "Price": "185 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/climatisation-chauffage/43015-radiateur-bain-d-huile-coala-7-elements-1500-w-blanc.html"
+    },
+    {
+      "Price": "185 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/radiateur-bain-d-huile-coala-7-elements-1500-watts-blanc-bh15n.html"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "14/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/radiateur-bain-d-huile-coala-bh15-7-elements-1500w-blanc.html"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "13/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/chauffage-tunisie/28422-radiateur-bain-d-huile-coala-7-elements-1500w.html"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2182-radiateur-a-bain-d-huile-coala-bh15-1500w-prix-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe964e328576e4249aa64"
+  },
+  "Name": "BIOLUX - CHAUFFAGE TRIO 45 4500W A GAZ BUTANE",
+  "Reference": "TRIO45",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Puissance maximale :4500W -  Type de gaz : LPG -  Pression de gaz fonctionnaient : 2.8kpa -  Peinture électrostatique -  trois brûleurs céramique pour une distribution rapide de la chaleur -  Trio-système : -système thermo-couple  - système désodorisant  - système anti-flammes -  Poids : 10kg/9kg -  Dimension L*P*H : 42*37*74.5 cm - ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1523945650_970.jpg",
+  "Offres": [
+    {
+      "Price": "175 DT",
+      "Last-update": "11/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/931f0-directelectro-ok.jpg",
+      "product-link": "https://directelectro.tn/chauffage-gaz-butane/1722-https-wwwdirectelectrotn-19-climatisation-et-chauffage-0755004.html"
+    },
+    {
+      "Price": "179 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/prix-chauffage-biolux-trio-45-noir-tunisie.html"
+    },
+    {
+      "Price": "185 DT",
+      "Last-update": "27/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-a-gaz-biolux-trio-45n-4500-w-noir.html"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "11/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/chauffage-biolux-trio-45-noir-"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/climatisation-chauffage/44351-chauffage-a-gaz-biolux-4500-w-noir-trio-45n.html"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "10/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/biolux-trio-45n.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "03/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/chauffage-a-gaz-biolux-trio-45s-silver"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe965e328576e4249aa65"
+  },
+  "Name": "CONDOR - CHAUFFAGE à GAZ CRG10 000 W",
+  "Reference": "CRG10000W",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à gaz de ville, Thermocouple, 10.000w, Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1524651554_587.jpg",
+  "Offres": [
+    {
+      "Price": "445 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/454-radiateur-a-gaz-condor-10-000-w.html"
+    },
+    {
+      "Price": "575 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/radiateur-a-gaz-naturel-condor-10kw-noir-crg1000.html"
+    },
+    {
+      "Price": "575 DT",
+      "Last-update": "10/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/condor-crg10-000-w.html"
+    },
+    {
+      "Price": "575 DT",
+      "Last-update": "13/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/6913f-allani-ok.jpg",
+      "product-link": "https://allani.com.tn/chauffage-gaz-naturel/1925-condor-radiateur-a-gaz-capsule-condor-10000-kw-0709002.html"
+    },
+    {
+      "Price": "575 DT",
+      "Last-update": "13/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/931f0-directelectro-ok.jpg",
+      "product-link": "https://directelectro.tn/chauffage-gaz-naturel/3160-radiateur-condor-a-gaz-capsule-10000w-noir-0709002.html"
+    },
+    {
+      "Price": "579 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/radiateur-a-bain-d-huile/45036-radiateur-a-gaz-naturel-condor-10kw-crg-cp1000g.html"
+    },
+    {
+      "Price": "579 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2262-radiateur-a-gaz-capsule-condor-10000kw-prix-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe965e328576e4249aa66"
+  },
+  "Name": "NewStar - CHAUFFAGE à GAZ BUTANE BB52 4200W - NOIR",
+  "Reference": "BB52",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à Gaz NEWSTAR - Puissance: 4200W - Type de gaz: Butane - Niveau de Chaleur: 2 Niveaux  - Consommation économique - Allumage et contrôle automatique de la chaleur - Peinture électrostatique - Distribution rapide de la chaleur - Grille de protection - Design élégant - une mobilité Optimale - Système de contrôle de l?oxygène - Dispositif de Sécurité: Flamme-Échec - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1543309332_783.jpg",
+  "Offres": [
+    {
+      "Price": "187 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/chauffage-a-gaz-butane-newstar-bb52-4200w-noir"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "05/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/new-star-bb52.html"
+    },
+    {
+      "Price": "197 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/prix-chauffage-a-gaz-butane-newstar-4200w-noir-tunisie.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "18/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/2394-chauffage-a-gaz-butane-newstar-4200w-noir-bb52.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "06/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-a-gaz-butane-newstar-bb52-4200w-noir.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "08/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/chauffage-a-gaz-butane-newstar-4200w-noir-bb52-prix-tunisie"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/electromenager-tunisie/23183-chauffage-a-gaz-butane-newstar-4200w-noir-bb52.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe966e328576e4249aa67"
+  },
+  "Name": "COALA - Radiateur à bain d'Huile COALA BH20 9 Elements",
+  "Reference": "BH20N",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur à bain d?Huile COALA BH20  avec Roulettes de mouvement - Puissance: 2000W  - 9 éléments radiants - Fréquence: 50 Hz - 3 niveaux de chauffages Réglable - économique - Thermostat de contrôle réglable- Protection contre la sur chauffe - Poids 12 kg ? Dimensions : 47.5 x 17.5 x 68.5 cm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1515113246_573.jpg",
+  "Offres": [
+    {
+      "Price": "145 DT",
+      "Last-update": "08/02/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/chauffage/radiateur-à-bain-d-huile-2000-w-normal-coala-6728.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/radiateur-bain-d-huile-coala-9-elements-2000w"
+    },
+    {
+      "Price": "209 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/radiateur-bain-d-huile-coala-9-elements-2000-watts-blanc-bh20n.html"
+    },
+    {
+      "Price": "215 DT",
+      "Last-update": "13/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/chauffage-tunisie/28423-radiateur-bain-d-huile-coala-9-elements-2000w.html"
+    },
+    {
+      "Price": "215 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/radiateur-a-bain-d-huile/43009-radiateur-bain-d-huile-coala-9-elements-2000w.html"
+    },
+    {
+      "Price": "219 DT",
+      "Last-update": "07/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/radiateur-bain-d-huile-coala-bh20n-9-elements-2000w-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe967e328576e4249aa68"
+  },
+  "Name": "Luxell - Chauffage Electrique KS 2710 2800W",
+  "Reference": "KS-2710",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage electrique ks 2710 - Puissance: 2800 W - 5 tubes quartz : 3 front+ 2top - Nombre de tubes: 3 avant et 2 haut - Interrupteur de sécurité - Protection contre la surchauffe - Thermostat réglable - Roues mobiles dans toutes les directions pour un mouvement facile - Dimensions: 23 x 79 x 61cm - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1515113388_807.jpg",
+  "Offres": [
+    {
+      "Price": "157 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-electrique-luxell-ks-2710-2800-w-noir.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "05/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/4176-chauffage-electrique-luxell-2800w-noir-tunisie.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "27/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-electrique-kumtel-ks2710-2800w-noir.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "11/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/luxell-ks2710-1.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "11/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/931f0-directelectro-ok.jpg",
+      "product-link": "https://directelectro.tn/chauffage-electrique/2060-https-wwwdirectelectrotn-19-climatisation-et-chauffage-0715017.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "11/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/6913f-allani-ok.jpg",
+      "product-link": "https://allani.com.tn/chauffage-électrique/1223-https-allanicomtn-55-chauffage-0715017.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe967e328576e4249aa69"
+  },
+  "Name": "ORIENT - CHAUFFAGE éLECTRIQUE OCE-1750 - BLANC",
+  "Reference": "OCE-1750",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage électrique ORIENT - Puissance: 2000 Watts - Fonction 2 en 1 : Chauffage et Ventilation - 2 Niveaux de Chauffage réglables: 1000 / 2000W - Thermostat réglable - Mobilité assurée par une poignée intégrée - Témoin Lumineux de Fonctionnement - Surface traitée jusqu?à 25 m² Sécurité - Protection Anti-surchauffe Consommation - Alimentation: 220V-50Hz - Couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1607623173_613.jpg",
+  "Offres": [
+    {
+      "Price": "39 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/chauffage-electrique-orient-"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "01/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/chauffage-electrique-orient-oce-1750-blanc-prix-tunisie"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-electrique-orient-2000watt-blanc-oce-1750.html"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "16/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-electrique-orient-oce-1750-blanc.html"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "06/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/chauffage-tunisie/45550-ventilateur-electrique-orient-oce-1750-2000w.html"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2160-chauffage-electrique-orient-oce-1750-blanc-prix-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe968e328576e4249aa6a"
+  },
+  "Name": "COALA - Radiateur Halogènes H2 800W",
+  "Reference": "H2",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Halogènes H2 légers et pratiques- sécurité d?utilisation- idéal pour les bureaux et les chambres- économiques- alimentation (V/Hz): 220-230/50- Puissance : 800W- Nombre de bougie : 2 - commande manuel - dimension 31x14x38 cm-poids : 1.3kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1034_1.jpg",
+  "Offres": [
+    {
+      "Price": "27 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-maison/3240-radiateur-halogene-h2-coala.html"
+    },
+    {
+      "Price": "28 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-electrique/43240-radiateur-halogene-coala-h2-1200w.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "12/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/chauffage-electrique-halogene-coala-h2-800w-"
+    },
+    {
+      "Price": "37 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/climatisation-chauffage/5058-radiateur-electrique-halogenes-coala-h2-800w.html"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "10/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4dfc6-savanna.jpg",
+      "product-link": "https://www.savanna.tn/chauffage/55997-radiateur-halogène-coala-h2-avec-commande-1200w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe968e328576e4249aa6b"
+  },
+  "Name": "NewStar - CHAUFFAGE à GAZ BUTANE BB72 4200W - BLEU",
+  "Reference": "BB72",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à Gaz NEWSTAR - Puissance: 4200W - Type de gaz: Butane  - Consommation économique - Allumage et contrôle automatique de la chaleur - Peinture électrostatique - Distribution rapide de la chaleur - Grille de protection - Design élégant - une mobilité Optimale - Système de contrôle de l?oxygène - Dispositif de Sécurité: Flamme-Échec - Couleur: Bleu ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1543309363_568.jpg",
+  "Offres": [
+    {
+      "Price": "241 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/chauffage-a-gaz-butane-newstar-bb72-4200w-bleu"
+    },
+    {
+      "Price": "255 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-a-gaz-butane-newstar-4200w-bleu-bb72.html"
+    },
+    {
+      "Price": "259 DT",
+      "Last-update": "05/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/4252-chauffage-a-gaz-butane-newstar-4200w-bleu-et-gris.html"
+    },
+    {
+      "Price": "259 DT",
+      "Last-update": "08/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/chauffage-a-gaz-butane-newstar-4200w-bb72-prix-tunisie"
+    },
+    {
+      "Price": "259 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/climatisation-chauffage/44072-chauffage-a-gaz-butane-newstar-4200w-bb72.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe969e328576e4249aa6c"
+  },
+  "Name": "COALA - CHAUFFAGE DE TERRASSE PYRAMIDE EN ACIER INOXYDABLE",
+  "Reference": "RCT-PYRAMIDE",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage de terrasse COALA 2en1 alliant éclairage et chauffage - Format pyramide ultra puissant - Fonctionne avec flamme réelle - Capacité: 150 m² - Puissance de flamme réglable - Gaz GPL  - Thermocouple - Grille de protection en acier - Sangle de maintien de la bouteille  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1607616499_268.jpg",
+  "Offres": [
+    {
+      "Price": "899 DT",
+      "Last-update": "23/12/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/coala-rct-pyramide.html"
+    },
+    {
+      "Price": "989 DT",
+      "Last-update": "24/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/chauffage-tunisie/46056-chauffage-de-terrasse-pyramide-coala.html"
+    },
+    {
+      "Price": "999 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage/43006-chauffage-de-terrasse-coala-pyramide-noir.html"
+    },
+    {
+      "Price": "1069 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-de-terrasse-coala-pyramide-acier-inoxydable-rctpyramide.html"
+    },
+    {
+      "Price": "1079 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/chauffage-de-terrasse-coala-pyramide-en-acier-inoxydable-noir"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe969e328576e4249aa6d"
+  },
+  "Name": "COALA - Radiateur Ceramique Soufflant -RS-1500W-PTC",
+  "Reference": "RS-1500W-PTC",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur céramiques - Économiques, Légères et Pratiques - Autorégulation de la température, grâce à la résistance intelligente PTC - Sécurité d'utilisation - Plaques céramiques conférant à l'appareil une inertie thermique permettant un passage doux de la chaleur au froid - Idéal pour les bureaux et les chambres.  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1042_1.jpg",
+  "Offres": [
+    {
+      "Price": "70 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/chauffage-soufflant-coala-1500w"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-electrique/45177-chauffage-soufflant-mobile-coala-1500w-rs-1500w-ptc.html"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-soufflant-coala-1500-watts-blanc-rs-1500w-ptc.html"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "16/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/coala-radiateur-ceramique-soufflant-rs-1500w-ptc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe96ae328576e4249aa6e"
+  },
+  "Name": "COALA - Chauffage a gaz GII",
+  "Reference": "GII",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage a gaz Coala GII ? roulette de mouvement robustes- deux niveau de chauffages- équipé d?un diapositif de sécurité ?encombrement réduit- contrôle par analyseur d?atmosphère- idéal pourles pièces à vivre et les chambre- Puissance e KW: 1.5-3 - Type de gaz : consommation : 109g/h-218 g/h  - volume de chauffage en m3 : 50-100- pression de gaz 28 mbar- niveau de chauffage : 2 - Poids : 12.5kg- Dimension L*P*H : 75*42*34 cm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1047_1.jpg",
+  "Offres": [
+    {
+      "Price": "139 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2172-radiateur-a-gaz-champion-coala-g-2-noir-prix-tunisie.html"
+    },
+    {
+      "Price": "145 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-a-gaz-coala-champion-g2.html"
+    },
+    {
+      "Price": "149 DT",
+      "Last-update": "20/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-a-gaz-coala-gii-chauffage.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-a-gaz/13501-chauffage-a-gaz-coala-gii.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe96be328576e4249aa6f"
+  },
+  "Name": "BIOLUX - RADIATEUR BAIN D'HUILE RB2002 9 éléments 2000W",
+  "Reference": "RB2002",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Biolux 9 éléments  BH-9E - puissances de chauffe:2000W- Thermostat réglable- Protectio de surchauffe- Interupteur avec indicateur lumineux- Roulette souple pour mouvement facile- Cache cable- Dimension L*P*H (cm) : 44*16*64.5 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1531820775_747.jpg",
+  "Offres": [
+    {
+      "Price": "189 DT",
+      "Last-update": "12/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/radiateur-bain-d-huile-biolux-rb2002-9-elements-2000w-blanc.html"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "14/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/radiateur-bain-huile-biolux-9-elements-2000w"
+    },
+    {
+      "Price": "195 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/climatisation-chauffage/44346-radiateur-bain-d-huile-biolux-9-elements-2000w-blanc-rb2002.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "21/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/biolux-rb2002.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe96be328576e4249aa70"
+  },
+  "Name": "BIOLUX - CHAUFFAGE ELECTRIQUE KUMTEL KS-2760 2200W",
+  "Reference": "KS-2760",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Biolux Kumtel chauffage électrique halogéné KS2760-Puissance: 2200W- Nombre de tubes: 4 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1543314354_149.jpg",
+  "Offres": [
+    {
+      "Price": "72 DT",
+      "Last-update": "02/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/4174-chauffage-halogene-biolux-2200w-noir.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-electrique-biolux-ks-2760-2200w-noir-ks-2760.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "15/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/vermax-ks-2760.html"
+    },
+    {
+      "Price": "95 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-electrique/44325-chauffage-electrique-biolux-2200-w-ks-2760.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe96ce328576e4249aa71"
+  },
+  "Name": "COALA - CHAUFFAGE BAIN D'HUILE BH25N 11 éléments 2400W",
+  "Reference": "BH25N-11",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Bain d'huile COALA BH25N   - Radiateur à 11 éléments - Technologie bain d'huile: chaleur douce et homogène - Silencieux et sans odeur - Thermostat mécanique  - Facilité de déplacements grâce à ses roulettes - Poignée intégrée et range cordon - Système de sécurité : coupure automatique en cas de surchauffe - Puissance (W) 2400 - Fréquence (Hz) 50  - Niveau de chauffages 3  - Poids (Kg) 13,9  - Dimensions (mm) 555*175*685 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1549377905_562.jpg",
+  "Offres": [
+    {
+      "Price": "219 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/radiateur-bain-d-huile-coala-11-elements-2500w"
+    },
+    {
+      "Price": "239 DT",
+      "Last-update": "13/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/chauffage-tunisie/28424-radiateur-bain-d-huile-coala-11-elements-2500w.html"
+    },
+    {
+      "Price": "239 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/radiateur-a-bain-d-huile/43937-radiateur-bain-d-huile-coala-11-elements-2500w-blanc-bh25n.html"
+    },
+    {
+      "Price": "239 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/radiateur-bain-d-huile-coala-11-elements-2500-watt-blanc-bh25n.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe96ce328576e4249aa72"
+  },
+  "Name": "BIOLUX - RADIATEUR à BAIN D'HUILE 7 éLéMENTS M.RB-1502 /1500W",
+  "Reference": "M.RB1502",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "? 3 puissances de chauffe: 600W/900w/1500W\n? Thermostat réglable\n? Protectio de surchauffe\n? Interupteur avec indicateur lumineux\n? Roulette souple pour mouvement facile\n? Cache cable\n? Dimension L*P*H (cm) : 37.5*16*64.5 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1576015407_868.jpg",
+  "Offres": [
+    {
+      "Price": "159 DT",
+      "Last-update": "06/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/radiateur-bain-d-huile-biolux-rb-1502-7-elements-1500w-blanc.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "14/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/radiateur-bain-huile-biolux-7-elements-1500w"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/climatisation-chauffage/44355-radiateur-bain-d-huile-biolux-7-elements-1500w-blanc-rb-1502.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/radiateur-bain-d-huile-biolux-7-elements-1500-watts-blanc-rb1502.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe96de328576e4249aa73"
+  },
+  "Name": "COALA - CHAUFFAGE DE TERRASSE PARASOL EN ACIER INOXYDABLE",
+  "Reference": "RCT-PARASOL",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage de terrasse COALA 2en1 alliant éclairage et chauffage / Format Parasol ultra puissant / Fonctionne avec flamme réelle / Puissance de flamme réglable / Gaz GPL / Thermocouple / Grille de protection en acier / ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1607616534_294.jpg",
+  "Offres": [
+    {
+      "Price": "599 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage/44891-chauffage-de-terrasse-coala-parasol-en-acier-inoxydable-noir.html"
+    },
+    {
+      "Price": "599 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-de-terrasse-coala-parasol-acier-inoxydable-rctparasol.html"
+    },
+    {
+      "Price": "605 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/electromenager/7038-chauffage-de-terrasse-coala-parasol-en-acier-inoxydable.html"
+    },
+    {
+      "Price": "609 DT",
+      "Last-update": "06/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-de-terrasse-coala-parasol-en-acier-inoxydable-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe96de328576e4249aa74"
+  },
+  "Name": "NewStar - RADIATEUR BAIN D'HUILE 2500 W 11 ÉLéMENTS",
+  "Reference": "RAD11EL",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "11 éléments Puissance : 2500 Watts Nombre d'allures de chauffe : 3 Thermostat manuel Protection contre surchauffe Antigel Système de protection d'arrêt immédiat en cas de renversement Roulettes et poignée pour un déplacement facile Rangement de câble  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1622124596_481.jpg",
+  "Offres": [
+    {
+      "Price": "179 DT",
+      "Last-update": "21/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/2389-radiateur-bain-dhuile-newstar-2500-w-11-elements.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/radiateur-a-bain-d-huile/37553-radiateur-bain-d-huile-new-star-rad11el.html"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/radiateur-a-bain-d-huile-newstar-11-elements-2500-watts-blanc-rad11el.html"
+    },
+    {
+      "Price": "279 DT",
+      "Last-update": "26/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/radiateur-bain-d-huile-newstar-avec-ventilo-11-elements-2500-watts-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe96ee328576e4249aa75"
+  },
+  "Name": "COALA - CHAUFFAGE à GAZ NATUREL GN 4500W NOIR",
+  "Reference": "GN",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à Gaz Naturel Coala GN - Puissance: 1500 Watts (min) / 3000 Watts (Moy) / 4500 Watts ( Max) - Niveau de chauffage: 3 Niveaux - Consommantion de Gaz: 109 g/h (Min) / 2.8 g/h (Moy) / 3.7 g/h (Max) - Volume de chauffe: 50 m3 (Min) / 100 m3 (Moy) / 150 m3 (Max) - Type d'allumage: Piézo-électrique - Contrôle par analyseur d'atmosphère - Encombremenr minimal - Installation murale - Entrée de sécurité par filetage - Dimensions: 520 x 440 x 130 mm - Poids 8.5 Kg - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1631547327_743.jpeg?v2",
+  "Offres": [
+    {
+      "Price": "156 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/chauffage-a-gaz-naturel-coala-gn-4500w-noir-GN"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2175-radiateur-a-gaz-naturel-infra-rouge-coala-gn-4500-w-noir-prix-tunisie.html"
+    },
+    {
+      "Price": "165 DT",
+      "Last-update": "13/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/electromenager/13376-chauffage-a-gaz-naturel-coala-gn-4500-w.html"
+    },
+    {
+      "Price": "165 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-a-gaz-naturel-coala-4500w-noir-mural-gn.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe96ee328576e4249aa76"
+  },
+  "Name": "COALA - Radiateur électrique Q2 1400W",
+  "Reference": "RAD-Q2",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Eelctrique COALA Q2 Alimentation (v/Hz)220-230/50 - Courant absorbé 6- Puissance (w) 1400 Nombre de Tube 2- Type de Tube quartz -Cordon d'alimentation HH05VV3*0.75 Dimension (LXLH) 300*200*170 -Poid (Kg) 3 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1035_1.jpg",
+  "Offres": [
+    {
+      "Price": "32 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2209-chauffage-eelctrique-coala-q2-1400w-noir-prix-tunisie.html"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "31/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/radiateur-eelctrique-coala-q2.html"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-electrique/43020-chauffage-electrique-coala-q2-1400w-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe96fe328576e4249aa77"
+  },
+  "Name": "COALA - Radiateur Soufflant 2000W Infra-Rouge",
+  "Reference": "RS2000W-IR",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Soufflant  COALA  2000W Infra-Rouge : Robuste, légére et pratiqque- Sécurité dutilisation - Autorégation de la température grace à la résistance intelligente PTC - Economie d'energie grace à l'autovariation de la puissance - idéal pour les bureaux et les cambre robuste, légère et pratique ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1515113559_503.jpg",
+  "Offres": [
+    {
+      "Price": "43 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/radiateur-soufflant-coala-rs2000w-ir-2000w-blanc.html"
+    },
+    {
+      "Price": "44 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/ventilateur-soufflant-coala-2000w"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "19/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/chauffage/radiateur-soufflant-coala-2000w-infra-rouge-6738.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe96fe328576e4249aa78"
+  },
+  "Name": "DELONGHI - Radiateur Bain d'huile TRRS0715 7 Éléments 1500W",
+  "Reference": "TRRS0715",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Bain d'huile 7 Éléments - Puissance: 1500 W - 3 Puissances de chauffe: 700/800/1500 W - Pour pièce jusqu'à 45 m³ - Interrupteur avec voyant lumineux - Thermostat d'ambiance - Thermostat de sécurité - Poignée et roulettes pour un déplacement facile - Rangement du cordon - Tension nominale / fréquence: 230V ~ 50Hz - Dimensions: 16 x 39.2 x 65 cm - Couleur Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1515777744_944.jpg",
+  "Offres": [
+    {
+      "Price": "289 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/1932-radiateur-bain-d-huile-delonghi-trrs0715-tunisie.html"
+    },
+    {
+      "Price": "299 DT",
+      "Last-update": "16/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/4181-radiateur-bain-dhuile-delonghi-7-elements-1500w-blanc.html"
+    },
+    {
+      "Price": "299 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/radiateur-bain-d-huile-delonghi-7-elements-1500w"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe970e328576e4249aa79"
+  },
+  "Name": "BIOLUX - Radiateur à Gaz et Electrique TRIO SAXO65",
+  "Reference": "SAXO65",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur à Gaz et Electrique Biolux SAXO 65N\n Gaz et Electrique Noir 4500 watts système thermo-couple  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1523945649_509.jpg",
+  "Offres": [
+    {
+      "Price": "209 DT",
+      "Last-update": "08/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/chauffage-a-gaz-biolux-saxo65-noir"
+    },
+    {
+      "Price": "215 DT",
+      "Last-update": "03/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/chauffage-a-gaz-biolux-saxo65-silver-tunisie"
+    },
+    {
+      "Price": "219 DT",
+      "Last-update": "07/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-a-gaz-et-electrique-biolux-trio-65s-4500w-silver.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe970e328576e4249aa7a"
+  },
+  "Name": "BIOLUX - Radiateur à Gaz et Electrique TRIO 65",
+  "Reference": "TRIO65",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur à Gaz et Electrique  Biolux  65N Gaz et Electrique couleur:Noir Puissance: 4500 watts système thermo-couple ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1542104399_509.jpg",
+  "Offres": [
+    {
+      "Price": "209 DT",
+      "Last-update": "31/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-a-gaz-et-electrique-biolux-trio-65n-4500w-noir.html"
+    },
+    {
+      "Price": "209 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-a-gaz-et-electrique-biolux-4500w-noir-trio-65n.html"
+    },
+    {
+      "Price": "219 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/climatisation-chauffage/44353-chauffage-a-gaz-et-electrique-biolux-4500-w-silver-trio-65s.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe971e328576e4249aa7b"
+  },
+  "Name": "COALA - CONVECTEUR ÉLECTRIQUE MURAL 2000W CM2000",
+  "Reference": "CM2000",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Convecteur Électrique Mural COALA - Puissance : 2000 Watts - Thermostat pour ajuster la température voulue - 2 Niveaux de Chaleur (800W/1200W ) - Alimentation: 220VAC / 50Hz - Dimensions:  60.5 x 14.8 x 43.2 cm - Poids : 3.3 Kg  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1542123628_653.jpg",
+  "Offres": [
+    {
+      "Price": "96 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/convecteur-electrique-murale-coala-2000w"
+    },
+    {
+      "Price": "102 DT",
+      "Last-update": "01/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/chauffage/chauffage-electrique-mural-coala-2000w-32958.html"
+    },
+    {
+      "Price": "105 DT",
+      "Last-update": "27/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/convecteur-mural-coala-electrique-2000w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe971e328576e4249aa7c"
+  },
+  "Name": "BIOLUX - CHAUFFAGE ELECTRIQUE M.LX2820",
+  "Reference": "M.LX2820",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "? 3 tubes de quartz\n? Interrupteur de sécurité\n? Fonctionne sur 3 niveaux de puissance différents\n 1500W\nIntérrupteur de sécurité \nRéssitance Elliptique  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1576015110_106.jpg",
+  "Offres": [
+    {
+      "Price": "49 DT",
+      "Last-update": "16/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-electrique-biolux-lx-2820-1800w-noir.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-electrique/44327-chauffage-electrique-biolux-1800w-lx-2820.html"
+    },
+    {
+      "Price": "55 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-electrique-biolux-1800w-noir-lx-2820.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe972e328576e4249aa7d"
+  },
+  "Name": "BIOLUX - RADIATEUR BAIN D'HUILE RB2502 11 éLéMENTS 2500W",
+  "Reference": "M.RB2502",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Réf RB2502 Radiateur Biolux 11 éléments BH-11E? puissances de chauffe: 2500W- Thermostat réglable- Protection de surchauffe- Interupteur avec indicateur lumineux- Roulette souple pour mouvement facile- Cache cable- Dimension L*P*H (cm) : 52*16*64.5 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1576015530_250.jpg",
+  "Offres": [
+    {
+      "Price": "205 DT",
+      "Last-update": "11/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/6913f-allani-ok.jpg",
+      "product-link": "https://allani.com.tn/radiateur-bain-d-huile/1255-https-allanicomtn-55-chauffage-0755003.html"
+    },
+    {
+      "Price": "219 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/climatisation-chauffage/44350-radiateur-bain-d-huile-biolux-11-elements-2500w-blanc-rb2502.html"
+    },
+    {
+      "Price": "219 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/radiateur-bain-huile-biolux-11-elements-2500-watt-blanc-rb2502.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe973e328576e4249aa7e"
+  },
+  "Name": "BIOLUX - CHAUFFAGE ELECTRIQUE M.KS2700 2000W",
+  "Reference": "M.KS2700",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "? Puissance : 2000 W\n? Fonctionne sur 3 niveaux de puissance différents\n? 3 tubes de quartz\n? Interrupteur de sécurité\n? Thermostat réglable ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1576015651_913.jpg",
+  "Offres": [
+    {
+      "Price": "99 DT",
+      "Last-update": "13/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/chauffage-tunisie/53621-radiateur-electrique-biolux-ks2700-2000-w.html"
+    },
+    {
+      "Price": "109 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-electrique/44328-chauffage-electrique-biolux-2000-w-ks-2700.html"
+    },
+    {
+      "Price": "110 DT",
+      "Last-update": "27/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-electrique-biolux-ks-2700-2000w-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe973e328576e4249aa7f"
+  },
+  "Name": "GOLD - CHAUFFAGE à GAZ OM-HE01 4200 W - NOIR",
+  "Reference": "OM-HE01",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à Gaz GOLD - Niveau de chauffage: 3 Niveaux - Type de gaz: LPG - Puissance: 4200 Watts - Roulettes de mouvement robustes - Thermocouple de sécurité - Thermostat réglable - Dimension: 455 x 405 x 755 mm - Poids: 8 Kg - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1607623489_486.jpg",
+  "Offres": [
+    {
+      "Price": "155 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-a-gaz-general-gold-noir-om-he01.html"
+    },
+    {
+      "Price": "209 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-a-gaz/16900-chauffage-a-gaz-gold-4200-w-noir-om-he01-.html"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "07/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-a-gaz-gold-om-he01-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe974e328576e4249aa80"
+  },
+  "Name": "NewStar - CHAUFFAGE ÉLECTRIQUE 3001 1600W ",
+  "Reference": "3001",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Électrique NEWSTAR - Puissance: 1600 Watts - Nombre de tubes: 3 Faible consommation d'énergie - Peut chauffer une superficie d'environ 20 mètres carrés très confortablement  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1657755042_774.jpg",
+  "Offres": [
+    {
+      "Price": "89 DT",
+      "Last-update": "14/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/4439-chauffage-electrique-newstar-1650w.html"
+    },
+    {
+      "Price": "89 DT",
+      "Last-update": "09/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-electrique-newstar-3001-1600w-blanc.html"
+    },
+    {
+      "Price": "89 DT",
+      "Last-update": "25/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/chauffage-electrique-newstar-3001-1600w-blanc"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe974e328576e4249aa81"
+  },
+  "Name": "NewStar - CHAUFFAGE ÉLECTRIQUE 3007 2200W ",
+  "Reference": "3007",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Électrique NEWSTAR - Puissance: 2200 Watts - Nombre de tubes: 5  Faible consommation d'énergie - Peut chauffer une superficie d'environ 35 mètres carrés très confortablement  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1657755200_640.jpg",
+  "Offres": [
+    {
+      "Price": "119 DT",
+      "Last-update": "14/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/4423-chauffage-electrique-newstar-2200w.html"
+    },
+    {
+      "Price": "119 DT",
+      "Last-update": "27/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-electrique-newstar-3007-2200w-rouge.html"
+    },
+    {
+      "Price": "119 DT",
+      "Last-update": "25/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/chauffage-electrique-newstar-3007-2200w-rouge"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe975e328576e4249aa82"
+  },
+  "Name": "COALA - Radiateur électrique Q3 2100W",
+  "Reference": "RAD-Q3",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Eelctrique COALA Q3 Alimentation (v/Hz)220-230/50 - Courant absorbé 9- Puissance (w) 2100 Nombre de Tube 3- Type de Tube quartz -Cordon d'alimentation HH05VV3*1 Dimension (LXLH) 300*200*170 -Poid (Kg) 2 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1036_1.jpg",
+  "Offres": [
+    {
+      "Price": "33 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2210-chauffage-eelctrique-coala-q3-2100w-noir-pix-tunisie.html"
+    },
+    {
+      "Price": "45 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-electrique/43023-chauffage-electrique-coala-q3-2100w-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe975e328576e4249aa83"
+  },
+  "Name": "COALA - Radiateur Eelctrique R3",
+  "Reference": "RAD-R3",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Eelctrique COALA R3 Alimentation (v/Hz)220-230/50 - Courant absorbé 9- Puissance (w) 2100 Nombre de Tube 3- Type de Tube Céramique -Cordon d'alimentation HH05W 3*1 Dimension (LXLH) 100*144*266 -Poid (Kg) 3 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1037_1.jpg",
+  "Offres": [
+    {
+      "Price": "49 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-electrique/43236-radiateur-electrique-portatif-coala-r3.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2208-chauffage-electrique-coala-r3-2100w-noir-prix-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe976e328576e4249aa84"
+  },
+  "Name": "COALA - RADIATEUR HALOGENE AVEC COMMANDE H3PLUS",
+  "Reference": "H3PLUS",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "COALA Chauffage à Gaz  H3PLUS  techniques de la chaudière à gaz éfficace et idéale pour un atmospfère completement protégée -Naturel flamme- couleur bleu - roulettes de mouvement robustes-deux et trois niveaux de chauffages-équipés d'un dispositif de sécurité- encombrement réduit -controle par analyseur d'atposphère. ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1043_1.jpg",
+  "Offres": [
+    {
+      "Price": "65 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2212-chauffage-electrique-halogene-coala-h3plus-1200w-noir-prix-tunisie.html"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "05/10/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/chauffage/radiateur-halogènes-h3-coala--10754.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe976e328576e4249aa85"
+  },
+  "Name": "COALA - Radiateur à Gaz Naturel GN",
+  "Reference": "GNM",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur à Gaz Naturel Coala GN  à 3 niveaux de chauffage - Type d'allumage: Piézo poussoir - Contrôle par analyseur d'atmosphère - Encombremenr minimal - Entrée de sécurité par filetage - Puissance: Min 1.5 kw / Moy 3 kw / Max 4.5 kw - Consommantion: Min 109 g/h / Moy 2.8 g/h / Max 3.7 g/h - Volume de chauffe: Min 50 m3 / Moy 100 m3 / Max 150 m3 - Dimensions: 520x440x130 mm - Poids 8.5 Kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1046_1.jpg",
+  "Offres": [
+    {
+      "Price": "159 DT",
+      "Last-update": "27/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/radiateur-a-gaz-naturel-coala-gn-chauffage.html"
+    },
+    {
+      "Price": "175 DT",
+      "Last-update": "18/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/coala-gn.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe977e328576e4249aa86"
+  },
+  "Name": "COALA - Chauffage à Gaz - GIIIT",
+  "Reference": "GIIIT",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à Gaz COALA ( GIIIT)  Puissance (kw) Min (1.35) max (4.1) consommation (g/h) min ( 89.1) max (298) Volume de chauffe (m3) moy (91) max (135) pression de gaz 28 mbar niveau de chauffage 3 dimensions (mm) 750* 420* 340* poid (kg) 13.5  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1053_1.jpg",
+  "Offres": [
+    {
+      "Price": "209 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-a-gaz/13554-radiateur-a-gaz-avec-thermostat.html"
+    },
+    {
+      "Price": "219 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2173-radiateur-a-gaz-avec-thermostat-coala-g-ll-noir-prix-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe977e328576e4249aa87"
+  },
+  "Name": "DELONGHI - Radiateur Bain d'huile V550920 9 Éléments 2000W",
+  "Reference": "V550920",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Bain d'huile 9 Éléments - Puissance: 2000 W - 3 Puissances de chauffe: 900/1100/2000 W - Pour pièce jusqu'à 60 m³ - Thermostat - Poignée et roulettes pour un déplacement facile - Rangement du cordon - Tension nominale / fréquence: 230V ~ 50Hz - Dimensions: 14 x 45 x 64 cm - Couleur Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1515778037_815.jpg",
+  "Offres": [
+    {
+      "Price": "359 DT",
+      "Last-update": "05/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/4183-radiateur-bain-dhuile-delonghi-vento-9-elements-2000w-blanc.html"
+    },
+    {
+      "Price": "359 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2287-radiateur-bain-d-huile-delonghi-v550920-9-elements-blanc-prix-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe978e328576e4249aa88"
+  },
+  "Name": "DELONGHI - Radiateur Bain d'huile TRRS1225 12 Éléments 2500W",
+  "Reference": "TRRS1225",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Bain d'huile 12 Éléments - Puissance: 2500 W - 3 Puissances de chauffe: 1100/1400/2500 W - Pour pièce jusqu'à 75 m³ - Interrupteur avec voyant lumineux - Thermostat d'ambiance - Thermostat de sécurité - Poignée et roulettes pour un déplacement facile - Rangement du cordon - Tension nominale / fréquence: 230V ~ 50Hz - Dimensions: 16 x 59.2 x 65 cm - Couleur Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1515778230_374.jpg",
+  "Offres": [
+    {
+      "Price": "365 DT",
+      "Last-update": "17/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/3003-radiateur-a-bain-dhuile-delonghi-12-elements-blanc.html"
+    },
+    {
+      "Price": "379 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2285-radiateur-bain-d-huile-delonghi-trrs1225-12-elements-blanc-prix-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe978e328576e4249aa89"
+  },
+  "Name": "COALA - CONVECTEUR ELECTRIQUE MURAL 2000W ",
+  "Reference": "CONV-M2000",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Réglage par thermostat - Protection contre le surchauffe - Puissance Réglable 800,1200,2000w - Ventilateur de soufflage d'air chaud - Support de fixation mural ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1523980029_412.jpg",
+  "Offres": [
+    {
+      "Price": "105 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-electrique/45178-convecteur-electrique-mural-coala-2000w-convm200.html"
+    },
+    {
+      "Price": "105 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/convecteur-electrique-mural-coala-2000-watts-blanc-cm2000.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe979e328576e4249aa8a"
+  },
+  "Name": "COALA - RADIATEUR DOUBLE FACE R2F2500 2500W",
+  "Reference": "R2F2500",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur mobile sur roulettes - Désign élegant - deux faces chauffantes - Puissance électrique : 2500 W - Boutons on/off ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1523980029_686.jpg",
+  "Offres": [
+    {
+      "Price": "75 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/chauffage-electrique-coala-double-face-2500w"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-electrique/43011-chauffage-electrique-coala-2500w-r2f2500.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe97ae328576e4249aa8b"
+  },
+  "Name": "NewStar - CHAUFFAGE à GAZ BUTANE BB42 4200W - NOIR",
+  "Reference": "BB42",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à gaz Butane NEWSTAR - Puissance: 4200W - Type de gaz: Butane - Consommation économique - Allumage et contrôle automatique de la chaleur - Peinture électrostatique - Distribution rapide de la chaleur - Grille de protection - Design élégant - une mobilité Optimale - Système de contrôle de l?oxygène - Dispositif de Sécurité: Flamme-Échec - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1543309296_123.jpg",
+  "Offres": [
+    {
+      "Price": "159 DT",
+      "Last-update": "08/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/chauffage-clim/chauffage-a-gaz-butane-newstar-4200w-noir-bb42-prix-tunisie"
+    },
+    {
+      "Price": "160 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/2395-chauffage-a-gaz-butane-newstar-4200w-noir-bb42.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe97ae328576e4249aa8c"
+  },
+  "Name": "BIOLUX - CHAUFFAGE CONVECTEUR M.CC2000W 2000W",
+  "Reference": "M.CC2000",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Convecteur 2000W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1576015619_313.png",
+  "Offres": [
+    {
+      "Price": "95 DT",
+      "Last-update": "27/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-convecteur-electrique-biolux-2000w-blanc-hcc-2000w.html"
+    },
+    {
+      "Price": "105 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-electrique-biolux-cc-2000-blanc-cc2000.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe97be328576e4249aa8d"
+  },
+  "Name": "NewStar - CHAUFFAGE COMBINé BB58 4200W - NOIR",
+  "Reference": "BB58",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Combiné ( Gaz Butane + Electrique ) NEWSTAR - Puissance de Gaz: 4200 Watts - Puissance Électrique Max: 1 500 Watts   - Type de gaz: Butane - Nombre de Tubes: 3 Tubes (électrique) - Niveau de Chaleur: 2 Niveaux ( à gaz) - Consommation économique - Allumage et contrôle automatique de la chaleur - Peinture électrostatique - Distribution rapide de la chaleur - Grille de protection - Design élégant - une mobilité Optimale - Système de contrôle de l?oxygène - Dispositif de Sécurité: Flamme-Échec - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1543309346_209.jpg",
+  "Offres": [
+    {
+      "Price": "185 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/2388-chauffage-a-gaz-butane-newstar-4200w-noir-bb58.html"
+    },
+    {
+      "Price": "249 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-combine-newstar-4200w-noir-bb58.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe97ce328576e4249aa8e"
+  },
+  "Name": "Patio - CHAUFFAGE DE TERRASSE ROND PARASOL 12500W",
+  "Reference": "HSS-A-SH",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage de Terrasse à Gaz en Acier Inoxydable - Forme: Rond - Puissance Réglable: de 5000 Watts à 12500 Watts - Réflecteur : Ø 81,5 cm en 4 pièces En Aluminium - Consommation de Gaz: 364 à 909 g/heure - Allumage : Par piézo - Autonomie : de 15 heures à 35 heures selon la puissance utilisée (avec consigne de 13 kg) - Porte d?accès en façade - Double sécurité - Roulettes et stabilisateurs inclus  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1543312029_492.jpg",
+  "Offres": [
+    {
+      "Price": "549 DT",
+      "Last-update": "01/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-de-terrasse-patio-rond-en-acier-gris-hss-a-sh.html"
+    },
+    {
+      "Price": "549 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/electromenager/6867-chauffage-de-terrasse-patio-rond-parasol-12500w-gris-hss-a-sh.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe97de328576e4249aa8f"
+  },
+  "Name": "Patio - CHAUFFAGE DE TERRASSE AVEC MEUBLE - EN ROTIN HSS-A-FXTB",
+  "Reference": "HSS-A-FXTB",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage de Terrasse PATIO avec Meuble en Rotin - Puissance: 12000 Watts - matériau: Rotin - Flux: 450-870 g/heure - Son petit placard en rotin pour accueillir la bonbonne de gaz lui donne une apparence plus élégante - Carburant: propane ou butane uniquement - Dimensions: 27,8 x 27,8 x 217,9 cm - Poids: 21.7 kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1579649750_450.jpg",
+  "Offres": [
+    {
+      "Price": "979 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/climatisation-chauffage/43137-chauffage-de-terrasse-patio-avec-meuble-en-rotin.html"
+    },
+    {
+      "Price": "1019 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/electromenager/6868-chauffage-de-terrasse-patio-avec-meuble-en-rotin.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe97ee328576e4249aa90"
+  },
+  "Name": "Patio - CHAUFFAGE PYRAMIDE MINI SUR LA TABLE EN ACIER INOXYDABLE - ARGENT (PBF-SS)",
+  "Reference": "PBF-SS",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Pyramide Mini PATIO Sur La Table - Forme de pyramide - Frappant - Acier Inoxydable - La chaleur est produite par la combustion de gaz - La serait naturelle existe éprouvez une et confortable sentiment - Le vent peut comme pour toute flamme avoir une influence sur la chaleur vivants - Avec régulateur et tuyau de gaz - Dimensions: 28 x 28 x 86,5 cm - Poids: 6 kg - Couleur: Argent ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1579649759_207.jpg",
+  "Offres": [
+    {
+      "Price": "529 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage/43251-chauffage-pyramide-mini-patio-sur-la-table-en-acier-inoxydable-argent-.html"
+    },
+    {
+      "Price": "529 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/electromenager/12155-chauffage-pyramide-mini-patio-sur-la-table-en-acier-inoxydable-pbf-ss.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe97ee328576e4249aa91"
+  },
+  "Name": "COALA - CHAUFFE AIR SOLAIRE OS 20",
+  "Reference": "OS 20",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "1: verre solaire de 4 mm d'épaisseur et 91% de transmission 2: Tôle d'aluminium de 0,4 mm d'épaisseur sélective Mirotherm 3: 9 tubes absorbeurs de cuivre soudés au laser à l'absorbeur 4: isolation arrière et latérale en laine de verre 5: profil de cadre en aluminium anodisé ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1616344706_460.jpg",
+  "Offres": [
+    {
+      "Price": "439 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage/43342-chauffe-air-solaire-coala-os-20.html"
+    },
+    {
+      "Price": "439 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffe-air-solaire-coala-os-20.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe980e328576e4249aa92"
+  },
+  "Name": "COALA - CHAUFFE AIR SOLAIRE OS 10",
+  "Reference": "OS 10",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "1: verre solaire de 4 mm d'épaisseur et 91% de transmission 2: Tôle d'aluminium de 0,4 mm d'épaisseur sélective Mirotherm 3: 9 tubes absorbeurs de cuivre soudés au laser à l'absorbeur 4: isolation arrière et latérale en laine de verre 5: profil de cadre en aluminium anodisé ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1616344728_381.jpg",
+  "Offres": [
+    {
+      "Price": "369 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage/43310-chauffe-air-solaire-coala-os-10.html"
+    },
+    {
+      "Price": "369 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffe-air-solaire-coala-os-10.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe981e328576e4249aa93"
+  },
+  "Name": "BIOLUX - CHAUFFAGE à GAZ TRIO 45S - SILVER",
+  "Reference": "Trio 45S",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Puissance maximale :4500W - Type de gaz : LPG - Pression de gaz fonctionnaient : 2.8kpa - Peinture électrostatique - trois brûleurs céramique pour une distribution rapide de la chaleur - Trio-système : -système thermo-couple - système désodorisant - système anti-flammes - Poids : 10kg/9kg - Dimension L*P*H : 42*37*74.5 cm - ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1659448575_108.jpg",
+  "Offres": [
+    {
+      "Price": "189 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/prix-chauffage-biolux-trio-45-silver-tunisie.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/climatisation-chauffage/44347-chauffage-a-gaz-biolux-4500-w-silver-trio-45s.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe981e328576e4249aa94"
+  },
+  "Name": "COALA - CHAUFFE AIR SOLAIRE OS 30",
+  "Reference": "OS30",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffe Air Solaire COALA -  Nombre de Tubes : 9 Tubes absorbeurs de cuivre soudés au laser à l'absorbeur- Verre solaire de 4 mm d'épaisseur et 91% de transmission -Tôle d'aluminium de 0,4 mm d'épaisseur sélective Mirotherm -isolation arrière et latérale en laine de verre -profilé de cadre en aluminium anodisé ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1657616922_454.jpg",
+  "Offres": [
+    {
+      "Price": "459 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage/43343-chauffe-air-solaire-coala-os-30.html"
+    },
+    {
+      "Price": "459 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffe-air-solaire-coala-os-30.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe982e328576e4249aa95"
+  },
+  "Name": "COALA - Radiateur Electrique à Portatif -RAD-R2",
+  "Reference": "RAD-R2",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur COALA  Electrique à Portatif (RAD-R2) - Alimentation: (v/Hz)- 220-230/50 - Courant absorbé : 9 (A) - Puissance (W) 2100 - Nombre de Tube: 2 - Type de tube: Quartz - Cordon d'alimentation HH05VV3*1 - Dimension: 300 x 200 x 170- Poids: 3 Kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1038_1.jpg",
+  "Offres": [
+    {
+      "Price": "35 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2211-chauffage-electrique-portatif-coala-r2-1400w-prix-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe983e328576e4249aa96"
+  },
+  "Name": "COALA - Radiateur à bain d'Huile BH20 9E TURBO",
+  "Reference": "BH20T",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur à bain d?Huile BH20  Coala- puissance2000W- 9 éléments radiants- Fréquence: 50 Hz-3 niveaux de chauffages- Poids 12 kg ? dimensions : 47.5x17.5x68.5 cm- chaleur douce et homogène- économique- Thermostat de contrôle réglable- Protection contre la sur chauffe- Roulette de mouvement robustes ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1048_1.jpg",
+  "Offres": [
+    {
+      "Price": "199 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/climatisation-chauffage/5067-radiateur-bain-d-huile-coala-bh20-9-elements-2000w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe984e328576e4249aa97"
+  },
+  "Name": "COALA - Chauffage à Gaz GNFB 11000W",
+  "Reference": "GNFB",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à Gaz COALA (GNFB) Naturel flamme- Couleur noir trois niveaux de chauffages-Type d'allumage pièzo poussoir- Encombrement minimal-Entré de sécurité par filtage-Puissance (KW) 1.5 max 4.5 -Consommation (g/h) 109 max 3.7 -  Volume de chauffe (m3) 100/150 -Pression du gaz 20 mbr -niveau de chauffage 3 -dimmensions (mm) 520*440*130*- Poids (kg) 8.5  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1058_1.jpg",
+  "Offres": [
+    {
+      "Price": "615 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/radiateur-a-gaz-naturel-flamme-bleu-coala-11000-watt-gn-fb.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe985e328576e4249aa98"
+  },
+  "Name": "GENERAL GOLD  - Chauffage à Gaz GG-2073",
+  "Reference": "G-G-2073",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à gaz avec Quartz -  Type de gaz: GPL - Puissance réglable - Mise en route sans problèmes - Monte sur 4 roulette -Dimensions: 455 x 405 x 755 mm - Poids: 8 Kg - Couleur Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1515112924_763.jpg",
+  "Offres": [
+    {
+      "Price": "135 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/chauffage/3237-chauffage-a-gaz-general-gold-gg-2073-gg-2073-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe985e328576e4249aa99"
+  },
+  "Name": "COALA - Radiateur à Bain D'huile BH24 - 2400W",
+  "Reference": "BH24N",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur à Bain D'huile COALA BH24 avec Roulettes de Déplacements - Puissance: 2400 Watts  - 7 éléments  - 3 niveau de chauffages Réglable - Thermostat mécanique - Poignée intégrée et range cordon -  Système de sécurité ( Coupure Automatique en cas de surchauffe) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1515113284_511.jpg",
+  "Offres": [
+    {
+      "Price": "170 DT",
+      "Last-update": "08/02/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/chauffage/radiateur-à-bain-d-huile-2400w-normal-coala-6729.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe986e328576e4249aa9a"
+  },
+  "Name": "FALCON - Chauffage à gaz mobile DA-201",
+  "Reference": "DA-201",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à gaz mobile - Equipé d?un système d?extinction de flamme - Système de chauffage par rayonnement - Puissances: 1.4kW/2.8kW/4.2kW - Plaques en céramique - Allumage Piézo-électrique , pour GPL / Butane / Propane - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1515114098_520.jpg",
+  "Offres": [
+    {
+      "Price": "169 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-a-gaz-mobile-falcon-4200-watt-noir-da-201-.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe987e328576e4249aa9b"
+  },
+  "Name": "DELONGHI - Radiateur Bain d'huile TRRS0920 9 Éléments 2000W",
+  "Reference": "TRRS0920",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Bain d'huile Delonghi - 9x Éléments - Puissance Maxi 2000W - 3x Allures - Pour des pièces jusqu'à 60 m³ - Dimensions 16 x 47,2 x 65 cm - Thermostat d?ambiance - Thermostat de sécurité - Roulettes multidirectionnelles escamotables ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1515778151_439.jpg",
+  "Offres": [
+    {
+      "Price": "325 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/1933-radiateur-bain-dhuile-delonghi-trrs0920-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe987e328576e4249aa9c"
+  },
+  "Name": "BIOLUX - CHAUFFAGE ELECTRIQUE CQ800 800W",
+  "Reference": "CQ800",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage BioLux à rayonnement Quartz - Puissance : 400W / 800W -  Sécurité anti basculement - 2 Tubes à Quartz - Avec poignet - Couleur : Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1523945649_233.jpg",
+  "Offres": [
+    {
+      "Price": "25 DT",
+      "Last-update": "13/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/4171-chauffage-electrique-biolux-a-rayonnement-quartz-blanc-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe988e328576e4249aa9d"
+  },
+  "Name": "COALA - RADIATEUR à GAZ COMBINé RGC",
+  "Reference": "RGC",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Robuste combiné (GAZ+ELECTRIQUE) - Haute sécurité - Economique: 300 gr/heure consommation max -Facile à utiliser - Type de Gage: GAZ GPL - Puissance gaz :3 positions ( 1400 ? 2800 ? 4200 watt) -Puissance électrique: 3 positions ( 400 ? 800 ? 1200 watt) - Convient pour des espaces ventilées de 20 à 200 m3 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1523980029_343.jpg",
+  "Offres": [
+    {
+      "Price": "179 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/2174-radiateur-a-gaz-combine-coala-rgc-4200-w-noir-prix-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe988e328576e4249aa9e"
+  },
+  "Name": "Mega Star - CHAUFFAGE A GAZ 4.2K WATT DA-201",
+  "Reference": "CH-DA201",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Capteur de réuction en oxygène- Dispositif d'extinction de flamme- Allumage piézo-électrique- Interrupteur anti basculement inclus- Système de chauffage par rayonnement avec une efficacité élevée- 3 réglages de puissance: 1.5k.w/ 2.9k.w/4.2k.w- A déplacer librement avec des roues-  Pression: 30 mbar- Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1542103715_254.jpg",
+  "Offres": [
+    {
+      "Price": "189 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/climatisation-chauffage/43759-chauffage-a-gaz-mega-star-4200w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe989e328576e4249aa9f"
+  },
+  "Name": "FRESH - CHAUFFAGE ELECTRIQUE PSM-210 / 2100 W",
+  "Reference": "PSM-210",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Electrique Fresh PSM-210 - Puissance: 2100 W - Thermostat pour ajuster la température - 2 positions de chauffage: 1000 W et 2100 W - 3 Tubes à Quartz - Thermostat de sécurité - Couleur Silver ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1543311004_592.jpg",
+  "Offres": [
+    {
+      "Price": "129 DT",
+      "Last-update": "03/07/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/fresh-pm-210.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe989e328576e4249aaa0"
+  },
+  "Name": "Patio - CHAUFFAGE DE TERRASSE Patio PYRAMIDE EN ACIER",
+  "Reference": "BFH-A-SS",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "chauffage de terrasse 2en1 alliant éclairage et chauffage - format pyramide ultra puissant - Fonctionne avec une vraie flemme - Puissance de flamme réglable - Grille de protection en acier inox - Grand chauffe patio de 84\" de hauteur ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1543311991_613.jpg",
+  "Offres": [
+    {
+      "Price": "1259 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/climatisation-chauffage/43136-chauffage-de-terrasse-patio-pyramide-en-acier-inox-bfh-a-ss.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe98ae328576e4249aaa1"
+  },
+  "Name": "Taurus - RADIATEUR à BAIN D'HUILE 2000 W GRIS ET NOIR",
+  "Reference": "DAKAR-2000",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Réf: DAKAR 2000  - Taurus Radiateur à bain d?huile,2000 W ,11 éléments,3 allures de chauffe, Thermostat réglable, protection anti surchauffe, témoin lumineux de fonctionnement, poignée de transport, pieds avec roulettes ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1543312818_619.jpg",
+  "Offres": [
+    {
+      "Price": "219 DT",
+      "Last-update": "07/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/taurus-dakar-2000.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe98be328576e4249aaa2"
+  },
+  "Name": "Taurus - RADIATEUR à BAIN D'HUILE 2300 W GRIS ET NOIR",
+  "Reference": "DAKAR-2300",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Réf: DAKAR 2300  - Taurus Radiateur à bain d?huile,2300 W ,11 éléments,3 allures de chauffe, Thermostat réglable, protection anti surchauffe, témoin lumineux de fonctionnement, poignée de transport, pieds avec roulettes ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1543312829_461.jpg",
+  "Offres": [
+    {
+      "Price": "179 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/2025-radiateur-bain-d-huile-taurus-dakar-2300w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe98be328576e4249aaa3"
+  },
+  "Name": "CONDOR - RADIATEUR BAIN D'HUILE 11 ÉLéMENTS / 2270W",
+  "Reference": "CBH-U2510",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Bain d'huile Condor 11 éléments - Puissance: 2270W - 3x Niveaux de température - Extinction automatique - Roulettes - Couvercle arrière - Humidificateur - Thermostat ajustable - Témoin d?alimentation - Poids Net: 13.5 kg - Dimensions: 55 x 24 x 66 cm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1544204061_881.jpg",
+  "Offres": [
+    {
+      "Price": "249 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/chauffage/453-radiateur-bain-d-huile-condor-11-element-.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe98ce328576e4249aaa4"
+  },
+  "Name": "DELONGHI - Radiateur bain d'huile Vento V551225 12 éléments  2500W",
+  "Reference": "V551225",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": " Puissance maximale : 2500W  12 éléments  Thermostat d'ambiance  Fonction hors-gel  Poignée et roulettes multidirectionnelles  Rangement du cordon ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1547478879_613.jpg",
+  "Offres": [
+    {
+      "Price": "405 DT",
+      "Last-update": "05/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/4184-radiateur-bain-dhuile-delonghi-vento-12-elements-2500w-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe98ce328576e4249aaa5"
+  },
+  "Name": "AKEL - Chauffage électrique à quartz AS-1210 2900W",
+  "Reference": "AS-1210",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage électrique à quartz - Puissance: 2900 Watts -5 résistances de tube en verre de quartz de haute qualité - 4 utilisations de puissance différentes -Panneau de protection décoratif avant chromé -Alliage spécial réfléchissant la chaleur -Interrupteur de sécurité basculant - ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1548844740_905.jpg",
+  "Offres": [
+    {
+      "Price": "165 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-electrique-akel-2900-watt-gris-et-rouge-as-1210.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe98de328576e4249aaa6"
+  },
+  "Name": "FAKIR - CHAUFFAGE ÉLECTRIQUE HT 2000 2000W",
+  "Reference": "HT2000",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Électrique FAKIR 2200HK - Affichage LED - Type: Tour Céramique - Puissance Nominale: 2000 Watts - Niveau de chaleur Réglable:  3 Niveaux  - Thermostat d'ambiance Réglable - voyant lumineux - Position d'utilisation: verticale - Fonctions: oscillante, turbo et Swing - Minuterie:1 à 9 heures - Deux fusibles intégrés - Protection Contre la Surchauffe - Protection anti-retournement - Contrôle à distance via Télécommande ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1542882481_102.jpg",
+  "Offres": [
+    {
+      "Price": "239 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/chauffage-electrique-fakir-2000-watts-noir-ht2000.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe98de328576e4249aaa7"
+  },
+  "Name": "NewStar - Chauffage électrique SQ12 1200W",
+  "Reference": "SQ12",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage électrique SQ12 Chauffage électrique NEWSTAR - Puissance: 1200W  - Type : 3 tubes quartz  - Volume de chauffage : 10 à 25m³ -Interrupteur basculant de sécurité - Grille de Protection - Poignet intégré - Design élégant - Dimensions : 31 × 33.5 × 16.8 cm -Couleur: Gris ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1549636529_444.jpg",
+  "Offres": [
+    {
+      "Price": "59 DT",
+      "Last-update": "13/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/2420-chauffage-newstar-1200w-gris-sq12.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe98ee328576e4249aaa8"
+  },
+  "Name": "BIOLUX - CHAUFFAGE HALOGèNE 1200W CH1200",
+  "Reference": "CH1200",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Halogène BIOLUX - Légers et pratiques - Puissance: 1200 Watts  - Nombre de Tubes: 3 Tubes à Quartz  - Sécurité d?utilisation - iIdéal pour les bureaux et les chambres -  Avec poignet - Couleur: Gris ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1576015272_113.jpg",
+  "Offres": [
+    {
+      "Price": "49 DT",
+      "Last-update": "05/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/4173-chauffage-halogene-biolux-ch1200-1200w-gris-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe98ee328576e4249aaa9"
+  },
+  "Name": "COALA - RADIATEUR A GAZ GIII MINI 4500 w",
+  "Reference": "GIIIMINI",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur a Gaz Naturel a 3 niveaux de chauffage - Type d'allumage: Piezo poussoir - Contre par analyseur d'atmosphere - Encombremenr minimal - Entree de securite par filetage - Puissance: Min 1.5 kw / Moy 3 kw / Max 4.5 kw - Consommantion: Min 109 g/h / Moy 2.8 g/h / Max 3.7 g/h - Volume de chauffe: Min 50 m3 / Moy 100 m3 / Max 150 m3 - Dimensions: 520x440x130 mm - Poids 8.5 Kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1576019776_612.jpg",
+  "Offres": [
+    {
+      "Price": "149 DT",
+      "Last-update": "27/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/mini-chauffage-a-gaz-bouteille-coala-giii-4100w-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe98fe328576e4249aaaa"
+  },
+  "Name": "ZILAN - RADIATEUR à BAIN D'HUILE 7 éLéMENTS / 1500W ZLN2104",
+  "Reference": "ZLN2104",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Réf ZLN2104: puissance :1500W,2 niveaux de vitesse,Thermostat réglable,3 réglages de chaleur,Rangement du cordon,Protection contre la surchauffe,5 canaux d'huile ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1579649820_566.jpg",
+  "Offres": [
+    {
+      "Price": "184 DT",
+      "Last-update": "30/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/2474-radiateur-bain-dhuile-7-elements-1500w-zilan-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe990e328576e4249aaab"
+  },
+  "Name": "ZILAN - RADIATEUR à BAIN D'HUILE 9 éLéMENTS / 2000W ZLN2111",
+  "Reference": "ZLN2111",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Réf ZLN2111: puissance :2000W,2 niveaux de vitesse,Thermostat réglable,3 réglages de chaleur,Rangement du cordon,Protection contre la surchauffe,5 canaux d'huile ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1579649832_895.jpg",
+  "Offres": [
+    {
+      "Price": "229 DT",
+      "Last-update": "30/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/2475-radiateur-bain-dhuile-9-elements-2000w-zilan-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe990e328576e4249aaac"
+  },
+  "Name": "GENERAL GOLD  - CHAUFFAGE ÉLECTRIQUE à RAYONNEMENT QUARTZ / 800 W TCQH83",
+  "Reference": "TCQH83",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Électrique à Rayonnement Quartz - Puissance: 800 W - 2 niveaux de température: 400W /800W - Avec bouton de réglage - Facile à régler les niveaux de température - Avec une protection de grille de maille - Avec poignée - Facile à déplacer - Couleur Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1559357900_776.jpg",
+  "Offres": [
+    {
+      "Price": "30 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/chauffage/2078-chauffage-electrique-800w-home-electronics-tcqh83-tcqh83-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe991e328576e4249aaad"
+  },
+  "Name": "NewStar - RADIATEUR BAIN D'HUILE 2000W 9 ÉLéMENTS",
+  "Reference": "RAD09EL",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Éléments : 9 Puissance :  2000 Watts Nombre d'allures de chauffe :3 Thermostat manuel Protection contre surchauffe Antigel Système de protection d'arrêt immédiat en cas de renversement Roulettes et poignée pour un déplacement facile Rangement de câble  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1622124648_683.jpg",
+  "Offres": [
+    {
+      "Price": "159 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/chauffage/2386-radiateur-bain-dhuile-newstar-2000w-9-elements-rad09el.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe991e328576e4249aaae"
+  },
+  "Name": "GOLD - CHAUFFAGE à GAZ ELECTRIQUE GÉNÉRAL GG-2075",
+  "Reference": "GG-2075",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à Gaz Electrique Quartz GENERAL GOLD GG-2075 - Type de gaz : Gaz Bouteille - Débit calorifique nominal : 4100W - Pression de gaz: 28mbar - Dimension : 455x405x755mm - Poids : 8Kg - Couleur : Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1623311825_103.jpg",
+  "Offres": [
+    {
+      "Price": "149 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/chauffage/3001-chauffage-a-gaz-electrique-general-gold-gg-2075-gg-2075-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe992e328576e4249aaaf"
+  },
+  "Name": "COALA - KILL INSECT à TUBES NéON 2X15 WATTS",
+  "Reference": "KIP2x15",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Kill Insect à tubes néon Coala / Puissance de Lampe: 30 Watts (2x15 Watts) / Alimentation (VAC/HZ): 230/50 / Tension de décharge(V): 5000- Consommation totale(W): 25- Type de ballast : électromagnétique / Durée de vie des Tubes : 8000-10000 Heures de travail / Utilisable en intérieur comme en extérieur,à poser ou à suspendre ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1623317058_121.jpg",
+  "Offres": [
+    {
+      "Price": "85 DT",
+      "Last-update": "04/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/electromenager/5802-kill-insect-a-tubes-neon-2x15-watts.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe992e328576e4249aab0"
+  },
+  "Name": "COALA - KILL INSECT à TUBES NéON 2X20 WATTS",
+  "Reference": "KIP2x20",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Kill Insect à tubes néon Coala / Puissance de Lampe: 40 Watts (2x20 Watts) / Alimentation (VAC/HZ): 230/50 / Tension de décharge(V): 5000- Consommation totale(W): 25- Type de ballast : électromagnétique / Durée de vie des Tubes : 8000-10000 Heures de travail / Utilisable en intérieur comme en extérieur,à poser ou à suspendre ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1623317103_626.jpg",
+  "Offres": [
+    {
+      "Price": "89 DT",
+      "Last-update": "28/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/electromenager/5803-kill-insect-a-tubes-neon-2x20-watts.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe993e328576e4249aab1"
+  },
+  "Name": "GENERAL GOLD  - CHAUFFAGE ÉLECTRIQUE HALOGèNE / 1200 W TCHH12G",
+  "Reference": "TCHH12G",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Électrique Halogène - Puissance: 1200 W - 3 niveaux de température: 400W /800W/1200W - Avec bouton de réglage - Facile à régler les niveaux de température - Avec une protection de grille de maille - Avec poignée - Facile à déplacer - Couleur Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1559357913_449.jpg",
+  "Offres": [
+    {
+      "Price": "50 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/chauffage/2072-chauffage-electrique-halogene-1200w-home-electronics-tchh12g-tchh12g-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe993e328576e4249aab2"
+  },
+  "Name": "COALA - KILL INSECT à TUBES NéON 2X10 WATTS",
+  "Reference": "KIP2x10",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Kill Insect à tubes néon Coala / Puissance de Lampe: 20 Watts (2x10 Watts) / Alimentation (VAC/HZ): 230/50 / Tension de décharge(V): 5000- Consommation totale(W): 25- Type de ballast : électromagnétique / Durée de vie des Tubes : 8000-10000 Heures de travail / Utilisable en intérieur comme en extérieur,à poser ou à suspendre ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1623317129_278.jpg",
+  "Offres": [
+    {
+      "Price": "75 DT",
+      "Last-update": "04/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/electromenager/5801-kill-insect-a-tubes-neon-2x10-watts.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe994e328576e4249aab3"
+  },
+  "Name": "BIOLUX - RADIATEUR BAIN D'HUILE 9 éLéMENTS / 2000 W",
+  "Reference": "RBH20",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur bain d'huile à 9 éléments - 3 puissances de chauffe: 800W / 1200W / 2000W - Thermostat réglable - Protection de surchauffe - Interupteur avec indicateur lumineux - Roulette souple pour mouvement facile - Cache câble - Dimensions: 44 x 16 x 64.5 cm - Couleur Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1637945718_194.jpg",
+  "Offres": [
+    {
+      "Price": "189 DT",
+      "Last-update": "15/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/chauffage-tunisie/52677-radiateur-bain-d-huile-biolux-9-elements-2000-w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe995e328576e4249aab4"
+  },
+  "Name": "STAR ONE - CHAUFFAGE ÉLECTRIQUE 800 W TCQH82 - BLANC",
+  "Reference": "TCQH82",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Électrique STAR ONE - Légers et pratiques - Puissance: 800 Watts  - Nombre de Tubes: 2 Tubes à Quartz  - Sécurité d?utilisation - iIdéal pour les bureaux et les chambres - économiques - alimentation (V/Hz): 220-240V/50Hz - Couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1576016918_825.jpg",
+  "Offres": [
+    {
+      "Price": "22 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/chauffage/2745-chauffage-electrique-800w-home-electronics-tcqh82-tcqh82-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe995e328576e4249aab5"
+  },
+  "Name": "HOME ELECTRONICS - CHAUFFAGE ÉLECTRIQUE 2000 W TCQH89D - BLANC",
+  "Reference": "TCQH89D",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Électrique HOME ELECTRONICS - Légers et pratiques - Puissance: 2000 Watts  - 4 niveaux de température: 500W /1000W/1500W/2000W - 4 élément de chauffage (en haut 1, en face 3) - Avec bouton de réglage - Facile à régler les niveaux de température - Avec une protection de grille de maille - Chauffage QUARTZ avec poignée, Facile à déplacer - Une lumière douce et confortable - Chauffe la maison en quelques moments, tout en créant un environnement confortable et chaleureux - Voltage: 220-240V - Fréquence: 50/60Hz - Couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1576019214_822.jpg",
+  "Offres": [
+    {
+      "Price": "60 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/chauffage/2332-chauffage-electrique-2000w-home-electronics-tcqh89d-tcqh89d-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe996e328576e4249aab6"
+  },
+  "Name": "KUMTEL - CHAUFFAGE ÉLECTRIQUE KS-2761 2250W ",
+  "Reference": "KS-2761",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage électrique KUMTEL - Puissance: 2250 Watts - Nombre de tubes: 3 - Faible consommation d'énergie - Consommation d'énergie: Classe A+ - Thermostat réglable - Peut chauffer une superficie d'environ 20 mètres carrés très confortablement - Dimensions: 52 x 61 x 20 cm  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1657802197_669.jpg",
+  "Offres": [
+    {
+      "Price": "89 DT",
+      "Last-update": "06/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-electrique-kumtel-ks-2761-2250w-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe996e328576e4249aab7"
+  },
+  "Name": "KUMTEL - CHAUFFAGE éLECTRIQUE (KS-2765)",
+  "Reference": "KS-2765",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage électrique KUMTEL - Puissance : 2200W - Niveau de chaleur : 5 - Interrupteur de sécurité - Dimensions 58 x 21 x 14 cm - Poids 2Kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1657802453_168.jpg",
+  "Offres": [
+    {
+      "Price": "85 DT",
+      "Last-update": "14/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-electrique/44663-chauffage-electrique-kumtel-ks-2760.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe997e328576e4249aab8"
+  },
+  "Name": "Dunya - CHAUFFAGE A GAZ - NOIR",
+  "Reference": "CHAUFFAGE-DUNYA",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage A Gaz Dunya - Puissance : 2200W - Niveau de chaleur :  3 - Type de gaz : I3B/P - Voltage: 220-240v / 50-60 Hz- Consommation économique - Allumage et contrôle automatique de la chaleur  - Distribution rapide de la chaleur - Grille de protection - Design élégant - une mobilité Optimale - Couleur : Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1659448576_537.jpg",
+  "Offres": [
+    {
+      "Price": "159 DT",
+      "Last-update": "14/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/chauffage-a-gaz/44898-chauffage-a-gaz-dunya-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe998e328576e4249aab9"
+  },
+  "Name": "COALA - RADIATEUR HALOGENE H3 AVEC COMMANDE 1200W",
+  "Reference": "H3-CDE",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur halogène Coala H3 avec Commande - 3x Puissances réglables: 400/800/1200W - Chaleur homogène assurée par des tubes Halogènes - Systhéme de protection anti surchauffe - Sécurité anti basculement - Réflecteur thermique angulaire Large angle d?oscillation avec Moteur Rotatif ( H3) - Mobilité assurée par le poignée intégere - Pour Maisons, Administrations, Boutiques , Bureaux ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1616343726_978.jpg",
+  "Offres": [
+    {
+      "Price": "77 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/chauffages-radiateur/chauffage-electrique-coala-halogenes-1200w"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe998e328576e4249aaba"
+  },
+  "Name": "GOLD - CHAUFFAGE à GAZ 4200W",
+  "Reference": "OMHE03",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage à Gaz GOLD - Puissance: 4200 Watts - 3 tubes halogène 1.2 KW (3x400W) - Alimentations:220-240V-/50Hz- Thermocouple - Thermostat réglable ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1657805860_872.jpg",
+  "Offres": [
+    {
+      "Price": "239 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/chauffage-a-gaz-gold-4200w-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe999e328576e4249aabb"
+  },
+  "Name": "HOME ELECTRONICS - CHAUFFAGE éLECTRIQUE 1200W TCHH12BS",
+  "Reference": "TCHH12BS",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage électrique 1200W Halogène Home ELECTRONICS TCHH12BS - Voltage : 220-240V - Fréquence : 50-60Hz - Puissance : 1200W - 3 niveaux de température : 400W-800W-1200W - Facile à régler les niveaux température avec le bouton de réglage - Facile à déplacer avec poignée - Une lumière douce et confortable - Chaleur instantané - Chauffe la maison en quelques moments, tout en créant un environnement confortable et chaleureux - Couleur : Gris ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1623312205_179.jpg",
+  "Offres": [
+    {
+      "Price": "43 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/chauffage/3986-chauffage-electrique-1200w-home-electronics-tchh12bs-tchh12bs-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe999e328576e4249aabc"
+  },
+  "Name": "HOME ELECTRONICS - CHAUFFAGE éLECTRIQUE 1200W TCHH12AS",
+  "Reference": "TCHH12AS",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Electrique Halogène Home Electronics TCHH12AS - Voltage : 220-240V - Fréquence : 50-60Hz - Puissance : 1200W - Dimension: 45*30cm - 3 niveaux de température : 400W-800W-1200W - Facile à régler les niveaux température avec le bouton de réglage - Facile à déplacer avec poignée - Une lumière douce et confortable - Chaleur instantané - Chauffe la maison en quelques moments, tout en créant un environnement confortable et chaleureux - Couleur : Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1623312219_788.jpg",
+  "Offres": [
+    {
+      "Price": "40 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/chauffage/3987-chauffage-electrique-1200w-home-electronics-tchh12as-tchh12as-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe99ae328576e4249aabd"
+  },
+  "Name": "HOME ELECTRONICS - CHAUFFAGE éLECTRIQUE 1200W TCQH12FS",
+  "Reference": "TCQH12FS",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Chauffage Electrique 1200W QUARTZ HOME ELECTRONICS TCQH12FS - Voltage : 220-240V - Fréquence : 50-60Hz - Puissance : 1200W - 3 niveaux de température : 400W-800W-1200W - Facile à régler les niveaux température avec le bouton de réglage - Facile à déplacer avec poignée - Une lumière douce et confortable - Chauffe la maison en quelques moments, tout en créant un environnement confortable et chaleureux - Couleur : Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1623312293_489.jpg",
+  "Offres": [
+    {
+      "Price": "30 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/chauffage/3985-chauffage-electrique-1200w-home-electronics-tcqh12fs-tcqh12fs-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe99ae328576e4249aabe"
+  },
+  "Name": "NewStar - RADIATEUR BAIN D'HUILE AVEC VENTILO 11 ÉLéMENTS 2500 WATTS - BLANC",
+  "Reference": "RAD11ELV",
+  "type": "/electromenager/climatisations/chauffage",
+  "Specs": "Radiateur Bain D'huile NEWSTAR Avec Ventilo - Puissance: 2500 Watts - Nombre d'allures de chauffe: 3 - Nombre d?éléments : 11 - Thermostat manuel - Protection contre surchauffe - Antigel - Système de protection d'arrêt immédiat en cas de renversement - Roulettes et poignée pour un déplacement facile - Rangement de câble - Couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_climatisations/1635257864_379.jpg",
+  "Offres": [
+    {
+      "Price": "229 DT",
+      "Last-update": "07/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/radiateur-bain-d-huile-newstar-11-elements-avec-ventilateur-2500-watts-blanc.html"
+    }
+  ]
+}]

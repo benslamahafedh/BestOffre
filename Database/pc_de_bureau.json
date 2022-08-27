@@ -1,0 +1,2026 @@
+[{
+  "_id": {
+    "$oid": "62f026f47fa8023c0cd270dd"
+  },
+  "Name": "LENOVO - PC DE BUREAU V50T 13IMB / DUAL CORE GOLD / 4 GO / 1 TO",
+  "Reference": "11HD000BFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Dual Core Intel Pentium Gold G6400, 4 Ghz, 4 Mo de mémoire cache - Mémoire 4 Go - Disque 1 To - Carte graphique Intel UHD Graphics 610 - Graveur DVD - Lecteur de cartes - Haut Parleur 2W - 4x USB 3.1 - 4x USB 2.0 - 1x Port Série - 1x HDMI - 1x DisplayPort - 1x VGA - 1x RJ45 - Entré Sortie Audio 3.5 mm - Clavier et Souris USB - Dimensions 145 x 278 x 340 mm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615997759_224.jpg",
+  "Offres": [
+    {
+      "Price": "889 DT",
+      "Last-update": "29/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/pc-bureau/45697-pc-de-bureau-lenovo-v50t-13imb-dual-core-gold-4go-1to-11hd000bfm-.html"
+    },
+    {
+      "Price": "899 DT",
+      "Last-update": "01/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/45907-pc-de-bureau-lenovo-v50t-13imb-dual-core-gold-4-go.html"
+    },
+    {
+      "Price": "944 DT",
+      "Last-update": "01/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/47319-pc-de-bureau-lenovo-v50t-13imb-dual-core-gold-8-go.html"
+    },
+    {
+      "Price": "989 DT",
+      "Last-update": "01/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/47321-pc-de-bureau-lenovo-v50t-13imb-dual-core-gold-12-go.html"
+    },
+    {
+      "Price": "1023 DT",
+      "Last-update": "01/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/47347-pc-de-bureau-lenovo-v50t-13imb-dual-core-gold-16-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f026f57fa8023c0cd270de"
+  },
+  "Name": "DELL - PC DE BUREAU TOUT-EN-UN 3280 | I3-8145U | 8GO | 1TO",
+  "Reference": "INSP3280",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran: 21.5 IPS FHD - Processeur: Intel Core i3-8145U 8 ème Gènération (2.1 Ghz up to 3.9 Ghz, 4 Mo de mémoire cache, Dual Core) - Systéme d'exploitation: FreeDos - Mémoire RAM: 8 Go DDR4, 2666 MHz - Disque Dur: 1 To (5 400 tr/min) - Carte Graphique: Intel HD Graphics avec WiFi, USB 3.1, HDMI RJ45 et Lecteur de Cartes ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616685082_889.jpg",
+  "Offres": [
+    {
+      "Price": "1628 DT",
+      "Last-update": "09/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/dell-inspiron-3280-pc-de-bureau-all-in-one-tunisie"
+    },
+    {
+      "Price": "1725 DT",
+      "Last-update": "13/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/ordinateur-de-bureau/2902-pc-de-bureau-all-in-one-dell-inspiron-3280-i3-8e-gen-8go-1to.html"
+    },
+    {
+      "Price": "1839 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/4361-pc-de-bureau-dell-insp3280-215fhd-ntactile-i3-8145u-8go-1tb-w10h-blanc.html"
+    },
+    {
+      "Price": "1850 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/5944-pc-de-bureau-all-in-one-dell-inspiron-3280-i3-8e-gen-8-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f026f67fa8023c0cd270df"
+  },
+  "Name": "DELL - VOSTRO 3671 I7 9è GéN 8GO 1TO",
+  "Reference": "N209VD3671EMEA03",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core  i7-9700  9ème Génération ( 3,0 GHz, Up To  4,7 GHz, 12Mo  de Mémoire Cache,  Octa-Core) - Systéme d'exploitation:  Linux  - Mémoire RAM:  8 Go  - Disque Dur:  1 To  HDD, 7200 tr/min  - Carte Graphique:   Intel HD Graphics avec USB 3.0 et VGA ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616678412_319.jpg",
+  "Offres": [
+    {
+      "Price": "1799 DT",
+      "Last-update": "22/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/ordinateur-portable-tunisie/19911-pc-de-bureau-dell-vostro-3671-i7-9700-8-go-1-to-noir.html"
+    },
+    {
+      "Price": "1799 DT",
+      "Last-update": "19/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/dell-vostro-3671-pc-bureau-intel-core-i7-9e-gen-8go-1to-tunisie"
+    },
+    {
+      "Price": "1898 DT",
+      "Last-update": "22/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/pc-bureau/22619-pc-de-bureau-dell-vostro-3671-i7-9700-16-go-1-to-noir.html"
+    },
+    {
+      "Price": "2099 DT",
+      "Last-update": "22/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/pc-bureau/22620-pc-de-bureau-dell-vostro-3671-i7-9700-32-go-1-to-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f026f67fa8023c0cd270e0"
+  },
+  "Name": "DELL - PC DE BUREAU VOSTRO 3888 / I7 10é GéN / 8 GO",
+  "Reference": "N1000VD3888EMEA01",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Core i5-10700 ,  jusqu'à 4.4 GHz, 16 Mo de mémoire cache - Mémoire 8 Go - Disque 1 To - Carte Graphique intel UHD Graphics -  Wifi - Bluetooth - Lecteur de Cartes - Lecteur DVD - 4x USB 2.0 - 4x USB 3.2 - HDMI - VGA - RJ45 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616744463_219.jpg",
+  "Offres": [
+    {
+      "Price": "1089 DT",
+      "Last-update": "01/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/pc-bureau/37511-pc-de-bureau-dell-vostro-3888-i3-101004go1tonoir-3888.html"
+    },
+    {
+      "Price": "1249 DT",
+      "Last-update": "09/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1589/DELL-VOSTRO-3888-i3-10me-Gen-4Go-1To"
+    },
+    {
+      "Price": "1459 DT",
+      "Last-update": "09/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1733/PC-De-Bureau-DELL-VOSTRO-3888-i5-10-Gn-4Go-1To"
+    },
+    {
+      "Price": "2415 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/pc-de-bureau-dell-vostro-3888-i7-10e-gen-32go-1to-noir-n1000vd3888emea01-32g.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f026f97fa8023c0cd270e1"
+  },
+  "Name": "HP - PC DE BUREAU PRO 300 G6/I5 10é GéN/4GO/1TO NOIR",
+  "Reference": "294U7EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Écran : 20.7? Full HD Processeur : Intel Core i5-10500 (3,10 GHz up to 4,50 GHz, 12Mo de Mémoire Cache, Hexa-Core) Carte graphique : ntel® HD Graphics Mémoire : 4 Go de DDR4 2666 MHz Stockage : Disque dur 1 To HDD Ports : 6x USB, 2x USB 2.0, 1x HDMI, 1x RJ-45, 1x VGA, 1 connecteur d'alimentation, 1 prise combinée casque/microphone, 1 entrée auxiliaire, 1 sortie auxiliaire, 1 port série, 1 port PCIe x1, 1 port PCIe x16, 2 ports M.2 Système d?exploitation : FreeDos Couleur : Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1623658611_178.jpg",
+  "Offres": [
+    {
+      "Price": "1599 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/ordinateur-de-bureau/3126-pc-de-bureau-hp-pro-300-g6i5-10e-gen4go1to-noir.html"
+    },
+    {
+      "Price": "1779 DT",
+      "Last-update": "30/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/ordinateur/pc-de-bureau-hp-pro-300-g6-i5-10e-gen-4go-td-1to-ecran-294u7ea-prix-tunisie"
+    },
+    {
+      "Price": "1799 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/pc-de-bureau-hp-pro-300-g6-i5-10e-gen-4go-1to-noir-294u7ea.html"
+    },
+    {
+      "Price": "1939 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/pc-de-bureau-hp-pro-300-g6-i5-10e-gen-12go-1to-noir-294u7ea-12.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f026fa7fa8023c0cd270e2"
+  },
+  "Name": "DELL - PC DE BUREAU OPTIPLEX 3080 I5 10è GéN 4GO 1TO",
+  "Reference": "3080-I5",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i5-10500 10ème Génération (3,10 GHz , Up To 4,50 GHz , 12Mo de Mémoire Cache, Hexa-Core ) - Systéme d'exploitation: FreeDOS - Mémoire RAM: 4 Go - Disque Dur: 1 To  - Carte Graphique: Intel® HD Graphics avec Ethernet, USB, HDMI ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615972566_924.jpg",
+  "Offres": [
+    {
+      "Price": "1509 DT",
+      "Last-update": "01/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/44456-pc-de-bureau-dell-optiplex-3080-i5-10e-gen-4-go.html"
+    },
+    {
+      "Price": "1535 DT",
+      "Last-update": "03/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/ordinateur-de-bureau/2911-pc-de-bureau-dell-optiplex-3080-i5-10e-gen-4-go.html"
+    },
+    {
+      "Price": "2125 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/pc-de-bureau-dell-optiplex-3080-i5-10e-gen-16-go-3080-i5-16-ecran-dell-22-fhd-noir-e2222hs.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f026fb7fa8023c0cd270e3"
+  },
+  "Name": "LENOVO - PC DE BUREAU V50T I5 10è GéN 4GO 1TO",
+  "Reference": "11HD0019FM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i5-10400  (2.9 GHz up to 4.3 GHz, 12 Mo  de Mémoire Cache, Hexa-Core) - FreeDos - Mémoire RAM: 4 Go  DDR4 - Disque Dur: 1To  - Carte Graphique: Intel HD Graphics avec USB, VGA, HDMI & Energy Star ® 8.0 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615987868_780.jpg",
+  "Offres": [
+    {
+      "Price": "1399 DT",
+      "Last-update": "11/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/45909-pc-de-bureau-lenovo-v50t-13imb-i5-10e-gen-4-go.html"
+    },
+    {
+      "Price": "1829 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/pc-de-bureau-lenovo-v50t-i5-10e-gen-4go-1to-bu-11hd0019fm.html"
+    },
+    {
+      "Price": "1829 DT",
+      "Last-update": "09/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/pc-bureau/38605-pc-de-bureau-lenovo-v50t-i5-10-gen-4go-1to-noir-11hd0019fm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f026fc7fa8023c0cd270e4"
+  },
+  "Name": "HP - PC DE BUREAU MICROTOUR PRODESK 400 G6 I7 8È GÉN 4 GO 1TO",
+  "Reference": "7ZW63EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Core i7-8700 8è Génération, up to 4.1 GHz, -mémoire cache12 Mo  - Mémoire 4 Go - Disque 1 To, 7200 tr/min - Carte Graphique Intel UHD 630 - Lecteur de cartes - 4x USB 3.1 - 4x USB 2.0 - DisplayPort 1.2 - 1x RJ45 - 1x VGA - Freedos ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616162948_232.jpg",
+  "Offres": [
+    {
+      "Price": "2359 DT",
+      "Last-update": "05/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/pc-de-bureau-hp-prodesk-400-g6-i7-8e-gen-4go-1to-7zw63ea.html"
+    },
+    {
+      "Price": "2429 DT",
+      "Last-update": "31/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/pc-de-bureau-hp-prodesk-400-g6-i7-8e-gen-8go-1to-7zw63ea.html"
+    },
+    {
+      "Price": "2567 DT",
+      "Last-update": "09/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale-et-ecran/3306-pc-de-bureau-hp-prodesk-400g6-i7-8700-4go-1t-uma-ecran-v214.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f026fd7fa8023c0cd270e5"
+  },
+  "Name": "DELL - ORDINATEUR DE BUREAU VOSTRO 3888 I5 10èME GéNéRATION 4GO",
+  "Reference": "481775-3888",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur : Intel Core i5-10400   Fréquence processeur  : jusqu'à 4.30 GHz,12 Mo de mémoire cache   Disque dur : 1 To   RAM :4 Go   Système d?exploitation : Free-Dos   Carte graphique :Intel HD Graphics 630   Connecteurs : Lecteur de Cartes | Lecteur DVD | 4x USB 2.0 | 4x USB 3.2 | HDMI | VGA | RJ45 | Clavier et Souris Wifi  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/e2e3f-1_69.jpeg",
+  "Offres": [
+    {
+      "Price": "1449 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/pc-de-bureau-dell-vostro-3888-i5-10e-gen-4go-1to-noir.html"
+    },
+    {
+      "Price": "1459 DT",
+      "Last-update": "01/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/46282-pc-de-bureau-dell-vostro-3888-i5-10e-gen-4-go.html"
+    },
+    {
+      "Price": "1519 DT",
+      "Last-update": "01/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/46309-pc-de-bureau-dell-vostro-3888-i5-10e-gen-8-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f026fe7fa8023c0cd270e6"
+  },
+  "Name": "HP - PC DE BUREAU ALL IN ONE PROONE 400 G3 I3 7è GéN 4GO 500GO (2KL57EA)",
+  "Reference": "2KL57EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 20\"  HD anti-reflets ( 1600 x 900 ) - Processeur: Intel® Core? i3-7100T  7ème Génération (3,4 GHz, 3 Mo  de mémoire cache, Dual-Core) - systéme d'exploitation: FreeDos  - Mémoire RAM: 4 Go  DDR4-2400 - Disque Dur: 500 Go  SATA, 7200 tr/min - Carte graphique: Intel® HD 630 avec USB, Bluetooth -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537466658_339.jpg",
+  "Offres": [
+    {
+      "Price": "1435 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3858-pc-de-bureau-tout-en-un-hp-proone-400-g3-i3-7e-gen-4-go.html"
+    },
+    {
+      "Price": "1451 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3861-all-in-one-non-tactile-hp-proone-400-g3.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027017fa8023c0cd270e7"
+  },
+  "Name": "LENOVO - PC DE BUREAU V520 TWR I7 7è GéN 8GO 1TO (10NK000TFM)",
+  "Reference": "10NK000TFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i7 7700  7éme Génération (3.60 GHz  up to 4.20 GHz, 8 Mo de mémoire cache, Quad Coeurs ) - Systéme d'exploitation:  FreeDos - Mémoire RAM: 8Go DDR4  - Disque Dur: 1 To  HDD  - Carte graphique:  Intel HD Graphics, avec USB 3.0, VGA, HDMI, DisplayPort, Lecteur DVD, RJ45 -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537525069_631.jpg",
+  "Offres": [
+    {
+      "Price": "1715 DT",
+      "Last-update": "18/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/pc-bureau/16721-pc-de-bureau-lenovo-v520-twr-i7-7e-gen-8go-1to.html"
+    },
+    {
+      "Price": "2210 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale-et-ecran/3914-pc-de-bureau-lenovo-v510-i7-6700-8go-1to.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027027fa8023c0cd270e8"
+  },
+  "Name": "LENOVO - PC DE BUREAU TOUT-EN-UN S200Z / QUAD CORE / 4GO 10K4001XFM",
+  "Reference": "10K4001XFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Écran LCD 19.5\" LED (1600 x 900) - Processeur Intel Pentium Quad Core J3710, up to 2.64 GHz, 2 Mo de mémoire cache - 4 Go de mémoire - Disque 500 Go - Carte graphique Intel HD Graphics - HDMI - USB 3.0 - Wifi - Bluetooth -   Webcam HD ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537525662_941.jpg",
+  "Offres": [
+    {
+      "Price": "1069 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/40/Lenovo-S200Z-Quad-Core"
+    },
+    {
+      "Price": "1110 DT",
+      "Last-update": "05/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3911-pc-de-bureau-lenovo-tout-en-un-s200z-quad-core-4go-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027027fa8023c0cd270e9"
+  },
+  "Name": "HP - PC DE BUREAU ALL IN ONE PAVILION 22-C0001NK I5 8è GéN 8GO 1TO (4DG77EA)",
+  "Reference": "4DG77EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 21.5\"  IPS Full  HD  Tactile   - Processeur: Intel® Core i5-8250U  8 é Gén (1,6 GHz , jusqu?à 3,4 GHz, 6 Mo  de mémoire cache, 4 c?urs) - Systéme d'exploitation: Windows 10 Famille 64  - Mémoire RAM:  8 Go DDR4-2400 - Disque Dur:  1To SATA, 7200 tr/min - Carte graphique: NVIDIA GeForce MX110 (2 Go de mémoire GDDR5 dédiée) avec USB 3.1, HDMI, Wifi, Ethernet, Bluetooth -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539249509_221.jpg",
+  "Offres": [
+    {
+      "Price": "2559 DT",
+      "Last-update": "24/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/hp-22-c0001nk-ordinateur-de-bureau-i5-8250u-8go-1to-tunisie"
+    },
+    {
+      "Price": "2999 DT",
+      "Last-update": "05/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/5939-pc-de-bureau-hp-all-in-one-22-c0001nk-tactile-i5-8e-gen-8-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027037fa8023c0cd270ea"
+  },
+  "Name": "DELL - PC DE BUREAU OPTIPLEX 5050MT I5 7è GéN 4 GO 500GO SATA",
+  "Reference": "S008O5050MT",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Core i5-7500 7è Génération (3.8 GHz, 6 Mo de mémoire cache) - Mémoire 4 Go (1x4GB) 2400MHz DDR4 - Disque 500 Go - Intel HD Graphics 630- Graveur DVD - USB 3.0 - Display port 1.2 - HDMI 1.4 - RJ45 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539253198_401.jpg",
+  "Offres": [
+    {
+      "Price": "1349 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/ordinateurs/ordinateur-de-bureau/dell-optiplex-5050mt-i5-7500-4go-500go.html"
+    },
+    {
+      "Price": "1659 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale-et-ecran/3877-pc-de-bureau-optiplex-5050mt-i5-7500-4go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027047fa8023c0cd270eb"
+  },
+  "Name": "HP - PC DE BUREAU PAVILION ALL-IN-ONE 24-R101NK / I5 8è GéN / 8 GO",
+  "Reference": "4FK35EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 23.8\" Full HD IPS - Processeur Intel Core i5-8400T, jusqu'à 3.3 Ghz, 9 Mo de mémoire cache - Mémoire  8  Go DDR4 - Disque 1 To - Carte graphique AMD Radeon 530, 2 Go de mémoire GDDR5 dédiée - Graveur DVD - USB 3.1 Type-C - HDMI - Wifi - Bluetooth - Webcam HD - Windows 10 Famille 64 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539253946_206.jpg",
+  "Offres": [
+    {
+      "Price": "2849 DT",
+      "Last-update": "25/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/hp-24-r101nk-ordinateur-de-bureau-pavilion-i5-8400t-8go-1to-tunisie"
+    },
+    {
+      "Price": "3325 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3156-pc-de-bureau-hp-pavilion-all-in-one-24-r101nk-i5-8e-gen-8-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027047fa8023c0cd270ec"
+  },
+  "Name": "LENOVO - PC DE BUREAU IDEACENTRE AIO 330-20IGM / QUAD CORE / 4GO / F0D70047AL",
+  "Reference": "F0D70047AL",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Écran 19.5\" WXGA (1440 x 900) - Processeur Intel Pentium Silver J5005 Quad Core, up to 2.70 GHz, 4Mo de mémoire cache - 4 Go de mémoire - Disque 500 Go - Carte graphique Intel HD Graphics - Lecteur DVD - Lecteur de cartes - HDMI - USB 3.0 - Webcam 720p - Wifi - Bluetooth - Couleur Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1544270218_871.jpg",
+  "Offres": [
+    {
+      "Price": "965 DT",
+      "Last-update": "05/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1535/Pc-de-Bureau-ALL-IN-ONE-LENOVO-IdeaCentre-330-Quad-Core-4Go-500Go"
+    },
+    {
+      "Price": "1075 DT",
+      "Last-update": "07/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/5947-pc-de-bureau-lenovo-ideacentre-aio-330-20igm-quad-core-4go-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027057fa8023c0cd270ed"
+  },
+  "Name": "LENOVO - PC DE BUREAU ALL IN ONE V530-24ICB I3 4GO 1TO",
+  "Reference": "10UW0003FM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 23.8\" FULL HD (60,45 cm) antireflets - Processeur: Intel Core i3-8100T  (3.4 GHz , 6 Mo  de mémoire cache, Quad-Core ) - FreeDos  - Mémoire RAM: 4 Go DDR4  - Disque Dur: 1To HDD  - Carte Graphique: Intel HD Graphics avec système Smart USB Protection et d?un module TPM, et Système Low Blue Light ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615973642_774.jpg",
+  "Offres": [
+    {
+      "Price": "1809 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1329/PC-All-In-One-LENOVO-V530-24ICB-I3-8100T-4GO-1To"
+    },
+    {
+      "Price": "1860 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/5943-pc-de-bureau-lenovo-v530-24icb-all-in-one-i3-8e-gen-4go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027067fa8023c0cd270ee"
+  },
+  "Name": "LENOVO - PC DE BUREAU ALL IN ONE A340 I3 10è GéN 4GO 1TO",
+  "Reference": "F0EB00FNFE",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 21.5\" FULL HD Tactile (1920 x 1080 ) - Processeur: Intel® Core i3-10110U 10ème Génération (2.1 up to 4.1 GHz, 4 Mo  de mémoire cache, Dual-Core) - Systéme d'exploitation: FreeDos  - Mémoire RAM: 4 Go  - Disque Dur: 1To  - Carte Graphique: Intel HD Graphics avec USB 3.1, HDMI, WiFi ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615976637_140.jpg",
+  "Offres": [
+    {
+      "Price": "1659 DT",
+      "Last-update": "03/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/lenovo-aio340-pc-bureau-all-in-one-i3-10e-gen-4go-1to-freedos-tunisie"
+    },
+    {
+      "Price": "1999 DT",
+      "Last-update": "28/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/pc-all-in-one/20555-pc-de-bureau-all-in-one-lenovo-a340-i3-10e-gen-4go-1to-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027077fa8023c0cd270ef"
+  },
+  "Name": "LENOVO - PC DE BUREAU ALL IN ONE V130 DUAL CORE 4GO 1TO",
+  "Reference": "10RX0036FM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 19.5\" HD  (1366 x 768) - Processeur: Intel Celeron J4025 ( 2.0 GHz up to 2.9 GHz ,  Dual Core,  4 Mo  de mémoire cache) - Systéme d'exploitation: Free Dos - Mémoire RAM: 4Go  - Disque Dur: 1 To  - Carte graphique: Intel HD Graphics - avec WebCam 720p - Wifi - Bluetooth ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615977189_973.jpg",
+  "Offres": [
+    {
+      "Price": "899 DT",
+      "Last-update": "06/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1553/PC-de-Bureau-All-In-One-LENOVO-V130-Dual-Core-4Go-1To-Noir"
+    },
+    {
+      "Price": "1019 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/pc-all-in-one/42287-pc-de-bureau-lenovo-tout-en-un-v130-j4025-4go-1to-noir-10rx0036fm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027087fa8023c0cd270f0"
+  },
+  "Name": "LENOVO - PC DE BUREAU | V530 | DUAL CORE | 4GO | 1TO",
+  "Reference": "10TV002VFM-DC",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Pentium G5400 Dual Core  (3,3 GHz, 3Mo de Mémoire Cache) - Systéme d'exploitation: FreeDos - Mémoire RAM: 4Go  DDR4 - Disque Dur: 1To , 7200 tr/min - Carte Graphique: Intel HD Graphics  - avec USB 3.0, VGA, RJ45, HDMI ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615992776_563.jpg",
+  "Offres": [
+    {
+      "Price": "749 DT",
+      "Last-update": "29/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/pc-bureau/17215-pc-de-bureau-lenovov530dual-core4go-1to--noir-10tv002vfm-dc.html"
+    },
+    {
+      "Price": "812 DT",
+      "Last-update": "29/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/pc-bureau/22681-pc-de-bureau-lenovo-v530-dual-core-4go-500go-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0270d7fa8023c0cd270f1"
+  },
+  "Name": "LENOVO - PC DE BUREAU ALL IN ONE V330 I3 8è GéN 4GO 1TO",
+  "Reference": "10UK0006FM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Réf: 10UK0006FM - Ecran 19.5\" HD   (1600 x 900) - Processeur:  Intel Core i3-8100  (3.6 GHz , 6 Mo  de mémoire cache)  - Systéme d'exploitation : Free Dos  - Mémoire RAM:  4Go DDR4  - Disque Dur:  1 To  - Carte graphique :  Intel HD Graphics - Webcam intégrée: 720p - Haut-parleurs intégrés - Bluetooth 4.0 - Wifi - Bluetooth ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616056801_308.jpg",
+  "Offres": [
+    {
+      "Price": "1499 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1328/Pc-ALL-IN-ONE-LENOVO-V330-i3-8100-Gn-4Go-1To"
+    },
+    {
+      "Price": "1610 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/5945-pc-de-bureau-lenovo-v330-20icb-all-in-one-i3-4-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0270e7fa8023c0cd270f2"
+  },
+  "Name": "HP - PC DE BUREAU PRO G3 DUAL CORE 4GO 1TO",
+  "Reference": "9UG03EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 20.7\"  LED - Processeur: Intel Pentium Dual Core G5420 (3,8 Ghz, 4Mo  de Mémoire Cache) - Systéme d'exploitation: FreeDos - Mémoire RAM: 4Go  - Disque Dur: 1 To  - Carte Graphique: Intel UHD 630 - avec Graveur DVD, USB 3.1, HDMI\n ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616144527_573.jpg",
+  "Offres": [
+    {
+      "Price": "999 DT",
+      "Last-update": "05/01/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/hp-pro-300-g3-pc-de-bureau-dual-core-4-go-1-to-complet-tunisie"
+    },
+    {
+      "Price": "1169 DT",
+      "Last-update": "28/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1605/Pc-de-Bureau-HP-Pro-G3-Dual-Core-4Go-1To"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0270f7fa8023c0cd270f3"
+  },
+  "Name": "HP - PC DE BUREAU PRO G2 I3 8E GéNéRATION 4 GO",
+  "Reference": "5QL06EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel® Core? i3-8100 8e génération  (3,6 GHz, 6 Mo de mémoire cache, 4 c?urs)  - Systéme d'exploitation:FreeDos - Mémoire RAM: 4Go SDRAM DDR4-2666  - Disque Dur: SATA 1 To, 7200 tr/min  - Carte Graphique: Carte graphique Intel® UHD 630 -  avec VGA, USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616164382_159.jpg",
+  "Offres": [
+    {
+      "Price": "1419 DT",
+      "Last-update": "09/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/hp-pro-g2-pc-bureau-i3-8e-gen-ram-4go-1to-complet-tunisie"
+    },
+    {
+      "Price": "1429 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1274/Pc-de-Bureau-HP-Pro-G2-i3-8100-8-Gn-4Go-1To"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027107fa8023c0cd270f4"
+  },
+  "Name": "DELL - PC DE BUREAU ALL IN ONE INSPIRON 5490 23.8NT I7-10510U 8G 1T+512G",
+  "Reference": "5490AIOI72G",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel® Core? i7-10510U (8 Mo de cache, jusqu'à 4,90 GHz),Mémoire 8 Go DDR4,Disque dur 1TB + 512 SSD,Système d'exploitation Windows 10,Carte Graphique NVIDIA® GeForce® MX130 (2 Go de mémoire GDDR5 dédiée),Taille écran 24 Pouces,garantie 1 An,Ecran tactile NON ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616748628_592.jpg",
+  "Offres": [
+    {
+      "Price": "3299 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3919-pc-de-bureau-dell-all-in-one-inspiron-5490-238nt-i7-10510u-8g-1t512g-mx110-w10h.html"
+    },
+    {
+      "Price": "3479 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3920-pc-de-bureau-dell-inspiron-5490-238-tactile-i7-10510u-16g-1t256g-mx110-w10h.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027117fa8023c0cd270f5"
+  },
+  "Name": "DELL - PC DE BUREAU VOSTRO 3888 / PENTIUM GOLD G6400 / 4 GO / 1 TO",
+  "Reference": "N212VD3888EMEA03",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Pentium Gold Dual Core G6400 ,  4.0 GHz, 4 Mo de mémoire cache - Mémoire 8 Go - Disque 1 To - Carte Graphique intel UHD Graphics -  Wifi - Bluetooth - Lecteur de Cartes - Lecteur DVD - 4x USB 2.0 - 4x USB 3.2 - HDMI - VGA - RJ45 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616750133_777.jpg",
+  "Offres": [
+    {
+      "Price": "929 DT",
+      "Last-update": "07/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/48018-pc-de-bureau-dell-vostro-3888-pentium-gold-g6400-4-go.html"
+    },
+    {
+      "Price": "1150 DT",
+      "Last-update": "07/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/ordinateur-de-bureau/2909-pc-de-bureau-dell-vostro-3888-pentium-gold-dual-core-4-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027127fa8023c0cd270f6"
+  },
+  "Name": "LENOVO - PC DE BUREAU ALL IN ONE IDEACENTRE 520 I3 6è GéN 4GO 1TO NOIR",
+  "Reference": "F0D5003GAL",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran: 21.5\" FULL HD  (1920 x 1080) -  Processeur: Intel Core i3-6006  6ème Génération ( 2.0 Ghz , 3 Mo  de mémoire cache, Dual-Core ) -  Systéme d'exploitation: FreeDos  - Mémoire RAM:  4Go  DDR4 SDRAM - Disque Dur: 1 To HDD - Carte Graphique: Intel HD Graphics, avec USB 3.0, HDMI, Wifi, Bluetooth - Couleur: Noir -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537466665_921.jpg",
+  "Offres": [
+    {
+      "Price": "1540 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3921-pc-de-bureau-lenovo-ideacentre-aio-520-22iku-i3-4go-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027127fa8023c0cd270f7"
+  },
+  "Name": "LENOVO - PC DE BUREAU IDEACENTRE 510-15IKL I5 7è GéN 4GO 1T (90G8003TAL)",
+  "Reference": "90G8003TAL",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel® Core i5-7400  7éme Génération (3.00 GHz up to 3,50 GHz, 6 Mo de mémoire cache, Quad-Core) - Systéme d'exploitation: FreeDos  - Mémoire RAM: 4 Go DDR4 - Disque Dur: 1 To  - Carte graphique:  Intel HD Graphics, avec USB 3.0, HDMI, VGA, Lecteur de cartes - Clavier et Souris USB -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537466823_567.jpg",
+  "Offres": [
+    {
+      "Price": "1480 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/5117-pc-de-bureau-lenovo-ideacentre-510-15ikl-i5-7e-gen-4-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027137fa8023c0cd270f8"
+  },
+  "Name": "LENOVO - PC DE BUREAU V520 TWR I3 7é GéN 4GO 500GO (10NK001AFM)",
+  "Reference": "10NK001AFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Core i3-7100U 7éme Génération (2,40 GHz, 3 Mo de mémoire cache, Dual-Core ) - Systéme d'exploitation: FreeDos - Mémoire RAM: 4 Go DDR4 - Disque Dur: 500 Go , 7200 rpm - Carte graphique: Intel HD Graphics -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537466842_725.jpg",
+  "Offres": [
+    {
+      "Price": "1225 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale-et-ecran/3916-pc-de-bureau-lenovo-v520-i3-7100-4go-500-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027147fa8023c0cd270f9"
+  },
+  "Name": "HP - PC DE BUREAU PRODESK 400 G4 MT I5 7è GéN 4GO 500GO (1QM16EA)",
+  "Reference": "1QM16EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 20.7\"  Full HD ( 1920 x 1080 ) - Processeur: Intel Core i5-7500  7ème Génération (3,4 GHz, Up To 3.8 GHz, 6Mo  de Mémoire Cache, Quad-Core) - Systéme d'exploitation: FreeDos  - Mémoire RAM: 4Go  DDR4 - Disque Dur: 500 Go  HDD, 7200 tr/min - Carte Graphique: Intel HD Graphics - avec USB 3.1, USB2.0 et VGA -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537466856_758.jpg",
+  "Offres": [
+    {
+      "Price": "1839 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale-et-ecran/3323-ordinateur-de-bureau-hp-prodesk-400-g4-intel-core-i5-7500.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027147fa8023c0cd270fa"
+  },
+  "Name": "HP - PC DE BUREAU ALL IN ONE PROONE 400 G3 I3 7è GéN 4GO 500GO (1KN72EA)",
+  "Reference": "1KN72EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 23.8\"  FULL HD ( 1920 x 1080 ) - Processeur: Intel® Core? i3-7100T  7ème Génération (3,4 GHz, 3 Mo  de mémoire cache, Dual-Core) - systéme d'exploitation: Windows Professionnel  - Mémoire RAM: 4 Go DDR4-2400 - Disque Dur:  500 Go  SATA, 7200 tr/min - Carte graphique: Intel® HD 630 avec USB, Bluetooth -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537466935_149.jpg",
+  "Offres": [
+    {
+      "Price": "1899 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3862-pc-de-bureau-tout-en-un-hp-proone-440-g3-i3-7e-gen-4-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027157fa8023c0cd270fb"
+  },
+  "Name": "DELL - PC DE BUREAU VOSTRO 3668 / DUAL CORE / 4 GO",
+  "Reference": "N221VD3668EMEA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Pentium Dual Core G4560 ,  3.50 GHz, 3 Mo de mémoire cache - Mémoire 4 Go - Disque 500 Go - Carte graphique Intel HD Graphics - Graveur DVD - Wifi - Gigabit Ethernet   - 2x USB 3.0 - HDMI - VGA - Clavier et Souris USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537467018_784.jpg",
+  "Offres": [
+    {
+      "Price": "655 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/ordinateurs/ordinateur-de-bureau/dell-vostro-3668-dual-core-4-go-500-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027157fa8023c0cd270fc"
+  },
+  "Name": "LENOVO - PC DE BUREAU V520 DUAL-CORE 4GO 500GO - NOIR (10NK001SFM)",
+  "Reference": "10NK001SFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Pentium G4400  Dual Core (3,3 GHz, 3Mo  de Mémoire Cache) - Systéme d'exploitation: FreeDos  - Mémoire RAM: 4Go DDR3 - Disque Dur: 500Go , 7200 tr/min - Carte Graphique: Intel HD Graphics - avec USB 3.0, VGA, RJ45, HDMI -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537525226_162.jpg",
+  "Offres": [
+    {
+      "Price": "1099 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale-et-ecran/3909-pc-de-bureau-lenovo-v520-g4400-4go-500go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027167fa8023c0cd270fd"
+  },
+  "Name": "HP - PC DE BUREAU PRODESK 400 G4 SFF I3 7è GéN 4GO 500GO (1QM47EA)",
+  "Reference": "1QM47EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i3-7100  7ème Génération (3.9 GHz, 3Mo  de Mémoire Cache, Dual-Core) - Systéme d'exploitation:FreeDos  - Mémoire RAM: 4Go  DDR4 - Disque Dur: 500 Go SATA, 7 200 tr/min - Carte Graphique:  Intel® HD 630  avec RJ-45, VGA, USB -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537525232_215.jpg",
+  "Offres": [
+    {
+      "Price": "1230 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/3320-pc-de-bureau-hp-prodesk-400-g4-i3-7100-4go-500-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027167fa8023c0cd270fe"
+  },
+  "Name": "LENOVO - PC DE BUREAU IDEACENTRE AIO 520-22IKU TACTILE / I3 / 4GO / SILVER",
+  "Reference": "F0D5003HAL",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Écran 21.5\" Full HD  LED Tactile  (1920 x 1080) - Processeur Intel Core i3-6006U, 2.00 GHz, 3 Mo de mémoire cache - 4 Go de mémoire - Disque 1 To - Carte graphique Intel HD Graphics - Haut Parleur Intégré - HDMI - USB 3.0 - Webcam pop-up 720p  - Wifi - Bluetooth - Couleur Silver  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537525397_599.jpg",
+  "Offres": [
+    {
+      "Price": "1649 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/727/PC-ALL-IN-ONE-LENOVO-IDEACENTRE-AIO-520-22IKU-TACTILE-I3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027177fa8023c0cd270ff"
+  },
+  "Name": "LENOVO - PC DE BUREAU V310Z ALL-IN-ONE / I3 7è GéN / 4GO 10QG000MFM",
+  "Reference": "10QG000MFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Écran 19.5\" HD LED - Processeur Intel Core i3-7100, 3.90 GHz, 3 Mo de mémoire cache - Mémoire 4 Go DDR4 2400 MHz - Disque 500 Go - Carte graphique Intel HD Graphics 630 - Graveur DVD - Ethernet - HDMI - USB 3.0 - Webcam HD 720p - Wifi - Bluetooth - Couleur Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537525636_828.jpg",
+  "Offres": [
+    {
+      "Price": "1280 DT",
+      "Last-update": "05/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3908-pc-de-bureau-lenovo-v310z-all-in-one-i3-7e-gen-4go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027177fa8023c0cd27100"
+  },
+  "Name": "HP - PC DE BUREAU TOUT-EN-UN PROONE 400 G3 / I5 7è GéN / 4 GO 2KL19EA",
+  "Reference": "2KL19EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 20\" HD LED - Processeur Intel Core i5-7500T, jusqu'à 3.3 Ghz, 6 Mo de mémoire cache - Mémoire   4 Go DDR4 - Disque 500 Go, 7200 tr/min - Carte graphique Intel HD 630 - Graveur DVD - Lecteur de cartes - 4x USB 3.1 - 1x DisplayPort 1.2  - Ethernet - Webcam 1 MP ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1537527507_336.jpg",
+  "Offres": [
+    {
+      "Price": "1739 DT",
+      "Last-update": "05/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3865-pc-de-bureau-tout-en-un-hp-proone-400-g3-i5-7e-gen-4-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0271a7fa8023c0cd27101"
+  },
+  "Name": "HP - PC DE BUREAU PAVILION ALL-IN-ONE 24-R102NK / I7 8è GéN / 8 GO",
+  "Reference": "4FK31EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 23.8\" Full HD IPS Tactile - Processeur Intel Core i7-8700T, jusqu'à 4.0 Ghz, 12 Mo de mémoire cache - Mémoire  8  Go DDR4 - Disque 1 To - Carte graphique Intel UHD 630 - Graveur DVD - USB 3.1 Type-C - HDMI - Wifi - Bluetooth - Webcam HD - Windows 10 Famille 64 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539249947_561.jpg",
+  "Offres": [
+    {
+      "Price": "3279 DT",
+      "Last-update": "25/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/hp-24-r102nk-ordinateur-de-bureau-pavilion-i7-8700t-8go-1to-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0271b7fa8023c0cd27102"
+  },
+  "Name": "HP - PC DE BUREAU ELITE SLICE I5 6è GéN 8GO 256GO SSD (X6T95EA)",
+  "Reference": "X6T95EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i5-6500T  6ème Génération (2.5 GHz, Up To 3.1 GHz, 6Mo  de Mémoire Cache, Quad-Core) - Systéme d'exploitation: Windows 10 Professionnel  - Mémoire RAM: 8Go  DDR4 2400 MHz - Disque Dur: 256 Go SSD  - Carte Graphique:  Intel® HD 530 - avec Wi-Fi, Bluetooth, USB -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539249987_784.jpg",
+  "Offres": [
+    {
+      "Price": "2499 DT",
+      "Last-update": "08/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/3871-pc-de-bureau-hp-elite-slice-i5-6e-gen-8go-256go-ssd-x6t95ea.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0271d7fa8023c0cd27103"
+  },
+  "Name": "DELL - PC DE BUREAU OPTIPLEX 5050 MT / I7 7è GéN / 8 GO",
+  "Reference": "5050MTI7",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "DELL Optiplex 5050 Mini Tour : Processeur Intel ®  Core ?  i7 - 7700, 7ème Génération  ( 8 Mo Cache , up to 4.20  GHz )   - Mémoire 8 Go - Disque 1 To - Carte Graphique Intel® HD Graphics 630 - Graveur DVD - Ethernet GbE - 2x DisplayPort - HDMI - 10x USB 3.0 - 2x USB 2.0 - Ubuntu Linux ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539252206_104.jpg",
+  "Offres": [
+    {
+      "Price": "1689 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/ordinateurs/ordinateur-de-bureau/dell-optiplex-5050-mt-i7-7e-gen-4-go-to.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0271e7fa8023c0cd27104"
+  },
+  "Name": "HP - PC DE BUREAU ALL IN ONE 22-C0000NK I3 8é GéN 4GO 1TO BLANC (4DF19EA)",
+  "Reference": "4DF19EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran: 21.5\"  FHD IPS (1920 x 1080) -  Processeur: Intel® Core? i3-8130U (2,2 GHz , 4 Mo de mémoire cache)-  Systéme d'exploitation:Windows 10 Famille - Mémoire RAM:  4Go SDRAM DDR4 -Disque Dur: 1To SATA (7200 tr/min) -Carte Graphique: Intel HD 620  avec Wi-Fi et Bluetooth- Couleur: Blanc-  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539249516_986.jpg",
+  "Offres": [
+    {
+      "Price": "2096 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/hp-22-c0000nk-ordinateur-de-bureau-i3-8130u-4go-1to-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0271e7fa8023c0cd27105"
+  },
+  "Name": "LENOVO - PC DE BUREAU ALL IN ONE V410Z I5 7è GéN 4GO 500GO (10QW0008FM)",
+  "Reference": "10QW0008FM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 21.5\" Full HD  (1920 x 1080) - Processeur: Intel Core i5-7400T 7ème Génération   ( 2.40 GHz up to 3.00 GHz, 6 Mo  de mémoire cache, Quad-Core) - Systéme d'exploitation: Free Dos  - Mémoire RAM:  4Go DDR4 2400MHz - Disque Dur:  500 Go  - Carte graphique: Intel HD Graphics - avec WebCam 720p -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539249529_703.jpg",
+  "Offres": [
+    {
+      "Price": "1890 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3917-pc-de-bureau-lenovo-v4510z-all-in-one-i5-7e-gen-4go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0271f7fa8023c0cd27106"
+  },
+  "Name": "HP - PC DE BUREAU PAVILION ALL-IN-ONE 24-R103NK / I7 8è GéN / 8 GO",
+  "Reference": "4FK27EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 23.8\" Full HD IPS Tactile - Processeur Intel Core i7-8700T, jusqu'à 4.0 Ghz, 12 Mo de mémoire cache - Mémoire  8  Go DDR4 - Disque 1 To - Carte graphique AMD Radeon 530, 2 Go de mémoire GDDR5 dédiée - Graveur DVD - USB 3.1 Type-C - HDMI - Wifi - Bluetooth - Webcam HD - Windows 10 Famille 64 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539249941_204.jpg",
+  "Offres": [
+    {
+      "Price": "3669 DT",
+      "Last-update": "22/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/hp-24-r103nk-ordinateur-de-bureau-pavilion-i7-8700t-8go-1to-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0271f7fa8023c0cd27107"
+  },
+  "Name": "LENOVO - PC DE BUREAU ALL IN ONE V510Z I5 6è GéN 4GO 1TO (10NH0030UM)",
+  "Reference": "10NH0030UM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran: 23\"  Full HD (1920 x 1080 ) - Processeur Intel® Core? i5-6400T  (2.2 Ghz  Up To 2,80 GHz, 6 Mo  de mémoire cache, Quad Core), Systéme d'exploitation: FreeDos - Mémoire RAM 4 Go DDR4  2133 MHz - Disque Dur 1 To HDD  (5 400 tr/min) - Carte Graphique: Intel HD Graphics avec WiFi, USB 3.0, HDMI, Lecteur de cartes, WebCam HD 720P, et Graveur DVD -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539249992_465.jpg",
+  "Offres": [
+    {
+      "Price": "1769 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/134/Lenovo-V510Z-Intel-I5-6400T"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027207fa8023c0cd27108"
+  },
+  "Name": "DELL - PC DE BUREAU OPTIPLEX 3040 MT S01503040MT",
+  "Reference": "S01503040MT",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": " Processeur:  Intel Core i5-6500U (3.2 GHz up to 3.6 GHz Quad-c?urs ,6Mo de mémoire cache ), Systéme d'exploitation: Free Dos,  Mémoire RAM: 4 Go DDR3,  Disque Dur: 500 Go,   Carte graphique: Intel HD Graphics, avec USB 3.0, HDMI, DVI, et Ethernet -   ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539252216_151.jpg",
+  "Offres": [
+    {
+      "Price": "1199 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/ordinateurs/ordinateur-de-bureau/dell-optiplex-3050-mt-i5-7e-gen-4go-500go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027207fa8023c0cd27109"
+  },
+  "Name": "HP - PC DE BUREAU PRODESK 400 G4 MT I5 7è GéN 8GO 1TO (Y3A10AV)",
+  "Reference": "Y3A10AV",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i5-7500  7ème Génération (3.4 GHz, Up To 3.8 GHz, 6Mo  de Mémoire Cache, Quad-Core) - Systéme d'exploitation: FreeDos  - Mémoire RAM: 8Go  DDR4 - Disque Dur: 1 To HDD - Carte Graphique:  Intel® HD 630  avec RJ-45, VGA, USB -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539253961_623.jpg",
+  "Offres": [
+    {
+      "Price": "1675 DT",
+      "Last-update": "07/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/3857-pc-de-bureau-hp-prodesk-400-g4-mt-i5-7e-gen-8go-1to-y3a10av.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027217fa8023c0cd2710a"
+  },
+  "Name": "ASUS - PC DE BUREAU ALL IN ONE V222GAK-BA015D",
+  "Reference": "V222GAK-BA015D",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran : 21.5\" HD LED , Processeur Intel Celeron J4005, up to 2.0/2.7Ghz, 4 Mo de mémoire cache , Mémoire: 4 Go DDR4 , Disque: 500 GO ,Carte graphique: Intel HD Graphics 600 HDMI ? Wifi  1xUSB 2.0 + 4xUSB 3.1 Webcam intégrée System d?exploitation ,Free-Dos, ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539267256_190.jpg",
+  "Offres": [
+    {
+      "Price": "1599 DT",
+      "Last-update": "09/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/asus-v222gak.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027227fa8023c0cd2710b"
+  },
+  "Name": "ASUS - PC DE BUREAU ALL IN ONE V221ICUK- BA088D",
+  "Reference": "V221ICUK-BA088D",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 21.5\"  HD LED -  Processeur Intel® Core i3-6006U  (2.0 GHz, 3 Mo de mémoire cache, Dual-Core),  Systéme d'exploitation: FreeDos  - Mémoire RAM 4Go  DDR4 -  Disque Dur 1To  SATA  - Carte Graphique Intel HD Graphics 620 avec USB 3.1, USB 2.0, HDMI, WiFi, WebCam intégrée -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539267281_252.jpg",
+  "Offres": [
+    {
+      "Price": "1449 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/ordinateurs/ordinateur-de-bureau/pc-all-in-one-asus-intel-i3-6006u-v221icuk-ba088d.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027227fa8023c0cd2710c"
+  },
+  "Name": "LENOVO - PC DE BUREAU IDEACENTRE AIO 520-22IKU TACTILE / I3 / 4GO / NOIR F0D5003FAL",
+  "Reference": "F0D5003FAL",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Écran 21.5\" Full HD LED Tactile (1920 x 1080) - Processeur Intel Core i3-6006U, 2.00 GHz, 3 Mo de mémoire cache - 4 Go de mémoire - Disque dur:1 To - Carte graphique Intel HD Graphics - Haut Parleur Intégré - HDMI - USB 3.0 - Webcam pop-up 720p - Wifi - Bluetooth - Couleur Noir  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539274774_147.jpg",
+  "Offres": [
+    {
+      "Price": "1649 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/726/PC-ALL-IN-ONE-LENOVO-IDEACENTRE-AIO-520-22IKU-TACTILE-I3"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027237fa8023c0cd2710d"
+  },
+  "Name": "HP - PC DE BUREAU PAVILION ALL-IN-ONE 24-R100NK / I5 8è GéN / 8 GO",
+  "Reference": "4FK41EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 23.8\" Full HD IPS - Processeur Intel Core i5-8400T, jusqu'à 3.3 Ghz, 9 Mo de mémoire cache - Mémoire  8  Go DDR4 - Disque 1 To - Carte graphique Intel UHD 630 - Graveur DVD - USB 3.1 Type-C - HDMI - Wifi - Bluetooth - Webcam HD - Windows 10 Famille 64 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1539253950_101.jpg",
+  "Offres": [
+    {
+      "Price": "3190 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/5938-pc-de-bureau-hp-pavilion-all-in-one-hpaio24-r100nki5-8400t8go1tumaw10238.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027247fa8023c0cd2710e"
+  },
+  "Name": "HP - PC DE BUREAU ALL IN ONE 20-C402NK I3 7é GéN 4GO 1TO 4DG62EA",
+  "Reference": "4DG62EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "   i3-7130U 7éme Génération  3 Mo  Windows 10 Famille 64 -   4Go DDR4 - 1To SATA - Intel® UHD 600  -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1541689458_152.jpg",
+  "Offres": [
+    {
+      "Price": "1789 DT",
+      "Last-update": "24/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/hp-20-c402nk-ordinateur-de-bureau-i3-7130u-4go-1to-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027247fa8023c0cd2710f"
+  },
+  "Name": "LENOVO - PC DE BUREAU IDEACENTRE AIO 330-20IGM / DUAL CORE / 4GO / F0D70041AL",
+  "Reference": "F0D70041AL",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Écran 19.5\" WXGA (1440 x 900) - Processeur Intel Celeron J4005 Dual Core, up to 2.70 GHz, 4Mo de mémoire cache - 4 Go de mémoire - Disque 500 Go - Carte graphique Intel HD Graphics - Lecteur DVD - Lecteur de cartes - HDMI - USB 3.0 - Webcam 720p - Wifi - Bluetooth - Couleur Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1544270200_804.jpg",
+  "Offres": [
+    {
+      "Price": "899 DT",
+      "Last-update": "07/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/5948-pc-de-bureau-lenovo-ideacentre-aio-330-20igm-dual-core-4go-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027257fa8023c0cd27110"
+  },
+  "Name": "DELL - PC DE BUREAU ALL-IN-ONE INSPIRON 3064 20\" / I3 7è GEN / 4 GO",
+  "Reference": "insp20-i3",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Dell Inspiron 3064 : Ecran 19.5\" LED HD+ (1600 x 900) - Processeur Intel® Core? i3-7100U, 7ème génération (3 Mo Cache, up to 2.40 GHz) - Mémoire 4 Go DDR4 - Disque 1 To - WebCam - Carte Graphique Intel HD Graphics 620 - Graveur DVD - Lecteur de cartes - Ethernet - Wifi - Bluetooth - HDMI - USB 3.0 - USB 2.0 - FreeDos - Clavier&Souris  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1547808352_232.jpg",
+  "Offres": [
+    {
+      "Price": "1279 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/ordinateurs/ordinateur-de-bureau/all-in-one-dell-inspiron-3064-i3-7e-gen-4go-1to.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027257fa8023c0cd27111"
+  },
+  "Name": "DELL - PC DE BUREAU ALL IN ONE TACTILE INSPIRON 3064",
+  "Reference": "insp20-i3-tac",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 19.5\" HD LED Tactile - Processeur Intel Core i3-7100U, 2.4 Ghz, 3 Mo de mémoire cache - Mémoire 4 Go DDR3L - Disque 1 To - Carte graphique Intel HD Graphics - Graveur DVD - Bluetooth - Windows 10 Basic ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1547808374_566.jpg",
+  "Offres": [
+    {
+      "Price": "1499 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/ordinateurs/ordinateur-de-bureau/all-in-one-dell-inspiron-3064-tactile-i3-7e-gen-4-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027267fa8023c0cd27112"
+  },
+  "Name": "DELL - PC DE BUREAU OPTIPLEX 5080 I5 10è GéN 8GO 1TO",
+  "Reference": "5080-I5",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i5-10500  10ème Génération (3,10 GHz , Up To 4,50 GHz , 12Mo  de Mémoire Cache, Hexa-Core ) - Systéme d'exploitation: FreeDos  - Mémoire RAM: 8 Go  - Disque Dur: 1 To  - Carte Graphique: Intel® UHD 630  Graphics avec USB 3.2, USB 2.0, DisplayPort et RJ-45 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615971292_972.jpg",
+  "Offres": [
+    {
+      "Price": "1879 DT",
+      "Last-update": "20/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/pc-de-bureau-dell-optiplex-5080-i5-10e-gen-16go-1to-5080-i5-16g.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027267fa8023c0cd27113"
+  },
+  "Name": "LENOVO - PC DE BUREAU TOUT EN UN | V530 | I3 9è GéN | 4GO | 1TO",
+  "Reference": "10UU0028FM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 21.5\"  FULL HD (1920 x 1080 ) - Processeur: Intel® Core i3-9100T  9ème Génération (3.1 GHz up to 3.7 GHz, 6 Mo de mémoire cache, Quad-Core) - Systéme d'exploitation: FreeDos - Mémoire RAM: 4 Go  - Disque Dur: 1To  - Carte Graphique: Intel HD Graphics  avec USB 3.1, HDMI, WiFi ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615976966_378.jpg",
+  "Offres": [
+    {
+      "Price": "1559 DT",
+      "Last-update": "18/12/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1614/Pc-de-Bureau-ALL-IN-ONE-LENOVO-V530-i3-9-Gn-4Go-1To"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027277fa8023c0cd27114"
+  },
+  "Name": "DELL - PC DE BUREAU ALL IN ONE INSPIRON 3480 I3 8è GéN 4GO 1TO",
+  "Reference": "3480AIO",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran: 23.8  FHD  - Processeur: Intel Core i3-8145U  8ème Gènération (2.1 Ghz up to 3.9 Ghz, 4 Mo  de mémoire cache, Dual Core) - Systéme d'exploitation: Windows 10 Home  - Mémoire RAM: 4 Go  DDR4, 2666 MHz - Disque Dur: 1 To  (5 400 tr/min) - Carte Graphique: Nvidia GeForce MX110 (2Go  de mémoire dédiée) avec WiFi, USB 3.1, HDMI RJ45 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615972096_125.jpg",
+  "Offres": [
+    {
+      "Price": "1689 DT",
+      "Last-update": "26/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/ordinateur-de-bureau/1849-pc-de-bureau-all-in-one-dell-inspiron-3480-i3-8e-gen-4go-1to.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027277fa8023c0cd27115"
+  },
+  "Name": "LENOVO - PC DE BUREAU IDEACENTRE 510-15ICK I5 9è GéN 4GO 1TO",
+  "Reference": "90LU0040AL",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i5-9400  9ème Génération (2.90 GHz up to 4.10 GHz, 9 Mo  de mémoire cache, Quad-Core) - Systéme d'exploitation: FreeDos  - Mémoire RAM: 4 Go  DDR4 - Disque Dur: 1 To  7200 tr/min - Carte graphique: Intel HD Graphics, avec USB 3.0, HDMI, Lecteur DVD - Wi-Fi - Bluetooth ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615987353_464.jpg",
+  "Offres": [
+    {
+      "Price": "1239 DT",
+      "Last-update": "05/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1538/PC-de-Bureau-LENOVO-IdeaCentre-510-15ICK-i5-9400-4Go-1To"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027287fa8023c0cd27116"
+  },
+  "Name": "LENOVO - PC DE BUREAU V530T I3 9è GéN 4GO 1TO",
+  "Reference": "11BH00ECFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i3-9100  (3.6 GHz up to 4.2 GHz, 6 Mo de Mémoire Cache, Quad-Core ) - Systéme d'exploitation: FreeDos - Mémoire RAM: 4 Go DDR4 - Disque Dur: 1To   - Carte Graphique: Intel® HD Graphics avec Wi-Fi, Port Série Paralléle ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615988792_710.jpg",
+  "Offres": [
+    {
+      "Price": "949 DT",
+      "Last-update": "17/12/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1628/PC-de-Bureau-LENOVO-V530T-i3-9-Gn-4Go-1To"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027297fa8023c0cd27117"
+  },
+  "Name": "LENOVO - PC DE BUREAU IDEACENTRE 510-15ICK DUAL-CORE G5420 4GO 1TO",
+  "Reference": "90LU0041AL",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur:  Intel Pentium Dual Core G5420  (3.80 GHz, 4 Mo de mémoire cache, Dual-Core) - Systéme d'exploitation: FreeDos  - Mémoire RAM: 4 Go  DDR4 - Disque Dur: 1 To  7200 tr/min - Carte graphique: Intel HD Graphics, avec USB 3.0, HDMI, Lecteur DVD - Wi-Fi - Bluetooth ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615988980_217.png",
+  "Offres": [
+    {
+      "Price": "799 DT",
+      "Last-update": "05/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1536/PC-de-Bureau-LENOVO-IdeaCentre-510-15ICK-Dual-Core-G5420-4Go-1To"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027297fa8023c0cd27118"
+  },
+  "Name": "LENOVO - PC DE BUREAU IDEACENTRE 510-15ICK I3 10è GéN 4GO 1TO",
+  "Reference": "90NA0069FE",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i3-10100  10ème Génération (3.60 GHz up to 4.30 GHz, 6 Mo  de mémoire cache, Quad-Core) - Systéme d'exploitation: FreeDos  - Mémoire RAM: 4 Go  DDR4 - Disque Dur: 1 To  - Carte graphique: Intel HD Graphics, avec USB 3.0, HDMI, Lecteur DVD - Wi-Fi - Bluetooth ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615988495_416.jpg",
+  "Offres": [
+    {
+      "Price": "999 DT",
+      "Last-update": "10/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1754/PC-DE-BUREAU-LENOVO-IDEACENTRE-5-14IMB05-I3-10E-GEN-4-GO-1-TO"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0272a7fa8023c0cd27119"
+  },
+  "Name": "LENOVO - PC DE BUREAU TOUT EN UN | V530 | I3 9è GéN | 4GO | 1TO",
+  "Reference": "10US00LWFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 21.5 \" FULL HD (1920 x 1080 ) - Processeur: Intel® Core i3-9100T  9ème Génération (3.1 GHz up to 3.7 GHz, 6 Mo de mémoire cache, Quad-Core) - Systéme d'exploitation: FreeDos - Mémoire RAM: 4 Go  - Disque Dur: 1To  - Carte Graphique: Intel HD Graphics  avec USB 3.1, HDMI, WiFi ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615991736_537.jpg",
+  "Offres": [
+    {
+      "Price": "1559 DT",
+      "Last-update": "02/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1554/Pc-de-Bureau-ALL-IN-ONE-LENOVO-V530-i3-9-Gn-4Go-1To"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0272a7fa8023c0cd2711a"
+  },
+  "Name": "LENOVO - PC DE BUREAU | V50T | I3 10E GEN | 4GO | 1TO",
+  "Reference": "11HD001FFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i3-10100  (4C / 8T, 3,6 / 4,3 GHz, 6 Mo) - Mémoire RAM: 1 x 4 Go UDIMM DDR4-2666  - Disque Dur: 1 To 7200 tr / min 3,5 \"  - Carte Graphique: Intel UHD 630 intégrée   ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615991856_104.jpg",
+  "Offres": [
+    {
+      "Price": "1499 DT",
+      "Last-update": "23/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/pc-bureau/38620-pc-de-bureau-lenovo--v50t--i3-10e-gen--4go--1to--noir-11hd001ffm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0272b7fa8023c0cd2711b"
+  },
+  "Name": "LENOVO - PC DE BUREAU IDEACENTRE 510-15ICK I3 9è GéN 4GO 1TO",
+  "Reference": "90LU0042AL",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i3-9100 ( 3,60 GHz à 4,20 GHz, 6 Mo) Carte Graphique:  Intel HD Graphics  Mémoire RAM: 4Go  DDR4 Disque Dur :1To 7200 tr/min Systéme D'exploitation: Free Dos ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615992106_607.jpg",
+  "Offres": [
+    {
+      "Price": "999 DT",
+      "Last-update": "05/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1537/PC-de-Bureau-LENOVO-IdeaCentre-510-15ICK-i3-9100-4Go-1To"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0272b7fa8023c0cd2711c"
+  },
+  "Name": "LENOVO - PC DE BUREAU | V530 | I3 9è GéN | 4GO | 1TO",
+  "Reference": "11BH001WFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i3-9100  9ème Génération (3.6 GHz up to 4.2 GHz, 6 Mo de Mémoire Cache, Quad-Core) - Systéme d'exploitation: FreeDos - Mémoire RAM: 4Go  DDR4 - Disque Dur: 1To  - Carte Graphique: Intel® HD Graphics  avec Ethernet, USB, HDMI et VGA ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615992421_594.jpg",
+  "Offres": [
+    {
+      "Price": "998 DT",
+      "Last-update": "07/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/7273-unite-centrale-lenovo-v530t-i3-9100-4gb-ddr4-2666-1tb-7200-rpm-dvd.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0272c7fa8023c0cd2711d"
+  },
+  "Name": "LENOVO - PC DE BUREAU V530 DUAL-CORE G5400 4GO 1TO",
+  "Reference": "10TVS0L600",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Pentium Gold Dual Core G5400 - Système d'exploitation: FreeDos - Mémoire RAM: 4Go DDR4 - Disque Dur: 1To - Carte Graphique: Intel HD Graphics avec Ethernet, USB, HDMI et VGA ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615992901_257.png",
+  "Offres": [
+    {
+      "Price": "790 DT",
+      "Last-update": "05/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1539/PC-de-Bureau-LENOVO-V530-Dual-Core-G5400-4Go-1To"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0272e7fa8023c0cd2711e"
+  },
+  "Name": "LENOVO - PC DE BUREAU V530 DUAL-CORE G5400 4GO 1TO",
+  "Reference": "11BH001PFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Réf : 11BH001PFM - Processeur:  Intel® Pentium® Gold  Dual Core G5400  ( 3.70 GHz,  4 Mo  de Mémoire Cache,  Dual-Core) - Systéme d'exploitation:  FreeDos  - Mémoire RAM:  4Go  DDR4 - Disque Dur:  1To  - Carte Graphique:  Intel® HD Graphics avec Ethernet, USB, HDMI et VGA ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615994211_260.jpg",
+  "Offres": [
+    {
+      "Price": "799 DT",
+      "Last-update": "06/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1677/PC-de-Bureau-LENOVO-V530-Dual-Core-G5400-4Go-1To"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0272f7fa8023c0cd2711f"
+  },
+  "Name": "LENOVO - PC DE BUREAU STATION DE TRAVAIL THINKSTATION P520C / 16 GO / 1 TO",
+  "Reference": "30BXS15J00",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Xeon W-2104, 3.2 GHz , 8.25 Mo de mémoire cache - Mémoire 16 Go - Disque 1 To - Carte graphique Nvidia Quadro P2000, 5 Go de mémoire dédiée - Graveur DVD - Lecteur de cartes - Ethernet - 6x USB 3.1 - 2x USB 2.0 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615994720_128.jpg",
+  "Offres": [
+    {
+      "Price": "4999 DT",
+      "Last-update": "27/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/3859-pc-de-bureau-station-de-travail-lenovo-thinkstation-p520c-intel-xeon-16-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027307fa8023c0cd27120"
+  },
+  "Name": "LENOVO - PC DE BUREAU ALL IN ONE V130 QUAD CORE 4GO 500GO",
+  "Reference": "10RX000SFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran: 19.5\" HD (1366 x 768) - Processeur: Intel Celeron Quad Core J5005 ( 1.5 GHz up to 2.8 GHz, 4 Mo de mémoire cache) - Système d'exploitation: Free Dos - Mémoire RAM: 4Go - Disque Dur: 500 Go - Carte graphique: Intel HD Graphics - avec WebCam 720p - Wifi - Bluetooth ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616057036_111.png",
+  "Offres": [
+    {
+      "Price": "1069 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1399/Pc-de-Bureau-ALL-IN-ONE-LENOVO-V130-Quad-Core-4Go-500Go"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027307fa8023c0cd27121"
+  },
+  "Name": "LENOVO - PC DE BUREAU V130-20IGM ALL-IN-ONE / QUAD CORE / 4 GO / 1TO",
+  "Reference": "10RX0035FM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Écran 19.5\" WXGA+ (1440 x 900) - Processeur Intel Pentium Silver J5040 Quad Core,up to 3.2 GHz, 4 Mo de mémoire cache - Mémoire 4 Go - Disque 1 To - Carte graphique Intel UHD Graphics 605 - Lecteur DVD - Lecteur de cartes - HDMI - USB 3.1 - USB 2.0 - RJ45 - Webcam 720p - Wifi - Bluetooth - Haut Parleur 2W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1615992571_865.jpg",
+  "Offres": [
+    {
+      "Price": "1015 DT",
+      "Last-update": "06/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1552/PC-de-Bureau-All-In-One-LENOVO-V130-Quad-Core-4Go-1To-Noir"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027317fa8023c0cd27122"
+  },
+  "Name": "LENOVO - PC DE BUREAU STATION DE TRAVAIL THINKSTATION P330 TOUR / 8 GO",
+  "Reference": "30CYS1JE00",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Xeon E-2224, up to 3.4 GHz ,8 Mo de mémoire cache - Mémoire 8 Go - Disque 1 To - Carte graphique Nvidia Quadro P1000, 4 Go de mémoire dédiée - Graveur DVD - Lecteur de cartes - Ethernet - 1x USB Type C - 6x USB 3.1 - 2x USB 2.0 - 2x DisplayPort - HDMI - RJ45 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616056069_491.jpg",
+  "Offres": [
+    {
+      "Price": "3350 DT",
+      "Last-update": "27/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/3913-pc-de-bureau-station-de-travail-lenovo-thinkstation-p330-tour-intel-xeon-e-2224-8-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027327fa8023c0cd27123"
+  },
+  "Name": "LENOVO - PC DE BUREAU V130 ALL-IN-ONE / DUAL CORE / 4 GO / 500 GO",
+  "Reference": "10RX000RFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Écran 19.5\" WXGA+ (1440 x 900) - Processeur Intel Celeron J4005 Dual Core,up to 2.70 GHz, 4 Mo de mémoire cache - Mémoire 4 Go - Disque 500 Go - Carte graphique Intel UHD Graphics 600 - Lecteur DVD - Lecteur de cartes - HDMI - USB 3.1 - USB 2.0 - RJ45 - Webcam 720p - Wifi - Bluetooth ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616057734_168.jpg",
+  "Offres": [
+    {
+      "Price": "1015 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1287/Pc-de-Bureau-ALL-IN-ONE-LENOVO-V130-Dual-Core-4Go-500Go"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027337fa8023c0cd27124"
+  },
+  "Name": "LENOVO - PC DE BUREAU V530 TWR / I3 8è GéN / 4GO / 1TO",
+  "Reference": "10TV002VFM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Réf : 10TV002VFM- Processeur:Intel® Core? i3-8100 avec carte graphique Intel® HD 630 (3,6 GHz, 6 Mo de mémoire cache, 4 c?urs)  - Systéme d'exploitation : FreeDos - Mémoire RAM:   4Go DDR4 - Disque Dur:  1To 7200rpm   - Carte Graphique: Intel® HD Graphics ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616060513_400.jpg",
+  "Offres": [
+    {
+      "Price": "1099 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/4363-pc-de-bureau-lenovo-v530-i3-8e-gen-4go-1to-noir-10tv002vfm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027357fa8023c0cd27125"
+  },
+  "Name": "LENOVO - PC DE BUREAU S510 / I5 6è GéN / 4GO",
+  "Reference": "10L30008FM",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 19.5\" LED - Processeur Intel Core i5-6500 6è Génération, up to 3.6 GHz, 6 Mo de mémoire cache - Mémoire 4 Go - Disque 500 Go, 7200 tr/min - Carte graphique Intel HD Graphics 530 - Graveur DVD±RW - Ethernet LAN 10/100/1000 Mbps - 4x USB 3.0 - VGA - RJ45 - 1x Display Port - Clavier et Souris USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616061793_419.jpg",
+  "Offres": [
+    {
+      "Price": "1239 DT",
+      "Last-update": "07/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale-et-ecran/1756-lenovo-s510-i5-6e-gen-4go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027437fa8023c0cd27126"
+  },
+  "Name": "HP - PC DE BUREAU PRO 300 G3 I3 8é GéN 4GO 1TO",
+  "Reference": "8VS18EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 20.7\"  TN avec rétroéclairage LED - Processeur: Intel Core i3-8100  8éme Génération (3.60 GHz, 6Mo  de Mémoire Cache, Quad-Core) - Systéme d'exploitation: FreeDos  - Mémoire RAM: 4Go  DDR4 - Disque Dur: 1 To  HDD - Carte Graphique: Intel® HD Graphics, avec USB, HDMI - Dimensions: 13,6 x 26,18 x 31 cm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616143387_663.jpg",
+  "Offres": [
+    {
+      "Price": "1120 DT",
+      "Last-update": "25/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/hp-pro-300-g3-pc-de-bureau-i3-8e-gen-complet-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027457fa8023c0cd27127"
+  },
+  "Name": "HP - PC DE BUREAU TOUT-EN-UN PAVILION 200 G3 / I5 8è GéN / 4 GO",
+  "Reference": "3VA38EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Écran 21.5\" LCD FHD - Processeur Intel Core i5-8250U, up to 3.4 Ghz, 6 Mo de mémoire cache - Mémoire 4 Go - Disque 1 To, 7200 tr/min - Carte graphique Intel UHD 620 - Graveur DVD - 2x USB 3.1 - 2x USB 2.0 - 1x HDMI - 1x RJ45 - Lecteur de cartes - Wifi - Webcam HD 1 MP - Avec clavier et souris USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616145746_493.jpg",
+  "Offres": [
+    {
+      "Price": "2130 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/5942-pc-de-bureau-tout-en-un-hp-pavilion-200-g3-i5-8e-gen-4-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027487fa8023c0cd27128"
+  },
+  "Name": "HP - PC DE BUREAU ELITEDESK 800 G5 SFF | I5 9È GÉN | 8 GO | 256 GO",
+  "Reference": "7PE99EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Pc de Bureau HP EliteDesk 800 G5 SFF - Processeur Intel Core i5-9500, up to 4.4 Ghz, 9 Mo de mémoire cache - Mémoire 8 Go - Disque 256 Go SSD M.2 - Carte Graphique: Intel UHD Graphics 630 - Lecteur de Carte - USB 3.1 - USB 2.0 - 1x VGA - DisplayPort ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616150071_139.jpg",
+  "Offres": [
+    {
+      "Price": "2890 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/3864-unite-centrale-hp-elitedesk-800g5-sff-i59500-8g-256ssd-w10p64-3yw.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027497fa8023c0cd27129"
+  },
+  "Name": "HP - PC DE BUREAU PRODESK 400 G6 | I7 9è GéN | 8GO | 1TO",
+  "Reference": "7EL80EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i7-9700 9ème Génération (3,0 GHz, Up To 4,7 GHz, 12Mo de Mémoire Cache, Octa-Core) - Systéme d'exploitation: Windows 10 Pro - Mémoire RAM: 8 Go SDRAM DDR4-2666 - Disque Dur: 1 To HDD, 7200 tr/min - Carte Graphique: AMD Radeon ? R7 430 (2 Go de mémoire GDDR5 dédié) avec USB 3.1, USB 2.0 et VGA ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616150245_315.jpg",
+  "Offres": [
+    {
+      "Price": "3240 DT",
+      "Last-update": "07/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/3863-unite-centrale-hp-prodesk-400g6-i7-9700-8go1t-2go-430-w10.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0274a7fa8023c0cd2712a"
+  },
+  "Name": "HP - PC DE BUREAU A.I.O 22-C0009NK I3 9èME GéN - 4GO - 1 TO",
+  "Reference": "8XJ39EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i3-9100T 9ème génération (3.1 GHz, jusqu?à 3.7 GHz, 6 Mo de mémoire cache, Quad-Core) Mémoire: 4 Go DDR4 Disque Dur: 1 To  Ecran :21.5\" IPS Full HD Tactile Carte graphique: Intel® UHD 630 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616685388_756.png",
+  "Offres": [
+    {
+      "Price": "1989 DT",
+      "Last-update": "08/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/hp-22-c0009nk,-pc-de-bureau-all-in-one-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0274b7fa8023c0cd2712b"
+  },
+  "Name": "HP - PC DE BUREAU PRO G2 I5 8è GéN 4GO 1 TO",
+  "Reference": "6BD97EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 20.7\" TFT LED - Processeur: Intel Core i5-8400 8éme Génération (2,8 Ghz up to 4.0 GHz, 9Mo de Mémoire Cache, Hexa-Core) - Systéme d'exploitation: FreeDos - Mémoire RAM: 4Go DDR4-2666 - Disque Dur: 1 To SATA, 7200 tr/min - Carte Graphique: Intel HD Graphics - avec Graveur DVD, USB 3.1, HDMI ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616164221_794.jpg",
+  "Offres": [
+    {
+      "Price": "1950 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale-et-ecran/1752-pc-de-bureau-hp-prog2-i5-8400-4gb-1tr-uma-free-dos-1an-v2147in.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0274b7fa8023c0cd2712c"
+  },
+  "Name": "HP - PC DE BUREAU PRO 300 G3 I5 8éME GéN. - 4GO -1TO",
+  "Reference": "9UG02EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i5-8500 8éme Génération (3,0 Ghz up to 4.1 GHz, 9Mo Cache) Mémoire: 4 Go Disque Dur: 1 To HDD Ecran 20.7\" LED HD Carte Graphique: Intel UHD 630 avec Graveur DVD, USB 3.1, HDMI ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616685340_388.jpg",
+  "Offres": [
+    {
+      "Price": "1410 DT",
+      "Last-update": "24/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/hp-pro-300-g3-pc-de-bureau-i5-8500-complet-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027507fa8023c0cd2712d"
+  },
+  "Name": "ASUS - PC DE BUREAU ALL IN ONE I3 6è GéN 4GO 1TO",
+  "Reference": "V222UAK-WA012D",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 21.5\" LED HD  (1920 x 1080) - Processeur: Intel Core i3-6006U  6ème génération (2,0 GHz, 3 Mo  de mémoire cache, Dual-Core) - Systéme d'exploitation: FreeDos   - Mémoire RAM:  4Go DDR4 - Disque Dur:  1 To  - Carte graphique: Intel HD Graphics - avec WebCam, HDMI, Wifi ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616403920_818.jpg",
+  "Offres": [
+    {
+      "Price": "1659 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/ordinateurs/ordinateur-de-bureau/pc-de-bureau-all-in-one-asus-i3-6e-gen-4go-1to-v222uak-wa012d.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027527fa8023c0cd2712e"
+  },
+  "Name": "HP - PC DE BUREAU STATION DE TRAVAIL Z4 TWR G4 WKS / 16 GO / 256 GO",
+  "Reference": "9LP19EA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Xeon E- 22233, jusqu'a 3.9 GHz, 8.25 Mo de mémoire cache, 4 c?urs - Mémoire 16 Go (1x 16Go) DDR4 2999  DIMM - Disque 256 Go  1 To 7200 tr / min  - Carte Graphique NVIDIA Quadro P2200, 5 Go de mémoire GDDR5X dédiée, PCIe x16 GFX  - Graveur DVD Slim 9,5 mm - Connectivité: 2x RJ-45,  2x DisplayPort 1.2,  2x USB 2.0, 6 x USB 3.1  - Lecteur de cartess ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616165200_444.jpg",
+  "Offres": [
+    {
+      "Price": "5999 DT",
+      "Last-update": "29/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/40742-station-de-travail-hp-z4-g4-wks-16-go-256-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027537fa8023c0cd2712f"
+  },
+  "Name": "DELL - PC DE BUREAU VOSTRO 3671 I3 9é GéN / 4 GO / 1 TO",
+  "Reference": "N204VD3671EMEA03_UBU",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur : Intel Core i3-9100 9é Génération, up to 4.2 GHz, 6 Mo de mémoire cache Carte graphique : Intel HD Graphies Mémoire : 4 Go Stockage : 1 To HDD Ports : Graveur DVD ? Ethernet 10/100/1000 ? VGA ? HDMI ? 2x USB 3.0 ? 2x PS2 Wifi/Bluetooth Clavier et Souris USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616406062_231.jpg",
+  "Offres": [
+    {
+      "Price": "969 DT",
+      "Last-update": "02/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/dell-vostro-3671-pc-bureau-intel-core-i3-9e-gen-4go-1to-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027557fa8023c0cd27130"
+  },
+  "Name": "DELL - PC DE BUREAU OPTIPLEX 5080 / I7 10è GéN / 8 GO / 1 TO",
+  "Reference": "OP5080I7-3Y",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Core i7-10700 10è Génération, up to 4.8 GHz, 16 Mo de mémoire cache - Mémoire 8 Go - Disque 1 To - Carte graphique Intel HD Graphics - Graveur DVD - 4x USB 3.2 - 4x USB 2.0 - 1x DisplayPort 1.4 - RJ45 - Lecteur DVD - Clavier et Souris USB  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616419108_655.jpg",
+  "Offres": [
+    {
+      "Price": "2039 DT",
+      "Last-update": "26/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/ordinateur-de-bureau/2910-pc-de-bureau-dell-optiplex-5080-i7-10e-gen-8-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027587fa8023c0cd27131"
+  },
+  "Name": "DELL - PC DE BUREAU VOSTRO 3670 DUAL CORE G5400 4GO 1TO",
+  "Reference": "N212VD3670BTOE",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur:  Intel Pentium Dual Core G5400 (3,70 GHz, 4Mo  de Mémoire Cache, Dual-Core) - Systéme d'exploitation: Windows 10 Pro - Mémoire RAM: 4Go  DDR4 - Disque Dur: 1To  - Carte Graphique: Intel® HD Graphics avec avec Ethernet, USB, HDMI et VGA ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616426620_194.jpg",
+  "Offres": [
+    {
+      "Price": "959 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/3312-pc-de-bureau-dell-vostro-3670-g5400-4gb-1tb-intel-uhd-610-ubuntu.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0275b7fa8023c0cd27132"
+  },
+  "Name": "DELL - PC DE BUREAU VOSTRO 3670 - I7 8É GÉN - 8 GO",
+  "Reference": "43CP7",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Core i7-8700 ,  3.6 GHz, 6 Mo de mémoire cache - Mémoire 8 Go - Disque 1 To - Carte graphique Intel HD Graphics - Graveur DVD - Ethernet 10/100/1000  - 2x USB 3.0 - 2x PS2  - Clavier et Souris USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616684998_963.jpg",
+  "Offres": [
+    {
+      "Price": "1827 DT",
+      "Last-update": "07/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/dell-vostro-3670-pc-de-bureau-core-i7-8go-1to-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0275d7fa8023c0cd27133"
+  },
+  "Name": "DELL - PC DE BUREAU VOSTRO 3670 - I3 8É GÉN - 4 GO - 1 TO",
+  "Reference": "4YT41",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Core i3-8100 ,  3.6 GHz, 6 Mo de mémoire cache - Mémoire 4 Go  - Disque 1 To - Carte graphique Intel HD Graphics - Graveur DVD - Ethernet 10/100/1000  - 2x USB 3.0 - 2x PS2  - Clavier et Souris USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616679127_114.jpg",
+  "Offres": [
+    {
+      "Price": "915 DT",
+      "Last-update": "06/12/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/dell-vostro-3670-pc-de-bureau-core-i3-4go-1to-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0275f7fa8023c0cd27134"
+  },
+  "Name": "DELL - PC DE BUREAU VOSTRO 3670 / I5 8É GÉN / 4 GO / 1 TO",
+  "Reference": "J6TMG",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Core i5-8400 ,  3.6 GHz, 6 Mo de mémoire cache - Mémoire 4 Go - Disque 1 To - Carte graphique Intel HD Graphics - Graveur DVD - Ethernet 10/100/1000  - 2x USB 3.0 - 2x PS2 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616745287_453.jpg",
+  "Offres": [
+    {
+      "Price": "1245 DT",
+      "Last-update": "07/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/dell-vostro-3670-pc-de-bureau-core-i5-4go-1to-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027617fa8023c0cd27135"
+  },
+  "Name": "DELL - PC DE BUREAU ALL IN ONE INSPIRON 5490 I5 10é GéN | 8 GO",
+  "Reference": "5490AIOI5T",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Écran : 23.8? Full HD Tactile Processeur : Intel Core i5-10210U, jusqu?à 4.2 GHz, 6 Mo de mémoire cache Carte graphique : intel HD Graphics Système d?exploitation : Windows 10 Home Mémoire : 8 Go Disque Dur : 256 Go SSD Wifi/Bluetooth Ports : USB 3.1 Gen 1, USB 2.0, HDMI, RJ-45 Webcam : HD Clavier et Souris sans fil ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616685067_807.jpg",
+  "Offres": [
+    {
+      "Price": "2995 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3918-pc-de-bureau-all-in-one-dell-inspiron-238fhd-t-i5-10210u-8g-256g-w10h-silver.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027657fa8023c0cd27136"
+  },
+  "Name": "DELL - PC DE BUREAU ALL-IN-ONE INSPIRON 3277 / DUAL CORE / 4 GO / 1 TO",
+  "Reference": "3277AIO",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 21.5\" LED Full HD - Processeur Intel Pentium Dual Core 4415U, 2.3 Ghz, 2 Mo de mémoire cache - Mémoire 4 Go - Disque 1 To - Carte graphique Intel HD Graphics 620 - Lecteur de cartes - Webcam HD 720p ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616746387_964.jpg",
+  "Offres": [
+    {
+      "Price": "1365 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/5946-pc-de-bureau-all-in-one-dell-inspiron-3277-dual-core-4-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027687fa8023c0cd27137"
+  },
+  "Name": "DELL - PC DE BUREAU OPTIPLEX 3060MT / I7 8è GéN / 4 GO / 1 TO",
+  "Reference": "3060I74G1T-1Y",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel Core i7-8700 8è Génération, up to 4.6 GHz, 12 Mo de mémoire cache - Mémoire 4 Go - Disque 1 To - Carte graphique Intel UHD 630 - Graveur DVD - Ethernet LAN 10/100/1000 - 4x USB 3.1 - 4x USB 2.0 - 1x PCIe x16 - 1x HDMI ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616746733_931.jpg",
+  "Offres": [
+    {
+      "Price": "2150 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/3308-pc-de-bureau-dell-optiplex-3060i7-87001x8gb-ddr4-2666m1tb-7200rpm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027697fa8023c0cd27138"
+  },
+  "Name": "DELL - PC DE BUREAU STATION DE TRAVAIL PRECISION 3630 / 8GO",
+  "Reference": "P3630P400",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Pc de Bureau Precision 3630-Processeur:Intel® Xeon E-2124G, 4 Core, 8 MB Cache, 3.4GHz, 4.5Ghz Turbo w/HD-Carte graphique: NVIDIA Quadro P400, 2GB, 3 mDP to DP adapter-Disque dur:1TB 7200rpm SATA-mémoire Ram:8 GO ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616746936_681.jpg",
+  "Offres": [
+    {
+      "Price": "3629 DT",
+      "Last-update": "03/09/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/42853-pc-de-bureau-station-de-travail-dell-precision-3630-8-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027697fa8023c0cd27139"
+  },
+  "Name": "DELL - PC DE BUREAU OPTIPLEX 7060 MT / I7 8é GéN / 4GO / 1TO",
+  "Reference": "S028O7060MTUMEA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core i7 8700 8éme Génération  (3.20 GHz up to 4.60 GHz, 12 Mo  de Mémoire Cache, Hexa-Core ) - Systéme d'exploitation: FreeDos  - Mémoire RAM: 4Go DDR4  - Disque Dur: 1 To  - Carte Graphique: Intel UHD 630, avec Graveur DVD, USB 3.1,USB 2.0, DisplayPort, HMI, Ethernet ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616746114_532.jpg",
+  "Offres": [
+    {
+      "Price": "2339 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/pc-de-bureau-dell-optiplex-7060-mt-i7-8e-gen-4go-1to.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0276a7fa8023c0cd2713a"
+  },
+  "Name": "DELL - PC DE BUREAU OPTIPLEX 3070 I5 9è GéN 4GO 1TO",
+  "Reference": "3070-I5",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel Core  i5-9500  9ème Génération ( 3,0 GHz, Up To  4,4 GHz, 9Mo  de Mémoire Cache,  Hexa-Core) - Systéme d'exploitation:  Linux  - Mémoire RAM:  4 Go  - Disque Dur:  1 To  HDD - Carte Graphique:  Intel® HD Graphics avec  Ethernet, USB, HDMI et VGA ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616748281_342.jpg",
+  "Offres": [
+    {
+      "Price": "1336 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/ordinateur-de-bureau/1848-pc-de-bureau-dell-optiplex-3070-i5-9e-gen4-go1-to-noir-3070i5.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0276b7fa8023c0cd2713b"
+  },
+  "Name": "INTEL - UNITé CENTRALE DELL VOSTRO 3670 CORE I3-8100/4GB 1TB UHD 630",
+  "Reference": "N204VD3670BTOEMEA",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur Intel® Core? i3-8100 (6 Mo de cache, jusqu'à 3,60 GHz) Mémoire 4 Go DDR4 Disque dur SATA 1 To Système d'exploitation UBUNTU Carte Graphique Intel® UHD 630 intégrée format Tour ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616748512_788.jpg",
+  "Offres": [
+    {
+      "Price": "1160 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/unite-centrale/7274-unite-centrale-dell-vostro-3670-core-i3-8100-4gb-1tb-intel-uhd-630.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0276b7fa8023c0cd2713c"
+  },
+  "Name": "DELL - VOSTRO 3670, PC DE BUREAU PENTIUM DUAL CORE G5400, 4 GO, 1 TO",
+  "Reference": "27KTF",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "L'ordinateur de bureau Dell Vostro 3670 propose des caractéristiques bien spécifiques, il embarque un disque dur de 1To et une mémoire RAM de 4 Go pour faciliter les opérations de multitâche et répondre parfaitement à vos besoins et vos attentes en matière de puissance. Ce pc fixe est alimenté par un processeur Intel Pentium Dual Core G5400 suffisant pour garantir des bonnes performances pour les tâches informatiques et bureautiques du quotidien. Ce modèle de Pc de bureau Dell est puissant et bien équilibré proposé en Tunisie à petit prix par votre boutique en ligne de l'informatique Numedia. ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616748992_321.png",
+  "Offres": [
+    {
+      "Price": "769 DT",
+      "Last-update": "25/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/dell-vostro-3670-pc-intel-dual-core-4go-1to-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0276c7fa8023c0cd2713d"
+  },
+  "Name": "DELL - PC DE BUREAU ALL-IN-ONE INSPIRON 3277 / I3 7è GéN / 8 GO / 1 TO",
+  "Reference": "3277T",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran 21.5\" LED Full HD Tactile - Processeur Intel Core i3-7130U, 2.7 Ghz, 3 Mo de mémoire cache - Mémoire 8 Go - Disque 1 To - Carte graphique Intel HD Graphics 620 - 3x USB 3.1 - HDMI - Lecteur de cartes - Webcam HD 720p ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616749263_383.jpg",
+  "Offres": [
+    {
+      "Price": "2130 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/5941-pc-de-bureau-all-in-one-dell-inspiron-3277-i3-7e-gen-8-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0276c7fa8023c0cd2713e"
+  },
+  "Name": "DELL - PC DE BUREAU VOSTRO 3671| I5-9400 | 4 GO | 1 TO",
+  "Reference": "N109VD3671EMEA03",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel® Core ? i5-9400 9ème Génération (2.9 GHz up to 4.1 Ghz, 9Mo de Mémoire Cache, Hexa-Core) - Systéme d'exploitation: Freedos - Mémoire RAM: 4Go - Disque Dur: 1To - Carte Graphique: Intel® HD Graphics avec Ethernet, USB, HDMI et VGA ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616749833_907.jpg",
+  "Offres": [
+    {
+      "Price": "1195 DT",
+      "Last-update": "23/09/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/ordinateurs-bureau/dell-vostro-3671-pc-bureau-intel-core-i5-9e-gen-4go-1to-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0276d7fa8023c0cd2713f"
+  },
+  "Name": "DELL - VOSTRO 3668 I5 7è GéN / 4GO / 1TO",
+  "Reference": "N015VD3668EMEA01",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur: Intel® Core ? i5-7400 7è Gén (3.00 GHz, avec 6Mo de Mémoire Cache)  Mémoire RAM 4Go DDR4 2400 MHz Disque Dur 1To SATA 7200 rpm Carte Graphique Intel® HD Graphics Ethernet, USB 3.0, HDMI et VGA ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616769176_836.jpg",
+  "Offres": [
+    {
+      "Price": "1299 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/ordinateurs/ordinateur-de-bureau/dell-vostro-3668-i5-7e-gen-4go-1to.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0276e7fa8023c0cd27140"
+  },
+  "Name": "ACER - PC DE BUREAU VERITON VES2735G I3 8è GéN 4GO 1TO +ECRAN",
+  "Reference": "DT.VSJEF.00G ECRAN",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran: 19.5\" HD LED  Processeur: Intel Core i3-8100 3.6 GHz, 6 Mo Carte Graphique: Intel HD Graphics  Mémoire Ram:  4 Go DDR4 Disque Dur: 1 To ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616774220_281.jpg",
+  "Offres": [
+    {
+      "Price": "1299 DT",
+      "Last-update": "05/11/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/acer-veriton-i3-8100.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0276e7fa8023c0cd27141"
+  },
+  "Name": "DELL - PC DE BUREAU ALL IN ONE INSPIRON AIO 5490 I5 10è GéN 8GO 1TO+256SSD",
+  "Reference": "5490AIOI52G",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Ecran:  23.8  FHD  - Processeur:  Intel Core  i5-10210U  10ème Gènération ( 1.6 Ghz up to 4.2 Ghz,  6 Mo  de mémoire cache,  Quad Core) -  Windows 10 Home  - Mémoire RAM:  8 Go  DDR4 - Disque Dur:  1 To + 256 Go SSD  - Carte Graphique:  Nvidia GeForce MX130 (2 Go  de mémoire dédiée) avec WiFi, USB 3.1, HDMI RJ45 et Lecteur de Cartes ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616757351_257.jpg",
+  "Offres": [
+    {
+      "Price": "2789 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/ordinateur-tout-en-un/3310-pc-de-bureau-all-in-one-dell-inspiron-5490aio-238-nt-i5-10210u-8g-1t256g-mx110-w10h.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0276f7fa8023c0cd27142"
+  },
+  "Name": "ASUS - PC DE BUREAU ALL IN ONE 21.5\"/DUAL CORE/4 GO/1 TO",
+  "Reference": "V222GAK-WA092T",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Écran : 21,5? Full HD (1920 x 1080) Processeur : Intel Celeron J4005 (2.70 GHz, 4 Mo) Carte graphique : Intel HD Graphics Mémoire : 4?Go Stockage : Disque dur 1 To HDD Wifi/Bluetooth® Ports : HDMI - 4 x USB 3.1 - 1 x USB 2.0 - RJ45 -1 x prise (s) audio (combo micro / casque) Webcam : HD Système d?exploitation : Windows 10 Couleur : Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1622645969_263.jpg",
+  "Offres": [
+    {
+      "Price": "1110 DT",
+      "Last-update": "12/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1575/PC-DE-BUREAU-ALL-IN-ONE-ASUS-VIVO-AIO-V222GAK"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027707fa8023c0cd27143"
+  },
+  "Name": "DELL - PC DE BUREAU OPTIPLEX 3080 I3 10è GéN / 4 GO",
+  "Reference": "OP3080I3-1YR",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur : Intel Core i3-10100 10è Génération, up to 4.3 GHz, 6 Mo de mémoire cache Carte Graphique : Intel HD Graphics Système d?exploitation : FreeDos Mémoire RAM : 4 Go Disque Dur : 1 To HDD Ports : 4x USB 3.2 - 4x USB 2.0 - 1x DisplayPort 1.4 - RJ45 Lecteur DVD Clavier et Souris USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1622709592_876.jpg",
+  "Offres": [
+    {
+      "Price": "1300 DT",
+      "Last-update": "03/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/ordinateur-de-bureau/2912-pc-de-bureau-dell-optiplex-3080-i3-10e-gen-4-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027707fa8023c0cd27144"
+  },
+  "Name": "DELL - PC DE BUREAU VOSTRO 3888 I5 10è GéN / 4 GO",
+  "Reference": "N603VD3888EMEA01",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Processeur : Intel Core i5-10400,  jusqu'à 4.3 GHz, 12 Mo de mémoire cache Carte graphique : intel UHD Graphics Mémoire : 4 Go Stockage : 1 To HDD Ports : 4x USB 2.0 - 4x USB 3.2 - HDMI - VGA - RJ45 Wifi/Bluetooth Lecteur de Cartes - Lecteur DVD Clavier et Souris USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1622709786_835.jpg",
+  "Offres": [
+    {
+      "Price": "1299 DT",
+      "Last-update": "25/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/ordinateur-de-bureau/2907-pc-de-bureau-dell-vostro-3888-i5-10e-gen-4-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f027717fa8023c0cd27145"
+  },
+  "Name": "Cooler Master - PC DE BUREAU GAMER R5 5600X",
+  "Reference": "PC-COOLERMASTER-R5-5600X",
+  "type": "/informatique/ordinateur_bureau/pc-de-bureau",
+  "Specs": "Pc de Bureau Gamer Cooler Master : Processeur : AMD RYZEN? 5 5600X, 6 C?URS, 3.7GHZ - Mémoire RAM : 16 Go DDR4 3200 Mhz  - Disque Dur interne : 500 SSD - Carte Graphique : PALIT RTX 3090 GAMINGPRO 24GB OC - Carte mère : Asus Tuf X570-Plus Gaming  - Boitier : Cooler master Mastercase  - Alimentation : 850 W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1623774270_276.jpg",
+  "Offres": [
+    {
+      "Price": "12399 DT",
+      "Last-update": "14/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/ordinateur-de-bureau-gamer-tunisie/40216-pc-de-bureau-gamer-cooler-master-r5-5600x.html"
+    }
+  ]
+}]

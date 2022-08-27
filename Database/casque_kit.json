@@ -1,0 +1,3391 @@
+[{
+  "_id": {
+    "$oid": "62f1481390c6091ba9e65762"
+  },
+  "Name": "TRUST - CASQUE MICRO INTRA-AURICULAIRE",
+  "Reference": "intra-auriculaire",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque-micro intra-auriculaire pour tablette et smartphone avec câble plat qui ne s'entortille pas. ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1535932202_867.jpg",
+  "Offres": [
+    {
+      "Price": "14 DT",
+      "Last-update": "20/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/son-numerique/promate-bent-ecouteurs-stereo-intra-auriculaires-avec-micro-tunisie "
+    },
+    {
+      "Price": "21 DT",
+      "Last-update": "19/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1827-ecouteurs-stereo-intra-auriculaires-avec-micro-promate-noir-tunebuds-1black.html"
+    },
+    {
+      "Price": "21 DT",
+      "Last-update": "02/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/4753-ecouteurs-intra-auriculaires-veho-z-1bleu.html"
+    },
+    {
+      "Price": "21 DT",
+      "Last-update": "02/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/4755-ecouteurs-intra-auriculaires-veho-z-1rouge.html"
+    },
+    {
+      "Price": "21 DT",
+      "Last-update": "18/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1795-ecouteurs-stereo-intra-auriculaires-universels-avec-micro-promate-noir-clavierblack.html"
+    },
+    {
+      "Price": "21 DT",
+      "Last-update": "02/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/4757-ecouteurs-intra-auriculaires-veho-z-1rose.html"
+    },
+    {
+      "Price": "22 DT",
+      "Last-update": "01/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/son-numerique/ecouteurs-stereo-clavier-promate-avec-micro-gold-tunisie"
+    },
+    {
+      "Price": "22 DT",
+      "Last-update": "01/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/son-numerique/ecouteurs-stereo-clavier-promate-micro-noir-tunisie"
+    },
+    {
+      "Price": "24 DT",
+      "Last-update": "04/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteur-intra-auriculaire-promate-swift-noir.html"
+    },
+    {
+      "Price": "25 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/konix-ecouteurs-intra-auriculaires-sport-blanc.html"
+    },
+    {
+      "Price": "27 DT",
+      "Last-update": "04/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-filaire-sony-intra-auriculaires-avec-micro-noir-mdr-e9lp-b.html"
+    },
+    {
+      "Price": "27 DT",
+      "Last-update": "04/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-filaire-sony-intra-auriculaires-avec-micro-blanc-mdr-e9lp-w.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "18/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1823-ecouteurs-stereo-intra-auriculaires-avec-micro-promate-noir-swiftblack.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "19/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1824-ecouteurs-stereo-intra-auriculaires-avec-micro-promate-bleu-swiftblue.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteur-lenovo-intra-auriculaire-100-blanc.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "21/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/gaming/13660-ecouteurs-filaire-sony-intra-auriculaires-noir-mdr-e9lp-b.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "20/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/gaming/13661-ecouteurs-filaire-sony-intra-auriculaires-blanc-mdr-e9lpw.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/casque-ecouteurs/7739-ecouteurs-intra-auriculaire-hp-150-bleu-2ap91aa.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/ecouteurs-intra-auriculaires-remax-filaires-en-aluminium-rm-575.html"
+    },
+    {
+      "Price": "32 DT",
+      "Last-update": "19/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteur-lenovo-intra-auriculaire-100-noir.html"
+    },
+    {
+      "Price": "35 DT",
+      "Last-update": "24/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/ecouteur/ecouteurs-intra-auriculaire-hp-150-2ap91aa-bleu-prix-tunisie"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "11/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/4389-jbl-t110-noir-prix-tunisie.html"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "07/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/3550-ecouteurs-intra-auriculaires-samsung-ig935-blanc.html"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "07/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/3549-ecouteurs-intra-auriculaires-samsung-ig935-noir.html"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "05/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-filaire-sony-intra-auriculaires-avec-micro-noir.html"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "08/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/792-ecouteurs-intra-auriculaires-filaires-jbl-t110-blanc.html"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "08/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/790-ecouteurs-intra-auriculaires-filaires-jbl-t110-bleu.html"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "08/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/793-ecouteurs-intra-auriculaires-filaires-jbl-t110-rouge.html"
+    },
+    {
+      "Price": "42 DT",
+      "Last-update": "07/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteur-intra-auriculaire-filaire-jbl-t110-bleu.html"
+    },
+    {
+      "Price": "42 DT",
+      "Last-update": "05/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-intra-auriculaire-jbl-t110-rouge.html"
+    },
+    {
+      "Price": "42 DT",
+      "Last-update": "29/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/accessoire-smartphone/ecouteur-intra-auriculaire-jbl-t110-blanc-prix-tunisie"
+    },
+    {
+      "Price": "42 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/image-son/9570-ecouteur-intra-auriculaire-jbl-t110-bleu.html"
+    },
+    {
+      "Price": "42 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/image-son/11756-ecouteur-intra-auriculaire-jbl-t110-noir.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "07/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/3547-ecouteurs-semi-intra-auriculaires-samsung-eg920-blanc.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "07/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/3548-ecouteurs-semi-intra-auriculaires-samsung-eg920-bleu.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "07/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/3544-ecouteurs-semi-intra-auriculaires-samsung-eg920-noir.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "21/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/image-son/13663-ecouteurs-sony-mdr-ex15lpwz-intra-auriculaire-blanc.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "22/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/gaming/13662-ecouteurs-sony-mdr-ex15lpb-intra-auriculaire-noir.html"
+    },
+    {
+      "Price": "129 DT",
+      "Last-update": "05/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-intra-auriculaires-sans-fil-belkin-true-wireless-noir.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "13/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/4347-ecouteurs-bluetooth-oneplus-bullets-wireless-z-noir.html"
+    },
+    {
+      "Price": "399 DT",
+      "Last-update": "02/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/ecouteur-intra-auriculaire-jbl-noir.html"
+    },
+    {
+      "Price": "419 DT",
+      "Last-update": "02/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/ecouteur-intra-auriculaire-jbl-endurance-peak-ii-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481490c6091ba9e65763"
+  },
+  "Name": "PROMATE - ÉCOUTEURS INTRA-AURICULAIRES SWIFT",
+  "Reference": "SWIFT",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs intra-auriculaires PROMATE Swift - Type: intra-auriculaire  - Technologie de connectivité: Filaire - Diamètre du Casque: 10 mm - Sensibilité: ? 95db ± 5db - Réponse en Fréquence: 20Hz à 20kh - Impédance: 16? ± 15% - Longueur de câble: 1.2m - Son dynamique, clair et riche - Crochets d'oreille anti-dérapants en silicone - Écouteurs de conception ergonomique pour un confort et des performances améliorés - Connecteur: Prise Jack 3.5 mm - Couleur: Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583272729_827.jpg",
+  "Offres": [
+    {
+      "Price": "24 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-intra-auriculaires-promate-swift-bleu.html"
+    },
+    {
+      "Price": "24 DT",
+      "Last-update": "18/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/36962-ecouteurs-stereo-intra-auriculaires-avec-micro-promate-swift-bleu.html"
+    },
+    {
+      "Price": "25 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-intra-auriculaires-promate-swift-rouge.html"
+    },
+    {
+      "Price": "26 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1826-ecouteurs-stereo-intra-auriculaires-avec-micro-promate-rouge-swiftred.html"
+    },
+    {
+      "Price": "26 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1825-ecouteurs-stereo-intra-auriculaires-avec-micro-promate-vert-swiftgreen.html"
+    },
+    {
+      "Price": "28 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/casque-ecouteurs/6207-ecouteurs-stereo-intra-auriculaires-avec-micro-promate-swift-vert.html"
+    },
+    {
+      "Price": "28 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/casque-ecouteurs/6204-ecouteurs-stereo-intra-auriculaires-avec-micro-promate-swift-bleu.html"
+    },
+    {
+      "Price": "28 DT",
+      "Last-update": "02/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/son-numerique/promate-swift-ecouteurs-stereo-intra-auriculaires-avec-micro-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481590c6091ba9e65764"
+  },
+  "Name": "PROMATE - ÉCOUTEURS CLAVIER",
+  "Reference": "CLAVIER",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs PROMATE CLAVIER avec micro  - Connectivite: Filaire - Fréquence: 20Hz-20KHz  - Sensibilité: 108db  - Impédance: 16? ± 15%  - Longueur de câble: 1.2 m  - Connecteurs: Jack 3.5mm - ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583272676_248.jpg",
+  "Offres": [
+    {
+      "Price": "19 DT",
+      "Last-update": "19/02/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/36930-ecouteurs-stereo-intra-auriculaires-universels-avec-micro-promate-clavier-gold.html"
+    },
+    {
+      "Price": "56 DT",
+      "Last-update": "05/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ensemble-clavier-souris-sans-fil-manette-de-jeu-casque.html"
+    },
+    {
+      "Price": "95 DT",
+      "Last-update": "05/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/pack-gamer-t-dagger-legion-4en1-clavier-souris-tapis-casque.html"
+    },
+    {
+      "Price": "109 DT",
+      "Last-update": "17/09/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/accessoires-et-peripheriques/pack-gamer-ngs-clavier-souris-casque-gbx-1500french-prix-tunisie"
+    },
+    {
+      "Price": "129 DT",
+      "Last-update": "17/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/pack-gamer-tnb-elyte-4en1-clavier-souris-tapis-micro-casque.html"
+    },
+    {
+      "Price": "260 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/gaming/11671-clavier-steelseries-apex-150-fr.html"
+    },
+    {
+      "Price": "460 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/gaming/11672-clavier-steelseries-apex-m750-tkl.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481690c6091ba9e65765"
+  },
+  "Name": "HP - MICRO CASQUE USB T1A67AA",
+  "Reference": "T1A67AA",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque HP USB T1A67AA : connecteur : USB - Impédance : Haut-parleur: 32 ohms ,Microphone: 680 ohms -Réponse en fréquence minimale: 20 Hz- Réponse en fréquence maximale : 20 kHz- mode sonore: Stéréo - type de oreillette: binaural -Dimensions (L x P x H)146 x 164 x 58 mm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1524074675_903.jpg",
+  "Offres": [
+    {
+      "Price": "69 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/58/HP-Stereo-USB-Headset"
+    },
+    {
+      "Price": "84 DT",
+      "Last-update": "26/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-hp-usb-t1a67aa.html"
+    },
+    {
+      "Price": "89 DT",
+      "Last-update": "12/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7e82d-simop.png",
+      "product-link": "https://www.simop.com.tn/produits/view?id=808"
+    },
+    {
+      "Price": "89 DT",
+      "Last-update": "17/09/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/accessoires-et-peripheriques/micro-casque-usb-hp-noir-t1a67aa-prix-tunisie"
+    },
+    {
+      "Price": "89 DT",
+      "Last-update": "06/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/28385-casque-micro-usb-hp-t1a67aa.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481790c6091ba9e65766"
+  },
+  "Name": "PROMATE - ÉCOUTEURS STéRéO GEARPOD-IS2",
+  "Reference": "GEARPOD-IS2",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs Stéréo PROMATE Gearpod-is2 - Gamme de fréquence: 20Hz-20KHz - Sensibilité: 115dB ± 3dB - Impédance: 32? ± 15% - Longueur de câble: 120 ± 3 cm - Taille: 14.2 mm - Connecteurs: Jack 3.5mm - Couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1542736617_387.jpg",
+  "Offres": [
+    {
+      "Price": "14 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-stereo-promate-gearpod-is2-blanc.html"
+    },
+    {
+      "Price": "14 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-stereo-promate-gearpod-is2-noir.html"
+    },
+    {
+      "Price": "14 DT",
+      "Last-update": "18/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/31422-ecouteurs-stereo-avec-micro-promate-gearpod-is2-blanc.html"
+    },
+    {
+      "Price": "14 DT",
+      "Last-update": "18/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/31421-ecouteurs-stereo-avec-micro-promate-gearpod-is2-noir.html"
+    },
+    {
+      "Price": "16 DT",
+      "Last-update": "02/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/son-numerique/promate-gearpod-is2-ecouteurs-stereo-intra-auriculaires-micro-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481890c6091ba9e65767"
+  },
+  "Name": "BEST SOUND - CASQUE SANS FIL MP3 M44 /86",
+  "Reference": "MM44/86",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Sans Fil MP3 M44 - Lecteur Micro SD - Radio FM - Lecteur MP3 - Diamètre 40mm - Impédance: 32 ohm - Sensibilité: 108 db +/- 3db - Fréquence: 20Hz-20KHz - Autonomie: Jusqu'à 12 heures - Temps de charge: 2 heures - Bandeau Pliable - Couleur Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1551279363_461.jpg",
+  "Offres": [
+    {
+      "Price": "27 DT",
+      "Last-update": "18/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/34155-casque-sans-fil-mp3-m44-vert.html"
+    },
+    {
+      "Price": "27 DT",
+      "Last-update": "18/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/34157-casque-sans-fil-mp3-best-sound-m44-orange.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "19/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/34158-casque-sans-fil-mp3-best-sound-m44-rose.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "19/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/34159-casque-sans-fil-mp3-best-sound-m44-rouge.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "19/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/34160-casque-sans-fil-mp3-m44-violet.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481990c6091ba9e65768"
+  },
+  "Name": "PROMATE - ÉCOUTEURS BENT STéRéO AVEC MICRO",
+  "Reference": "BENT",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs Stéréo Avec Micro PROMATE - Gamme de fréquence: 20Hz-20KHz  - Sensibilité: 90dB ± 3dB - Impédance: 18? ± 10% - Diamètre 10 mm - Longueur de câble: 1.2 m - Conception résistante à la sueur et à l'eau - Connecteurs: Jack 3.5mm - Couleur: Bleu ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583272771_567.jpg",
+  "Offres": [
+    {
+      "Price": "13 DT",
+      "Last-update": "05/11/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-stereo-avec-micro-promate-bleu.html"
+    },
+    {
+      "Price": "13 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/casque-ecouteurs/6196-ecouteurs-stereo-avec-micro-promate-bent-bleu.html"
+    },
+    {
+      "Price": "13 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2111-ecouteurs-stereo-avec-micro-promate-bleu-bent-bl.html"
+    },
+    {
+      "Price": "13 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1790-ecouteurs-stereo-avec-micro-promate-noir-bent-bk.html"
+    },
+    {
+      "Price": "13 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1791-ecouteurs-stereo-avec-micro-promate-rose-bent-pk.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481990c6091ba9e65769"
+  },
+  "Name": "HP - CASQUE STéRéO H2800 NOIR / ROSE SOIE (2AP94AA)",
+  "Reference": "2AP94AA",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque HP H2800 - Facteur de forme du casque: Auriculaire  - Type de casque: Binaural  - Mode de sortie audio: Stéréo  - Technologie de connectivité: Filaire  - Réponse de fréquence: 20 - 20000 Hz  - Type de connecteur: Prise Jack  3.5 mm  - Longeur de Cable: 1.5 m  - Dimension: 14.2 cm x 6.2 cm x 18 cm - Poids: 124 g - Couleur: Noir et Rose Soie ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1524074520_101.jpg",
+  "Offres": [
+    {
+      "Price": "65 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/casque-ecouteurs/7742-casque-stereo-hp-h2800-gold-noir-2ap94aa.html"
+    },
+    {
+      "Price": "65 DT",
+      "Last-update": "12/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7e82d-simop.png",
+      "product-link": "https://www.simop.com.tn/produits/view?id=807"
+    },
+    {
+      "Price": "69 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/accessoires-et-peripheriques/casque-stereo-hp-h2800-noir-rose-soie-2ap94aa-prix-tunisie"
+    },
+    {
+      "Price": "69 DT",
+      "Last-update": "17/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/27999-casque-stereo-hp-h2800-noir-gold.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481a90c6091ba9e6576a"
+  },
+  "Name": "HP - ÉCOUTEUR 150 NOIR X7B04AA",
+  "Reference": "X7B04AA",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteur  HP 150 NOIR : Compatible avec l'iPhone, iPad, iPod, tablettes, ordinateurs et autres appareils avec port 3,5 mm- Poids: 0,015 kg - Dimensions minimales (L x P x H) : 1 100 mm - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1524074759_378.jpg",
+  "Offres": [
+    {
+      "Price": "17 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/57/HP-Doha-InEar-Headset-150"
+    },
+    {
+      "Price": "30 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-hp-150-noir-x7b04aa.html"
+    },
+    {
+      "Price": "34 DT",
+      "Last-update": "23/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/23319-ecouteur-avec-micro-hp-150-noir.html"
+    },
+    {
+      "Price": "35 DT",
+      "Last-update": "24/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/ecouteur/ecouteur-avec-micro-hp-150-x7b04aa-noir-prix-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481b90c6091ba9e6576b"
+  },
+  "Name": "Snopy - ECOUTEUR AVEC MICRO SN-J02 THUNDERBIRD",
+  "Reference": "SN-J02",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Ecouteur Snopy SN-J02 - Couleur Blanc & Rose - Micro Integré - Régulateur de Volume - Connecteur Jack 3.5mm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536327629_266.jpg",
+  "Offres": [
+    {
+      "Price": "11 DT",
+      "Last-update": "22/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/28107-ecouteur-avec-micro-snopy-sn-j02-thunderbird-noir-bleu.html"
+    },
+    {
+      "Price": "11 DT",
+      "Last-update": "22/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/28104-ecouteur-avec-micro-snopy-sn-j02-thunderbird-blanc-rose.html"
+    },
+    {
+      "Price": "11 DT",
+      "Last-update": "22/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/28106-ecouteur-avec-micro-snopy-sn-j02-thunderbird-noir-silver.html"
+    },
+    {
+      "Price": "11 DT",
+      "Last-update": "22/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/28105-ecouteur-avec-micro-snopy-sn-j02-thunderbird-noir-gold.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481b90c6091ba9e6576c"
+  },
+  "Name": "JBL - ECOUTEURS BLUETOOTH SANS FIL LIVE 200BT",
+  "Reference": "200BT",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Plage de réponse en fréquence dynamique : 20 Hz ? 20 kHz /  Temps de recharge : 2h /  Taille du haut-parleur 8 mm / Télécommande à 3 touches avec microphone / Type de batterie : Batterie lithium-ion polymère (3,7 V, 120 mAh) / Autonomie Bluetooth Musique 10h ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1547832536_635.jpg",
+  "Offres": [
+    {
+      "Price": "285 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/897-ecouteurs-jbl-live-200-bt-rouge-0093638.html"
+    },
+    {
+      "Price": "285 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/887-ecouteurs-jbl-live-200-bt-noir-0093634.html"
+    },
+    {
+      "Price": "299 DT",
+      "Last-update": "05/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/901-ecouteurs-jbl-live-200-bt-blanc-0093636.html"
+    },
+    {
+      "Price": "299 DT",
+      "Last-update": "05/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/casque-audio/ecouteurs-sans-fil-jbl-live-200bt-noir-prix-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481c90c6091ba9e6576d"
+  },
+  "Name": "JBL - MICRO CASQUE T500 BLUETOOTH",
+  "Reference": "0093997",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque JBL T500 - Connectivité Sans Fil: Bluetooth V 4.1 - Impédance nominale: 32 ohm - Réponse en fréquence: 20 - 20 kHz - Diamètre du haut-parleur: 32mm - Batterie Lithium-ion-polymère - Temps de charge: 2 heures - Autonomie: 16 heures - Couleur: Bleu ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1551276104_905.jpg",
+  "Offres": [
+    {
+      "Price": "179 DT",
+      "Last-update": "18/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/941-casque-jbl-t500-bt-blanc.html"
+    },
+    {
+      "Price": "179 DT",
+      "Last-update": "18/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/943-casque-jbl-t500-bt-rose.html"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "29/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/945-casque-jbl-t500-bt-bleu.html"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "18/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/939-casque-jbl-t500-bt-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481d90c6091ba9e6576e"
+  },
+  "Name": "YOOKIE - ECOUTEUR YK800",
+  "Reference": "YK800",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "référence : YK800   /Écouteur Yookie  YK800 /Type de connexion:3.5mm  /Puissance:30-60mW  /Fréquence, 20HZ-20khz  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1591815093_315.jpg",
+  "Offres": [
+    {
+      "Price": "13 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/ecouteur-yookie-yk800.html"
+    },
+    {
+      "Price": "19 DT",
+      "Last-update": "11/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/c530b-infoone.jpg",
+      "product-link": "https://www.infoone.com.tn/ecouteurs/2717-ecouteur-avec-micro-yookie-yk800-tunisie.html"
+    },
+    {
+      "Price": "25 DT",
+      "Last-update": "10/09/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-stereo-avec-micro-yookie-yk800-noir.html"
+    },
+    {
+      "Price": "25 DT",
+      "Last-update": "10/09/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-stereo-avec-micro-yookie-yk800-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481e90c6091ba9e6576f"
+  },
+  "Name": "JBL - CASQUE LIVE 500 BT",
+  "Reference": "JBL500BT",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque circum aural fermé sans fil Bluetooth 4.2 Son JBL signature avec haut-parleurs 50 mm Batterie rechargeable : autonomie de 30 heures Commandes tactiles sur l'oreillette : gérez facilement le volume, la lecture, les pistes et vos appels Câble détachable pour une utilisation filaire Conception pliable Poids : 231.6 g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1623191381_114.jpg",
+  "Offres": [
+    {
+      "Price": "439 DT",
+      "Last-update": "11/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/979-casque-jbl-live-500-bt-blanc.html"
+    },
+    {
+      "Price": "491 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/977-casque-jbl-live-500-bt-bleu.html"
+    },
+    {
+      "Price": "491 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/972-casque-jbl-live-500-bt-rouge.html"
+    },
+    {
+      "Price": "491 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/976-casque-jbl-live-500-bt-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1481f90c6091ba9e65770"
+  },
+  "Name": "WHITE SHARK - MICRO CASQUE GAMER GH-1644 TIGER",
+  "Reference": "GH-1644",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque de jeu Taille de l'enceinte: 50mm Gamme de fréquence: 20Hz 20kHz Impédance: 32 ohms -Sensibilité: 112 dB ± 3dB -Dimensions du microphone: 6mm x 5mm -Orientation: Multidirectionnelle -Impédance de microphone: 2200 Ohms -Sensibilité du microphone: -38 dB ± 3dB Illumination: Effets multicolores -Interface: 3,5 mm + connecteur USB Longueur de câble: 1.85m Câble tricoté Matériel: Plastique / cuir artificiel Couleur: Noir/ Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1535931196_619.jpg",
+  "Offres": [
+    {
+      "Price": "79 DT",
+      "Last-update": "26/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-gamer-shark-gh-1644-tiger.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "10/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/c530b-infoone.jpg",
+      "product-link": "https://www.infoone.com.tn/casque-gamer/3567-casque-gaming-white-shark-tiger-gh-1644-tunisie.html"
+    },
+    {
+      "Price": "87 DT",
+      "Last-update": "10/06/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/32312-casque-micro-gaming-white-shark-tiger.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482090c6091ba9e65771"
+  },
+  "Name": "Snopy - ECOUTEUR AVEC MICRO RAMPAGE ELITY / BLANC",
+  "Reference": "SN-R99",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Ecouteur avec Micro Snopy Rampage Elity - Couleur Blanc - Sensibilité 98dB+3dB - Fréquence 20-20000 Hz - Câble Jack 3.5mm - Longueur du câble 1.2m ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536327521_403.jpg",
+  "Offres": [
+    {
+      "Price": "11 DT",
+      "Last-update": "22/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/30261-ecouteur-avec-micro-snopy-rampage-elity-noir.html"
+    },
+    {
+      "Price": "11 DT",
+      "Last-update": "22/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/30260-ecouteur-avec-micro-snopy-rampage-elity-blanc.html"
+    },
+    {
+      "Price": "11 DT",
+      "Last-update": "22/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/30263-ecouteur-avec-micro-snopy-rampage-elity-turquoise.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482190c6091ba9e65772"
+  },
+  "Name": "ADVANCE - MICRO CASQUE MIC-S765",
+  "Reference": "MIC-S765",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque ADVANCE  - Type de casque: Supra-auriculaire  - Technologie de Connectivité: Filaire - Diamètre Ecouteurs: 40 mm - Réponse en fréquence (Casque): 20 Hz-20 KHZ - Réponse en fréquence (Macro): 20 Hz-16KHZ - Impédance: 32 Ohm - Sensibilité (SPL): 105 dB SPL - Connecteurs: 2 x Micro Stéréo 3,5 mm - Longueur du câble: 1.8 mètre - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536333404_522.jpg",
+  "Offres": [
+    {
+      "Price": "28 DT",
+      "Last-update": "17/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/c530b-infoone.jpg",
+      "product-link": "https://www.infoone.com.tn/casques-micro/1384-casque-micro-advance-mic-s765-tunisie.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-advance-mic-s765.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "03/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/40538-casque-micro-advance-mic-s765.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482290c6091ba9e65773"
+  },
+  "Name": "SPIRIT OF GAMER - MICRO CASQUE GAMING ELITE-H70",
+  "Reference": "MIC-EH70",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Spirit Of Gamer Elite-H70 - Rétro-éclairage bleu - Contrôle du volume - Sonsurround virtuel 7.1 - Diamétre Haut-parleurs: 50 mm  - Fréquence en réponse: 20 - 20 000 Hz  - Impédance: 16 ohm  - SPL Max: 97 dB  - Longueur du câble: 2.4 m  - Couplage auriculaire: Circumaural - Microphone flexible - Compatible PC : Windows XP à Windows 10 - Poids: 315 g - Couleur: Blanc -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1539797323_883.jpg",
+  "Offres": [
+    {
+      "Price": "85 DT",
+      "Last-update": "31/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/c530b-infoone.jpg",
+      "product-link": "https://www.infoone.com.tn/casque-gamer/1663-micro-casque-gaming-sog-elite-h70-tunisie.html"
+    },
+    {
+      "Price": "89 DT",
+      "Last-update": "16/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/28980-casque-micro-gaming-spirit-of-gamer-elite-h70-noir.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "02/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/35995-casque-micro-spirit-of-gamer-elite-h70.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482390c6091ba9e65774"
+  },
+  "Name": "SBOX - MICRO CASQUE HS-501N",
+  "Reference": "HS-501",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque SBOX  - Fréquence: 20Hz - 20KHz - Puissance: 30mW - Sensibilité: 116 ± 3dB - Impédance: 32 Ohm - Connecteurs: 3,5 mm stéréo - Longueur du câble:  1,2 m - Couleur:  Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1539797641_845.jpg",
+  "Offres": [
+    {
+      "Price": "31 DT",
+      "Last-update": "26/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/ecouteur-micro-casque/casque-micro-sbox-hs-501w-blanc-5445.html"
+    },
+    {
+      "Price": "35 DT",
+      "Last-update": "06/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-sbox-hs-501w-blanc.html"
+    },
+    {
+      "Price": "35 DT",
+      "Last-update": "10/06/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/24932-casque-micro-sbox-hs-501w-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482490c6091ba9e65775"
+  },
+  "Name": "JBL - Casque LIVE 500BT Bluetooth",
+  "Reference": "LIVE-500BT",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque circum-aural fermé sans fil - Bluetooth 4.2 - Son JBL signature avec haut-parleurs 50 mm - Batterie rechargeable : autonomie de 30 heures - Commandes tactiles sur l'oreillette: gérez facilement le volume, la lecture, les pistes et vos appels - Câble détachable pour une utilisation filaire - Conception pliable - Poids : 231.6 g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583271000_602.jpg",
+  "Offres": [
+    {
+      "Price": "519 DT",
+      "Last-update": "11/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/ecouteur-micro-casque/jbl-live-500bt-rouge-son-jbl-signature-14734.html"
+    },
+    {
+      "Price": "519 DT",
+      "Last-update": "11/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/ecouteur-micro-casque/jbl-live-500bt-son-jbl-signature-blanc-15444.html"
+    },
+    {
+      "Price": "519 DT",
+      "Last-update": "11/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/ecouteur-micro-casque/jbl-live-500bt-bleu-14735.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482590c6091ba9e65776"
+  },
+  "Name": "PROMATE - MICRO CASQUE MELODY BLUETOOTH",
+  "Reference": "MELODY-BT",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque PROMATE - Technologie de Connectivité: Sans Fil  (Bluetooth v4.0) - Fréquence Bluetooth: 2,4-2,8 GHz  - Impédance: 32 ohms  - Temps de charge: 2 heures - Temps d'utilisation: 5 heures - Type de batterie: LI-Ploymer - Capacité de la batterie: 250mAh - Distance de fonctionnement: 10 m - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583272065_442.jpg",
+  "Offres": [
+    {
+      "Price": "72 DT",
+      "Last-update": "19/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1811-casque-stereo-sans-fil-promate-melody-bt-bleu-melody-bt-bleu.html"
+    },
+    {
+      "Price": "72 DT",
+      "Last-update": "19/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2468-casque-stereo-sans-fil-promate-melody-bt-noir-melody-btblack.html"
+    },
+    {
+      "Price": "73 DT",
+      "Last-update": "01/01/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-promate-bluetooth-bleu.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482690c6091ba9e65777"
+  },
+  "Name": "Muse - CASQUE STéRéO M-276 BT BLUETOOTH",
+  "Reference": "M-276BT",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Stéréo Sans Fil MUSE - Connectivité Sans Fil: Bluetooth V4.2+EDR - Diamètre du haut-parleur: 4 cm - Type d?aimant: Neodymium - Réponse en fréquence: 20Hz-20KHz - Impédance: 32? - Sensibilité: 108dB±3dB - Longueur de Câble auxiliaire: 100cm - Longueur de Câble USB: 80cm - Fonctions: Arceau réglable pour un maximum de confort, Système mains-libres - Connecteurs: 1 x Prise de chargement USB, 1 x Entrée auxiliaire 3.5mm - Batterie rechargeable intégrée - Capacité de Batterie:  370 mAh/3.7V - Autonomie de Batterie: Jusqu?à 10 heures (mode bluetooth) - Temps de Charge Batterie: 2 à 3 heures - Dimensions: 195 x 80 x 185 mm - Poids: 178g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583273370_339.jpg",
+  "Offres": [
+    {
+      "Price": "63 DT",
+      "Last-update": "05/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/casque-sans-fil-muse-m-276bt-bluetooth-noir.html"
+    },
+    {
+      "Price": "65 DT",
+      "Last-update": "17/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1218-casque-sans-fil-muse-m-276bt-noir.html"
+    },
+    {
+      "Price": "69 DT",
+      "Last-update": "09/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/37947-casque-sans-fil-bluetooth-muse-m-276bt-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482790c6091ba9e65778"
+  },
+  "Name": "HUAWEI - ÉCOUTEURS BLUETOOTH SANS FIL FREEBUDS 4I NOIR",
+  "Reference": "noir",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs intra-auriculaires Bluetooth 5.2 Avec micro intégré Boîtier de charge/transport Transducteurs de 10 mm Processeur BES2500Z Technologie Bluetooth 5.2 Réduction de bruit active Microphones : 2 microphones en silicone (par écouteur) Des contrôles intuitifs Batterie 55 mAh (par écouteur), 215 mAh (boitier de charge) Autonomie écoute musicale : jusqu'à 10 heures / jusqu'à 22 heures avec le boitier Autonomie appels : jusqu'à 6.5 heures / jusqu'à 14 heures avec le boitier Temps de charge : 1h pour les écouteurs dans le boitier de charge, 90 minutes pour le boitier de charge en filaire Poids : 5.5 g (par écouteur), 36.5 g (boitier de charge) Couleur Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627443_658.jpg",
+  "Offres": [
+    {
+      "Price": "399 DT",
+      "Last-update": "25/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2915-ecouteurs-bluetooth-sans-fil-huawei-freebuds-4i-noir.html"
+    },
+    {
+      "Price": "399 DT",
+      "Last-update": "28/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/accessoire-smartphone/huawei-freebuds-4i--noir-prix-tunisie"
+    },
+    {
+      "Price": "499 DT",
+      "Last-update": "20/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/accessoire-smartphone/ecouteurs-huawei-bluetooth-freebuds-3i-noir-prix-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482890c6091ba9e65779"
+  },
+  "Name": "JBL - ÉCOUTEURS ENDURRUN NOIR",
+  "Reference": "0095511",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Technologie de connectivité : Bluetooth Durée de vie moyenne de la batterie : 6 heures Tension : 3,7V Grâce aux technologies Twistlock et Flex Soft, ces écouteurs sont légers et conçus de maniérer ergonomique pour assurer confort et maintiennent quelle que soit l'activité sportive Dimensions : 3,6 x 9,5 x 16,1 cm Poids : 4,54 gr ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1623231554_642.jpg",
+  "Offres": [
+    {
+      "Price": "158 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/850-ecouteurs-jbl-endurrun-noir-0095511.html"
+    },
+    {
+      "Price": "158 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/852-ecouteurs-jbl-endurance-run-jaune.html"
+    },
+    {
+      "Price": "165 DT",
+      "Last-update": "11/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/861-ecouteurs-jbl-endurrun-bt-rouge-0095513.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482990c6091ba9e6577a"
+  },
+  "Name": "MICROSOFT - LX 3000 professionnel USB-1122",
+  "Reference": "JUG-00015",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Configuration Requise:  Système d'exploitation (Microsoft Windows® 8.1, Windows 8 et Windows 7), Disque dur (60 Mo disponibles), Connectivité (Port USB 1.1 ou supérieur (USB 2.0 recommandé),  Intel Pentium® III 550 MHz (Intel Pentium 4 1,4 GHz recommandé) ou version ultérieure. ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1122_1.jpg",
+  "Offres": [
+    {
+      "Price": "119 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-professionnel-lx-3000-usb-tunsie.html"
+    },
+    {
+      "Price": "119 DT",
+      "Last-update": "24/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/4291-lx-3000.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482a90c6091ba9e6577b"
+  },
+  "Name": "JBL - ECOUTEURS INTRA-AURICULAIRES SANS FIL T110BT",
+  "Reference": "T110BT",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Plage de réponse en fréquence dynamique : 20 Hz ? 20 kHz /  Temps de recharge : 2h /  Taille du haut-parleur 8,6 mm / Télécommande à 3 touches avec microphone / Type de batterie : Batterie lithium-ion polymère (3,7 V, 120 mAh) / Autonomie Bluetooth Musique 6h ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1524073945_340.jpg",
+  "Offres": [
+    {
+      "Price": "125 DT",
+      "Last-update": "09/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/casque-audio/ecouteur-jbl-tune-110bt-blanc"
+    },
+    {
+      "Price": "165 DT",
+      "Last-update": "04/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/873-ecouteurs-jbl-t110bt-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482b90c6091ba9e6577c"
+  },
+  "Name": "HP - ÉCOUTEUR HEADSET 150 - BLEU",
+  "Reference": "2AP91AA",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteur intra-auriculaire HP 150 - Mode de sortie audio: Stéreo - Microphone intégré - Technologie de connectivité: Filaire - Matériau des oreillettes: Silicone - Connecteur: Audio Jack 3.5 mm - Compatible avec iPhone, iPad, iPod, système IOS, smartphones, tablettes, ordinateurs et autres périphériques avec un port de 3,5 mm - Couleur: Bleu - Poids : 15 g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1524074731_811.jpg",
+  "Offres": [
+    {
+      "Price": "29 DT",
+      "Last-update": "25/12/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteur-hp-headset-150-bleu.html"
+    },
+    {
+      "Price": "34 DT",
+      "Last-update": "23/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/27998-ecouteurs-intra-auriculaire-hp-150.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482c90c6091ba9e6577d"
+  },
+  "Name": "Cliptec - MICRO CASQUE BMH835 URBAN RéACTION",
+  "Reference": "BMH835",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque : Diamètre du pilote: 40 mm - Impédance : 32?- Fréquence de réponse: 20Hz-20KHz - Sensibilité (SPL): 108 dB ± 3dB- Longueur de la corde: ? 1,2 m - Prise audio : Prise audio plaquée or 3,5 mm- Poids net: 148,5 g / Microphone : - Mic Dimension Ø6.0 x 2.7 mm- Impédance ?2.2k - Sensibilité (SPL) : -42 dB ± 3dB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536314876_117.jpg",
+  "Offres": [
+    {
+      "Price": "30 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/casque-reaction-urban-bmh835.html"
+    },
+    {
+      "Price": "33 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/656/Micro-Casque-CLIPTEC-Urban-Raction-BMH835"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482d90c6091ba9e6577e"
+  },
+  "Name": "Cliptec - CASQUE MOBIWAVE BMH-519",
+  "Reference": "BMH519",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": " ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536315445_981.jpg",
+  "Offres": [
+    {
+      "Price": "22 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/cliptec-stereo-multimedia-casque-bmh519.html"
+    },
+    {
+      "Price": "28 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/596/Casque-multimdia-stro-dynamique-CLiPtec-MOBIWAVE-BMH519"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482d90c6091ba9e6577f"
+  },
+  "Name": "PROMATE - CASQUE STéRéO FLEXIBLE POUR ENFANT",
+  "Reference": "FLEXURE",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Stéréo PROMATE Pour Enfant-Black :Casque Flexure - Super Flexible Kids-Safe -Passive Noise Cancellation -Superbe son stéréo - Robuste et robuste - Léger et confortable - Limiteur de volume - Corde de 4 pi sans enchevêtrement - Universel  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536315944_510.jpg",
+  "Offres": [
+    {
+      "Price": "29 DT",
+      "Last-update": "09/02/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/ecouteur-micro-casque/casque-d-écoute-en-mousse-flexure-noir-7062.html"
+    },
+    {
+      "Price": "29 DT",
+      "Last-update": "09/02/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/ecouteur-micro-casque/casque-d-écoute-en-mousse-flexure-vert-7064.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482f90c6091ba9e65780"
+  },
+  "Name": "SBOX - MICRO CASQUE GAMER HS-302",
+  "Reference": "HS-302",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque Gamer - Taille du pilote: 40mm - Réponse en fréquence: 20Hz - 20kHz - Impédance: 32 Ohms - Sensibilité: 105 dB ± 3dB - Dimensions du microphone: 6mm x 5mm - Directivité: omnidirectionnelle - Impédance du microphone: 2200 Ohms - Sensibilité du microphone: -62 dB ± 3dB - Interface: 3,5 mm - Longueur de câble: 2,2 m - Couleur: Noir / Gris ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536330410_247.jpg",
+  "Offres": [
+    {
+      "Price": "33 DT",
+      "Last-update": "05/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-gamer-sbox-hs-302-noir-gris.html"
+    },
+    {
+      "Price": "38 DT",
+      "Last-update": "30/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/24929-casque-micro-sbox-hs-302.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1482f90c6091ba9e65781"
+  },
+  "Name": "JABRA - MICRO-CASQUE PROFESSIONNEL EVOLVE 20 MS STéRéO (4999-823-109)",
+  "Reference": "4999-823-109",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro-Casque Professionnel JABRA Evolve 20 MS - Mono Stéréo (1 x écouteur) - Technologie de Connectivité: Filaire - Interface de Connectivité: USB - Fréquences haut-parleur: 150 Hz ~ 7 kHz - Fréquences microphone: 100 Hz ~ 10 kHz à 6 dB - Puissance d'entrée haut-parleur: de 5 mW à 0,4 V (nominal), de 10 mW à 0,56 V (max) - Sensibilité haut-parleur: 93,6 dB SPL à 1 kHz - Impédance haut-parleur: 32+/-4,8, à 1,0 kHz - Fonctions: Unité de contrôle d?appels pour gérer les appels - Réduction de bruit passive - Boîtier de fonctions sur le cordon: réglage du volume, touche secret, décrocher / raccrocher - Microphone antibruit de pointe - Connectivité plug-and-play - Compatibilité: MAC et PC - Dimensions:  23 x 18 x 3,5 cm - Poids: 142.5 gr ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536333141_347.jpg",
+  "Offres": [
+    {
+      "Price": "189 DT",
+      "Last-update": "05/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/ecouteur-micro-casque/casque-jabra-evolve-20-ms-stereo-9182.html"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "29/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/31412-casque-micro-usb-jabra-evolve-20-ms-stereo.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483090c6091ba9e65782"
+  },
+  "Name": "jeway - MICRO CASQUE H2",
+  "Reference": "H2",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque JEWAY H2 - Haut-parleurs: ø40mm - Sensibilité: 98dB - Impédance: 32? - Fréquence: 20Hz - 20,000Hz - Longueur de câble: 1.5m ± 30cm - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536333263_479.jpg",
+  "Offres": [
+    {
+      "Price": "9 DT",
+      "Last-update": "17/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/ecouteur-micro-casque/micro-casque-jeway-h2-bleu-14992.html"
+    },
+    {
+      "Price": "12 DT",
+      "Last-update": "31/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/c530b-infoone.jpg",
+      "product-link": "https://www.infoone.com.tn/casques-micro/2653-casque-micro-jeway-h2-pour-smartphone-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483190c6091ba9e65783"
+  },
+  "Name": "JBL - ECOUTEURS T110",
+  "Reference": "T110",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Ecouteurs JBL T110 - Connectivité: Filaire - Style de casque portable: In-ear - Fréquence des écouteurs: 20-20000 Hz - Bouton de commande avec microphone de contrôle à distance de lecture de musique -  Connecteur: Prise Jack 3.5 mm - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1542737089_910.jpg",
+  "Offres": [
+    {
+      "Price": "42 DT",
+      "Last-update": "25/06/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/ecouteur-micro-casque/jbl-t110-blanc--12424.html"
+    },
+    {
+      "Price": "42 DT",
+      "Last-update": "22/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/ecouteur/jbl-t110-black-5886.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483290c6091ba9e65784"
+  },
+  "Name": "JABRA - MICRO CASQUE USB BIZ 1500 DUO (1559-0159)",
+  "Reference": "1559-0159",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque USB JABRA Biz 1500 duo anti-bruit - Connectivité: Filaire  - Interface avec l'ordinateur: USB - Fréquence en réponse: 20 - 4500 Hz (casque)/1000 - 5000 Hz (micro) - Impédance: 150 ? (Casque) - Sensibilité: 115.5 dB/mW (casque)/-32 dBV/Pascal (micro) - Puissance d'entrée max: 30 mW - Détails d'entrée audio: Uni-directionnel - 1000 - 5000 Hz - Longueur de câble: 2,3 m - Niveau de pression sonore: 118dB - Matériau des oreillettes: Mousse - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1542734822_364.jpg",
+  "Offres": [
+    {
+      "Price": "219 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-usb-jabra-biz-1500-duo-1559-0159.html"
+    },
+    {
+      "Price": "259 DT",
+      "Last-update": "11/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/ecouteur-micro-casque/casque-jabra-biz-1500-usb-duo-avec-micro-antibruit-7637.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483490c6091ba9e65785"
+  },
+  "Name": "SBOX - CASQUE MICRO HS-201",
+  "Reference": "HS-201",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Micro SBOX HS-201 - Longueur du câble: 1.8 m - Connecteur  2x 3.5 mm - Impédance: 32 Ohms - Puissance d'entrée: 100 mW - Poids: 125g - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1548330575_118.jpg",
+  "Offres": [
+    {
+      "Price": "11 DT",
+      "Last-update": "26/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-sbox-hs-201-noir.html"
+    },
+    {
+      "Price": "12 DT",
+      "Last-update": "30/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/27718-casque-micro-sbox-hs-201.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483490c6091ba9e65786"
+  },
+  "Name": "SAMSUNG - ECOUTEURS EO-IG935",
+  "Reference": "EO-IG935",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Niveau sonore :\nImpedance24 ohm ,Frequency Response20Hz~20KHz,Sensitivity90 dB/mW\nCaractéristiques générales:\nControl3 buttons(play/pause,Volume up, down),MicrophoneYes,Packaging ContentsEar tips(S,M,L)\nConnectivité:\n3.5mm headphone connectorYes ,Cable TypeFabric\nCaractéristiques physiques:\nPoids13.2 g,Cable Length1.2 m,CouleurBlack ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1542883844_588.jpg",
+  "Offres": [
+    {
+      "Price": "79 DT",
+      "Last-update": "11/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/tv-image-son/in-ear-basuc-ug-935"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "02/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/accessoire-smartphone/samsung-headphones-eo-ig935"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483590c6091ba9e65787"
+  },
+  "Name": "HP - MICRO CASQUE GAMER PAVILLION 400 NOIR & VERT (4BX31AA)",
+  "Reference": "4BX31AA",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque Gamer HP pavillion 400 - Interface: F ilaire  - Port confortable : Les écouteurs et le bandeau sont recouverts d?un coussinet doux en similicuir pour un confort optimal -Règle rapidement le volume ou coupe le son du micro grâce à des commandes intégrées directement au câble - Connecteur: Prise jack 3,5 mm disponible pour la sortie son et le microphone - Dimensions : 22,5 x 20 x 8,5 cm - Poids: 280 g - Couleur : Noir &  vert   ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1548330139_351.jpg",
+  "Offres": [
+    {
+      "Price": "99 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/casque-ecouteurs/7733-casque-micro-hp-pavilion-gaming-400-4bx31aa.html"
+    },
+    {
+      "Price": "100 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-gamer-hp-pavillion-400-noir-vert-4bx31aa.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483690c6091ba9e65788"
+  },
+  "Name": "PROMATE - MICRO CASQUE SONATA",
+  "Reference": "SONATA",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque PROMATE Sonata - Technologie de Connectivité: Filaire - Diamètre Ecouteurs: 40 mm  - Réponse en fréquence: 20 Hz-20 KHZ - Sensibilité: 105dB - Longueur de câble: 1,5m - les haut-parleurs offrent une excellente isolation des bruits extérieurs - Un son de qualité stéréo puissant - la conception unique du rabat et du rabat de sonata est dotée d?un mécanisme unique qui vous permet de le replier et de le ranger facilement - Connecteurs: 1 Micro Stéréo 3,5 mm - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583271999_959.jpg",
+  "Offres": [
+    {
+      "Price": "36 DT",
+      "Last-update": "06/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/son-numerique/promate-sonata-casque-micro-filaire-rouge-tunisie"
+    },
+    {
+      "Price": "36 DT",
+      "Last-update": "06/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/son-numerique/promate-sonata-casque-micro-filaire-noir-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483790c6091ba9e65789"
+  },
+  "Name": "PROMATE - ÉCOUTEURS TUNEBUDS",
+  "Reference": "TUNEBUDS-1",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs PROMATE - Connectivite: Filaire - Fréquence: 20Hz-20KHz  - Sensibilité: 94 ± 3 db - Impédance: 16? ± 15%  - Longueur de câble: 1.2 m  - Connecteurs: Jack 3.5mm - Couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583272747_484.jpg",
+  "Offres": [
+    {
+      "Price": "20 DT",
+      "Last-update": "14/01/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-promate-tunebuds-blanc.html"
+    },
+    {
+      "Price": "20 DT",
+      "Last-update": "02/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/son-numerique/promate-tunebuds-ecouteurs-stereo-intra-auriculaires-micro-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483790c6091ba9e6578a"
+  },
+  "Name": "PROMATE - HAUT PARLEUR SILOX BLUETOOTH",
+  "Reference": "SILOX",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Haut Parleur PROMATE - Technologie de Connectivité Sans Fil:  Bluetooth: 4.2  - Puissance: 2x10 W- Impédance: 4?  - Réponse en fréquence: 2.4GHz - Capacité de la batterie: 6600mAh - Temps de charge de la batterie: 5 heures  - Type de batterie: Lithium-Ion  - Distance de fonctionnement: 10m  - Étanche à l'eau et à la poussière: IPX6 - Couleur: Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583272793_118.jpg",
+  "Offres": [
+    {
+      "Price": "229 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/enceintes/5953-haut-parleur-bluetooth-resistant-a-l-eau-promate-silox-bleu.html"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/enceintes/5952-haut-parleur-bluetooth-resistant-a-l-eau-promate-silox-rouge.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483890c6091ba9e6578b"
+  },
+  "Name": "YOOKIE - ÉCOUTEURS SANS FIL YKS1 - NOIR",
+  "Reference": "YKS1",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs YOOKIE YKS1 - Technologie de connectivité: Bluetooth - Matériau de l'oreille: plastique - Réponses en fréquence: 20Hz-20KH - Impédance: 16? - Sensibilité: -42dB ± 3dB - Diamètre ?10mm - Portée de transmission: 10m - Temps de conversation: 4-5 heures - Autonomie en veille: 72 heures - Temps de charge: 2 heures - Batterie écouteurs: 2 x 55mAh - Couleur : Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1591814905_521.jpg",
+  "Offres": [
+    {
+      "Price": "59 DT",
+      "Last-update": "26/02/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-yookie-sans-fil-yks1-bleu.html"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "26/02/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-yookie-sans-fil-yks1-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483990c6091ba9e6578c"
+  },
+  "Name": "KSIX - ÉCOUTEURS SANS FIL AVEC MICRO - NOIR (BXATWS01)",
+  "Reference": "BXATWS01",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs sans fil KSIX Avec Micro - Connectivité Sans Fil: Bluetooth 5.0 - Microphone intégré - Diamètre: 8 mm - Portée opérationnelle: 10 m - Gamme de fréquence: 20Hz-20Khz - Impédance: 32O - Sensibilité: -42 ± 3dB - Capacité de la batterie: 60 mAh - Capacité de la batterie du boîtier: 400 mAh - Durée en mode de jeu: 3,5 heures + 8,5 heures avec l'étui de chargement portable - Charge complète: 1 heure - bouton multifonction intégré pour contrôler la liste de lecture et répondre à vos appels téléphoniques sans sortir votre téléphone de votre poche - Couleur: Noir  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1599735774_647.jpg",
+  "Offres": [
+    {
+      "Price": "77 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1711-ecouteurs-sans-fil-ksix-free-pods-avec-micro-noir.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "15/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-sans-fil-ksix-avec-micro-noir-bxatws01.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483a90c6091ba9e6578d"
+  },
+  "Name": "KSIX - MICRO CASQUE SANS FIL BXAUHBT01 - NOIR",
+  "Reference": "BXAUHBT01",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque KSIX - Connectivité Sans Fil: Bluetooth 5.0 - Diamétre d'unité: 40 mm - Portée de fonctionnement: 10 m - Gamme de fréquences: 20 Hz-20 KHz - Impédance: 32O - Sensibilité: 105 dB ± 3 dB - Capacité de la batterie: 200 mAh - Temps de jeu: jusqu'à 6 heures - Temps de charge de la batterie: 1,5 heures  - Utilisez le câble Jack 3,5 mm inclus pour continuer à écouter votre musique préférée à tout moment - Design rétro attrayant et léger pour un confort maximum - Finition acier inoxydable et cuir synthétique - Avec microphone et boutons pour contrôler la musique et les appels téléphoniques - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1599735808_557.jpg",
+  "Offres": [
+    {
+      "Price": "105 DT",
+      "Last-update": "31/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1709-casque-bluetooth-ksix-noir-bxauhbt01.html"
+    },
+    {
+      "Price": "105 DT",
+      "Last-update": "04/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-ksix-sans-fil-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483a90c6091ba9e6578e"
+  },
+  "Name": "KSIX - ÉCOUTEURS SANS FIL BXTW02 - BLANC",
+  "Reference": "BXTW02",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs KSIX Sans Fil - Technologie de connectivité: Bluetooth - Microphone intégré - Temps de communication: 4 heures  - Temps de charge: 1 heure  - Sensibilité du micro: 100 ± 3dB - Portée de la liaison sans fil: 15 m  - Diamètre: 10 mm - La boîte peut charger les écouteurs et peut être utilisée comme étui de rangement - Capacité de la batterie du boîtier: 400 mAh - Appareils compatibles: Samsung ou iPhone tel téléphone même l'iPad ou le pad Android - Couleur: Blanc  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1599735834_964.jpg",
+  "Offres": [
+    {
+      "Price": "89 DT",
+      "Last-update": "18/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1713-ecouteurs-sans-fil-ksix-true-buds-blanc-bxtw02.html"
+    },
+    {
+      "Price": "95 DT",
+      "Last-update": "07/10/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-ksix-sans-fil-bxtw02-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483b90c6091ba9e6578f"
+  },
+  "Name": "KSIX - MICRO CASQUE GAMING DRAKKAR - NOIR",
+  "Reference": "BXAUGM01",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque Gaming KSIX DRAKKAR - Connectivité: Filaire  - Rétro-éclairage LED rouge - Impédance: 32 ohm - Sensibilité: -42 dB - Microphone réglable et flexible - Coussinet moelleux en similicuir - Compatible avec Windows, Mac, Xbox One, PS4 et smartphones - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1616359071_951.jpg",
+  "Offres": [
+    {
+      "Price": "79 DT",
+      "Last-update": "13/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-gaming-ksix-drakkar-noir.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "08/09/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/36984-casque-micro-gaming-ksix-drakkar-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483b90c6091ba9e65790"
+  },
+  "Name": "KSIX - ÉCOUTEURS SANS FIL AVEC MICRO TRUE WIRELESS BLANC",
+  "Reference": "BXATANC",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Connexions : Sans fil Facteur de forme du casque : Dans l'oreille Contrôle du bruit : Annulation active du bruit Couleur : blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627112_462.jpg",
+  "Offres": [
+    {
+      "Price": "227 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2034-ecouteurs-sans-fil-avec-micro-ksix-true-wireless-blanc-bxatanc.html"
+    },
+    {
+      "Price": "239 DT",
+      "Last-update": "06/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-ksix-true-sans-fil-a-reduction-de-bruit-actif-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483c90c6091ba9e65791"
+  },
+  "Name": "KSIX - ÉCOUTEURS AVEC MICRO BLANC",
+  "Reference": "LCGPS02",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Gamme de fréquence : 20-20KHz Sensibilité : 105dB ± 2dB Impédance 32O ± 15% Longueur de câble : 1.2 m Jack 3.5mm Bouton Multifonction Couleur : blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627295_564.jpg",
+  "Offres": [
+    {
+      "Price": "15 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1718-ecouteurs-ksix-avec-micro-blanc-lcgps02.html"
+    },
+    {
+      "Price": "16 DT",
+      "Last-update": "07/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/40085-ecouteurs-stereo-avec-micro-promate-bent-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483d90c6091ba9e65792"
+  },
+  "Name": "THOMSON - CASQUE HED2006BK NOIR",
+  "Reference": "132426",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Thomson HED2006BK / AN, supra- auriculaire guide-câble d'un côté, noir Technologie de connectivité : Avec fil Fréquence des écouteur s: 20 à 20000 Hz Sensibilité du casque : 92 dB  Longueur de câble : 1,2 m Connecteur de 3,5 mm Couleur du produit : Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627319_876.jpg",
+  "Offres": [
+    {
+      "Price": "31 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2198-casque-thomson-hed2006bk-noir-132426.html"
+    },
+    {
+      "Price": "33 DT",
+      "Last-update": "18/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/54174-casque-micro-thomson-hed2006bk.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483d90c6091ba9e65793"
+  },
+  "Name": "Muse - CASQUE STéRéO MARRON",
+  "Reference": "M-278BT",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Connectivité sans fil : bluetooth v5.0  Diamètre du haut-parleur : 4 cm Type d?aimant : NdFeb Réponse en fréquence : 20Hz-20KHz Impédance : 32?  Sensibilité : 98dB ± 3dB  Longueur de câble auxiliaire : 100cm  Longueur de câble USB : 80cm  Fonctions : arceau réglable pour un maximum de confort, système mains-libres  Connecteurs : 1 x prise de chargement USB, 1 x entrée auxiliaire 3.5mm Batterie rechargeable intégrée Capacité de Batterie : 370 MAH/3.7V  Autonomie de batter ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622628442_438.jpg",
+  "Offres": [
+    {
+      "Price": "109 DT",
+      "Last-update": "17/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/5000-casque-sans-fil-bluetooth-muse-m-278bt-marron.html"
+    },
+    {
+      "Price": "119 DT",
+      "Last-update": "05/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/casque-stereo-sans-fil-muse-m-278bt-bluetooth-marron.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483e90c6091ba9e65794"
+  },
+  "Name": "JBL - CASQUE T750 BT NOIR",
+  "Reference": "0096847",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Son JBL Pure Bass Réduction de bruit active Diffusion bluetooth sans fil Autonomie batterie Temps de recharge 2h Connexion multipoint Bluetooth 4.2 Réponse fréquence : 20 à 20 kHz Impédance : 32 Ohms Puissance max : 40 mW Appels mains-libres et commande vocale Câble détachable pour une utilisation filaire Conception léger et pliable Poids : 230g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622629211_929.jpg",
+  "Offres": [
+    {
+      "Price": "379 DT",
+      "Last-update": "11/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/995-casque-jbl-t750-bt-noir.html"
+    },
+    {
+      "Price": "508 DT",
+      "Last-update": "05/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/casque-audio/casque-bluetooth-jbl-t750-btnc-noir"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483e90c6091ba9e65795"
+  },
+  "Name": "JBL - ÉCOUTEURS T205 BLANC CHROME",
+  "Reference": "92834",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Son JBL Pure Bass Microphone intégré Taille des Haut-Parleurs : 2.5 mm Sensibilité : 100dB SPL/1mw Impédance : 32 ohm Réponse en fréquence: 20 Hz - 20 kHz Câble plat anti-n?uds Longueur du câble: 118.2 cm Embouts ergonomiques Housse de transport Couleur Blanc Chrome ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1623062929_281.jpg",
+  "Offres": [
+    {
+      "Price": "75 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2825-ecouteurs-jbl-t205-noir.html"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2826-ecouteurs-jbl-t205-blanc-chrome.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1483f90c6091ba9e65796"
+  },
+  "Name": "JBL - ÉCOUTEURS JBL 110 GA SILVER",
+  "Reference": "0092855",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Connectivité bluetooth Laissez l?assistant google vous aider Le son légendaire JBL audio pro Batterie de 8 heures-recharge rapide en 2 heures ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1623074010_499.jpg",
+  "Offres": [
+    {
+      "Price": "282 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/848-ecouteurs-jbl-everest-110-ga-gun-metal-0092854.html"
+    },
+    {
+      "Price": "282 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/836-ecouteurs-jbl-everest-110-ga-silver-0092855.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484090c6091ba9e65797"
+  },
+  "Name": "KOMC - B19 USB",
+  "Reference": "B19",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro-casque B19 USB est un équipement intégrant un microphone et un casque audio dans un même appareil, utilisé en informatique, en radiotéléphonie et studio d'enregistrement - Couleur: Blanc / Bleu - Fabricant: KOMC - Style de casque:  Premier type de capture - Machines d' occasion: mobile, lecteur Mp3, Mp4, Ordinateurs - Type: Filaire -Type de connexion: jack 3,5 mm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1054_1.jpg",
+  "Offres": [
+    {
+      "Price": "35 DT",
+      "Last-update": "29/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/c530b-infoone.jpg",
+      "product-link": "https://www.infoone.com.tn/casques-micro/524-casque-micro-usb-komc-b19-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484190c6091ba9e65798"
+  },
+  "Name": "LOGITECH - H110 ANTI-BRUIT",
+  "Reference": "981-000271",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro anti-bruit, Bande passante Casque: 20 Hz à 20 000 Hz, Bande passante Micro: 100 Hz à 16 000 Hz, Connecteur(s): 2 x Jack 3,5mm Mâle Stéréo, Tige modulable rotative , Bandeau réglable, Conception polyvalente, Couleurs: Gris. ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1067_1.jpg",
+  "Offres": [
+    {
+      "Price": "37 DT",
+      "Last-update": "17/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/6687-casque-micro-stereo-logitech-h110.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484290c6091ba9e65799"
+  },
+  "Name": "MSI - DS501",
+  "Reference": "DS501",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Micro Gamer MSI DS501 - Type de casque: Casque Omnidirectionnelle - casque ultraléger avec un arceau réglable pour plus de confort - Microphone amovible - Connectivité: Filaire / 2 x jacks 3,5 - Fréquence de Casque: 20 Hz - 20 KHz - Impédance: 32 ohm - Sensibilité: 97dB±3dB @ 1KHz - Diamétre: 40 mm - Impédance microphone: 2,2 k? - Sensibilité Micophone: -36±3dB @ 1KHz- Longeur de Cable: 2.1 m - Dimension: 6.0 × 2,8 mm   ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1130_1.jpg",
+  "Offres": [
+    {
+      "Price": "155 DT",
+      "Last-update": "22/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/son-numerique/msi-ds501-micro-casque-gaming-filaire-ultra-leger-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484390c6091ba9e6579a"
+  },
+  "Name": "ASUS - Casque Gamer ASUS Cerberus",
+  "Reference": "90YH0061-B1UA00",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "casque gamer avec double mirophone, Oreillettes rembourrées de 100 mm, Impédance: 32 Ohm, Diamètre du conducteur: 60 mm, matériau conducteur: aimant néodyme, Connecteur: 2 x Jack 3,5mm Mâle Stéréo, Compatible avec: PC, Mac, Playstation 4 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1141_1.jpg",
+  "Offres": [
+    {
+      "Price": "999 DT",
+      "Last-update": "30/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/56161-casque-micro-gaming-asus-rog-theta-electret.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484490c6091ba9e6579b"
+  },
+  "Name": "MSI - DS502",
+  "Reference": "DS502",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Micro Gamer MSI DS502 - Type de casque: Casque Omnidirectionnelle - Son surround 7.1 virtuel - Système de vibration - Dragon MSI qui s'illumine sur les oreillettes - Connectivité: Filaire / USB -  Fréquence de Casque: 20 Hz - 20 KHz - Impédance: 32 ohm - Sensibilité: 105±3 dB @ 1 KHz - Diamétre: 40 mm - Impédance microphone: 2,2 k? - Sensibilité Micophone: -36±3 dB @ 1 KHz - Longeur de Cable: 2 m - Poids: 405 g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1147_1.jpg",
+  "Offres": [
+    {
+      "Price": "210 DT",
+      "Last-update": "22/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/son-numerique/msi-ds502-micro-casque-gaming-filaire-usb-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484490c6091ba9e6579c"
+  },
+  "Name": "HP - Oreillette Bluetooth H3200 G1Y53AA",
+  "Reference": "G1Y53AA",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Oreillette HP Bluetooth  H3200 Noir G1Y53AA : Boutons de commande simples - Autonomie de la batterie : Jusqu'à 6 heures de temps de conversation - Voyant : Deux voyants d'alimentation DEL - Dimensions (L x P x H) : 54,9 x 17 x 23,1 mm - couleur: noir -Compatibilité matérielle : Périphériques Bluetooth® 3.0 (tablette, phablette, smartphone, ordinateur portable..) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1497312698_999.jpg",
+  "Offres": [
+    {
+      "Price": "60 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/60/HP-H3200-Black-BT-Wireless-Headset"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484590c6091ba9e6579d"
+  },
+  "Name": "HP - Casque Filaire HP H2800 Bleu - J9C30AA",
+  "Reference": "J9C30AA",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Stéréo DF HP 2800 - Forme du casque: Auriculaire - Technologie de connectivité: Filaire - Mode de sortie audio: Stéréo - Fréquence du microphone : 100 - 10000 Hz - Fréquence audio : 20 - 20000 Hz - Sensibilité du casque : 102 dB - Connecteur: Câble jack 3,5 mm - Longeur de Câble: 1,5 m - Dimensions : 14,2 x 18 x 6,2 cm - Couleur: Bleu ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1524074555_994.jpg",
+  "Offres": [
+    {
+      "Price": "75 DT",
+      "Last-update": "25/04/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/casque-stereo-df-hp-2800-bleu-w1y20aa.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484590c6091ba9e6579e"
+  },
+  "Name": "HP - CASQUE STéRéO AVEC MICRO 2800 ROUGE - W1Y21AA",
+  "Reference": "W1Y21AA",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Stéréo avec Micro HP 2800 - Forme du casque: Auriculaire - Technologie de connectivité: Filaire - Fréquence du microphone : 100 - 10000 Hz - Fréquence audio : 20 - 20000 Hz - Sensibilité du casque : 102 dB - Câble jack 3,5 mm - Longeur de Câble: 1,5 m - Dimensions : 14,2 x 18 x 6,2 cm - Couleur: Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1524074569_685.jpg",
+  "Offres": [
+    {
+      "Price": "45 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/638/Casque-stro-rouge-HP-2800"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484690c6091ba9e6579f"
+  },
+  "Name": "TRUST - MICRO CASQUE USB 16976",
+  "Reference": "16976",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro-casque filaire TRUST USB Frequence de reponse microphone: 30 16000 Hz Dynamique: 108dB Longueur de câble: 2.5 m Compatible avec iOS et Android Poids: 180 g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1535932230_894.jpg",
+  "Offres": [
+    {
+      "Price": "69 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/861/QUASAR-USB-MICRO-CASQUE-TRUST"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484690c6091ba9e657a0"
+  },
+  "Name": "Cliptec - MICRO CASQUE BMH-832 URBAN REMIX",
+  "Reference": "BMH832",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque stéréo: Diamètre du driver: 40 mm - Sensibilité (SPL): 110dB ± 5dB - Impédance: 32? - Gamme de fréquences: 20 Hz-20 kHz - Longueur du câble: 1.2 m - Microphone intégré: Idéal pour la communication en ligne - Dimension Mic: Ø6.0 x 5.0 mm - Poids: 150 g - Couleur: Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536314892_289.jpg",
+  "Offres": [
+    {
+      "Price": "33 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/655/Micro-Casque-CLIPTEC-BMH-832-Urban-Remix"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484790c6091ba9e657a1"
+  },
+  "Name": "Cliptec - MICRO CASQUE URBAN CANDY BMH831",
+  "Reference": "BMH831",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque CLIPTEC Urban : Diamètre du conducteur: 40 mm - Impédance: 32? - Fréquence de réponse: 20Hz-20KHz - Sensibilité (SPL) 100dB ± 5dB - Longueur de la corde: ? 1,2 m - Fiche audio: Jack audio 3,5 mm nickelé/ Microphone : Dimension Mic : Ø6.0x5.0 mm- Impédance: ?2,2 ? - Sensibilité (SPL): -42 dB ± 3dB - Couleur : rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536314911_910.jpg",
+  "Offres": [
+    {
+      "Price": "30 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/casque-urban-candy-bmh831.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484890c6091ba9e657a2"
+  },
+  "Name": "WHITE SHARK - MICRO CASQUE GAMER GHS-1641 PANTHER",
+  "Reference": "GHS-1641",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro casque Gamer WHITE SHARK  - Style de casque: Gaming Headset - Taille du pilote (mm): 50 -Réponse en fréquence: 20Hz - 20kHz -Impédance (?): 32 -Sensibilité: 105 dB ± 3dB -Dimensions du microphone: 6mm x 5mm -Directivité: Omnidirectionnelle -Impédance du microphone (?): 2200 -Sensibilité du microphone: -62 dB ± 3dB- Interface: 3,5 mm- Longueur du câble (cm): 220 - Matériel: Plastique / Faux cuir -Couleur: Noir / Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1535931830_843.jpg",
+  "Offres": [
+    {
+      "Price": "45 DT",
+      "Last-update": "06/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-gamer-white-shark-ghs-1641-panther-blanc-silver.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484890c6091ba9e657a3"
+  },
+  "Name": "Cliptec - MICRO CASQUE URBAN UPTOWN BMH830",
+  "Reference": "BMH830",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque CLIPTEC Urban Uptown : Orateur :-Diamètre du pilote:40 mm- Impédance: 32?- Fréquence de réponse: 20Hz-20KHz- Sensibilité (SPL) :100dB ± 5dB - Longueur de la corde: ? 1,2 m - Prise audio : Prise audio 3,5 mm nickelée / Microphone: - Mic Dimension : Ø6.0x5.0 mm - Impédance : ?2.2 ? - Sensibilité (SPL) : -42 dB ± 3dB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536314926_330.jpg",
+  "Offres": [
+    {
+      "Price": "25 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/cliptec-urban-uptown-multimedia-casque-stereo-bmh830.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484990c6091ba9e657a4"
+  },
+  "Name": "Cliptec - MICRO CASQUE STéRéO BMH-335 KIDS-CHAT",
+  "Reference": "BMH335",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro casque stéréo multimédia CLiPtec KIDS-CHAT- Diamètre du conducteur: 30 mm  - Sensibilité (SPL): 85dB ± 3dB - Impédance: 32 - Gamme de fréquences: 20 Hz-20 kHz - Longueur du câble: 1.1 m - Microphone intégré: Idéal pour la communication en ligne - Connecteur: Prise audio 3,5 mm (4 pôles) - Dimension Mic: Ø6.0 x 5.0 mm - Poids: 70 g - Couleur: Bleu ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536314941_358.jpg",
+  "Offres": [
+    {
+      "Price": "16 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/cliptec-enfants-chat-casque-stereo-bmh335.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484990c6091ba9e657a5"
+  },
+  "Name": "Cliptec - CASQUE STéRéO MULTIMéDIA URBAN ROXX BMH834",
+  "Reference": "BMH834",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque stéréo Multimédia Cliptec URBAN ROXX - Diamètre du driver: 40 mm  - Sensibilité (SPL): 108dB ± 5dB   - Impédance: 32  - Gamme de fréquences: 20 Hz-20 kHz - Longueur du câble: 1.3 m - Microphone intégré: Idéal pour la communication en ligne -  Dimension Mic: Ø4.0 x 1.5 mm  -  Couleur: Vert ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536315222_227.jpg",
+  "Offres": [
+    {
+      "Price": "30 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/casque-urban-roxx-bmh834.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484a90c6091ba9e657a6"
+  },
+  "Name": "Cliptec - CASQUE STéRéO MULTIMéDIA URBAN JOCKEY BMH836",
+  "Reference": "BMH836",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque stéréo Multimédia Diamètre du driver: 40 mm Sensibilité (SPL): 100dB ± 3dB Impédance: 32 Gamme de fréquences: 20 Hz-20 kHz Longueur du câble: 1.4 m Microphone intégré: Idéal pour la communication en ligne Dimension Mic: Ø4.0 x 1,5 mm Couleur: Bleu ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536315458_534.jpg",
+  "Offres": [
+    {
+      "Price": "30 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/casque-urban-jockey-bmh836.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484a90c6091ba9e657a7"
+  },
+  "Name": "PROMATE - CASQUE SANS FIL NECKBAND MATCH",
+  "Reference": "MATCH",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Sans Fil PROMATE NECKBAND - Casque d'écoute sans fil à encombrement léger ergonomiquement -casque sportif - compatible avec tous les appareils compatibles Bluetooth - verrouillage magnétique - suppression d'écho et de bruit - Lecture et pause automatiques pendant les appels entrants et sortants - 2 h environ pour charger - 5 h de temps de lecture de musique - couleur: Bordeaux ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536316114_925.jpg",
+  "Offres": [
+    {
+      "Price": "85 DT",
+      "Last-update": "20/06/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/casque-sans-fil-promate-neckband-bordeaux.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484b90c6091ba9e657a8"
+  },
+  "Name": "PROMATE - MICRO CASQUE BLUETOOTH ASTRO",
+  "Reference": "ASTRO",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Tpe de Micro Casque: Over Ear Technologie de Connectivité: Sans Fil (Bluetooth 3.0) Sortie Haur-Parleur: 2 x 10 mW, Impédance: 32 ohms Fréquence de haut-parleur: 20Hz 20KHz Sensibilité du micro: -38dB ± -3dB Type de batterie: LI-Ploymer Capacité de la batterie: 300mAh Temps de charge:2 heures Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536316744_177.jpg",
+  "Offres": [
+    {
+      "Price": "85 DT",
+      "Last-update": "23/09/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-promate-astro-bluetooth-bleu.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484b90c6091ba9e657a9"
+  },
+  "Name": "Snopy - CASQUE MICRO GAMING USB RAMPAGE RIVIA G20",
+  "Reference": "G20",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Micro Gaming  USB Snopy Rampage Rivia G20 - Diamètre de l?oreillette 40mm - Rétroéclairage LED - Interface USB - Régulateur de Volume ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536327538_723.jpg",
+  "Offres": [
+    {
+      "Price": "52 DT",
+      "Last-update": "22/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/28217-casque-micro-gaming-usb-snopy-rampage-rivia-g20-blanc-bleu.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484c90c6091ba9e657aa"
+  },
+  "Name": "Snopy - CASQUE MICRO USB RAMPAGE SN-R5",
+  "Reference": "SN-R5",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Micro USB Snopy Rampage SN-R5 - Longueur du câble 2.2 m - Puissance 30mW - Diamètre Oreillette 50mm - Sensibilité 105 dB +/- 3 dB - Impédance 32 Ohm - Couleur Noir & Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536327547_710.jpg",
+  "Offres": [
+    {
+      "Price": "58 DT",
+      "Last-update": "22/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/28207-casque-micro-usb-snopy-rampage-sn-r5-noir-bleu.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484c90c6091ba9e657ab"
+  },
+  "Name": "Snopy - CASQUE MICRO GAMING RAMPAGE SN-RW7 / USB",
+  "Reference": "SN-RW7",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Micro Snopy Rampage SN-RW7 - Interface USB - Micro Integré - Diamètre Oreillettes 40mm - Lumiere LED Bleu - Régulateur de volume - Son de Haute Qualité - Design Gaming ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536327592_393.jpg",
+  "Offres": [
+    {
+      "Price": "65 DT",
+      "Last-update": "22/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/28156-casque-micro-gaming-snopy-rampage-sn-rw7-usb.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484d90c6091ba9e657ac"
+  },
+  "Name": "jeway - MICRO CASQUE BLUETOOTH",
+  "Reference": "JH2305",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque JEWAY Bluetooth avec Radio FM-Lecteur carte SD -entrée cable auxiliaire -compatible avec IOS Android - son de haute qualité -Bluetooth 4.0-HD Microphone -couleur: bleu ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536330044_527.jpg",
+  "Offres": [
+    {
+      "Price": "33 DT",
+      "Last-update": "05/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-jeway-jh2305-sans-fil-noir-rouge.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484e90c6091ba9e657ad"
+  },
+  "Name": "SENNHEISER - CASQUE STéRéO SC60 USB",
+  "Reference": "504547",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque Stéréo SENNHEISER SC60 USB - Style de port: Arceau - Modéle: SC60 - Type de micro: Perche télescopique - Réponse en Fréquence (casque): 60 - 16000 Hz - Réponse en Fréquence (Microphone): 150 - 6800 Hz - Niveau Sonore: 113 dB - Longueur du câble: 2,1 m - Interface de Connectivité: USB - Poids: 106g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536330203_226.jpg",
+  "Offres": [
+    {
+      "Price": "139 DT",
+      "Last-update": "15/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/22206-micro-casque-bureaux-sennheiser-sc-60-usb-ml.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484f90c6091ba9e657ae"
+  },
+  "Name": "SENNHEISER - CASQUE MICRO CENTRE D'APPELS PC8 USB 504197",
+  "Reference": "504197",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": " ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536332458_594.jpg",
+  "Offres": [
+    {
+      "Price": "155 DT",
+      "Last-update": "30/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/19921-casque-micro-stereo-usb-epos-sennheiser-pc-8.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1484f90c6091ba9e657af"
+  },
+  "Name": "SPIRIT OF GAMER - MICRO CASQUE GAMING OF GAMER PRO-H5 - (MIC-G715BL)",
+  "Reference": "MIC-G715",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque Gaming SPIRIT OF GAMER Pro-H5 - Microphone à condensateur - Couplage auriculaire: Circumaural - Micro amovible - Réponse en fréquence : 20 - 20.000 Hz - Diamètre des écouteurs : Ø 40 mm - Impédance: 32 Ohm - Sensibilité du microphone: -54 ± 3 dB(A) - SPL Max: 117 dB - Nombre de canaux: 2 - Mode de sortie audio : Stéreo - Longueur du câble: 2m - Connecteur: Jack 3.5mm - Utilisation: Gamer - Compatible: PC / MAC / PS4 - Couleur: Noir & Rouge - Poids: 197 G ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536332626_520.jpg",
+  "Offres": [
+    {
+      "Price": "59 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-gaming-spirit-of-gamer-pro-h5-mic-g715bl.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485090c6091ba9e657b0"
+  },
+  "Name": "KSIX - ÉCOUTEURS AVEC MICRO CONTACT GO & PLAY SMALL 2",
+  "Reference": "LXGPS10",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs avec Micro Contact Sport Go & Play Small 2 - Connecteur Jack 3,5 mm - Câble plat anti-enchevêtrement - Diamètre: 10 mm - Impédance: 16 ohm - Gamme de fréquence: 20Hz-20KHz - Sensibilité: 103dB - Longueur du câble: 120 cm - Comprend des silicones interchangeables - Couleur Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536332740_311.jpg",
+  "Offres": [
+    {
+      "Price": "15 DT",
+      "Last-update": "12/09/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-contact-lxgps10-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485190c6091ba9e657b1"
+  },
+  "Name": "SBOX - ÉCOUTEURS AVEC MICROPHONE IEP-204",
+  "Reference": "IEP-204B",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs avec microphone SBOX - Style: Intra -auriculaire -Fréquence: 18 Hz - 20 KHz -Sensibilité: 116 ± 3dB -Impédance: 32 Ohm -Connecteurs: Stéréo 3,5 mm - Longueur de câble:  1,1 m - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536333331_429.jpg",
+  "Offres": [
+    {
+      "Price": "17 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-avec-microphone-sbox-iep-204-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485190c6091ba9e657b2"
+  },
+  "Name": "Platinet - ÉCOUTEURS INTRA-AURICULAIRES PM1071",
+  "Reference": "PM1071",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs intra-auriculaires - Micro intégré qui permet de recevoir les appels téléphoniques - Sensibilité: 112dB / 30mW - Impédance: 16 ohm à 1KHz - Réponse en fréquence: 20-22000Hz - Longueur du câble: 120 cm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536342690_911.jpg",
+  "Offres": [
+    {
+      "Price": "26 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/ecouteurs-platinet-de-sport-pm-1071-gris-et-vert.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485290c6091ba9e657b3"
+  },
+  "Name": "Platinet - ÉCOUTEURS INTRA-AURICULAIRES FREESTYLE FH1014",
+  "Reference": "FH1014",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs intra-auriculaires - Micro intégré qui permet de recevoir les appels téléphoniques - Sensibilité: 98dB / 30mW - Impédance: 32 ohm à 1KHz - Réponse en fréquence: 8-22000Hz - Longueur du câble: 110 cm - Couleur Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1536343594_936.jpg",
+  "Offres": [
+    {
+      "Price": "15 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/10/Freestyle-in-ear-couteurs"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485290c6091ba9e657b4"
+  },
+  "Name": "HAVIT - CASQUE MICRO H2105D POUR PC",
+  "Reference": "H2105D",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Micro Havit HV-H2105D Couleur Rouge et Noir Sensibilité:116db-+3db (Casque) / -54db+-3db (Micro) Interface Jack 3.5mm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1539770333_476.jpg",
+  "Offres": [
+    {
+      "Price": "18 DT",
+      "Last-update": "09/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/8707d-planeteinformatique-ok.jpg",
+      "product-link": "https://planete-informatique.tn/produit/micro-casque-havit-h2105d/"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485390c6091ba9e657b5"
+  },
+  "Name": "HAVIT - CASQUE MICRO POUR SMARTPHONE H2133D",
+  "Reference": "H2133D",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Micro Havit H2133D Stéréo 3.5 mm Impédance: 32ohm Sensibilité: 110dB Réponse en fréquence: 20Hz-20KHz Longueur du câble: 1.5 m Contrôle du volume Couleur: Bleu ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1539770342_513.jpg",
+  "Offres": [
+    {
+      "Price": "26 DT",
+      "Last-update": "06/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/22899-casque-micro-havit-h2133d-bleu.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485490c6091ba9e657b6"
+  },
+  "Name": "JBL - CASQUE E55BT ",
+  "Reference": "E55BT",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "         Fréquence 20 Hz - 20 kHz\n         Impédance de 32 ohms\n         Connectivité Bluetooth 4.0  Jack 3.5mm\n         Haut-parleur diamètre 50 mm\n         Autonomie (estimation) jusqu'à 20 heures ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1539795282_308.jpg",
+  "Offres": [
+    {
+      "Price": "599 DT",
+      "Last-update": "05/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/casque-audio/casque-jbl-e55bt-noir"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485490c6091ba9e657b7"
+  },
+  "Name": "JABRA - MICRO CASQUE USB BIZ 2300 DUO",
+  "Reference": "2399-829-109",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque USB JABRA BIZ 2300 DUO - Connectivité: Filaire  - Interface avec l'ordinateur: USB  - Mode de Sortie Audio: Stéréo - Microphone à annulation de bruit - Microphone: Boom - Contrôles: Muet, volume, réponse / fin - Perche microphone orientable sur 360°, incassable - Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1539795735_548.jpg",
+  "Offres": [
+    {
+      "Price": "439 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-usb-jabra-biz-2300-duo.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485590c6091ba9e657b8"
+  },
+  "Name": "ENTER - ÉCOUTEUR STéRéO IN-EAR E-EP4",
+  "Reference": "E-EP4",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Ecouteur ENTER  E-EP8M - Connectivité: Filaire - Type d'écouteur: in-ear - Réponse en fréquence: 20Hz ? 20Khz - Sensibilité: 105dB S.P.L à KHz  - Impédance: 32 Ohms  - Diamètre de Haut-Parleur: 40 mm  - Unité : 6 x 5mm - Compatible avec: MP3, ipad, ipod, MP4 et Téléphone Portable - Fonction: antibruit, microphone - Longueur de câble: 1,8 m  - Connecteur: Prise Jack 3.5 mm - Couleur: Bleu ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1539796067_936.jpg",
+  "Offres": [
+    {
+      "Price": "7 DT",
+      "Last-update": "31/07/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteur-stereo-in-ear-enter-e-ep4-bleu.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485690c6091ba9e657b9"
+  },
+  "Name": "OVLENG - CASQUE MICRO USB Q4",
+  "Reference": "OV-Q4",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Micro USB OVLENG Q4 - Interface USB 2.0 - Sensibilité: 45db + 3dbdB  - Impédance:  32ohm  - Gamme de fréquences: 20 Hz ~ 20 kHz - Longueur du câble: 2 m - Microphone intégré: Idéal pour la communication en ligne -  Dimensions: 16 x 17.5 x 7.6 cm  - Poids: 149 g - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1539798068_101.jpg",
+  "Offres": [
+    {
+      "Price": "29 DT",
+      "Last-update": "18/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/18868-casque-micro-usb-ovleng-q4.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485790c6091ba9e657ba"
+  },
+  "Name": "JABRA - MICRO CASQUE USB EVOLVE 40MS - NOIR",
+  "Reference": "6399-823-109",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque USB JABRA Evolve 40MS - Connectivité: Filaire  - Interface avec l'ordinateur:  USB - Facteur de forme du casque: Sur-oreille - Type de microphone: Perche télescopique - Commandes: Touche secret, volume, répondre/terminer - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1542735037_876.jpg",
+  "Offres": [
+    {
+      "Price": "439 DT",
+      "Last-update": "28/11/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/ecouteur-micro-casque/casque-jabra-evolve-40-ms-stereo-7641.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485890c6091ba9e657bb"
+  },
+  "Name": "SAMSUNG - ÉCOUTEURS INTRA-AURICULAIRE HS130 - NOIR",
+  "Reference": "EO-HS1303",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs intra-auriculaire SAMSUNG HS130 - Technologie de connectivité: Filaire - Type de casque: Binaural - 3 boutons (avec MIC) - Impédance: 32 Ohm - Réponse en fréquence: 20Hz ~ 20kHz - Longueur du câble: 1.2m - Connecteurs:  Prise Jack 3.5 mm - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1542883899_333.jpg",
+  "Offres": [
+    {
+      "Price": "39 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2310-ecouteurs-intra-auriculaires-samsung-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485990c6091ba9e657bc"
+  },
+  "Name": "JABRA - MICRO CASQUE USB BIZ 2300 DUO (2309-820-104)",
+  "Reference": "2309-820-104",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque USB JABRA Biz 2300 duo anti-bruit - Connectivité: Filaire  - Interface avec l'ordinateur: USB  - Facteur de forme du casque: Supra-oral - Type de microphone: Perche télescopique - Fréquence en réponse: 150 - 4500 Hz (casque)/100 - 10000 Hz (micro) - Impédance: 300 Ohm (Casque) - Sensibilité: 99 dB/mW (casque)/-30 dB (micro) - Longueur de câble: 1,75 m - Son cordon renforcé en Kevlar résiste à un usage intensif quotidien - Perche orientable à 360° sans le moindre risque de rupture - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1542734882_540.jpg",
+  "Offres": [
+    {
+      "Price": "399 DT",
+      "Last-update": "08/11/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-usb-jabra-biz-2300-duo-2309-820-104.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485a90c6091ba9e657bd"
+  },
+  "Name": "JABRA - MICRO CASQUE SANS FIL PRO 920 MONO (920-25-508-101)",
+  "Reference": "920-25-508-101",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque Sans Fil JABRA Pro 920 Mono - Connectivité: Sans Fil  DECT  - Utilisation recommandée: Téléphone à fil - Mode de sortie audio: Mono - Type: Perche télescopique - Portée de transmission: 120m - Batterie de casque micro - rechargeable - autonomie de conversation allant jusqu'à 12 heures  - Indicateur de la charge de la batterie - touche secret - touche réponse/fin - réglage du volume, DSP intégré - technologie PeakStop - panneau de voyants - technologie Jabra SafeTone - Jabra IntelliPower - Crochet commutateur - Serre-tête ajustable - fonction de mode veille automatique - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1542734977_404.jpg",
+  "Offres": [
+    {
+      "Price": "1049 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-sans-fil-jabra-pro-900-duo-mono-920-25-508-101.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485a90c6091ba9e657be"
+  },
+  "Name": "JABRA - MICRO CASQUE SANS FIL PRO 930 MONO (930-25-503-101)",
+  "Reference": "930-25-503-101",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque Sans Fil JABRA Pro 930 Mono - Connectivité: Sans Fil  DECT  - Utilisation recommandée: Ordinateur multimédia - Mode de sortie audio: Mono  - Type: Perche télescopique - Portée de transmission: 99.1m - Batterie de casque micro - rechargeable - autonomie de conversation allant jusqu'à 12 heures  - Indicateur de la charge de la batterie - touche secret - touche réponse/fin - réglage du volume - DSP intégré - technologie PeakStop - panneau de voyants - technologie Jabra SafeTone - compatible Skype - optimisé pour Microsoft Lync - fonction de mode veille automatique - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1542734999_956.jpg",
+  "Offres": [
+    {
+      "Price": "1099 DT",
+      "Last-update": "21/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-sans-fil-jabra-pro-930-duo-mono-930-25-503-101.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485b90c6091ba9e657bf"
+  },
+  "Name": "jeway - MICRO CASQUE H1 NOIR",
+  "Reference": "H1-NOIR",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque JEWAY H1 - Style: Bandeau - Technologie de Connectivité: Filaire - Réponse en Fréquence: 20Hz-20KHz - Impédance: 32 Ohm - Sensibilité: 110 dB - Connecteurs: 1 x Entrée/Sortie Audio Jack 3.5mm - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1543357759_274.jpg",
+  "Offres": [
+    {
+      "Price": "10 DT",
+      "Last-update": "10/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/casque-micro/micro-casque-jeway-h1-5893.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485c90c6091ba9e657c0"
+  },
+  "Name": "SPIRIT OF GAMER - MICRO CASQUE GAMING ELITE-H30 - NOIR",
+  "Reference": "ELITE-H30",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque Gaming SPIRIT OF GAMER Elite-H30 : Rétro-éclairage LED vert - Aimants néodymes -Haut-parleurs : 50 mm - Réponse en fréquence: 20 Hz - Impédance :16 Ohms - Connectique: JACK 3.5MM - Couleur: noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1547832160_279.jpg",
+  "Offres": [
+    {
+      "Price": "70 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-gaming-spirit-of-gamer-elite-h30-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485c90c6091ba9e657c1"
+  },
+  "Name": "HP - MICRO CASQUE GAMER PAVILLION 600 NOIR & VERT (4BX33AA)",
+  "Reference": "4BX33AA",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque Gamer HP pavillion 600 - Interface: USB - Port confortable : Le serre-tête léger et autoréglable - Rembourrage en similicuir synthétique sur les oreillettes - Microphone intégré son ambiophonique virtuel 7.1 - Longeur de Cable: 200 cm  - Poids: 360 g - Couleur : Noir &  vert   ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1548330123_795.jpg",
+  "Offres": [
+    {
+      "Price": "179 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-gamer-hp-pavillion-600-4bx33aa.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485d90c6091ba9e657c2"
+  },
+  "Name": "LENOVO - MICRO CASQUE GAMER LEGION - NOIR & ROUGE GXD0L03746",
+  "Reference": "GXD0L03746",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque Gamer LENOVO LEGION - Technologie de Connectivité: Filaire - Unité de haut-parleur: 50mm - Réponse en fréquence(casque):  20Hz ~ 20KHz - Sensibilité(casque): 100 ± 2dB (1KHz / 1mW) - Impédance(casque): 32? ± 10%  - Réponse en fréquence(micro): 50-10 kHz - Sensibilité(micro): -52dB ± 3dB; re: OdB = 1 Pa, 1KHz - Longueur du câble: 2m  - Suppression du bruit, bouton de sourdine du microphone, contrôle du volume - Dimensions: 207mm x 171mm x 95mm - Poids: 270 gr - Couleur: Noir & Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1542736204_790.jpg",
+  "Offres": [
+    {
+      "Price": "159 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-gamer-lenovo-legion-noir-rouge.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1485e90c6091ba9e657c3"
+  },
+  "Name": "SPIRIT OF GAMER - MICRO CASQUE GAMING ELITE H50 - ARMY",
+  "Reference": "MIC-EH50A",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque Gaming SPIRIT OF GAMER Elite H50 - Type de casque: Circum-aural- Connectivité: Filaire  - Interface avec l'ordinateur: USB - Fréquence en réponse: 20Hz à 20KHz  (casque)/50Hz à 10KHz (micro) - Impédance: 20 ?  Casque)/ 2.2 ?  (micro) - Sensibilité: 36 ± 3 dB(A) - Niveau de pression sonore: 117 dB(A) - Diamètre des Haut-parleurs: 50 mm - Longueur du cordon: 2.2m - Rétro-éclairage Blanc - Télécommande avec contrôle du volume et fonction mute - Connecteurs: USB , Jack 3,5mm Mâle Stéréo - Couleur: Army  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1547832129_242.jpg",
+  "Offres": [
+    {
+      "Price": "119 DT",
+      "Last-update": "28/01/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/micro-casque-gamer/15754-micro-casque-gaming-spirit-of-gamer-elite-h50-army.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486090c6091ba9e657c4"
+  },
+  "Name": "LOGITECH - Casque Micro USB Stéréo H340",
+  "Reference": "981-000475",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Micro USB Stéréo Logitech H340 - Longueur du câble 1,8 m - Fréquence Casque: 20 Hz à 20 000 Hz - Fréquence Microphone: 100 Hz à 10 000 Hz - Sensibilité: -40 dBV/Pa +/- 3 dB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1548330696_527.jpg",
+  "Offres": [
+    {
+      "Price": "90 DT",
+      "Last-update": "04/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/6685-casque-micro-usb-stereo-logitech-h340.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486190c6091ba9e657c5"
+  },
+  "Name": "MACRO - MICRO CASQUE USB H-528 NOIR",
+  "Reference": "H-528",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque MACRO - Casque micro stéréo 40 mm - Sensibilité écouteurs: 105dB +3dB  - Sensibilité Microphone: 58dB + 2dB   - Bandeau confort - Coussins moelleux et confortable - Longeur de cable:  2m - Connectivité : Port USB - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1548331483_660.jpg",
+  "Offres": [
+    {
+      "Price": "26 DT",
+      "Last-update": "26/01/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/son-numerique/macro-h528-micro-casque-filaire-usb-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486290c6091ba9e657c6"
+  },
+  "Name": "Konix - CASQUE GAMING HEADSET DRAKKAR",
+  "Reference": "61881187304",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Type de casque: circum-aural Utilisation: Gaming Fréquence: 20 à 20 000 Hz ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1548350124_205.jpg",
+  "Offres": [
+    {
+      "Price": "49 DT",
+      "Last-update": "18/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/48081-casque-gamer-knoix-drakkar-skald-noir-et-rouge.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486390c6091ba9e657c7"
+  },
+  "Name": "CIRKUIT PLANET - MICRO CASQUE HP2510 - NOIR",
+  "Reference": "HP2510",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque CIRKUIT PLANET HP2510 - Technologie de Connectivité: Filaire - Réponse en fréquence (Casque): 20 Hz-20 KHZ  - Impédance: 32 ohms - Sensibilité: 108 dB - Connecteur: Jack 3.5 mm - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1548350869_687.jpg",
+  "Offres": [
+    {
+      "Price": "6 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-cirkuit-planet-hp2510-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486590c6091ba9e657c8"
+  },
+  "Name": "HAVIT - CASQUE MICRO GAMER HV-H2239D",
+  "Reference": "HV-H2239D",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "CASQUE GAMER HV-H2239D  Son sur round, réduction du bruit externe, avec treillis métallique et lumière led rouge qui vous apporte une petite expérience de théâtre familial. Microphone omnidirectionnel qui rend l'appel plus clair Haut-parleurs de 40mm de large calibre, apporte un large champ sonore et des basses puissantes. Le son choquant vous donne un sens de la réalité. Type d'interface: 3,5 mm + USB Longueur du cordon: 2000 ± 10% mm Microphone: ?4 * 1.5mm Courant de fonctionnement: ? 35mA Réponse en fréquence: 20 Hz - 20KHZ Sensibilité: 103dB ± 3dB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1551276977_101.jpg",
+  "Offres": [
+    {
+      "Price": "49 DT",
+      "Last-update": "06/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/52002-casque-micro-gamer-havit-hv-h2239d-led-rouge.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486690c6091ba9e657c9"
+  },
+  "Name": "JBL - ÉCOUTEURS SANS FIL TUNE 115BT - Bluetooth",
+  "Reference": "115BT",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs Sans Fil JBL TUNE 115BT - Connectivité: Sans Fil  - Technologie Bluetooth  - Réponse en Fréquence: 20Hz-20kHz - Impédance: 16 ohm  - Sensibilité du pilote: 102dB / 1mW à 1kHz  - Batterie: Lithium-ion - Temps de charge: 2 heures - Temps de conversation: 8 heures - Microphone intégré - Couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583271410_432.jpg",
+  "Offres": [
+    {
+      "Price": "158 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/830-ecouteur-sans-fil-jbl-tune-115bt-noir-0096275.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486790c6091ba9e657ca"
+  },
+  "Name": "HAVIT - CASQUE MICRO GAMER USB H2232D RGB",
+  "Reference": "H2232D",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "CASQUE GAMER HV-H2232D RGB Casque supra-auriculaire câblé avec micro, éclairage LED Bass Surround, cache-oreilles doux à mémoire Speaker: 50mm Impédance: 21 ± 15% ? Sensibilité: 109dB ± 3 dB Réponse en fréquence: 20 Hz à 20KHZ Microphone: 4,0. 1.5MM Longueur: 2.2M Prise: 3,5 MM + USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583274650_283.jpg",
+  "Offres": [
+    {
+      "Price": "45 DT",
+      "Last-update": "05/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-gamer-havit-h2232d-rgb-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486790c6091ba9e657cb"
+  },
+  "Name": "HAVIT - CASQUE MICRO GAMER H2168D",
+  "Reference": "H2168D",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "CASQUE GAMER HV-H2168D  Speaker:40mm Impedance:32±15% O Sensitivity:105dB±3dB at 1KHz Frequency Response:20 Hz to 20KHZ Microphone:f6*5.0mm Operating Voltage: 5V±5% Operating Current: = 40mA Cord Length:2.5M±10CM Plug:3.5 mm+USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583274660_772.jpg",
+  "Offres": [
+    {
+      "Price": "50 DT",
+      "Last-update": "05/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-gamer-havit-h2168d-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486890c6091ba9e657cc"
+  },
+  "Name": "JBL - MICRO CASQUE LIVE 400 BLUETOOTH",
+  "Reference": "400BT",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque JBL Live 400 - Connectivité Sans Fil: Bluetooth V4.2 - Réponse en fréquence: 20 Hz - 20 kHz  - Impédance nominale: 32 ohm  - Sensibilité du pilote: 106dB - Batterie: Lithium-ion - Temps de Charge: 2 heures - Temps de conversation: 24 heures - Conception pliable pour un transport facilité - Câble détachable pour une utilisation filaire - Port confortable: arceau rembourré et ajustable / oreillettes avec coussinets doux  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583270758_103.jpg",
+  "Offres": [
+    {
+      "Price": "477 DT",
+      "Last-update": "05/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/casque-audio/casque-sans-fil-bluetooth-jbl-live-400bt-noir-prix-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486990c6091ba9e657cd"
+  },
+  "Name": "MACRO - MICRO CASQUE H5321 NOIR",
+  "Reference": "H5321",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Micro Casque MACRO - Sensibilité Casque: 95dB+/-3dB- Réponse en fréquence: 20Hz-20KHz - Impédance: 32?- Puissance d' entrée: 80mW - Sensibilité Microphone: 6x5/-58dB+/-2dB  -  Longueur du cordon: 2m- Connectivité : Port USB - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1591814241_445.jpg",
+  "Offres": [
+    {
+      "Price": "10 DT",
+      "Last-update": "06/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/son-numerique/macro-h5321-casque-micro-filaire-noir-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486990c6091ba9e657ce"
+  },
+  "Name": "YOOKIE - ÉCOUTEURS SANS FIL K339 - ROSE",
+  "Reference": "K-339",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs YOOKIE K339 - Technologie de connectivité: Bluetooth  - Fréquence: 20HZ-20KHZ  - Haut-parleur: 9,0 mm - Portée de transmission: 10m - Temps de conversation: 3,5 Heures  - Compatibilité: smartphone, tablette PC, Pad - Couleur: Rose ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1591814988_924.jpg",
+  "Offres": [
+    {
+      "Price": "29 DT",
+      "Last-update": "14/03/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-sans-fil-yookie-k339-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486a90c6091ba9e657cf"
+  },
+  "Name": "PROMATE - ÉCOUTEURS SANS FIL SCUREFIT SPICY-1",
+  "Reference": "SPICY-1",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs Sans Fil PROMATE Scurefit -  Technologie de Connectivité: Sans Fil ( Bluetooth v4.2 ) - Réponse en Fréquence: 20Hz à 20Kkh  - Impédance: 16? - Type de batterie: Li-Polymère - Capacité de la batterie: 110mAh - Distance de fonctionnement: 10m - Temps de lecture de musique: 6 heures - Temps d'attente: 150 heures - Temps de charge: 1.5 heure - Les deux oreillettes ont des aimants intégrés qui, une fois fixés l'un à l'autre, éteignent automatiquement le casque et, une fois séparés, mettent le casque en marche - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583272706_428.jpg",
+  "Offres": [
+    {
+      "Price": "59 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/casque-ecouteurs/6212-ecouteurs-bluetooth-avec-micro-promate-spicy-1-bleu.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486b90c6091ba9e657d0"
+  },
+  "Name": "YOOKIE - ECOUTEUR YK770",
+  "Reference": "YK770",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": " ECOUTEUR YOOKIE YK770 Supporte les téléphones, tablettes, ordinateurs, ordinateurs portables, mp3 et autres équipements audio.Microphone de ligne avec fonction de réponse d'appel, fond de réponse facile d'une touche.     ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1591815075_623.jpg",
+  "Offres": [
+    {
+      "Price": "12 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/ecouteur-yookie-yk770.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486b90c6091ba9e657d1"
+  },
+  "Name": "YOOKIE - ECOUTEUR ( YK 790 )",
+  "Reference": "YK790",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "référence : YK 790   ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1591815177_444.jpg",
+  "Offres": [
+    {
+      "Price": "12 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/ecouteur-yookie-yk-790.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486c90c6091ba9e657d2"
+  },
+  "Name": "YOOKIE - ECOUTEUR YK850",
+  "Reference": "YK850",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Référenece:YK850/Câble TPE: 1.2m/Unité d'entraînement: 9mm/ Réponse en fréquence: 20Hz-20kHz/Impédance: 18? ± 10%/Sensibilité: 90 ± 3dB/Facteur de distorsion: ?3%/Puissance nominale: 30-60mW/Connecteur: 3.5mm/Longueur: 1.2m/Avec micro ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1591815216_922.jpg",
+  "Offres": [
+    {
+      "Price": "12 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/accessoires/accessoires-son/ecouteur-yookie-yk850.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486d90c6091ba9e657d3"
+  },
+  "Name": "Apple - ÉCOUTEURS AIRPODS 2E GéNéRATION SANS FIL - BLANC MV7N2ZA-A",
+  "Reference": "MV7N2ZA-A",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs AirPods 2e génération Sans Fil APPLE avec boîtier de chargement - Technologie de connectivité: Bluetooth  - Temps de communication: jusqu'à 3 heures  - AirPod avec boîtier de chargement: plus de 24 heures de temps d'écoute   - Type de microphone: Fixe - Appareils compatibles: iPhone, iPad, iPod et Mac - Couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1583274141_813.jpg",
+  "Offres": [
+    {
+      "Price": "649 DT",
+      "Last-update": "06/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/ecouteurs-apple-airpods-2eme-generation-blanc-mv7n2za-a.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486d90c6091ba9e657d4"
+  },
+  "Name": "JBL - CASQUE KIDS FILAIRE JR 310 - ROUGE&BLEU",
+  "Reference": "JR310",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Kids Filaire JBL JR 310 - Connectivité: Filaire - Un arceau et des coussinets solides aux couleurs vives, spécialement conçus pour leur petite tête - Micro intégré - Le son légendaire JBL conçu pour ne jamais dépasser 85 dB , sans aucun risque même pour les plus jeunes fans de musique - Couleur: Rouge & Bleu Livraison Gratuite à partir de 300DT d'Achat ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1616358071_208.jpg",
+  "Offres": [
+    {
+      "Price": "99 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/casque-kids-filaire-jbl-jr-310-bleu-rose.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486e90c6091ba9e657d5"
+  },
+  "Name": "JBL - CASQUE KIDS FILAIRE JR 310 - ROUGE&BLEU",
+  "Reference": "97691",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque Kids Filaire JBL JR 310 - Connectivité: Filaire - Un arceau et des coussinets solides aux couleurs vives, spécialement conçus pour leur petite tête - Micro intégré - Le son légendaire JBL conçu pour ne jamais dépasser 85 dB , sans aucun risque même pour les plus jeunes fans de musique - Couleur: Rouge & Bleu Livraison Gratuite à partir de 300DT d'Achat ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1616358243_673.jpg",
+  "Offres": [
+    {
+      "Price": "99 DT",
+      "Last-update": "19/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/casque-kids-filaire-jbl-jr-310-rouge-bleu.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1486e90c6091ba9e657d6"
+  },
+  "Name": "HAMA - CASQUE STéRéO SUPRA-AURICULAIRE KIDS",
+  "Reference": "177052",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Utilisation recommandée : Musique portable, Pour enfants, Téléphonie mobile Connecteur Jack : 3,52?mm mâle Bande passante : 20 Hz - 20 kHz Longueur du câble : 1,2 m Matière : Plastique Modèle : Stéréo Sensibilité : 85 dB / mW Couleur : Bleu/Vert ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622626531_438.jpg",
+  "Offres": [
+    {
+      "Price": "47 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2246-casque-stereo-supra-auriculaire-hama-kids-177052.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487090c6091ba9e657d7"
+  },
+  "Name": "SAMSUNG - ÉCOUTEURS SANS FIL GALAXY BUDS LIVE GOLD",
+  "Reference": "SM-R180NZNAMEA-GO",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Batterie : 60 mAh (écouteurs), 472 mAh (étui de charge) Autonomie : 6 heures, Autonomie conversation 4.5 heures  Réducteur de bruit 6 microphones pour un grand confort d'appel assistant : samsung bixby Connectivité : Bluetooth 5.0 NFC  Type de connecteur : USB Type-C Son live et profond Ergonomique  Dimensions écouteurs : 27.3 x 16.5 x 14.9 mm Poids : 5.6 g Couleur : Gold ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622048176_194.jpg",
+  "Offres": [
+    {
+      "Price": "699 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2234-ecouteurs-sans-fil-samsung-galaxy-buds-live-gold.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487190c6091ba9e657d8"
+  },
+  "Name": "HAMA - ÉCOUTEURS BASIC 4MUSIC",
+  "Reference": "184005",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Longueur de câble : 1,2 m Diamètre du haut-parleur : 10 mm Raccordement : Stéréo 3,5 mm Couleur : Lilas / Turquoise / Blanc / Noir Sensibilité : 96 dB / mW Gamme de fréquences : 20 Hz - 20 kHz ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622626686_851.jpg",
+  "Offres": [
+    {
+      "Price": "15 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2200-ecouteurs-hama-basic-4music-184005.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487190c6091ba9e657d9"
+  },
+  "Name": "KSIX - ÉCOUTEUR TWINS MINI BLANC + 2 HOUSSES SILICONE BLEU ET ROSE",
+  "Reference": "LCAUTWMINI",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs CONTACT Sans Fil Technologie de connectivité : Bluetooth Microphone intégré Autonomie : 3,5 heures Temps de charge : 12 heures Portée de fonctionnement : 10-15 m Sensibilité : 42dB Capacité de la batterie : 50 mAh (casque), 400 mAh ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627189_470.jpg",
+  "Offres": [
+    {
+      "Price": "64 DT",
+      "Last-update": "30/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1716-ecouteurs-sans-fil-contact-twin-mini-2-etuis-silicone.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487290c6091ba9e657da"
+  },
+  "Name": "KSIX - CASQUE BLUETOOTH SANS FIL NOIR",
+  "Reference": "BXAUDBT02",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque sans fil, avec Bluetooth 5.0. Pour une qualité sonore et une netteté excellentes Autonomie jusqu'à 8 heures et peuvent être rechargés en 2-3 heures câble micro-USB et un microphone inclus portée de 10 à 15 m Contrôle de la musique depuis un téléphone portable Lecture / Pause, Piste précédente, Piste suivante Augmentation du volume et Diminution du volume Gestion des appels ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627211_599.jpg",
+  "Offres": [
+    {
+      "Price": "59 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1715-casque-bluetooth-sans-fil-ksix-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487290c6091ba9e657db"
+  },
+  "Name": "SAMSUNG - ÉCOUTEURS SANS FIL GALAXY BUDS LIVE BLANC",
+  "Reference": "SM-R180NZWAMEA-WH",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Ecouteurs sans fil Samsung Galaxy Buds Live  Batterie 60 mAh (écouteurs), 472 mAh (étui de charge) Autonomie 6 heures, Autonomie conversation 4.5 heures  Réducteur de bruit  6 microphones pour un grand confort d'appel Assistant : Samsung bixby Connectivité : Bluetooth 5.0 NFC Type de connecteur : USB Type-C Son live et profond  Ergonomique  Dimensions écouteurs : 27.3 x 16.5 x 14.9 mm Poids : 5.6g Couleur Blanc mystique  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622048476_516.jpg",
+  "Offres": [
+    {
+      "Price": "699 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2235-ecouteurs-sans-fil-samsung-galaxy-buds-live-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487390c6091ba9e657dc"
+  },
+  "Name": "HAMA - CASQUE MICRO BLUETOOTH (CALYPSO) NOIR",
+  "Reference": "184023",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Bande de fréquences : 2402 ? 2480 MHz Bande passante (Casque) : 20 Hz ? 20 kHz Distance de transmission : 10 m Duplex ? Impédance : 32 ? Technologie MultiPoint Bluetooth : 4.2+EDR Sensibilité : 100 dB Stério  Micro Sensibilité : -42 dB Bande passante : 100 Hz ? 10 kHz Impédance : 2,2 k? Temps de Recharge : 3 h Autonomie Max : 12 h Autonomie en veille : 240 h Annonce du niveau de batterie faible Cordon de connexion avec prise femelle 3,5 mm amovible avec microphone Poids : 170 g Couleur : Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622626500_747.jpg",
+  "Offres": [
+    {
+      "Price": "75 DT",
+      "Last-update": "08/09/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/51616-casque-micro-bluetooth-hama-calypso-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487490c6091ba9e657dd"
+  },
+  "Name": "HAMA - CASQUE STéRéO SUPRA-AURICULAIRE KIDS BLEU ET JAUNE",
+  "Reference": "177013",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Ces écouteurs sont idéaux pour les enfants! Les oreilles fragiles des enfants sont protégées puisque la pression acoustique ne peut pas dépasser 85 dB Utilisation recommandée : Musique portable, Pour enfants, Téléphonie mobile Connecteur Jack : 3,52mm mâle Bande passante : 20 Hz - 20 kHz Couleur : Bleu/Jaune Longueur du câble : 1,2 m Matière : Plastique Modèle : Stéréo Sensibilité : 85 dB / mW ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622626549_815.jpg",
+  "Offres": [
+    {
+      "Price": "41 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2196-casque-stereo-supra-auriculaire-hama-kids-bleu-et-jaune-177013.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487490c6091ba9e657de"
+  },
+  "Name": "HAMA - CASQUE STéRéO SUPRA-AURICULAIRE KIDS ROSE ET VIOLET",
+  "Reference": "177014",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Ces écouteurs sont idéaux pour les enfants! Les oreilles fragiles des enfants sont protégées puisque la pression acoustique ne peut pas dépasser 85 dB Utilisation recommandée : Musique portable, Pour enfants, Téléphonie mobile Connecteur Jack : 3,52mm mâle Bande passante : 20 Hz - 20 kHz Couleur : Rose / Violet Longueur du câble : 1,2 m Matière : Plastique Modèle : Stéréo Sensibilité : 85 dB / mW ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622626562_720.jpg",
+  "Offres": [
+    {
+      "Price": "41 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2197-casque-stereo-supra-auriculaire-hama-kids-rose-et-violet-177014.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487590c6091ba9e657df"
+  },
+  "Name": "KSIX - ÉCOUTEURS AVEC MICRO SMALL C USB TYPE-C BLANC",
+  "Reference": "BXGPC01",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Microphone : intégré Conducteur 10 mm Gamme de fréquence : 20Hz-22KHz Impédance : 32 ? Sensibilité : 98 ± 3dB Embouts d'oreille interchangeables de différentes tailles Couleur : Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627225_458.jpg",
+  "Offres": [
+    {
+      "Price": "47 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1719-ecouteurs-avec-micro-ksix-small-c-usb-type-c-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487590c6091ba9e657e0"
+  },
+  "Name": "KSIX - ÉCOUTEURS AVEC MICRO NOIR",
+  "Reference": "LCGPS01",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Gamme de fréquence : 20-20KHz Sensibilité : 105dB ± 2dB Impédance 32O ± 15% Longueur de câble : 1.2 m Jack 3.5mm Bouton Multifonction Couleur Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627269_897.jpg",
+  "Offres": [
+    {
+      "Price": "15 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1717-ecouteurs-ksix-avec-micro-noir-lcgps01.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487690c6091ba9e657e1"
+  },
+  "Name": "HP - ECOUTEURS INTRA-AURICULAIRE 150 ROUGE",
+  "Reference": "2AP90AA",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Fourni avec un microphone en ligne et un bouton facile répondre/terminer l'appel Cordon long et plat Dimensions : 11 cm Couleur : Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627336_227.jpg",
+  "Offres": [
+    {
+      "Price": "28 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1893-ecouteurs-intra-auriculaire-hp-150-rouge-2ap90aa.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487690c6091ba9e657e2"
+  },
+  "Name": "Smartek - ÉCOUTEUR BLUETOOTH SPORT NOIR (S02)",
+  "Reference": "0037962",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Sensibilité : 90 dB ± 3 dB Bande passante : 20 Hz ? 20 kHz Impédance du casque : 16 ? Distance de transmission : 10m Couleur : Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627525_962.jpg",
+  "Offres": [
+    {
+      "Price": "38 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/806-ecouteur-bluetooth-smartek-sport-noir-s02-0037962.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487790c6091ba9e657e3"
+  },
+  "Name": "ACME - ÉCOUTEURS BLUETOOTH BH101 NOIR",
+  "Reference": "0087850",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Max en communication : 5h Temps de charge : 3h Bande passante : 20 Hz ? 20 kHz Couleur : Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627703_297.jpg",
+  "Offres": [
+    {
+      "Price": "42 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/798-ecouteurs-bluetooth-acme-bh101-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487890c6091ba9e657e4"
+  },
+  "Name": "JABRA - OREILLETTE BLUETOOTH TALK 5 NOIR 100-92046900-60",
+  "Reference": "100-92046900-60",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Bluetooth 2.1 Portée sans fil : Jusqu?à 10 mètres Liste d'appairage Bluetooth : Jusqu'à 8 appareils Haut-parleur dynamique 13 mm Plage de fréquences microphone : 100 Hz à 8kHz Sensibilité du microphone : -42 dBV/Pa Plage de fréquences du haut-parleur : 300Hz à 3,4kHz Autonomie en conversation : Jusqu'à 11 heures Temps de charge : 2 heures Autonomie en veille : Jusqu'à 10 jours Dimensions : 54,3 x 16,3 x 25,5 mm Couleur : Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627364_492.jpg",
+  "Offres": [
+    {
+      "Price": "69 DT",
+      "Last-update": "18/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/casque-ecouteurs/39719-oreillette-bluetooth-jabra-talk-5-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487890c6091ba9e657e5"
+  },
+  "Name": "HUAWEI - ÉCOUTEURS BLUETOOTH SANS FIL FREEBUDS 4I BLANC",
+  "Reference": "FREEBUDS-4I-WH",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Écouteurs intra-auriculaires Bluetooth 5.2 Avec micro intégré Boîtier de charge/transport Transducteurs de 10 mm Processeur BES2500Z Technologie Bluetooth 5.2 Réduction de bruit active Microphones : 2 microphones en silicone (par écouteur) Des contrôles intuitifs Batterie 55 mAh (par écouteur), 215 mAh (boitier de charge) Autonomie écoute musicale : jusqu'à 10 heures / jusqu'à 22 heures avec le boitier Autonomie appels : jusqu'à 6.5 heures / jusqu'à 14 heures avec le boitier Temps de charge : 1h pour les écouteurs dans le boitier de charge, 90 minutes pour le boitier de charge en filaire Poids : 5.5 g (par écouteur), 36.5 g (boitier de charge) Couleur Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627421_218.jpg",
+  "Offres": [
+    {
+      "Price": "399 DT",
+      "Last-update": "25/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/2914-ecouteurs-bluetooth-sans-fil-huawei-freebuds-4i-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487990c6091ba9e657e6"
+  },
+  "Name": "ACME - ÉCOUTEURS NOIR",
+  "Reference": "0184037",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Connecteur Jack : 3.5 mm Bande passante (Casque) : 20 Hz - 20 kHz Bande passante (Microphone) : 50 Hz - 10 kHz Impédance du casque : 32 ? Impédance du microphone : 2200 ? Longueur du càble : 1.2 m Couleur : Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627723_655.jpg",
+  "Offres": [
+    {
+      "Price": "29 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/759-ecouteurs-acme-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487a90c6091ba9e657e7"
+  },
+  "Name": "ACME - ÉCOUTEURS BLANC",
+  "Reference": "0184038",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Connecteur Jack : 3.5 mm Bande passante (Casque) : 20 Hz ? 20 kHz Bande passante (Microphone) : 50 Hz ? 10 kHz Impédance du casque : 32 ? Impédance du microphone : 2200 ? Longueur du càble : 1.2 m Couleur : Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627750_814.jpg",
+  "Offres": [
+    {
+      "Price": "29 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/763-ecouteurs-acme-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487a90c6091ba9e657e8"
+  },
+  "Name": "ACME - ÉCOUTEURS ROUGE",
+  "Reference": "0184040",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Connecteur Jack : 3.5 mm Bande passante (Casque) : 20 Hz ? 20 kHz Bande passante (Microphone) : 50 Hz ? 10 kHz Impédance du casque : 32 ? Impédance du microphone : 2200 ? Longueur du càble : 1.2 m Couleur : Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627932_633.jpg",
+  "Offres": [
+    {
+      "Price": "29 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/764-ecouteurs-acme-rouge-0184040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487b90c6091ba9e657e9"
+  },
+  "Name": "JBL - CASQUE LIVE 500 BT BLANC",
+  "Reference": "0094036",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Casque circum aural fermé sans fil Bluetooth 4.2 Son JBL signature avec haut-parleurs 50 mm Batterie rechargeable : autonomie de 30 heures Commandes tactiles sur l'oreillette : gérez facilement le volume, la lecture, les pistes et vos appels Câble détachable pour une utilisation filaire Conception pliable Poids : 231.6 g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622629123_470.jpg",
+  "Offres": [
+    {
+      "Price": "379 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/micro-casque-jbl-live-500bt-bluetooth-blanc-0094036.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487b90c6091ba9e657ea"
+  },
+  "Name": "PORT - ÉCOUTEURS SANS FIL SPORT BUDS AVEC MICRO NOIR",
+  "Reference": "BXAUBT04",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Microphone intégré Bluetooth 5.0 Résistant à la transpiration Diamètre : 8 mm Portée : 10 m Gamme de fréquence : 20Hz-20Khz Impédance : 32? Sensibilité : 105dB Capacité de la batterie : 40 mAh (chaque écouteur) Capacité de la batterie du boîtier : 400 mAh Autonomie : 3h + 12h avec l'étui Temps de charge : 1h 3 embouts interchangeables (S, M, L) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622627513_701.jpg",
+  "Offres": [
+    {
+      "Price": "129 DT",
+      "Last-update": "30/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1710-ecouteurs-sans-fil-ksix-sport-buds-avec-micro-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487c90c6091ba9e657eb"
+  },
+  "Name": "JBL - CASQUE T750 BT BLEU",
+  "Reference": "0096848",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Son JBL Pure Bass Réduction de bruit active Diffusion bluetooth sans fil Autonomie batterie Temps de recharge 2h Connexion multipoint Bluetooth 4.2 Réponse fréquence : 20 à 20 kHz Impédance : 32 Ohms Puissance max : 40 mW Appels mains-libres et commande vocale Câble détachable pour une utilisation filaire Conception léger et pliable Poids : 230g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622629160_784.jpg",
+  "Offres": [
+    {
+      "Price": "442 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/996-casque-jbl-t750-bt-bleu.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487c90c6091ba9e657ec"
+  },
+  "Name": "JBL - CASQUE T750 BT BLANC",
+  "Reference": "0096849",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Son JBL Pure Bass Réduction de bruit active Diffusion bluetooth sans fil Autonomie batterie Temps de recharge 2h Connexion multipoint Bluetooth 4.2 Réponse fréquence : 20 à 20 kHz Impédance : 32 Ohms Puissance max : 40 mW Appels mains-libres et commande vocale Câble détachable pour une utilisation filaire Conception léger et pliable Poids : 230g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622629173_805.jpg",
+  "Offres": [
+    {
+      "Price": "442 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/997-casque-jbl-t750-bt-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487d90c6091ba9e657ed"
+  },
+  "Name": "JBL - CASQUE T750 BT ORANGé",
+  "Reference": "0096850",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Son JBL Pure Bass Réduction de bruit active Diffusion bluetooth sans fil Autonomie batterie Temps de recharge 2h Connexion multipoint Bluetooth 4.2 Réponse fréquence : 20 à 20 kHz Impédance : 32 Ohms Puissance max : 40 mW Appels mains-libres et commande vocale Câble détachable pour une utilisation filaire Conception léger et pliable Poids : 230g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622629192_323.jpg",
+  "Offres": [
+    {
+      "Price": "379 DT",
+      "Last-update": "11/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/998-casque-jbl-t750-bt-orange.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487e90c6091ba9e657ee"
+  },
+  "Name": "JBL - ÉCOUTEURS E25BT",
+  "Reference": "0092112",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Bluetooth 4.1 avec télécommande et micro Le son signature de JBL Haut-parleur dynamique 8 mm Commutation aisée entre les appareils Télécommande universelle trois touches avec microphone Jusqu?à 8h d?autonomie Plusieurs tailles d?embouts : port confortable Housse de transport Attache de cou : excellent maintien Poids : 16.5 g Couleur : Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622629541_271.jpg",
+  "Offres": [
+    {
+      "Price": "162 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/884-ecouteurs-jbl-e25bt-0092112.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487f90c6091ba9e657ef"
+  },
+  "Name": "JBL - ÉCOUTEURS TUNE 220TWS BLANC",
+  "Reference": "0096437",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Bluetooth 5.0 Microphone intégré Son JBL Pure Bass Transducteurs 12 mm Impédance : 32 Ohm Sensibilité des Haut-Parleurs 98dB Réponse en fréquence : 20Hz ? 20kHz Batterie Rechargeable Lithium-ion Temps de Charge : 2 heures Autonomie : 3 heures + 16 heures avec étui de recharge Appels mains-libres Couleur : Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622711417_673.jpg",
+  "Offres": [
+    {
+      "Price": "399 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/802-ecouteurs-jbl-tune-220tws-blanc-0096437.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1487f90c6091ba9e657f0"
+  },
+  "Name": "JBL - ÉCOUTEURS TUNE 220TWS NOIR",
+  "Reference": "0096436",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Bluetooth 5.0 Microphone intégré Son JBL Pure Bass Transducteurs 12 mm Impédance : 32 Ohm Sensibilité des Haut-Parleurs 98dB Réponse en fréquence : 20Hz ? 20kHz Batterie Rechargeable Lithium-ion Temps de Charge : 2 heures Autonomie : 3 heures + 16 heures avec étui de recharge Appels mains-libres Couleur : Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622711432_876.jpg",
+  "Offres": [
+    {
+      "Price": "399 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/811-ecouteurs-jbl-tune-220tws-noir-0096436.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1488090c6091ba9e657f1"
+  },
+  "Name": "JBL - ÉCOUTEURS TUNE 120TWS NOIR",
+  "Reference": "0095570",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Bluetooth 4.2 Microphone intégré Taille des Haut-Parleurs : 5.8 mm Impédance : 15 Ohm Sensibilité des Haut-Parleurs à 1kHz / 1mW : 96dB Réponse en fréquence : 20Hz ? 20kHz Batterie Rechargeable Lithium-ion (3.7V, 85mA) Temps de Charge : 2 heures Autonomie en conversation : 4 heures Étui de recharge intelligent Appels mains-libres ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1623074101_315.jpg",
+  "Offres": [
+    {
+      "Price": "306 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/818-ecouteurs-jbl-tune-120tws-noir-0095570.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1488190c6091ba9e657f2"
+  },
+  "Name": "JBL - ÉCOUTEURS SANS FIL  LIVE 300 TWS BLK BLEU",
+  "Reference": "96340",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Version Bluetooth: 5.0 Poids: 65,7 g Type de batterie : batterie au lithium-ion (60 mA / 3,7 V CC) Type de batterie du boîtier de charge : batterie au lithium-ion (450 mAh / 3,7 V CC) Temps de charge : 2h Temps de lecture : 6H sur l'écouteur - 14H sur l'étui de chargement Taille du haut-parleur : 5,8 mm Sensibilité : 95 d Réponse en fréquence : 20 Hz - 20 kHz Impédance : 16 ohms Puissance de l'émetteur Bluetooth : 11 dBm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622711482_338.jpg",
+  "Offres": [
+    {
+      "Price": "491 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1325-ecouteurs-sansfiljbl-live-300-tws-blk-bleu-96340.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1488190c6091ba9e657f3"
+  },
+  "Name": "JBL - ÉCOUTEURS SANS FIL  LIVE 300 TWS BLK NOIR",
+  "Reference": "96337",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Version Bluetooth: 5.0 Poids: 65,7 g Type de batterie : batterie au lithium-ion (60 mA / 3,7 V CC) Type de batterie du boîtier de charge : batterie au lithium-ion (450 mAh / 3,7 V CC) Temps de charge : 2h Temps de lecture : 6H sur l'écouteur - 14H sur l'étui de chargement Taille du haut-parleur : 5,8 mm Sensibilité : 95 d Réponse en fréquence : 20 Hz - 20 kHz Impédance : 16 ohms Puissance de l'émetteur Bluetooth : 11 dBm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1622711497_448.jpg",
+  "Offres": [
+    {
+      "Price": "519 DT",
+      "Last-update": "11/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/1324-ecouteurs-sans-filjbl-live-300-tws-blk-noir-96337.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1488290c6091ba9e657f4"
+  },
+  "Name": "JBL - ÉCOUTEURS ENDURANCE DIVE BNL",
+  "Reference": "0093727",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Matériau embout auriculaire : Silicium Version Bluetooth : 4.2 Taille du pilote (mm) : 10.0 Nombre de conducteurs par oreille : 1.0 Sensibilité du pilote à 1 kHz / 1 mW (dB) : 20dB Impédance (ohms) : 16,0 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1623074110_396.jpg",
+  "Offres": [
+    {
+      "Price": "306 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/907-ecouteurs-jbl-endurance-dive-bnl-0093727.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1488290c6091ba9e657f5"
+  },
+  "Name": "JBL - ÉCOUTEURS ENDURRUN BNL",
+  "Reference": "0093628",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Technologie de connectivité : Filaire Type de câble Jack : 3.5 mm Fréquence de réponse : 20 Hz - 20 kHz Résistant à l'eau Matériau de l'embout d'oreille : Silicium Système fliphook? Tension : 3,7?V Taille des Hauts-Parleurs (mm) : 8.2 Poids : 4,54 gr Couleur : Noir & Jaune ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1623231531_899.jpg",
+  "Offres": [
+    {
+      "Price": "99 DT",
+      "Last-update": "18/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/761-ecouteurs-jbl-endurrun-bnl-0093628.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1488390c6091ba9e657f6"
+  },
+  "Name": "SAMSUNG - EO-IC100BBEGEU",
+  "Reference": "F10640442",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "SAMSUNG EO-IC100BBEGEU ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1623662286_726.jpeg",
+  "Offres": [
+    {
+      "Price": "69 DT",
+      "Last-update": "07/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/casques-et-ecouteurs/3543-ecouteurs-avec-micro-type-c-samsung-akg-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f1488490c6091ba9e657f7"
+  },
+  "Name": "CANON - MICROPHONE DE JEU URAGE STREAM 100",
+  "Reference": "186017",
+  "type": "/image_son/son_numerique/casque_kit",
+  "Specs": "Gaming et streaming : ce microphone convient parfaitement pour les podcasts, les commentaires en voix off, les blogs vidéo, l?enregistrement de musique ou le streaming sur Twitch, YouTube et Facebook ? It?s time for u to Rage! Maintien sûr et trépied réglable Microphone USB puissant Enregistrements audio sans distorsions et détaillés Protection anti-pop : enregistrement sans perturbations grâce aux filtrages des bruits ambiants Plug and Play Câble : 2,0 m 1 microphone de jeu \"Stream 100\" 1 protection anti-pop 1 trépied  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_son_numerique/1641683095_442.jpg",
+  "Offres": [
+    {
+      "Price": "73 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/microphones/2178-microphone-de-jeu-hama-urage-stream-100.html"
+    }
+  ]
+}]

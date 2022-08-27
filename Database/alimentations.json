@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "62f0359a305039c716265d6a"
+  },
+  "Name": "everest - BOITE D'ALIMENTATION EPS-1455 PEAK 250W",
+  "Reference": "EPS-1455",
+  "type": "/informatique/composant/alimentations",
+  "Specs": "Boite d'alimentation Everest EPS-1455 Peak - Puissance 250W - Ventilateur 12cm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1536098153_243.jpg",
+  "Offres": [
+    {
+      "Price": "33 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/boite-d-alimentation/25457-boite-d-alimentation-everest-eps-1455-peak-250w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0359b305039c716265d6b"
+  },
+  "Name": "LINKWORLD - BLOC D'ALIMENTATION 700W 80 PLUS BRONZA",
+  "Reference": "LPW1685-70",
+  "type": "/informatique/composant/alimentations",
+  "Specs": "Bloc D'Alimentation Gamer LINKWORLD - Puissance: 700 Watts  - Certification 80 PLUS: Bronze - entilateur : 140 mm thermo-régulé et Silencieux - Connecteurs: 1x 20 + 4pin,  x 4 broches 12V, 1 disquette, 4 broches, Molex 2 x 4 broches, 6 x Sata, 2 x 6 + 2 broches PCI-E ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1542113325_333.jpg",
+  "Offres": [
+    {
+      "Price": "189 DT",
+      "Last-update": "17/10/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/bloc-d-alimentation-linkworld-700w-80-plus-bronza.html"
+    }
+  ]
+}]

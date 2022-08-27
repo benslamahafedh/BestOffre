@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "62f0366f568293ce323faf75"
+  },
+  "Name": "AFOX - Carte Graphique NVIDIA GeForce GT 610 2Go",
+  "Reference": "GF-GT610-2GAFOX",
+  "type": "/informatique/composant/carte-graphique",
+  "Specs": "Carte Graphique NVIDIA GeForce GT 610 2Go, CUDA Cores 48, Fréquence de la carte graphique 810 MHz, Fréquence du processeur 1620 MHz, Mémoire standard 2 Go , Bus pris en charge PCI Express 2.0 16x, Connecteurs pour écrans DVI, VGA, HDMI, Résolution numérique maximale: 2560x1600, Résolution VGA max: 2048x1536 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1068_1.jpg",
+  "Offres": [
+    {
+      "Price": "159 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/454/Carte-Graphique-AFOX-GeForce-GT-610-2Go"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0366f568293ce323faf76"
+  },
+  "Name": "NVIDIA - Carte Graphique NVIDIA GeForce GT 630 4Go",
+  "Reference": "GT630/4G",
+  "type": "/informatique/composant/carte-graphique",
+  "Specs": "Carte Graphique NVIDIA GeForce GT 630 4Go, CUDA Cores 196, Fréquence de la carte graphique 810 MHz, Mémoire standard 4 Go , Bus pris en charge PCI Express 2.0 x16, Connecteurs pour écrans standard DVI-D, VGA, HDMI ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1091_1.jpg",
+  "Offres": [
+    {
+      "Price": "125 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/457/Carte-graphique-NVIDIA-GeForce-GT-630"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f03670568293ce323faf77"
+  },
+  "Name": "MSI - Carte graphique geforce gt 710 / 2 go",
+  "Reference": "912-V809-2016",
+  "type": "/informatique/composant/carte-graphique",
+  "Specs": "Carte Graphique MSI GeForce GT 710 - Mémoire 2 Go de mémoire DDR3 dédiée - Interface PCI Express 2.0 8x - Fréquence mémoire 800 Mhz - 1 x HDMI Femelle - 1 x DVI Femelle - 1 x VGA (D-sub 15 Femelle) - Dimensions 146 x 69 x 19mm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1522843984_581.jpg",
+  "Offres": [
+    {
+      "Price": "185 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/carte-graphique-tunisie/19267-carte-graphique-msi-geforce-gt-710-2-go.html"
+    }
+  ]
+}]

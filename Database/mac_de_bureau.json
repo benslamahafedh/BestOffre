@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "62f02819fab2a519e145d739"
+  },
+  "Name": "Apple - IMAC 5K - 27 POUCES - CORE I5 3.1GHZ - 8 GO 256 GO SSD",
+  "Reference": "MXWT2FN/A",
+  "type": "/informatique/ordinateur_bureau/mac-de-bureau",
+  "Specs": "Processeur:Intel Core i5-10500 (6-Core - 3.1 GHz/4.5 GHz Turbo - 12 Threads - Cache 12 Mo) / Mémoire: 8Go DDR4 2666 MHz  / Disque dur: 256 Go SSD / Carte graphique :   AMD Radeon Pro 5300M 4Go GDDR6 / Écran : 27\" Retina 5K (5120x2880 pixels),  Caméra FaceTime HD / 2 x  Thunderbolt 3 (USB-C), USB-A, RJ45 - Wi-Fi - Bluetooth 5.0 - Clavier et souris Apple sans-fil / Webcam macOS Catalina ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616665467_360.jpg",
+  "Offres": [
+    {
+      "Price": "7639 DT",
+      "Last-update": "16/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/48126-pc-de-bureau-apple-imac-tout-en-un-27-i5-10eme-gen-256-go-ecran-retina-5k.html"
+    },
+    {
+      "Price": "7699 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/apple-imac-5k-27-core-i5-31ghz-8-go-256-go-ssd-mxwt2fna.html"
+    },
+    {
+      "Price": "7799 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/imac/40343--apple-imac-i5-10500u-8go-256go-ssd-silver-mxwt2fna.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0281afab2a519e145d73a"
+  },
+  "Name": "Apple - IMAC I7-10700U 8GO 512 GO SSD SILVER MXWV2FN/A",
+  "Reference": "MXWV2FN/A",
+  "type": "/informatique/ordinateur_bureau/mac-de-bureau",
+  "Specs": "Ecran : 27 '' 5k - Processeur : Intel Core I7-10700U ( 3.8 GHz Up to 5.10 GHz, 16 Mo Mémoire cache, Intel Core I7) - Système d'exploitation : macOS - Mémoire RAM : 8 Go - Disque Dur : 512 Go SSD - Carte Graphique: Radeon Pro 5500 avec 8 Go GDDR6 , avec Wi-Fi, Bluetooth - Couleur : Silver ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1623774065_384.jpg",
+  "Offres": [
+    {
+      "Price": "8945 DT",
+      "Last-update": "13/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/48129-pc-de-bureau-apple-imac-tout-en-un-27-5k-i7e-gen-512-go-8-go.html"
+    },
+    {
+      "Price": "9589 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/imac/40352--apple-imac-i7-10700u-8go-512-go-ssd-silver-mxwv2fna.html"
+    },
+    {
+      "Price": "9899 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/apple-imac-i7-10gen-8go-512-go-ssd-silver-mxwv2fna.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0281bfab2a519e145d73b"
+  },
+  "Name": "Apple - IMAC 5K - 27 POUCES - CORE I5 3.1GHZ - 8 GO 512 GO SSD",
+  "Reference": "MXWU2FN/A",
+  "type": "/informatique/ordinateur_bureau/mac-de-bureau",
+  "Specs": "Processeur:Intel Core i5-10500 (6-Core - 3.1 GHz/4.5 GHz Turbo - 12 Threads - Cache 12 Mo) / Mémoire: 8Go DDR4 2666 MHz  / Disque dur: 512 Go SSD / Carte graphique :   AMD Radeon Pro 5300M 4Go GDDR6 / Écran : 27\" Retina 5K (5120x2880 pixels),  Caméra FaceTime HD / 2 x  Thunderbolt 3 (USB-C), USB-A, RJ45 - Wi-Fi - Bluetooth 5.0 - Clavier et souris Apple sans-fil / Webcam macOS Catalina ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616665231_382.jpg",
+  "Offres": [
+    {
+      "Price": "8549 DT",
+      "Last-update": "11/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/imac/40349-apple-imac-i5-10500u-8go-512go-ssd-silver-mxwu2fna.html"
+    },
+    {
+      "Price": "8699 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/apple-imac-5k-27-core-i5-31ghz-8-go-512-go-ssd-mxwu2fna.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0281cfab2a519e145d73c"
+  },
+  "Name": "Apple - IMAC RETINA 5K 27\"- CORE I5 - 8GO- 1TO - AMD R PRO",
+  "Reference": "MRR02FN/A",
+  "type": "/informatique/ordinateur_bureau/mac-de-bureau",
+  "Specs": "Taille de l'écran 27\" Retina 5K-Processeur Core i5-Stockage 1 To-Mémoire vive 8 Go-Couleur Argent-Carte Graphique: AMD Radeon Pro 575X 4 Go- macOS Catalina ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616668766_194.jpg",
+  "Offres": [
+    {
+      "Price": "7839 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/apple-imac-retina-5k-27-core-i5-8go-1to-amd-r-pro-mrr02fna.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0281efab2a519e145d73d"
+  },
+  "Name": "Apple - IMAC RETINA 5K 27\"- CORE I5 - 8GO- 2TO",
+  "Reference": "MRR12FN/A",
+  "type": "/informatique/ordinateur_bureau/mac-de-bureau",
+  "Specs": "Processeur :Intel Core i5 hexac?ur à 3,7 GHz (Turbo Boost jusqu?à 4,6 GHz)  / Mémoire : 8GB DDR4  / Disque dur : 2TB Fusion Drive /  Carte graphique:  Radeon Pro 580X avec 8 Go de VRAM  / Écran : 27\" Retina 5K (5 120 x 2 880) /  Caméra FaceTime HD  / Wi-Fi / Bluetooth / Clavier et souris Apple sans-fil / USB 3 / Thunderbolt 3 (USB?C) / USB 3.1 Gen 2 /  MacOS Catalina ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616669047_666.jpg",
+  "Offres": [
+    {
+      "Price": "8855 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/apple-imac-retina-5k-27-core-i5-8go-2to-mrr12fna.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0281ffab2a519e145d73e"
+  },
+  "Name": "Apple - IMAC RETINA 5K 27\"- CORE I5 - 8GO- 1TO",
+  "Reference": "MRQY2FN/A",
+  "type": "/informatique/ordinateur_bureau/mac-de-bureau",
+  "Specs": "Processeur :Intel Core i5 hexac?ur à 3 GHz (Turbo Boost jusqu?à 4,1 GHz)  / Mémoire : 8GB DDR4  / Disque dur : 1TB Fusion Drive /  Carte graphique: Radeon Pro 570X avec 4 Go de VRAM  / Écran : 27\" Retina 5K (5 120 x 2 880) /  Caméra FaceTime HD  / Wi-Fi / Bluetooth / Clavier et souris Apple sans-fil / USB 3 / Thunderbolt 3 (USB?C) / USB 3.1 Gen 2 /  MacOS Catalina ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1616669075_278.jpg",
+  "Offres": [
+    {
+      "Price": "7199 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/apple-imac-retina-5k-27-core-i5-8go-1to-mrqy2fna.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0281ffab2a519e145d73f"
+  },
+  "Name": "Apple - IMAC I5-8500U 8GO 256GO SSD SILVER MHK33FN/A",
+  "Reference": "MHK33FN/A",
+  "type": "/informatique/ordinateur_bureau/mac-de-bureau",
+  "Specs": "Ecran : 21.5 '' 4k - Processeur : Intel Core I5-8500U ( 3 GHz Up to 4.10 GHz, 9 Mo Mémoire cache, Intel Core I5) - Système d'exploitation : macOS - Mémoire RAM : 8 Go - Disque Dur : 256 Go SSD - Carte Graphique: Radeon Pro 560X avec 4 Go GDDR5 , avec Wi-Fi, Bluetooth - Couleur : Silver ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_ordinateur_bureau/1623774104_721.jpg",
+  "Offres": [
+    {
+      "Price": "5795 DT",
+      "Last-update": "04/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/pc-de-bureau/48170-pc-de-bureau-apple-imac-tout-en-un-215-4k-retina-i5-8e-gen-256-go-8-go.html"
+    }
+  ]
+}]

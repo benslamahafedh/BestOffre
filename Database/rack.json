@@ -1,0 +1,344 @@
+[{
+  "_id": {
+    "$oid": "62f02935835721aa616a2210"
+  },
+  "Name": "HP - SERVEUR RACK 2U DL180 GEN9 V4 833971-B21",
+  "Reference": "833971-B21",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Sans Disque - Processeur Intel Xeon E5-2603 v4, 1.7 Ghz, 15 Mo de mémoire cache, 6 core - Mémoire 8 Go 2400 MHz RDIMM - Nombre de disques supportés: 8x LFF - Contrôleur Raid: HPE Dynamic Smart Array B140i SATA - Carte réseau: HPE Embedded Dual Port 361i Adapter Network Interface - Alimentation: HPE 550W FIO Power Supply ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539179424_939.jpg",
+  "Offres": [
+    {
+      "Price": "4229 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/serveur-hpe-proliant-dl180-gen9-2u-e5-2609v4-8go-833971-b21.html"
+    },
+    {
+      "Price": "4239 DT",
+      "Last-update": "19/04/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-hpe-proliant-dl180-gen9-2u-e5-2603v4-8go-833971-b21.html"
+    },
+    {
+      "Price": "4419 DT",
+      "Last-update": "08/09/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/serveur-rack/19412-serveur-rack-2u-hp-dl180-gen9-v4.html"
+    },
+    {
+      "Price": "4459 DT",
+      "Last-update": "08/02/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/26406-serveur-rack-2u-hp-dl180-gen9-v4.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02937835721aa616a2211"
+  },
+  "Name": "LENOVO - SERVEUR SYSTEM X3550 M5 E5-2603 8GO (8869-ECG)",
+  "Reference": "8869-ECG",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "System LENOVO SYSTEM X3550 M5 - Format: Rack 1U - Processeur: Intel Xeon E5-2603 v4 6C  (1.7 GHz, 15 Mo  de mémoire cache, 6 c?urs) - Mémoire: 8Go DDR4  2133 MHz - Disque Dur: Sans Disque Dur - Disque Dur Supporté: 4 de base extensible 8 hot-swap - Ventilation: Redondante - Interface Réseau: 4x Port Gigabit Ethernet, 1x IMM2 - Connecteurs: 2 x ports USB 3.0, 2 x port 2.0, 1 x port VGA DB-15, 1 x port internal USB, 1 x SD Media - 1 Slots PCIe Extensible à 4 - lecteur/ graver: Option - Controleur Raid: M1215 Raid  (0,1,10) - Alimentation: 550 W  HS -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537617453_363.jpg",
+  "Offres": [
+    {
+      "Price": "3259 DT",
+      "Last-update": "31/07/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-lenovo-x3550-m5-e5-2603-8-go.html"
+    },
+    {
+      "Price": "6399 DT",
+      "Last-update": "31/07/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-lenovo-system-x3550-m5-e5-2603-v4-32go-8869-ecg-32g.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0293a835721aa616a2212"
+  },
+  "Name": "DELL - SERVEUR POWEREDGE R230 E1 | 1 TO | RACK 1U",
+  "Reference": "PER230E1",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Réf : PER230E1 Processeur Intel Xeon E3-1220 v6 3.0GHz, 8M cache, 4C/4T, turbo (80W), Mémoire 8 GB UDIMM, 2133MT/s, Disque 1TB 7.2K RPM SATA 6Gbps 3.5in Cabled Hard Drive, Controlleur Raid PERC H330 Integrated, Interface réseau Broadcom® 5720 Dual Port 1Gb LOM, single Power Supplies 350W, FreeDOS.  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539020208_993.jpg",
+  "Offres": [
+    {
+      "Price": "3259 DT",
+      "Last-update": "06/06/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/35553-serveur-rack-dell-poweredge-r230-1-to.html"
+    },
+    {
+      "Price": "3599 DT",
+      "Last-update": "10/01/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-dell-poweredge-r230-e3-1220v6-16go-1to-1u.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0293c835721aa616a2213"
+  },
+  "Name": "LENOVO - SERVEUR RACK 1U THINKSERVER RS160 70TG0028EA",
+  "Reference": "70TG0028EA",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Sans Disque - Processeur Xeon E3-1220 v6 3.0GHz (3.0GHz to 3.5 GHz Turbo boost) 4C (72W) - 8 Go de Mémoire DDR4 2400 MHz (max. 64 Go) - Disques supportés: 2x 3.5\" non-hot-swap SAS/SATA drive bays - Raid 121i 0, 1, 5, 10 - 2x 1Gb Ethernet - 2x USB 2.0 - 4x USB 3.0 - 1x VGA DB-15 - 1x Port série DB-9 - Alimentation Redondante 1x 300W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539178876_769.jpg",
+  "Offres": [
+    {
+      "Price": "2139 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/988/Serveur-Rack-Lenovo-ThinkServer-RS160"
+    },
+    {
+      "Price": "3509 DT",
+      "Last-update": "08/06/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/31551-serveur-rack-1u-lenovo-thinkserver-rs160.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0293e835721aa616a2214"
+  },
+  "Name": "LENOVO - SERVEUR RACK 1U THINKSYSTEM SR630 7X02A042EA",
+  "Reference": "7X02A042EA",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Sans Disque - Processeur Xeon Silver 4110 (2.1 GHz to 3.0 GHz Turbo boost) 8C (85W) - 16 Go de Mémoire DDR4 2666 MHz (max. 3 To) - Disques supportés: 8 x 2\" 1/2 SAS Serial ATA 6Gb/s (SATA 3) - Raid 930-8i 0, 1, 10, 5, 50, 6, 60 - 1x 10/100/1000 Mb Ethernet - 1x USB 2.0 - 3x USB 3.0 - 1x VGA DB-15 - 3x PCIe - Alimentation Redondante 1x 750W Platinum Hot-Swap ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539178885_569.jpg",
+  "Offres": [
+    {
+      "Price": "6745 DT",
+      "Last-update": "22/01/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/31559-serveur-rack-1u-lenovo-thinksystem-sr630.html"
+    },
+    {
+      "Price": "6799 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1008/Serveur-Lenovo-ThinkSystem-SR630"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02944835721aa616a2215"
+  },
+  "Name": "HP - SERVEUR RACK 2U DL180 GEN9 V4 833972-B21",
+  "Reference": "833972-B21",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Sans Disque - Processeur Intel Xeon E5-2609 v4, 1.7 Ghz, 20 Mo de mémoire cache, 8 core - Mémoire 8 Go 2400 MHz RDIMM - Nombre de disques supportés: 8x LFF - Contrôleur Raid: HPE Dynamic Smart Array B140i SATA - Carte réseau: HPE Embedded Dual Port 361i Adapter Network Interface - Alimentation: HPE 550W FIO Power Supply ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539179441_104.jpg",
+  "Offres": [
+    {
+      "Price": "5199 DT",
+      "Last-update": "19/04/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-hpe-proliant-dl180-gen9-2u-e5-2609v4-8go-833972-b21.html"
+    },
+    {
+      "Price": "5499 DT",
+      "Last-update": "08/02/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/26407-serveur-rack-2u-hp-dl180-gen9-v4.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02945835721aa616a2216"
+  },
+  "Name": "HP - SERVEUR E PROLIANT DL360 GEN10 1U XEON SILVER 4110 16 GO (P06453-B21)",
+  "Reference": "P06453-B21",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Serveur HPE ProLiant DL360 Gen10 - Format: Rack 1U - Processeur: Intel Xeon Silver 4110 8C (2.1 GHz up to 3.0 GHz, 11 Mo  de mémoire cache, 8 c?urs) - Mémoire: 16Go  2Rx8 PC4-2666V-R Smart Kit - Disque Dur:  2 x 240 SSD - Nombre HDD: 8 -  Contrôleur: 8-SFF HDD Bays Hot Plug SAS -  Contrôleur Raid:   HPE Smart Array P408i-a/2 Gbit/s avec batterie de stockage intelligente - Carte Réseau: HP 1Gb 4-port 331i Adapter - Alimentation: kit d?alimentation HPE Platinum, enfichable à chaud à logement flexible, 500 W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1546171653_344.jpg",
+  "Offres": [
+    {
+      "Price": "8349 DT",
+      "Last-update": "19/04/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-hpe-proliant-dl360-gen10-1u-xeon-silver-4110-16-go-p06453-b21.html"
+    },
+    {
+      "Price": "8349 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/serveur-hpe-proliant-dl360-gen10-1u-xeon-p06453-b21.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02954835721aa616a2217"
+  },
+  "Name": "HP - SERVEUR E PROLIANT DL380 GEN9 2U XEON E5-2620 V4 16GO (843557-425)",
+  "Reference": "843557-425",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Serveur HPE ProLiant DL380 Gen9 - Format: Rack 2U - Processeur: Intel Xeon E5-2620 v4  (2.1 GHz up to 3.00 GHz  20Mo , Octa-Core, 85W) - Mémoire: 16 Go  DDR4 2133 MHz, - Disque Dur: 3  x 600 Go  SAS 10k - Disques durs inclus: 8 SAS SFF - Contrôleur de stockage: Smart Array P440a - Carte réseau Ethernet: 1Gb 331i Ethernet Adapter 4 Ports per controller - Alimentation: 500W Flex Slot Platinum hot plug power supply kit ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537617113_778.jpg",
+  "Offres": [
+    {
+      "Price": "7179 DT",
+      "Last-update": "22/01/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/21806-serveur-hp-proliant-dl380-gen9-v4-rack-2u-3x-300-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02956835721aa616a2218"
+  },
+  "Name": "DELL - SERVEUR POWEREDGE R730 RACK 2U / 2 PROCESSEURS / 3X 300 GO 210-11236",
+  "Reference": "PE210-11236",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "2x Processeurs Intel Xeon E5-2630 v3, 2.4GHz , 20M Cache, 8C - Mémoire 32Go (2x 16Go) RDIMM, 2133 MT/s, Dual Rank, x4 - Mémoire max. 768Go (24 slots) - Disque 3x 300Go 15K RPM SAS 6Gbps 3.5in Hot-plug - Contrôleur RAID PERC H730P, 1Go Cache - Graveur DVD+/-RW SATA - Réseau Broadcom 5720 Quad Port 1Gb Network - Double Alimentation Redondante 750W - Sans système ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537617195_517.jpg",
+  "Offres": [
+    {
+      "Price": "13139 DT",
+      "Last-update": "10/01/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-dell-poweredge-r730-e5-2630v4-32go-1to-rack.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02957835721aa616a2219"
+  },
+  "Name": "HP - SERVEUR E PROLIANT DL120 GEN9 1U XEON E5-2603V4 8GO - 839302-425",
+  "Reference": "839302-425",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Serveur HPE ProLiant DL120 Gen9 - Format: Rack 1U , Processeur: Intel Xeon E5-2603v4 (6 Core , 1.7 GHz, 15 Mo L3 de Mémoire Cache, 85W), Mémoire: 8Go DDR4  SDRAM 2133 MHz, Advanced ECC - PC4-2400T - Sans Disque Dur  - Emplacement Disque Dur: 4 x disques NPL 3,5'' LFF - Contrôleur de stockage: RAID (SATA 6Gb/s) HP Dynamic Smart Array B140i - Carte Réeseau: 2 x Gigabit Ethernet LAN 1Go, Lecteur Optique DVD-RW , Alimentation: 550W, Non Redondance,  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537617392_347.jpg",
+  "Offres": [
+    {
+      "Price": "3585 DT",
+      "Last-update": "22/01/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/21799-serveur-hp-proliant-dl120-gen9-rack-1u.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02957835721aa616a221a"
+  },
+  "Name": "LENOVO - SERVEUR SYSTEM X3550 M5 E5-2640 16GO (5463-E4G)",
+  "Reference": "5463-E4G",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Serveur System LENOVO X3550 M5 - Format: Rack 1U - Processeur: Intel Xeon E5-2640 v3 8C   (2.6 GHz up to 3.4 GHz, 20 Mo  de mémoire cache, 8 c?urs) - Mémoire: 16Go DDR4  2133 MHz - Disque Dur: Sans Disque Dur - Disque Dur Supporté: 8 hot-swap - Ventilation: Redondante - Interface Réseau: 4x Port Gigabit Ethernet, 1x IMM2 - Connecteurs: 2 ports USB 3.0, 1 port 2.0, 1 port VGA DB-15, 1 port internal USB - 2 Slots PCIe Extensible à 4 - lecteur/ graver: DVD RW -  Controleur Raid: M5210 Raid  (0,1,5,10) - Alimentation:     550 W  HS PSU Hot-Swap -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537617438_796.jpg",
+  "Offres": [
+    {
+      "Price": "6099 DT",
+      "Last-update": "31/07/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-lenovo-x3550-m5-e5-2640-16-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02958835721aa616a221b"
+  },
+  "Name": "HP - SERVEUR RACK 2U DL180 GEN9 V4 / 2X 300GO 833988-425",
+  "Reference": "833988-425",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Processeur Intel Xeon E5-2620 v4, 2.1 Ghz, 20 Mo de mémoire cache, 8 core - Mémoire 16 Go 2400 MHz RDIMM - Nombre de disques supportés: 8x SFF - Contrôleur Raid: HP Smart Array P440/2GB FBWC 12Gb 1-port Int SAS - Carte réseau: HP 1Gb 2-port i350 Adapter - Alimentation: 1x 900W Hot Plug ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539179454_950.jpg",
+  "Offres": [
+    {
+      "Price": "6899 DT",
+      "Last-update": "22/01/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/26408-serveur-rack-2u-hp-dl180-gen9-v4-2x-300go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0295b835721aa616a221c"
+  },
+  "Name": "HP - SERVEUR RACK PROLIANT DL160 GEN9 V4 / 2X 300 GO - 830585-425",
+  "Reference": "830585-425",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Format Rack 1U - Processeur Intel Xeon E5-2609 v4, 1.7 GHz, 20 Mo Cache, 8  Core - Mémoire 16 Go, 1Rx4 PC4-2400T-R Kit - Disque 2x 300 Go 12G SAS 10K 2.5in SC ENT HDD - Contrôleur RAID HP H240 Smart HBA - Carte Réseau SFF Hot plug SATA - Sans Lecteur - Alimentation non redondante 550W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539179515_367.jpg",
+  "Offres": [
+    {
+      "Price": "5319 DT",
+      "Last-update": "22/01/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/25883-serveur-rack-hp-proliant-dl160-gen9-v4-2x-300-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0295d835721aa616a221d"
+  },
+  "Name": "HP - SERVEUR PROLIANT DL380 GEN10 | 11 MO RACK 2U 826565-B21",
+  "Reference": "826565-B21",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Réf : 826565-B21 - Processeur: Silver 4114 (10 core, 2.1 GHz), Memoire cache: 13 Mo, Mémoire: 32 GB ( 2 x HPE 16GB 2Rx8 PC4-2666V-R Smart Kit ), Sans lecteur, Carte réseau:HPE 1Gb Ethernet 4-Port 331i, Sans disque dur, Nb HDD: 8 X SFF, Format: Rack 2U ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539179736_604.jpg",
+  "Offres": [
+    {
+      "Price": "11669 DT",
+      "Last-update": "19/04/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-hpe-proliant-dl380-gen10-2u-xeon-32go-826565-b21.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02960835721aa616a221e"
+  },
+  "Name": "LENOVO - SERVEUR SYSTEM X3550 M5 E5-2620 16GO (8869-EJG)",
+  "Reference": "8869-EJG",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "System LENOVO X3550 M5 - Format: Rack 1U - Processeur: Intel Xeon E5-2620 v4 8C  (2.1 GHz up to 3.0 GHz, 20 Mo  de mémoire cache, 8 c?urs) - Mémoire: 16Go DDR4  2133 MHz - Disque Dur: Sans Disque Dur - Disque Dur Supporté: 4 de base extensible 8 hot-swap - Ventilation: Redondante - Interface Réseau: 4x Port Gigabit Ethernet, 1x IMM2 - Connecteurs: 2 ports USB 3.0, 2 port 2.0, 1 port VGA DB-15, 2 port internal USB - 1 Slots PCIe Extensible à 4 - lecteur/ graver: option - Controleur Raid: M5210 Raid  (0,1,10) - Alimentation: 750 W  HS -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537617469_836.jpg",
+  "Offres": [
+    {
+      "Price": "4915 DT",
+      "Last-update": "31/07/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-lenovo-x3550-m5-e5-2620-16-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02961835721aa616a221f"
+  },
+  "Name": "LENOVO - SERVEUR SYSTEM X3650 M5 E5-2603 8GO (8871-EBG)",
+  "Reference": "8871-EBG",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Serveur System LENOVO X3650 M5 - Format: Rack 2U - Processeur: Intel Xeon E5-2603 v4 6C   (2.1 GHz up to 3.0 GHz, 15 Mo  de mémoire cache, 6 c?urs) - Mémoire: 8Go DDR4  2133 MHz - Disque Dur: Sans Disque Dur - Disque Dur Supporté: 8 de base extensible 20 hot-swap 2.5\" - Ventilation: Redondante - Interface Réseau: 4x  1 Gb Ethernet, 1x IMM2, 2 x 10 Gb Ethernet - Connecteurs: 1 ports USB 3.0, 2 port 2.0, 1 port VGA DB-15, 1 port internal USB + SD Media - 3 Slots PCIe Extensible à 9 - lecteur/ graver: option - Controleur Raid: M1215 Raid   (0,1,10) - Alimentation: 550 W  HS -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537617479_837.jpg",
+  "Offres": [
+    {
+      "Price": "4299 DT",
+      "Last-update": "31/07/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-lenovo-x3650-m5-e5-2603-8-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02963835721aa616a2220"
+  },
+  "Name": "DELL - SERVEUR POWEREDGE R230 E3-1220V6 8GO 1TO - 1U",
+  "Reference": "PER230E3",
+  "type": "/informatique/serveurs/rack",
+  "Specs": "Serveur DELL PowerEdge R230 - Format: Rack 1U, Processeur: Intel Xeon E3-1220v6 (Quad-Core, 3.0 GHz Up To 3.5 GHz, 8 Mo de Mémoire Cache, 72W), Mémoire: 8Go DDR4 SDRAM 2400 MT/s - Emplacement Mémoire: 4 DIMM - Disque Dur: 1 To 7.2K RPM SATA 6Gbps 3.5in Cabled Hard Drive - Emplacement Disque Dur: 4 x disques 3,5'' - Contrôleur Raid PERC H330 Integrated - Interface réseau: Broadcom® 5720 Dual Port 1Gb LOM - Non Redondant Power Supply, 250W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539020226_311.jpg",
+  "Offres": [
+    {
+      "Price": "3799 DT",
+      "Last-update": "18/04/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-dell-poweredge-r230-e3-1220v6-8go-1to-1u.html"
+    }
+  ]
+}]

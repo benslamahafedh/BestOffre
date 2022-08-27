@@ -1,0 +1,1891 @@
+[{
+  "_id": {
+    "$oid": "62efeef18125f118dbd85453"
+  },
+  "Name": "Severin - GRILLE PAIN \"AT2286\" BLANC",
+  "Reference": "severin",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Toaster Automatique Blanc 700 W Degré de dorage réglable Réglage électronique du temps de cuisson Remplace AT2288 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1622023506_962.jpg",
+  "Offres": [
+    {
+      "Price": "48 DT",
+      "Last-update": "28/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/emulsionneur-de-lait-severin-noir-sm3590.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "15/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cafetiere/1368-emulsionneur-de-lait-severin-noir-sm3590-prix-tunisie.html"
+    },
+    {
+      "Price": "69 DT",
+      "Last-update": "08/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/moulin-a-cafe/4578-moulin-a-cafe-severin-140w-couteaux-inox-blanc.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "01/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/bouilloire/1369-bouilloire-severin-1000w-noir-wk3363-prix-tunisie.html"
+    },
+    {
+      "Price": "100 DT",
+      "Last-update": "11/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/bouilloire/bouilloire-severin-sans-fil-wk3363-noir"
+    },
+    {
+      "Price": "114 DT",
+      "Last-update": "09/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/petit-dejeuner-jus/moulin-a-cafe-severin-blanc-140watt-km3868"
+    },
+    {
+      "Price": "119 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/bouilloire-electrique-severin-2200-watts-15-litres-blanc-wk3495.html"
+    },
+    {
+      "Price": "125 DT",
+      "Last-update": "08/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/bouilloire/3278--bouilloire-sans-fil-severin-2200w-blanc-prix-tunisie.html"
+    },
+    {
+      "Price": "128 DT",
+      "Last-update": "05/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/bouilloire/bouilloire-severin-puissante-sans-fil-wk3495-prix-tunisie"
+    },
+    {
+      "Price": "129 DT",
+      "Last-update": "28/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/moulin-a-cafe/1367-moulin-a-cafe-severin-150w-inox-km3879-prix-tunisie.html"
+    },
+    {
+      "Price": "129 DT",
+      "Last-update": "28/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/moulin-a-cafe-et-epices-severin-150-watts-argent-km3879.html"
+    },
+    {
+      "Price": "129 DT",
+      "Last-update": "06/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/petit-electro-en-ligne-tunisie/petit-dejeuner/severin-ek-3056.html"
+    },
+    {
+      "Price": "143 DT",
+      "Last-update": "28/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/bouilloire-severin-sans-fil-1000-watts-1-litre-noir-wk3410.html"
+    },
+    {
+      "Price": "149 DT",
+      "Last-update": "15/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/bouilloire/3281-bouilloire-sans-fil-severin-2200w-noir.html"
+    },
+    {
+      "Price": "149 DT",
+      "Last-update": "15/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/bouilloire/4580-bouilloire-severin-sans-fil-1-litre-1000-w-noir.html"
+    },
+    {
+      "Price": "149 DT",
+      "Last-update": "28/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/bouilloire-electrique-severin-2200-watts-15-litres-noir-wk3498.html"
+    },
+    {
+      "Price": "157 DT",
+      "Last-update": "09/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/bouilloire/bouilloire-severin-puissante-sans-fil-wk3498"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "19/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/severin-at-2286.html"
+    },
+    {
+      "Price": "171 DT",
+      "Last-update": "05/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/petit-dejeuner-jus/grille-pain-severin-1000w-at2286-blanc"
+    },
+    {
+      "Price": "185 DT",
+      "Last-update": "01/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cafetiere/1364-cafetiere-electrique-severin-12-tasses-800w-noir-ka4479-prix-tunisie.html"
+    },
+    {
+      "Price": "209 DT",
+      "Last-update": "28/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/cafetiere-electrique-severin-800-watt-15-tasses-blanc-ka4478.html"
+    },
+    {
+      "Price": "209 DT",
+      "Last-update": "28/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/cafetiere-electrique-severin-800-watt-15-tasses-noir-ka4479.html"
+    },
+    {
+      "Price": "219 DT",
+      "Last-update": "08/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cafetiere/1363-cafetiere-electrique-severin-15-tasses-800w-blanc-ka4478-prix-tunisie.html"
+    },
+    {
+      "Price": "223 DT",
+      "Last-update": "29/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/cafetiere-tunisie/cafetiere-electrique-severin-800-w-ka4479"
+    },
+    {
+      "Price": "265 DT",
+      "Last-update": "09/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/petit-dejeuner-jus/centrifugeuse-severin-inox-es3566"
+    },
+    {
+      "Price": "265 DT",
+      "Last-update": "30/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/centrifugeuse-severin-400-watt-05-litres-inox-es3566.html"
+    },
+    {
+      "Price": "279 DT",
+      "Last-update": "28/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/cafetiere-isotherme-severin-ka-9234-800-watt-noir-ka9234.html"
+    },
+    {
+      "Price": "301 DT",
+      "Last-update": "21/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/cafetiere-tunisie/cafetiere-electrique-severin-1000-watt-1l-noir-ka4835"
+    },
+    {
+      "Price": "365 DT",
+      "Last-update": "28/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/cafetiere-electrique-severin-1000-watt-8-tasses-noir-ka4835.html"
+    },
+    {
+      "Price": "385 DT",
+      "Last-update": "28/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cafetiere/3273-cafetiere-electrique-severin-8-tasses-1000-w-noir.html"
+    },
+    {
+      "Price": "389 DT",
+      "Last-update": "11/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cafetiere/1365-cafetiere-isotherme-severin-8-tasses-1000w-blanc-prix-tunisie.html"
+    },
+    {
+      "Price": "389 DT",
+      "Last-update": "28/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/cafetiere-isotherme-severin-1000-watt-8-tasses-blanc-ka9256.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeef48125f118dbd85454"
+  },
+  "Name": "RUSSELL HOBBS - Grille Pain Textures Plus 700W",
+  "Reference": "22601-56",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille Pain Russell Hobbs Textures Plus - Puissance 700W - 6 Niveaux de brunissage - 2x Fentes extra larges - 3 Fonctions: Réchauffage, Décongélation, Annulation - Pince à toasts incluse - Une finition de qualité avec des touches d'acier brillant sur la pince, les boutons et le levier du toaster ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1496855906_622.jpg",
+  "Offres": [
+    {
+      "Price": "125 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/37656-grille-pain-russel-hobbs-noir-22601-56.html"
+    },
+    {
+      "Price": "125 DT",
+      "Last-update": "06/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/petit-dejeuner/russell-hobbs-grille-pain-multifonction-textures-plus-700w-tunisie"
+    },
+    {
+      "Price": "135 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-a-pain-russell-hobbs-700w-noir-22601-56.html"
+    },
+    {
+      "Price": "139 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/petit-dejeuner-jus/grille-pain-russel-hobbs-22601-56-850w-noir"
+    },
+    {
+      "Price": "145 DT",
+      "Last-update": "16/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-russel-hobbs-22601-56-850w-noir.html"
+    },
+    {
+      "Price": "149 DT",
+      "Last-update": "30/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/21540-grille-pain-russell-hobbs-textures-plus-700w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeef68125f118dbd85455"
+  },
+  "Name": "BRAUN - Grill pain HT450 1000W",
+  "Reference": "HT450BK",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Fonction de réchauffage\nCentrage automatique des tranches\nFonction d?annulation\nArrêt automatique de sécurité\nFonction décongélation\nRéchauffe-viennoiseries amovible\nTiroir à miettes amovible\nSoulève-pain manuel\nBoîtier isolant\nRange cordon\nPuissance 1000 W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1517318345_731.jpg",
+  "Offres": [
+    {
+      "Price": "229 DT",
+      "Last-update": "23/01/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-braun-ht450-1000w-blanc.html"
+    },
+    {
+      "Price": "229 DT",
+      "Last-update": "23/01/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-braun-ht450bk-1000w-noir.html"
+    },
+    {
+      "Price": "244 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-braun-multiquick-3-1000-watt-blanc-ht450.html"
+    },
+    {
+      "Price": "244 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-braun-multi-quick-3-1000-watt-noir-ht450bk.html"
+    },
+    {
+      "Price": "270 DT",
+      "Last-update": "26/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/15182-grille-pain-ht450bk-1000w-noir-braun-0x81260905.html"
+    },
+    {
+      "Price": "270 DT",
+      "Last-update": "26/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/15181-grille-pain-ht450-1000w-blanc-braun-0x81260899.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeef78125f118dbd85456"
+  },
+  "Name": "LIVOO - GRILLE-PAIN DOD162N 750 W",
+  "Reference": "DOD162",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-Pain LIVOO - Puissance: 750 W- Thermostat réglable: 7 positions- Ejection automatique- Tiroir ramasse-miettes- 2 fentes - 3 témoins LED - Range-cordon- Dimensions: 25 X 14 X 17,2 cm- Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1582231864_422.jpg",
+  "Offres": [
+    {
+      "Price": "75 DT",
+      "Last-update": "15/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-domoclip-850w-rouge-dod162r.html"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "17/09/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-livoo-750w-noir-dod162n.html"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grill-pain-livoo-750-watt-rouge-dod162r.html"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-livoo-750-watt-noir-dod162n.html"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-livoo-750-watt-bleu-dod162b.html"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "21/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/livoo-dod162n.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeef78125f118dbd85457"
+  },
+  "Name": "Tristar - Grille Pain BR-1025 800 Watts",
+  "Reference": "BR-1025",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-pain avec 2  Fentes , Puissance électrique : 800 Watt, 6 Thermostats réglables, Rangement du cordon, Fonction ejection automatique, Tiroir à miettes amovible, Pieds anti-dérapants, Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1034_1.jpg",
+  "Offres": [
+    {
+      "Price": "85 DT",
+      "Last-update": "16/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-tristar-br-1025-800w-noir.html"
+    },
+    {
+      "Price": "85 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/46994-grille-pain-tristar-6-positions-reglables-noir.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "21/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-tristar-2-fentes-courtes-800-watts-noir-br-1025.html"
+    },
+    {
+      "Price": "104 DT",
+      "Last-update": "19/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/br-1025.html"
+    },
+    {
+      "Price": "104 DT",
+      "Last-update": "01/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/14870-grille-pain-tristar-br-1025.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeef88125f118dbd85458"
+  },
+  "Name": "Moulinex - MACHINE A PAIN MOULINEX OW220830",
+  "Reference": "OW220830",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "machine a pain : -Puissance :720 w -capacité : 0,5 kg; 0,75 kg; 1 kg - Poids (kg):3,8 kg - Hauteur :29 cm - Largeur (cm): 31 cm - Profondeur (cm): 29 cm - Maintien au chaud : 1 heure  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1517317542_204.jpg",
+  "Offres": [
+    {
+      "Price": "519 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/43974-machine-a-pain-moulinex-plaisir-1kg-720w-noir-ow220830.html"
+    },
+    {
+      "Price": "575 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/appareil-de-cuisson-convivial/29899-machine-a-pain-moulinex-pain-plaisir-1kg.html"
+    },
+    {
+      "Price": "579 DT",
+      "Last-update": "01/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/machine-a-pain-moulinex-pain-plaisir-1kg-noir.html"
+    },
+    {
+      "Price": "579 DT",
+      "Last-update": "05/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/electromenager/2163-machine-a-pain-moulinex-pain-plaisir-1kg-ow220830.html"
+    },
+    {
+      "Price": "595 DT",
+      "Last-update": "22/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/grille-pain-machine-a-pain/machine-a-pain-moulinex-ow220830--4601.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeef88125f118dbd85459"
+  },
+  "Name": "RUSSELL HOBBS - TOASTER ADVENTURE 24080-56",
+  "Reference": "24080-56",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Puissance: 1550 W- Nombre de fentes: 2- Technologie PerfectToast-Technologie Lift?n Look- Niveau de brunissage ajustable- Réchauffe viennoiseries inclus- Fentes extra larges pour tous types de pain- Auto centrage du pain pour un brunissage uniforme- Fonction surélévation du pain- Fonctions annulation, décongélation et réchauffage du pain- Tiroir ramasse-miettes amovible / Range cordon intégré- Pieds antidérapants- Couleur: Acier brossé ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1549891763_288.jpg",
+  "Offres": [
+    {
+      "Price": "159 DT",
+      "Last-update": "06/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/petit-dejeuner/russell-hobbs-24080-56-grille-pain-multifonction-2-fentes-larges-tunisie"
+    },
+    {
+      "Price": "165 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/45215-grille-pain-russell-hobbs-850w-inox-24080-56.html"
+    },
+    {
+      "Price": "169 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/toaster-adventure-russell-hobbs-1550w-silver-24080-56.html"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "06/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/grille-pain-machine-a-pain/toaster-adventure-russell-hobbs-24080-56-12195.html"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "21/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/50326-grille-pain-adventure-russell-hobbs.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeef98125f118dbd8545a"
+  },
+  "Name": "Moulinex - GRILLE PAIN LT164N10 850W - NOIR",
+  "Reference": "LT164N10",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille Pain MOULINEX - Puissance: 850 Watts  - Capacité de grille-pain: 2 tranches - Thermostat: 7 niveaux - Remontée extra-haute - Centrage automatique du pain pour griller uniformément - Ramasse-miettes amovible - Range cordon - Foction Stop avec voyants lumineux - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1579469641_529.jpg",
+  "Offres": [
+    {
+      "Price": "128 DT",
+      "Last-update": "12/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/45905-grille-pain-moulinex-2-fentes-noir-mate.html"
+    },
+    {
+      "Price": "128 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/17472-grill-pain-noir-mate-deux-fentes-moulinex.html"
+    },
+    {
+      "Price": "139 DT",
+      "Last-update": "16/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-moulinex-lt164n10-850w-noir.html"
+    },
+    {
+      "Price": "139 DT",
+      "Last-update": "07/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/51533-grille-pain-moulinex-soleil-ivoire-2-fentes-850w.html"
+    },
+    {
+      "Price": "139 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-moulinex-850-w-noir-lt164n10.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeefb8125f118dbd8545b"
+  },
+  "Name": "Moulinex - GRILLE PAIN LT300A10 GAMME SOLEIL 850W - BLANC",
+  "Reference": "LT300A10",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille Pain MOULINEX Gamme Soleil - Puissance: 850 Watts  - Capacité de grille-pain: 2 tranches - Thermostat 7 positions réglable - 3 fonctions: Réchauffage, Décongélation, Arrêt - Remontée extra-haute - Ramasse-miettes amovible - Range cordon - Couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1579469648_252.jpg",
+  "Offres": [
+    {
+      "Price": "139 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-gamme-soleil-moulinex-850-w-blanc-lt300a10.html"
+    },
+    {
+      "Price": "145 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/17473-grill-pain-850-w-ivoire-moulinex.html"
+    },
+    {
+      "Price": "149 DT",
+      "Last-update": "30/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-moulinex-lt300a10-gamme-soleil-850w-blanc.html"
+    },
+    {
+      "Price": "149 DT",
+      "Last-update": "09/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/petit-electro-en-ligne-tunisie/petit-dejeuner/moulinex-soleil-lt300a10.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "23/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/petit-dejeuner-jus/grille-pain-moulinex-lt300a10-gamme-soleil-850w-blanc"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeefc8125f118dbd8545c"
+  },
+  "Name": "PRINCESS - GRILLE PAIN BLACK STEEL 142396",
+  "Reference": "142396",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-pain Princess 142396- Nombre de fentes: 2- Puissance: 950 W- Différents réglages du thermostat: 6- Thermostat réglable- Pieds antidérapants- Rangement du cordon- Fonction: annulation- Poignée avec système d'éjection- Tiroir ramasse-miettes amovible- Fonction éjection automatique- Arrêt automatique- Fonction dégivrage- Fente large- Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1582231778_748.jpg",
+  "Offres": [
+    {
+      "Price": "184 DT",
+      "Last-update": "07/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/50608-grill-pain-inox-princess-142396-950w-noir.html"
+    },
+    {
+      "Price": "209 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-princess-950-watt-noir-142396.html"
+    },
+    {
+      "Price": "225 DT",
+      "Last-update": "18/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/15006-grille-pain-inox-noir-princess-142396.html"
+    },
+    {
+      "Price": "226 DT",
+      "Last-update": "19/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/princess-142396.html"
+    },
+    {
+      "Price": "237 DT",
+      "Last-update": "29/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/grille-pain/grille-pain-princess-950-watt-noir-142396"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeefd8125f118dbd8545d"
+  },
+  "Name": "Tefal - GRILLE PAIN TL430811",
+  "Reference": "TL430811",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Une longue chambre à toast : pour griller toutes sortes de pain 4 réglages avec témoins lumineux : réchauffage, baguette, décongélation et arrêt Support pour réchauffe-viennoiseries intégré exclusif : pratique pour cuire petits pains, brioches et autres pâtisseries Facile d'utilisation : dispositif de levage et tiroir ramasse-miettes amovible Fente variable : pour tranches de pain fines et épaisses Puissance: 1000 W  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1620376531_403.jpg",
+  "Offres": [
+    {
+      "Price": "138 DT",
+      "Last-update": "29/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-tefal-1000-watt-inox-tl430811.html"
+    },
+    {
+      "Price": "139 DT",
+      "Last-update": "12/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-tefal-tl430811-1000w-inox.html"
+    },
+    {
+      "Price": "145 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/42224-grille-pain-tefal-element-1000w-inox-tl430811.html"
+    },
+    {
+      "Price": "149 DT",
+      "Last-update": "26/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/tefal-tl430811.html"
+    },
+    {
+      "Price": "160 DT",
+      "Last-update": "25/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/3467-grille-pain-1000w-inox-tefal-tl430811.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeefe8125f118dbd8545e"
+  },
+  "Name": "FAKIR - Grill pain RUBRA 2 fentes 980W",
+  "Reference": "RUBRA",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grill pain 2 fentes, 980W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1536879401_701.jpg",
+  "Offres": [
+    {
+      "Price": "199 DT",
+      "Last-update": "21/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/petit-electro-en-ligne-tunisie/petit-dejeuner/fakir-rubra-3.html"
+    },
+    {
+      "Price": "239 DT",
+      "Last-update": "13/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-fakir-980w-rouge.html"
+    },
+    {
+      "Price": "239 DT",
+      "Last-update": "13/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-fakir-rubra-980w-inox.html"
+    },
+    {
+      "Price": "239 DT",
+      "Last-update": "13/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-fakir-rubra-980w-rose.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeefe8125f118dbd8545f"
+  },
+  "Name": "Goldmaster - GRILLE-PAIN 1600 W GTR-7400",
+  "Reference": "GTR-7400",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Référence GTR-7400 Réf:GTR-7400-Grille-Pain GoldMaster - Puissance 1600 W - Corps en acier inoxydable Inox - Longueur du câble 1 m - Nombre de tranche 2 part(s) - Dimension du plateau de cuisson 26*3 cm - Plateau à miettes détachable facile à nettoyer - Bouton de réglage de la température à 7 niveaux ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1622738701_349.jpg",
+  "Offres": [
+    {
+      "Price": "149 DT",
+      "Last-update": "01/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-goldmaster-1600-w-inox.html"
+    },
+    {
+      "Price": "153 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/petit-dejeuner-jus/grille-pain-goldmaster-1600-w-gtr-7400-prix-tunisie"
+    },
+    {
+      "Price": "155 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-goldmaster-1600-watt-silver-gtr-7400.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/41200-grille-pain-goldmaster-1600w-inox-gtr-7400.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeeff8125f118dbd85460"
+  },
+  "Name": "MIDEA - GRILLE PAIN MT-RS2L13W / TURQUOISE",
+  "Reference": "RS2L13W",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille pain Midea MT-RS2L13W - Puissance: 770-820 W - Nombre de fentes: 2 - S.S thermostat contrôle variable électrique - Couleur: Turquoise ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1623172281_880.jpg",
+  "Offres": [
+    {
+      "Price": "85 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/petit-dejeuner-jus/grille-pain-midea-mt-rs2l13w-turquoise"
+    },
+    {
+      "Price": "88 DT",
+      "Last-update": "07/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/41866-grille-pain-midea-mt-rs2l13w-turquoise.html"
+    },
+    {
+      "Price": "88 DT",
+      "Last-update": "29/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grill-pain-midea-820-watt-turquoise-mt-rs2l13w.html"
+    },
+    {
+      "Price": "100 DT",
+      "Last-update": "25/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/4114-grille-pain-770-820w-midea-mt-rs2l13w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efeeff8125f118dbd85461"
+  },
+  "Name": "Moulinex - GRILLE PAIN SUBITO SELECT LS340811",
+  "Reference": "LS340811",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-pain Moulinex Subito Select LS340811 - Puissance 1000 W - Remontée extra-haute - Fonction décongélation, Réchauffage - Centrage automatique du pain pour griller uniformément - Ramasse-miettes amovible - Thermostat 7 positions - Range cordon - Voyant lumineux - Coloris Inox ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1630506090_113.jpg",
+  "Offres": [
+    {
+      "Price": "139 DT",
+      "Last-update": "07/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/51320-grille-pain-moulinex-subito-select-ls340811.html"
+    },
+    {
+      "Price": "145 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-moulinex-1000-watt-inox-ls340811.html"
+    },
+    {
+      "Price": "149 DT",
+      "Last-update": "16/09/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-moulinex-ls340811-1000w-inox.html"
+    },
+    {
+      "Price": "149 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/41667-grille-pain-moulinex-1000w-inox-ls340811.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef008125f118dbd85462"
+  },
+  "Name": "Tristar - GRILLE PAIN BR-1022 800W - INOX&NOIR",
+  "Reference": "BR-1022",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille Pain TRISTAR - Puissance: 800W - 2 Fentes -?Fonction de décongélation et de réchauffage pratique pour le pain et les petits pains surgelés - Choisissez parmi 6 réglages de brunissage pour votre type de pain grillé préféré - Facile à nettoyer grâce au ramasse-miettes coulissant - Couleur: Noir et Inox ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1646667926_811.jpg",
+  "Offres": [
+    {
+      "Price": "125 DT",
+      "Last-update": "16/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-tristar-br-1022-800w-inox-noir.html"
+    },
+    {
+      "Price": "154 DT",
+      "Last-update": "01/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/14871-grille-pain-tristar-br-1022.html"
+    },
+    {
+      "Price": "157 DT",
+      "Last-update": "21/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-tristar-2-fentes-courtes-800-watts-noirinox-br-1022.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "19/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/br-1022.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef018125f118dbd85463"
+  },
+  "Name": "RUSSELL HOBBS - GRILLE-PAIN INSPIRE - 24371-56 - NOIR",
+  "Reference": "24371-56",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Puissance: 1050 W -?Nombre de fentes: 2-?Fentes extra larges pour tous types de pain-?Technologie: Lift?n Look-?Niveau de brunissage ajustable - Fonctions: surélévation du pain,?annulation, décongélation et réchauffage du pain-?Réchauffe viennoiseries inclus - Tiroir ramasse-miettes amovible-?Range cordon intégré - Pieds antidérapants-?Vérifiez le brunissage à tout moment sans arrêter le cycle- Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1646673073_271.jpg",
+  "Offres": [
+    {
+      "Price": "229 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/43503-grille-pain-inspire-russell-hobbs-24371-56.html"
+    },
+    {
+      "Price": "245 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-a-2-tranches-inspire-russell-hobbs-550w-noir-24371-56.html"
+    },
+    {
+      "Price": "249 DT",
+      "Last-update": "21/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/55984-grille-pain-russell-hobbs-inspire-24371-56-noir.html"
+    },
+    {
+      "Price": "265 DT",
+      "Last-update": "06/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/grille-pain-machine-a-pain/grille-pain-inspire-russell-hobbs-24371-56-33775.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef038125f118dbd85464"
+  },
+  "Name": "BOSCH - GRILLE PAIN COMFORTLINE TAT6A004 1090W - ROUGE",
+  "Reference": "TAT6A004",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille Pain BOSCH ComfortLine - Puissance:?1090 Watts ?- Nombre de fentes:?1? - Voltage:?220-240V - Matériau du boîtier: Plastique - Minuterie - Thermostat - Surface chauffante - Fonction décongélation - Support pour petits pains - Tiroir à miettes - Fonction 2ème-rôttisage - Réglage du degré de rôtissage: Bouton rotatif continu - Bouton d'arrêt séparé - Arrêt automatique - Dimensions de la zone de brunissage: 260 x 36 x 118 mm - Dimensions: 188 × 431 × 126 mm - Poids: 2 kg - Couleur: Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1647335482_952.jpg",
+  "Offres": [
+    {
+      "Price": "279 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/44339-grille-pain-bosch-1090w-rouge-tat6a004.html"
+    },
+    {
+      "Price": "279 DT",
+      "Last-update": "11/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/bosch-comfortline-tat6a004.html"
+    },
+    {
+      "Price": "279 DT",
+      "Last-update": "11/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/petit-electro-en-ligne-tunisie/petit-dejeuner/bosch-comfortline-tat6a004.html"
+    },
+    {
+      "Price": "285 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-bosch-comfortline-tat6a004-1090w-rouge.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef068125f118dbd85465"
+  },
+  "Name": "Tristar - GRILLE PAIN BR-1013",
+  "Reference": "BR-1013",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "GRILLE PAIN BR-1013 : 2 Fentes-6 Thermostats réglables-Fonction annulation-Fonction ejection automatique-Tiroir à miettes amovible-Support à petits pains-Rangement du cordon-Pieds anti-dérapants-Puissance : 800 Watts  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1023_1.jpg",
+  "Offres": [
+    {
+      "Price": "39 DT",
+      "Last-update": "07/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-tristar-br-1013-800w-blanc.html"
+    },
+    {
+      "Price": "76 DT",
+      "Last-update": "19/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/tristar-br-1013.html"
+    },
+    {
+      "Price": "76 DT",
+      "Last-update": "01/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/14869-grille-paintristar-br-1013.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef088125f118dbd85466"
+  },
+  "Name": "Techwood - GRILLE PAIN TGPI-716 - INOX",
+  "Reference": "TGPI-716",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille pain TECHWOOD TGPI-716 - Puissance: 800W  - Capacité de grille-pain: 2 tranche - Alimentation: 220-240V - 50/60Hz - Ejection automatique ou manuelle - Contro?le du brunissage - Fonction de?congeler , re?chauffer , arre?ter - Ramasse-miettes - Rangement du cordon d?alimentation - Dimension: 26 x 15 x 18,5 cm - couleur: Inox -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1535637997_998.jpg",
+  "Offres": [
+    {
+      "Price": "79 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/17587-grille-pain-2-fents-inox-techwood.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-techwood-800-watt-noir-et-inox-tgpi-716.html"
+    },
+    {
+      "Price": "85 DT",
+      "Last-update": "22/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/techwood-tgpi-716.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef0a8125f118dbd85467"
+  },
+  "Name": "CLATRONIC - Grill pain TA 3565 700W",
+  "Reference": "TA3565",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grill pain 2 fentes, 700W, Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1535648287_869.jpg",
+  "Offres": [
+    {
+      "Price": "65 DT",
+      "Last-update": "20/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-clatronic-700-watt-blanc-ta3565.html"
+    },
+    {
+      "Price": "69 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/15917-grille-pain-clatronic-ta-3554.html"
+    },
+    {
+      "Price": "69 DT",
+      "Last-update": "19/08/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/clatronic-ta-3565.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef0a8125f118dbd85468"
+  },
+  "Name": "Techwood - GRILLE PAIN METAL TGPI-715 ROUGE",
+  "Reference": "TGPI-715",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Puissance: 700-850W- Alimentation: 220-240V~ 50/60Hz- 2 Fentes larges- Ejection automatique ou manuelle- Contrôle du brunissage- Fonction décongeler, réchauffer, arrêter- Ramasse-miettes- Rangement du cordon d?alimentation- Couleur: Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1559263245_307.jpg",
+  "Offres": [
+    {
+      "Price": "88 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/petit-dejeuner-jus/grille-pain-metal-techwood-tgpi-715-rouge"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "10/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/35877-grill-pain-inox-techwood-tgpi-715-rouge.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "06/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/techwood-tgpi-715.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef0b8125f118dbd85469"
+  },
+  "Name": "CLATRONIC - GRILLE-PAIN TA3687 / 1200W",
+  "Reference": "TA3687",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-pain long à 4 fentes - Puissance 1200W - Boîtier en acier inoxydable - Réchauffeur de pain (amovible) - Fonction dégivrage / réchauffage / arrêt rapide (illuminé en bleu) - Thermostat réglable - Fonction de centrage - Arrêt automatique / manuel - Tiroir à miettes - Rangement du cordon - Couleur: Noir / Inox ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1559263445_413.jpg",
+  "Offres": [
+    {
+      "Price": "155 DT",
+      "Last-update": "20/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-clatronic-1200-watt-noir-et-inox-ta3687.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "31/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/petit-electro-en-ligne-tunisie/petit-dejeuner/clatronic-ta3687.html"
+    },
+    {
+      "Price": "169 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/43852-grille-pain-clatronic-1200w-inox-ta3687.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef0b8125f118dbd8546a"
+  },
+  "Name": "THOMSON - GRILLE-PAIN 2 FENTES THTO07815B / NOIR",
+  "Reference": "THTO92T",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grill pain 2 fentes - Puissance: 700 W - Thermostat réglable de 7 positions - Tiroir ramasse miettes - Couleur Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1579470230_151.jpg",
+  "Offres": [
+    {
+      "Price": "65 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-thomson-700-watt-noir-thto92t.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "07/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/thomson-thto92t.html"
+    },
+    {
+      "Price": "80 DT",
+      "Last-update": "03/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/38369-grille-pain-2-fentes-thomson-thto07815b-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef0c8125f118dbd8546b"
+  },
+  "Name": "BRAUN - GRILLE PAIN PUREASE HT3010BK 1000W",
+  "Reference": "HT3010BK",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille pain PurEase Braun- Puissance: 1000 W- Nombre de fentes: 2- Support pour les petits-pains- Degré de dorage réglable- Tiroir ramasse-miettes- Fonctions: Décongélation & Arrêt Immédiat- Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1579471069_398.jpg",
+  "Offres": [
+    {
+      "Price": "264 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-braun-purease-1000-watt-noir-ht3010bk.html"
+    },
+    {
+      "Price": "269 DT",
+      "Last-update": "21/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/petit-electro-en-ligne-tunisie/petit-dejeuner/braun-ht3010bk.html"
+    },
+    {
+      "Price": "287 DT",
+      "Last-update": "26/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/15183-grille-pain-purease-ht3010bk-noir-braun-0x81260905.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef0d8125f118dbd8546c"
+  },
+  "Name": "LIVOO - GRILLE-PAIN DOD155 ACIER INOXYDABLE 1000 W",
+  "Reference": "DOD155",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-pain électrique LIVOO- Puissance: 1000 W- Thermostat variable 6 positions- 3 boutons LED: arrêt manuel- Réchauffage, décongélation-  Ejection automatique- Tiroir ramasse miettes- Range câble- Nombre de fentes: 1- Dimensions: 42 x 20,5 x 15,5 cm- Couleur: Acier Inoxydable ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1582231894_327.jpg",
+  "Offres": [
+    {
+      "Price": "142 DT",
+      "Last-update": "07/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/54236-grille-pain-livoo-dod155.html"
+    },
+    {
+      "Price": "142 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-electrique-livoo-1000-watt-inox-dod155.html"
+    },
+    {
+      "Price": "145 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/19464-grille-pain-livoo-dod155.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef0d8125f118dbd8546d"
+  },
+  "Name": "UFESA - GRILLE PAIN OPTIMA",
+  "Reference": "TT7985",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-pain Ufesa en acier inoxydable avec 800W de puissance A 2 fentes pour griller 2 tranches de pain de mie 3 fonctions : dégivrer, réchauffer et arrêter la fonction décongélation permet de décongeler des tranches de pain, la fonction de réchauffage pour réchauffer du pain préalablement grillé et la fonction d'arrêt qui permet l'interruption de l'utilisation du grille-pain 6 positions de grillage, pour pouvoir choisir le toast souhaité à l'aide du sélecteur de degré de toast +Plateau ramasse-miettes amovible pour un nettoyage facile du grille-pain ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1626350200_577.jpg",
+  "Offres": [
+    {
+      "Price": "122 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-ufesa-800-watts-argent-tt7985-optima.html"
+    },
+    {
+      "Price": "124 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/42244-grille-pain-ufesa-en-acier-inoxydable-800w.html"
+    },
+    {
+      "Price": "139 DT",
+      "Last-update": "18/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/53241-grille-pain-ufesa-tt7985-800w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef0e8125f118dbd8546e"
+  },
+  "Name": "PRINCESS - GRILL PAIN INOX 142352 / 800W",
+  "Reference": "142352",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grill pain Inox - Puissance: 800W - thermostat réglable avec 6 positions de brunissage - fonction réchauffage et décongélation - tiroir ramasse-miettes - Espace pour le rangement du câble - Fonction éjection - Pieds antidérapants - Alimentation: 220-240V~ 50/60Hz - Couleur Gris ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1627026345_890.jpg",
+  "Offres": [
+    {
+      "Price": "127 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/grille-pain/grill-pain-inox-princess-142352-800w-prix-tunisie"
+    },
+    {
+      "Price": "127 DT",
+      "Last-update": "18/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/15004-toaster-princess-142352.html"
+    },
+    {
+      "Price": "136 DT",
+      "Last-update": "17/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/princess-142352.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef0e8125f118dbd8546f"
+  },
+  "Name": "KIWI - GRILL PAIN KT-6518 / 700 W",
+  "Reference": "KT-6518",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grill pain Kiwi KT-6518 - Puissance 700  Watts  - Capacité de grille-pain:  2 tranches  -  7 degrés de brunissement réglables - Voyant de l'interrupteur marche/arrêt - Fonction d'annulation - Fonction pop-up automatique - Ramasse-miettes de retrait - Dimension: 15.4 x 17.1 x 26.3 cm - Poids 941 g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1654619992_893.jpg",
+  "Offres": [
+    {
+      "Price": "75 DT",
+      "Last-update": "23/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-kiwi-kt-6518-700w-blanc.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "07/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/56352-grill-pain-kiwi-kt-6518-700-w.html"
+    },
+    {
+      "Price": "80 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/47595-grille-pain-kiwi-700w-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef0f8125f118dbd85470"
+  },
+  "Name": "Severin - Grille pain automatique 700 W - AT2288",
+  "Reference": "AT2288",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-pain automatique - Puissance: 700 Watts - Corps à parois isolantes - Support pour réchauffer des petits-pains - Réglage électronique du temps de cuisson - Degré de dorage réglable - Ejection automatique - Touche arrêt immédiat - Tiroir ramasse-miettes - Rangement de cordon - Couleur Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1515500683_433.jpg",
+  "Offres": [
+    {
+      "Price": "108 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/petit-dejeuner/severin-at2288-grille-pain-automatique-blanc-2fentes-tunisie"
+    },
+    {
+      "Price": "139 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/43052-grille-pain-severin-700w-blanc-at2288.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef128125f118dbd85471"
+  },
+  "Name": "Severin - Grille pain automatique 700 W - AT2287",
+  "Reference": "AT2287",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-pain automatique - Puissance: 700 Watts - Corps à parois isolantes - Support pour réchauffer des petits-pains - Réglage électronique du temps de cuisson - Degré de dorage réglable - Ejection automatique - Touche arrêt immédiat - Tiroir ramasse-miettes - Rangement de cordon ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1515508429_814.jpg",
+  "Offres": [
+    {
+      "Price": "139 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/43054-grille-pain-severin-700w-noir-at2287.html"
+    },
+    {
+      "Price": "159 DT",
+      "Last-update": "19/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/severin-at-2287.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef138125f118dbd85472"
+  },
+  "Name": "Tefal - Machine à Pain TEFAL PF210138 720W - Blanc",
+  "Reference": "PF210138",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Machine à Pain TEFAL - Puissance 720W - Tailles de pain: 500g / 750g / 1000g - Ecran LCD - La surface intérieure: antiadhésive - Nombre de programmes: 12 - Maintenir la température à 1 heure - Démarrage différé jusqu'à 15 h - Dimensions: 36 x 36 x 35 cm - Poids 5 Kg - couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1517315514_592.jpg",
+  "Offres": [
+    {
+      "Price": "439 DT",
+      "Last-update": "01/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/machine-a-pain-tefal-pf210138-720w-blanc.html"
+    },
+    {
+      "Price": "439 DT",
+      "Last-update": "28/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/appareil-de-cuisson-convivial/29378-machine-a-pain-tefal-pf210138.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef148125f118dbd85473"
+  },
+  "Name": "Palson - GRILLE PAIN MILAN 30505 Acier inoxydable",
+  "Reference": "PALS.30505",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "GRILLE PAIN MILAN PALSON 30505 Acier inoxydable Fonction de décongélation Boutons poussoir électroniques avec indicateur lumineux ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1517320545_932.jpg",
+  "Offres": [
+    {
+      "Price": "50 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/grille-pain/2021-grille-pain-1000w-palson-30505-30505-shopping-en-ligne-last-price-tunisie.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "13/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/petit-electro-en-ligne-tunisie/petit-dejeuner/palson-pals-30505.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef158125f118dbd85474"
+  },
+  "Name": "Moulinex - GRILLE PAIN SUBITO SELECT LT340811 850W - INOX",
+  "Reference": "LT340811",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille Pain MOULINEX subito select - Puissance: 850W - Capacité de grille-pain: 2 tranche - Niveaux de grillage: 7 - Largeur de fente variable - Fonction de décongélation & de réchauffement - Centrage de la tranche de pain - Touche d'arrêt manuelle - Ramasseur de miettes - Voyant de fonctionnement - Matériau du boîtier: Inox - Dimensions: 126 x 185 x 401 mm - Poids: 1.2 kg - Couleur: Inox ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1535638418_459.jpg",
+  "Offres": [
+    {
+      "Price": "100 DT",
+      "Last-update": "22/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/petit-dejeuner/moulinex-subito-select-grille-pain-850watts-inox-tunisie"
+    },
+    {
+      "Price": "119 DT",
+      "Last-update": "06/12/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/6280c-lce.jpg",
+      "product-link": "http://lce.tn/grille-pain/1234-grille-pain-moulinex.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef168125f118dbd85475"
+  },
+  "Name": "ZILAN - GRILLE PAIN 1000 WATT ZLN2706",
+  "Reference": "ZLN2706",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "4 tranches de grille-pain 6 niveaux de contrôle du brunissement Plateau ramasse-miettes fixe Pop-up automatique et arrêt automatique Puissance: 1000 watts ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1620378241_434.jpg",
+  "Offres": [
+    {
+      "Price": "59 DT",
+      "Last-update": "30/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/49798-grille-pain-zilan-1000w-noir.html"
+    },
+    {
+      "Price": "84 DT",
+      "Last-update": "04/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/13282-grille-pain-1000w-noir-zln2706-zilan.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef178125f118dbd85476"
+  },
+  "Name": "Techwood - GRILLE PAIN JUMBO TGP-402",
+  "Reference": "TGP-402",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Longue et large fente- Ejection automatique ou manuelle- Contro?le du brunissage- Tiroir Ramasse-miettes- Rangement du cordon d?alimentation- Alimentation: 220-240V~ 50/60Hz- Puissance: 750-900W- Couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1559263235_180.jpg",
+  "Offres": [
+    {
+      "Price": "74 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-jumbo-techwood-750-watt-blanc-tgp-402.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "05/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/petit-dejeuner-jus/grille-pain-jumbo-techwood-tgp-402"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef178125f118dbd85477"
+  },
+  "Name": "Tefal - GRILLE-PAIN EXPRESS TT410D10 2 FENTES 850W",
+  "Reference": "TT410D10",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-pain Express Tefal- Puissance: 850 W- Nombre de fentes: 2- Fonctions: Décongelation, rechauffage et   stop/eject- Tiroir ramasse-miettes amovible pour un entretien facilité- Extra-élévation pour saisir tous les toasts, même les plus petits, en évitant de vous brûler-  7 réglages de températures pour un pain parfaitement grillé en un rien de temps- Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1579471806_940.jpg",
+  "Offres": [
+    {
+      "Price": "105 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grille-pain-tefal-850-watt-noir-et-inox-tt410d10.html"
+    },
+    {
+      "Price": "109 DT",
+      "Last-update": "06/03/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/6280c-lce.jpg",
+      "product-link": "http://lce.tn/grille-pain/675-grill-pain-tefal.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef188125f118dbd85478"
+  },
+  "Name": "Korkmaz - GRILLE PAIN A316 GRANITE NON STICK / 1800W",
+  "Reference": "A316",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-pain Korkmaz - Plaque amovible  - 4 tranches - Puissance: 1800 W - Couleur: Rose Gold ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1599845621_991.jpg",
+  "Offres": [
+    {
+      "Price": "176 DT",
+      "Last-update": "05/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/petit-dejeuner/korkmaz-a316-11-grille-pain-1800-watts-plaque-amovible-tunisie"
+    },
+    {
+      "Price": "178 DT",
+      "Last-update": "28/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/petit-dejeuner/korkmaz-a316-11-grille-pain-1800watts-plaque-amovible-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef198125f118dbd85479"
+  },
+  "Name": "BOSCH - GRILLE PAINBOSCH",
+  "Reference": "TAT3A011",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "*Puissance de 980 W *Sélecteur rotatif de degrés de brunissage à 6 positions avec fonction réchauffage *Contrôle électronique de brunissage pour un résultat uniforme *Fonction de centrage automatique du pain *Touche Stop avec témoin lumineux *Arrêt automatique si une tranche reste bloquée Remontée extra haute *Support viennoiserie intégré *Tiroir ramasse-miettes amovible ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1659448572_502.jpg",
+  "Offres": [
+    {
+      "Price": "239 DT",
+      "Last-update": "26/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/bosh-tat3a011.html"
+    },
+    {
+      "Price": "279 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/grille-pain-bosch-compactclass-tat3a011-980w-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef198125f118dbd8547a"
+  },
+  "Name": "PRINCESS - GRILL PAIN INOX 142353 / 1000W",
+  "Reference": "142353",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grill pain Inox - Puissance 1000W - thermostat réglable avec 6 positions de brunissage - Arrêt automatique -  fonction réchauffage et décongélation - tiroir ramasse-miettes - Espace pour le rangement du câble - Fonction éjection  - Fonction centrage automatique  - Poignée isolante - Pieds antidérapants - Alimentation: 220-240V~ 50/60Hz - Couleur Gris ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1627026330_575.jpg",
+  "Offres": [
+    {
+      "Price": "162 DT",
+      "Last-update": "19/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/princess-142353.html"
+    },
+    {
+      "Price": "171 DT",
+      "Last-update": "18/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/15005-grille-pain-a-longues-fentes-princess-142353.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef1a8125f118dbd8547b"
+  },
+  "Name": "THOMSON - Grille pain THTO07617 Inox",
+  "Reference": "THTO07617",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille Pain THOMSON Inox : Puissance : 820 - 980W -Fente extra longue -Thermostat réglable : 7 positions -3 Fonctions : décongélation, réchauffe et stop -Tiroir ramasse miettes- Système de levage ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1515434226_255.jpg",
+  "Offres": [
+    {
+      "Price": "125 DT",
+      "Last-update": "06/12/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/6280c-lce.jpg",
+      "product-link": "http://lce.tn/petit-dejeuner/1235-grille-pain-thomson.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef1b8125f118dbd8547c"
+  },
+  "Name": "PHILIPS - Grille pain Daily Collection 800 W HD2595/00",
+  "Reference": "HD2595/00",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-pain - Puissance: 800 Watts - 2 Fentes - Fonction réchauffage -  Boîtier en plastique (PP/PC/ABS), couvercle chromé  - Longueur du cordon: 0.85 m - Rangement du cordon   - Pieds anti-dérapants ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1515499669_828.jpg",
+  "Offres": [
+    {
+      "Price": "72 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/14863-grille-pain-daily-philips-2-fentes-800-w-hd2595-00.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef1c8125f118dbd8547d"
+  },
+  "Name": "Palson - Grille pain Tostino 900W PALS.30479",
+  "Reference": "PALS.30479",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille pain Palson Tostino - Puissance 900W - Fente extralarge qui permet de griller de grandes tranches de pain - Carcasse au tact froid - Fonction réchauffer, décongeler et annuler - Plateau pour ramasser les miettes - Sélecteur de grill de 6 positions - Espace pour enrouler le câble - Indicateur lumineux de fonction ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1515508441_848.jpg",
+  "Offres": [
+    {
+      "Price": "39 DT",
+      "Last-update": "03/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/grille-pain-toast-tunisie/18840-grille-pain-palson-tostino-900w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef1c8125f118dbd8547e"
+  },
+  "Name": "Moulinex - GRILLE PAIN TL176130 SUBITO 1 LONG FENTE INOX 800W",
+  "Reference": "TL176130",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "800 W 6 Décongélation, stop-eject, réchauffage, Remontée extra-haute,  nettoyage facile  Inox 1 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1517319511_943.jpg",
+  "Offres": [
+    {
+      "Price": "119 DT",
+      "Last-update": "18/01/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/6280c-lce.jpg",
+      "product-link": "http://lce.tn/grille-pain/677-grille-pain-moulinex.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef1d8125f118dbd8547f"
+  },
+  "Name": "Taurus - GRILL PAIN PLANET II",
+  "Reference": "PLANETII",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grill Pain TAURUS Planet II -Nombre de fentes: 2 fentes -Puisssance: 750W -6 niveaux de grillage -  Tiroir ramasse-miettes- Coque isolée contre la chaleur -Matière: Plastique -Poids :1Kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1548333528_925.jpg",
+  "Offres": [
+    {
+      "Price": "65 DT",
+      "Last-update": "05/09/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/taurus-phoenix-1.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef1e8125f118dbd85480"
+  },
+  "Name": "DOMOCLIP - GRILLE-PAIN DOD150RN",
+  "Reference": "DOD150RN",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-pain Domoclip- Fonctions: arrêt manuel, réchauffage et décongélation- Thermostat réglable: 5 positions- Ejection: automatique- Tiroir ramasse-miettes- Couleur: Rouge/Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1551111584_557.jpg",
+  "Offres": [
+    {
+      "Price": "62 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/grille-pain/21234-grille-pain-domoclip-850-w.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef1e8125f118dbd85481"
+  },
+  "Name": "Techwood - GRILLE PAIN TGP-207 - BLANC",
+  "Reference": "TGP-207",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille Pain 2 Fentes Touche ?Arrêt? immédiat Contrôle du brunissage Ejection automatique ou manuel Tiroir ramasse miettes Rangement du cordon sous l?appareil Alimentation 220-240 V~ 50Hz Puissance: 700W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1559263941_172.jpg",
+  "Offres": [
+    {
+      "Price": "69 DT",
+      "Last-update": "06/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/techwood-tgp-207.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef208125f118dbd85482"
+  },
+  "Name": "PRINCESS - MACHINE À PAIN 152009 600 WATTS",
+  "Reference": "152009",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Machine à pain- 15 programmes de cuisson- Capacité de 680 à 900 g pour 8 à 14 tranches de pain Revêtement antiadhésif- 3 réglages de température- Affichage et minuterie digitale- Minuterie digitale jusqu?à 13h- Fonction maintien à chaud jusqu?à 60 mn- Crochet de pétrin- Verre doseur + cuillère à mesure Puissance : 600 W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1620302577_179.jpg",
+  "Offres": [
+    {
+      "Price": "499 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/machine-a-pain-princess-152009-600-watts-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef208125f118dbd85483"
+  },
+  "Name": "Arzum - GRILL PANINI 1800W 180° PLAQUES AR286",
+  "Reference": "AR286",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "AR286 grill panini 1800 Watt 4 portions Thermostat réglable(3 niveaux de température) Plaque en téflon anti adhésif Plaques amovibles Position plate 180° Fonction gratiner ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1620375851_463.jpg",
+  "Offres": [
+    {
+      "Price": "190 DT",
+      "Last-update": "06/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/14830-grille-panini-1800w-arzum-ar286.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef218125f118dbd85484"
+  },
+  "Name": "Arzum - GRILL PANINI ROUGE 1800W 180° PLAQUES AR290",
+  "Reference": "AR290",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grill / Panini Arzum Marino - Puissance: 1800 W - Plaques amovibles avec revêtement antiadhésif - Thermostat réglable 3 températures - Témoin lumineux - Ouverture à 180° - Couleur Rouge  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1620375876_581.jpg",
+  "Offres": [
+    {
+      "Price": "281 DT",
+      "Last-update": "06/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/14832-grill-panini-1800-watt-rouge-arzum-ar290.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef228125f118dbd85485"
+  },
+  "Name": "ZILAN - GRILL PANINI ZLN7628",
+  "Reference": "ZLN7628",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grill panini électrique - Puissance: 700 W - Revêtement antiadhésif - Surface de cuisson de 21.6 x 12 cm - 2 Témoins lumineux - Thermostat réglable - Contrôle de surchauffe - Facilité d'utilisation et de nettoyage - Poignée et clips de recouvrement faciles ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1620378346_602.jpg",
+  "Offres": [
+    {
+      "Price": "60 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/grill-panini-zilan-700-watt-blanc-zln7628.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef228125f118dbd85486"
+  },
+  "Name": "BOSCH - GRILLE PAIN ROUGE",
+  "Reference": "TAT3A014",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Un bon petit déjeuner nécessite de délicieux toasts Puissance de 980 W Sélecteur rotatif de degrés de brunissage à 6 positions avec fonction réchauffage Contrôle électronique de brunissage pour un résultat uniforme Fonction de centrage automatique du pain Touche Stop avec témoin lumineux ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1659448572_332.jpg",
+  "Offres": [
+    {
+      "Price": "143 DT",
+      "Last-update": "28/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/4372-grille-pain-bosch-rouge-980w-tat3a014.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef238125f118dbd85487"
+  },
+  "Name": "Techwood - TGP-106",
+  "Reference": "TGP-106",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grill Pain , 2 fentes , Touche \"arrêt\" immédiat , Contrôle du brunissage ,Ejection automatique ou manuelle , Tiroir ramasse miettes , Rangement du cordon , 700W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1622736829_731.jpg",
+  "Offres": [
+    {
+      "Price": "69 DT",
+      "Last-update": "31/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/techwood-tgp-106.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef238125f118dbd85488"
+  },
+  "Name": "Taurus - MACHINE à PAIN MY BREAD",
+  "Reference": "914815",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Machine à Pain TAURUS - Puissance 600 Watts - 12 Programmes de cuisson prédéfinis pour des pains de 600 ou 900 g - Bol amovible pour un nettoyage facile - Écran numérique - Revêtement antiadhésif - 3 niveaux de grillage - Programmable jusqu?à 13 heures - Pieds antidérapants -  Accessoires: verre doseur, spatule et cuillère de mesure - Couleur Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1622738050_510.jpg",
+  "Offres": [
+    {
+      "Price": "429 DT",
+      "Last-update": "09/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/petit-electromenager-tunisie-cuisine/48270-machine-a-pain-taurus-my-bread.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef248125f118dbd85489"
+  },
+  "Name": "ARIETE - TOAST AND GRILL 1000W -",
+  "Reference": "00C191110AR0",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Puissance1000 W,Boîtiersupérieur en acier inoxydable,Dimensionde la plaque: 23x15 cm,180degrés,Charnière flottante qui  s'adapte àtoute taille de toast, Plaquede cuisson antiadhésive pour un nettoyage facile, Indicateurde mise sous tension,acde vidange coulissant,Rangementdu cordon ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1623686344_137.jpg",
+  "Offres": [
+    {
+      "Price": "148 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/3493-toast-and-grill-1000w-ariete.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef258125f118dbd8548a"
+  },
+  "Name": "maker - SANDWICH BLANC 700W - TEFAL SM157041",
+  "Reference": "SM157041",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "SANDWICH MAKER TEFAL  SM157041,Sandwich Maker 2en1 panini et croque monsieur,Puisance : 700W,Dimensions 13x23 cm,Couleur : Blanc, ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1636388328_240.jpg",
+  "Offres": [
+    {
+      "Price": "79 DT",
+      "Last-update": "29/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/3464-sandwich-maker-blanc-700w-tefal-sm157041.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef268125f118dbd8548b"
+  },
+  "Name": "Tefal - RACLETTE GRILL 850W RE 129412",
+  "Reference": "RE 129412",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Fabricant: TEFAL, Puissance: 850 W, Indicateur Thermo-spot: Oui, Fonction de cuisson: Raclette , Grill , crépière, Plaque amovible: Oui, Revêtement antiadhésif: Oui, Dimensions (L*P*H): 30*30*15 cm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1636388397_446.jpg",
+  "Offres": [
+    {
+      "Price": "234 DT",
+      "Last-update": "25/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/3457-raclette-grill-tefal-850w-re-129412.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef298125f118dbd8548c"
+  },
+  "Name": "maker - ARZUM AR2030 GRADO GRANITE GRILL ET SANDWICH GRENADE",
+  "Reference": "AR2030",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "POIDS DIMENSIONNEL 6,93 Puissance 1 800 W Capacité 4 tranches Réglage de la température Il y a Type de plaque Plaque effet granit Plaques amovibles Il y a Surface de cuisson Plaques chauffantes antiadhésives Autre plaques antiadhésives et lavables au lave-vaisselle, Poignée ergonomique résistante à la chaleur, Caniveau de vidange d'huile ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1620375930_583.jpg",
+  "Offres": [
+    {
+      "Price": "283 DT",
+      "Last-update": "06/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/14833-grill-panini-ar2030-plaque-granite-1800w-rouge-arzum-ar2030.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef2c8125f118dbd8548d"
+  },
+  "Name": "ZILAN - GRILLE PAIN 1300 W-ZLN8440",
+  "Reference": "ZLN8440",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Il dispose d'une  minuterie qui ne permet pas au pain de brûler et de  7 niveaux de chauffage pour obtenir la cuisson souhaitée.  Les tranches de pain grillé sont automatiquement levées au fur et à mesure de leur préparation (fonction pop up).  Il y a un  plateau spécial  pour collecter les débris  et les miettes pour garder votre comptoir propre.  L'  arrêt automatique vous évitera des soucis inutiles.  L'appareil garantit votre sécurité avec le système de protection contre la surchauffe.  Caractéristiques: Puissance: 1300W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1620378297_453.jpg",
+  "Offres": [
+    {
+      "Price": "108 DT",
+      "Last-update": "03/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/13283-grille-pain-1300w-inox-zln8440-zilan.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef2e8125f118dbd8548e"
+  },
+  "Name": "Tristar - GRILL à CONTACT GR-2849",
+  "Reference": "GR-2849",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "GRILL à CONTACT GR-2849 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1646668892_982.jpg",
+  "Offres": [
+    {
+      "Price": "199 DT",
+      "Last-update": "25/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/14916-grill-a-contact-tristar-gr-2849.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef2e8125f118dbd8548f"
+  },
+  "Name": "Tristar - GRILL à CONTACT GR-2853",
+  "Reference": "GR-2853",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "GRILL à CONTACT GR-2853 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1646668962_270.jpg",
+  "Offres": [
+    {
+      "Price": "287 DT",
+      "Last-update": "25/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/14915-grill-a-contact-tristar-gr-2853.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef2f8125f118dbd85490"
+  },
+  "Name": "Arzum - GRILLE PANINI 1800W ROUGE AR2012",
+  "Reference": "AR2012",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "GRILLE PANINI 1800W ROUGE AR2012 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1654620290_601.jpg",
+  "Offres": [
+    {
+      "Price": "266 DT",
+      "Last-update": "06/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/grille-pain-toasters/14831-grille-panini-1800w-rouge-arzum-ar2012.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef318125f118dbd85491"
+  },
+  "Name": "Sharp - KZ-90L-W2, GRILLE PAIN AUTOMATIQUE à 2 FENTES , BLANC",
+  "Reference": "KZ-90L-W2",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Le grille-pain Sharp KZ-90L-W2 sera l'allié idéal pour vos petits déjeuners ou encas du soir ! Cet appareil est simple et sophistiqué à la fois. Son design et sa couleur blanchepermet d'apporter une touche de modernité dans votre cuisine. Il vous séduira également par son format compact qui lui permet de s'intégrer aisément sur votre plan de travail. Il est équipé par deux fentes large capable de griller des tranches volumineuse et d?un tiroir ramasse-miette. Avec une puissance de 700 watts, cela suffit pour réchauffer des tranches fines ou épaisses à la perfection. Se caractérisant par sa praticité, il est pourvu sur sa partie supérieure de deux fentes par lesquelles on glisse et remonte automatiquement les tranches de pain grillées. Tout est réuni pour vous offrir les meilleures performances. Le grille-pain Sharp KZ-90L-W2 vous fait gagner du temps le matin ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1622741167_430.png",
+  "Offres": [
+    {
+      "Price": "63 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/petit-dejeuner/sharp-kz90lw2-grille-pain-automatique-700w-2fentes-blanc-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef328125f118dbd85492"
+  },
+  "Name": "Sokany - GRILLE-PAIN 2 TRANCHES 700W HJT-022",
+  "Reference": "HJT-022",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Grille-Pain 2 Tranches 700W SOKANY HJT-022 - Tension : 220-240V - Fréquence : 50-60Hz - Puissance : 600-700W - Nombre d?emplacement : 2 - Nombre de niveau de contrôle de brunissement : 6 - Dimension : 18*24*13cm - Dimension de Fente : 13.5*12*2.5cm - Longueur Câble : 0.7 Mètres - Couleur : Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1623172117_879.jpg",
+  "Offres": [
+    {
+      "Price": "49 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/grille-pain/4188-grille-pain-2-tranches-700w-sokany-hjt-022-hjt-022-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef338125f118dbd85493"
+  },
+  "Name": "FLORENCE - APPAREIL GRILLE-PAIN 2FENTES 750W TXT-061A ROUGE",
+  "Reference": "TXT-061A",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Appareil Grille-Pain 2 fentes 750W FLORENCE TXS-061A - Tension : 220-240V - Fréquence : 50Hz - Puissance : 750W - 6 Niveau de cuisson - Dimensions : 25x18x16cm - Couleur : Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1623686736_146.jpg",
+  "Offres": [
+    {
+      "Price": "45 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/grille-pain/2909-appareil-grille-pain-2fentes-750w-florence-txt-061a-rouge-txt-061a-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efef348125f118dbd85494"
+  },
+  "Name": "LIVOO - SET PETIT DéJEUNER VINTAGE",
+  "Reference": "DOD136C",
+  "type": "/electromenager/cafetiere_petit_dejeuner/grille_pain",
+  "Specs": "Set petit déjeuner vintage en acier inoxydable incluant Une bouilloire électrique sans fil Arrêt automatique Base pivotante à 360° Filtre anticalcaire amovible et lavable Indicateur de niveau d?eau Poignée « cool touch » Un grille-pain 2 larges fentes 3 fonctions avec témoins LED: décongélation, réchauffage, annulation Thermostat réglable 6 niveaux Éjection automatique Tiroir ramasse-miettes Pieds antidérapants Enrouleur de câble intégré Couleur : Beige ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_cafetiere_petit_dejeuner/1625140439_574.jpg",
+  "Offres": [
+    {
+      "Price": "269 DT",
+      "Last-update": "07/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/grill-pain/2930-set-petit-dejeuner-vintage-livoo.html"
+    }
+  ]
+}]

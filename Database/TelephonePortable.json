@@ -1,0 +1,2358 @@
+[{
+  "_id": {
+    "$oid": "62efa78fa4f544720840cd9d"
+  },
+  "Name": "NOKIA - TéLéPHONE PORTABLE NOKIA 110",
+  "Reference": "NOKIA110",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran 1.77\" QQVGA - Processeur SPRD 6531E - RAM 4 Mo - Mémoire 4 Mo extensible jusqu'à 32 Go Via Micro SD - Appareil photo arrière QVGA - Radio FM - Batterie 800 mAh amovible - Autonomie en veille jusqu'à 18.5 jours - Autonomie en conversation jusqu'à 14 heures - Dimensions: 115.15 x 49.5 x 14.3 mm - Couleur Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1573082763_508.jpg",
+  "Offres": [
+    {
+      "Price": "99 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/telephone-portable-nokia-110-double-sim-bleu-40328.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "26/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/telephone-portable-nokia-110-double-sim-bleu-40327.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "25/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-nokia-110-noir.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "25/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-nokia-110-bleu.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "13/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/43826-telephone-portable-nokia-110-noir.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "13/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/43823-telephone-portable-nokia-110-bleu.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-nokia-110-double-sim-.html"
+    },
+    {
+      "Price": "100 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphone-en-Tunisie-gsm/2889-nokia-110-noir-prix-tunisie.html"
+    },
+    {
+      "Price": "100 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphone-en-Tunisie-gsm/2890-nokia-110-rose-prix-tunisie.html"
+    },
+    {
+      "Price": "100 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphone-en-Tunisie-gsm/2891-nokia-110-blue-prix-tunisie.html"
+    },
+    {
+      "Price": "100 DT",
+      "Last-update": "10/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/5428-telephone-portable-nokia-110-double-sim-bleu.html"
+    },
+    {
+      "Price": "105 DT",
+      "Last-update": "21/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/nokia-110-2019-dual-sim-tunisie"
+    },
+    {
+      "Price": "105 DT",
+      "Last-update": "21/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/nokia-110-ds-telephone-portable-dual-sim-bleu-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa790a4f544720840cd9e"
+  },
+  "Name": "SAMSUNG - TELEPHONE PORTABLE GALAXY A02-3-32",
+  "Reference": "SM-A02-3-32",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran 6.5\" HD+ - Processeur Quad Core Mediatek MT6739W 1.5 GHz, Cortex-A53 - RAM 3 Go - Mémoire 32 Go - Android 10.0, One UI 2.0 - Caméra arrière 13 MP, f/1.9, (wide), AF, 2 MP, f/2.4 (macro), Frontale 5 MP, f/2.0 - 4G - Wifi - Wi-Fi Direct - Bluetooth - Batterie 5000 mAh ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1618775335_744.jpg",
+  "Offres": [
+    {
+      "Price": "369 DT",
+      "Last-update": "19/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/smartphone-samsung-galaxy-a02-rouge-32-go-abonnement-iptv-1-an.html"
+    },
+    {
+      "Price": "379 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/smartphone/5526-smartphone-samsung-galaxy-a02-4g-3go-32go-bleu-a022fdbl-shopping-en-ligne-last-price-tunisie.html"
+    },
+    {
+      "Price": "379 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/smartphone/5528-smartphone-samsung-galaxy-a02-4g-3go-32go-rouge-a022fdred-shopping-en-ligne-last-price-tunisie.html"
+    },
+    {
+      "Price": "439 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/smartphone-tunisie/smartphone-samsung-galaxy-a02-32-go-rouge-tunisie"
+    },
+    {
+      "Price": "439 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/smartphone-tunisie/smartphone-samsung-galaxy-a02-32-go-bleu-tunisie"
+    },
+    {
+      "Price": "439 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/smartphone-android/smartphone-samsung-galaxy-a02-32-go-noir-tunisie"
+    },
+    {
+      "Price": "469 DT",
+      "Last-update": "13/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/smartphones/2897-smartphone-samsung-galaxy-a02-3go-32go-noir.html"
+    },
+    {
+      "Price": "469 DT",
+      "Last-update": "13/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/smartphones/2900-smartphone-samsung-galaxy-a02-3go-32go-bleu.html"
+    },
+    {
+      "Price": "469 DT",
+      "Last-update": "13/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/smartphones/2896-smartphone-samsung-galaxy-a02-3go-32go-rouge.html"
+    },
+    {
+      "Price": "469 DT",
+      "Last-update": "04/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/15a76-samsungtunisie-ok.jpg",
+      "product-link": "https://www.samsungtunisie.tn/mobile/754-samsung-galaxy-a02-prix-tunisie.html"
+    },
+    {
+      "Price": "469 DT",
+      "Last-update": "18/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/samsung-galaxy-a02-smartphone-android-3go-32go-bleu-tunisie"
+    },
+    {
+      "Price": "469 DT",
+      "Last-update": "26/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/smartphone/5527-smartphone-samsung-galaxy-a02-4g-3go-32go-noir-a022fdn-shopping-en-ligne-last-price-tunisie.html"
+    },
+    {
+      "Price": "469 DT",
+      "Last-update": "18/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/samsung-galaxy-a02-smartphone-android-ram-3go-32go-rouge-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa791a4f544720840cd9f"
+  },
+  "Name": "IKU - TéLéPHONE PORTABLE S10",
+  "Reference": "IKU-S10",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 1.8\"  - Mémoire RAM: 32 Mo  - Stockage: 32 Mo  - Appareil Photo + vidéo - Double SIM  - Radio FM - Batterie: 3000 mAh  -  Music Player - Bluetooth - Torche - Conception simple et symétrique ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1598618179_755.jpg",
+  "Offres": [
+    {
+      "Price": "75 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/smartphone-iku-s10-marron"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-iku-s10-noir.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "12/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-iku-s10-bleu.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-iku-s10-marron.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "12/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-iku-s10-vert.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "20/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/41690-telephone-portable-iku-s10-noir.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "20/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/36198-smartphone-iku-s10-double-sim-bleu.html"
+    },
+    {
+      "Price": "80 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3195-s10-iku-gsm.html"
+    },
+    {
+      "Price": "85 DT",
+      "Last-update": "05/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/iku-s10-marron-prix-tunisie"
+    },
+    {
+      "Price": "85 DT",
+      "Last-update": "05/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/iku-s10-bleu-prix-tunisie"
+    },
+    {
+      "Price": "85 DT",
+      "Last-update": "12/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-iku-s10-double-sim-marron-iku-s10-brown.html"
+    },
+    {
+      "Price": "85 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-iku-s10-double-sim-bleu-iku-s10-blue.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa792a4f544720840cda0"
+  },
+  "Name": "IPRO - TéLéPHONE PORTABLE A25",
+  "Reference": "IPRO-A25",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Réf :A25-R -Ecran: 2.4\" LCD -  Quad Core -  Dual SIM - Ram: 32Mo - Stockage:  32 Mo  - Camera: 0.08MP  -  Batterie: 1000mAh ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1608579979_206.jpg",
+  "Offres": [
+    {
+      "Price": "47 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-ipro-a25-bleu-a25-b.html"
+    },
+    {
+      "Price": "50 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-ipro-a25-noir-a25-n.html"
+    },
+    {
+      "Price": "55 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/telephone-portable-ipro-a25-bleu"
+    },
+    {
+      "Price": "55 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/telephone-portable-ipro-a25-noir"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "02/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-ipro-a25-rouge.html"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "05/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-ipro-a25-noir.html"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "05/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-ipro-a25-bleu.html"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "31/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-a25-noir"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "31/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-a25-bleu"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "27/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-ipro-a25-noirrouge-a25-nr.html"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "27/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-ipro-a25-noirbleu-a25-nb.html"
+    },
+    {
+      "Price": "60 DT",
+      "Last-update": "26/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3458-ipro-a25-gsm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa793a4f544720840cda1"
+  },
+  "Name": "NOKIA - Téléphone Portable 150",
+  "Reference": "TA-1235DS",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Téléphone Portable Nokia 150 - Ecran: 2.4 Pouces - Type d'écran :LED QVGA - Résolution: 320 x 240pixels  - Appareil Photo Arriére: VGA - Capacité Batterie: 1020mAh - Autonomie en communication (2G): 22 heures - Nombre de Sim: 2 SIM - FM lecture radio- Lecture MP3 - Couleur: Blanc - Bluetooth 3.0 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1653663968_497.jpg",
+  "Offres": [
+    {
+      "Price": "135 DT",
+      "Last-update": "10/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/5429-telephone-portable-nokia-150-noir.html"
+    },
+    {
+      "Price": "135 DT",
+      "Last-update": "10/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/5430-telephone-portable-nokia-150-bleu.html"
+    },
+    {
+      "Price": "135 DT",
+      "Last-update": "10/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/5431-telephone-portable-nokia-150-rouge.html"
+    },
+    {
+      "Price": "135 DT",
+      "Last-update": "25/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-nokia-150-noir.html"
+    },
+    {
+      "Price": "135 DT",
+      "Last-update": "25/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-nokia-150-bleu.html"
+    },
+    {
+      "Price": "135 DT",
+      "Last-update": "14/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/45453-telephone-portable-nokia-150-ta-double-sim-bleu.html"
+    },
+    {
+      "Price": "139 DT",
+      "Last-update": "27/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/telephone-portable-nokia-150-double-sim-bleu-40326.html"
+    },
+    {
+      "Price": "139 DT",
+      "Last-update": "27/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/telephone-portable-nokia-150-double-sim-noir-3706.html"
+    },
+    {
+      "Price": "139 DT",
+      "Last-update": "13/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/36821-téléphone-portable-nokia-150-ta-double-sim-noir.html"
+    },
+    {
+      "Price": "139 DT",
+      "Last-update": "13/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/36820-téléphone-portable-nokia-150-ta-double-sim-rouge.html"
+    },
+    {
+      "Price": "140 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3138-nokia-150-gsm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa794a4f544720840cda2"
+  },
+  "Name": "NOKIA - TELEPHONE PORTABLE 6310 / DOUBLE SIM / VERT",
+  "Reference": "NOKIA-6310-GN",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran 2.8\" QVGA (320 x 240)  - Mémoire 8 Mo Extensible Jusqu'à 32 Go via carte microSD  -  RAM  16 Mo - Processeur Unisoc 6531F - Système d'exploitation Nokia Series 30+  - Appareil photo Caméra principale 0.3 MP avec Flash LED  - Batterie 1150 mAh - Autonomie 21.7 jours - Autonomie en conversation (2G): Jusqu'à 19.45 h - Radio FM -  lecteur MP3 -  Bluetooth 5.0 - A2DP (Casque, transfert de fichiers et contacts)   ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1631454439_270.jpg",
+  "Offres": [
+    {
+      "Price": "189 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-nokia-6310-nena-3-noir-prix-tunisie"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-nokia-6310-nena-3-vert-prix-tunisie"
+    },
+    {
+      "Price": "189 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-nokia-6310-nena-3-jaune-prix-tunisie"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "10/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/5432-telephone-portable-nokia-6310-vert.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "10/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/5433-telephone-portable-nokia-6310-noir.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "27/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/telephone-portable-nokia-6310-2021-vert-38495.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "27/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/telephone-portable-nokia-6310-2021-noir-38490.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "13/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/44001-telephone-portable-nokia-6310-jaune.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "13/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/43997-telephone-portable-nokia-6310-noir.html"
+    },
+    {
+      "Price": "199 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-nokia-6310-noir-nokia-6310-noir.html"
+    },
+    {
+      "Price": "200 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3010-Nokia-6310-prix-Tunisie-2021.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa795a4f544720840cda3"
+  },
+  "Name": "IPRO - TELEPHONE PORTABLE A6 MINI DOUBLE SIM ",
+  "Reference": "IPRO-A6-mini",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 1.8\" - Mémoire RAM: 32 Mo  - Stockage: 32 Mo  - Appareil photo: 0.08 Megapixels  - Double SIM  - Batterie: 350 mAh  -  Bluetooth - Radio FM - Lecture MP3 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/c4281-sans-titre-1_313.jpg",
+  "Offres": [
+    {
+      "Price": "46 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/telephone-portable-ipro-a6-mini-noir"
+    },
+    {
+      "Price": "46 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/telephone-portable-ipro-a6-mini-rouge"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "12/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-ipro-a6-mini-noir.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "02/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-ipro-a6-mini-bleu.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "15/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-ipro-a6-mini-rouge.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "08/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/48628-telephone-portable-ipro-a6-mini-rouge.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "01/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/48639-telephone-portable-telephone-ipro-a6-mini-noir.html"
+    },
+    {
+      "Price": "50 DT",
+      "Last-update": "26/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3262-ipro-a6-mini-gsm.html"
+    },
+    {
+      "Price": "51 DT",
+      "Last-update": "18/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-a6-mini-double-sim-noir-prix-tunisie"
+    },
+    {
+      "Price": "51 DT",
+      "Last-update": "18/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-a6-mini-double-sim-noirrouge-prix-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa795a4f544720840cda4"
+  },
+  "Name": "XIAOMI - TELEPHONE PORTABLE REDMI 10 / 4 GO / 128 GO / 4G ",
+  "Reference": "REDMI10-4-128",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Écran 6.5\" DotDisplay LCD Gorilla Glass 3 - Taux de rafraîchissement de 90 Hz - Résolution Full HD+ 1080 x 2400 pixels - Processeur MediaTek Helio G88 Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55), Mali-G52 MC2 - RAM 4 Go - Mémoire 128 Go - Android 11 avec MIUI12.5 - Caméra arrière 50 MP, f/1.8 + capteur ultra grand angle de 8 MP (f/2.2, FOV 120°) + caméra macro de 2 MP (f/2.4) + capteur de profondeur de 2 MP (f/2.4) - HDR - Caméra Frontale 8 MP (f/2.0) - stereo speakers - 4G - Wifi - Bluetooth 5.1 - GPS - Lecteur d'empreinte Digitale - Batterie 5000 mAh - Charge rapide 18W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1634228897_778.jpg",
+  "Offres": [
+    {
+      "Price": "729 DT",
+      "Last-update": "12/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/smartphones/5460-smartphone-xiaomi-redmi-10-4-go-128-go-blanc.html"
+    },
+    {
+      "Price": "729 DT",
+      "Last-update": "12/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/smartphones/5459-smartphone-xiaomi-redmi-10-4-go-128-go-bleu.html"
+    },
+    {
+      "Price": "729 DT",
+      "Last-update": "15/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/smartphones/smartphone-xiaomi-redmi-10-4128go-gris-38250.html"
+    },
+    {
+      "Price": "729 DT",
+      "Last-update": "17/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/smartphone-tunisie/redmi-10-4128go-carbon-gray-prix-tunisie"
+    },
+    {
+      "Price": "729 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3070-2800-xiaomi-redmi-10-4go-128go.html"
+    },
+    {
+      "Price": "729 DT",
+      "Last-update": "03/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/xiaomi-redmi-10-smartphone-ram-4go-128go-blanc-tunisie"
+    },
+    {
+      "Price": "779 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/8707d-planeteinformatique-ok.jpg",
+      "product-link": "https://planete-informatique.tn/produit/smartphone-xiaomi-redmi-10-2022-4go-128go-gris/"
+    },
+    {
+      "Price": "779 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/8707d-planeteinformatique-ok.jpg",
+      "product-link": "https://planete-informatique.tn/produit/smartphone-xiaomi-redmi-10-2022-4go-128go-bleu/"
+    },
+    {
+      "Price": "789 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/smartphone-tunisie/smartphone-xiaomi-redmi-10-2022-4g-128g-gray"
+    },
+    {
+      "Price": "789 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/smartphone-tunisie/smartphone-xiaomi-redmi-10-2022-4g-128g-sea-blue"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa796a4f544720840cda5"
+  },
+  "Name": "IPRO - TÉLÉPHONE PORTABLE SHARK II / DOUBLE SIM ",
+  "Reference": "IPRO-SHARK-II",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran 2\" - Résolution d?écran : 176*220 - Marque du processeur : Spreadtrum - Mémoire : RAM/ROM 32 Mo+32 Mo - Caméra: 0,08 MP - Lecteur MP3 - Lecteur MP4 - Radio FM - Batterie: 2500 mAh - Antipoussière - Antichoc - Robuste - étanche - Langue : Multi langues ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1657999871_606.jpg",
+  "Offres": [
+    {
+      "Price": "92 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/telephone-portable-ipro-shark-ii-noir"
+    },
+    {
+      "Price": "92 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/telephone-portable-ipro-shark-ii-vert"
+    },
+    {
+      "Price": "92 DT",
+      "Last-update": "15/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/telephone-portable-ipro-shark-ii-bleu"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "02/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-shark-ii-bleu.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "02/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-ipro-shark-ii-noir.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "02/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-ipro-shark-ii-vert.html"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "27/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-shark-ii-double-sim-vert-prix-tunisie"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "27/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-shark-ii-prix-tunisie"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "27/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-shark-ii-double-sim-bleu-prix-tunisie"
+    },
+    {
+      "Price": "100 DT",
+      "Last-update": "26/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3456-ipro-shark-ii-gsm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa797a4f544720840cda6"
+  },
+  "Name": "IPRO - TELEPHONE PORTABLE A20S ",
+  "Reference": "A20S-32",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Écran 2.4\" TFT - Mémoire RAM: 32Mo - Stockage: 32Mo - Caméra: VGA - Capacité Batterie: 1000mAh - Double SIM - Lecteur MP3 et MP4 - Radio FM - Garantie: 1 an ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1658000149_669.jpg",
+  "Offres": [
+    {
+      "Price": "55 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/telephone-portable-ipro-a20s-double-sim-rouge"
+    },
+    {
+      "Price": "55 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/telephone-portable-ipro-a20s-double-sim-bleu"
+    },
+    {
+      "Price": "55 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/telephone-portable-ipro-a20s-double-sim-noir"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "03/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-ipro-a20s-bleu.html"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "03/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-ipro-a20s-rouge.html"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "03/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-ipro-a20s-noir.html"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-a20s-double-sim-rouge-prix-tunisie"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-a20s-double-sim-noir-prix-tunisie"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-a20s-double-sim-bleu-prix-tunisie"
+    },
+    {
+      "Price": "60 DT",
+      "Last-update": "26/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3459-ipro-a20s-gsm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa798a4f544720840cda7"
+  },
+  "Name": "NOKIA - Téléphone Portable 105 DS 2017",
+  "Reference": "NOKIA-105",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran 1.4\" 128 x 128 pixels -Mémoire 8 MB, 384 kB- Radio FM - Autonomie en communication (2G): 12.5h - Autonomie maximale en veille: 35jours ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1617227644_622.jpg",
+  "Offres": [
+    {
+      "Price": "59 DT",
+      "Last-update": "12/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/nokia-105-2019-tunisie"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "20/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/5525-telephone-portable-nokia-105-double-sim-noir.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "21/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/telephone-portable-tunisie/57988-telephone-portable-nokia-105-double-sim-noir.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "21/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/telephone-portable-tunisie/57987-telephone-portable-nokia-105-double-sim-bleu.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "14/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/20646-telephone-portable-nokia-105-noir.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "21/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/nokia-105-2022-telephone-portable-4g-double-sim-rouge-tunisie"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "21/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/nokia-105-2022-telephone-portable-4g-double-sim-noir-tunisie"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "21/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/nokia-105-2022-telephone-portable-4g-bleu-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa798a4f544720840cda8"
+  },
+  "Name": "XIAOMI - TELEPHONE PORTABLE REDMI 9T / 4G / 64 GO",
+  "Reference": "REDMI9T-4-64-BL",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Écran 6.53 \" FHD (1080 x 2340) - Processeur Snapdragon 662 Octa-Core cadencé à 2.0 GHz - RAM 4 Go - Mémoire 64 Go - Android 10 - 4 Caméras Arrière: 48MP + 8MP + 2MP + 2MP - Caméra Frontale 8MP - 4G - Wifi - Bluetooth - GPS - Lecteur d'empreintes Digitales - Reconnaissance faciale - Batterie 6000 mAh - Charge rapide type c 18 W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1618520662_637.jpg",
+  "Offres": [
+    {
+      "Price": "519 DT",
+      "Last-update": "06/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/smartphone/5976-smartphone-xiaomi-redmi-9t-4go-64go-bleu.html"
+    },
+    {
+      "Price": "529 DT",
+      "Last-update": "28/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/smartphones/3624-smartphone-xiaomi-redmi-9t-4go-64go-gris.html"
+    },
+    {
+      "Price": "529 DT",
+      "Last-update": "23/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/smartphone-redmi-9t-64-go-vert.html"
+    },
+    {
+      "Price": "529 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/2827-xiaomi-redmi-9t-4-64-bleu-prix-tunisie.html"
+    },
+    {
+      "Price": "529 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/2825-xiaomi-redmi-9t-4-64-orange-prix-tunisie.html"
+    },
+    {
+      "Price": "529 DT",
+      "Last-update": "22/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphones-tunisie/2828-xiaomi-redmi-9t-4-64-gris-prix-tunisie.html"
+    },
+    {
+      "Price": "529 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/2826-xiaomi-redmi-9t-4-64-green-tunisie.html"
+    },
+    {
+      "Price": "529 DT",
+      "Last-update": "09/09/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/xiaomi-redmi-9t-smartphone-64go-gris-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa799a4f544720840cda9"
+  },
+  "Name": "XIAOMI - TELEPHONE PORTABLE REDMI 10 / 4 GO / 4G / GRIS",
+  "Reference": "REDMI10-4-64-CG",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Écran 6.5\" DotDisplay LCD Gorilla Glass 3 - Taux de rafraîchissement de 90 Hz - Résolution Full HD+ 1080 x 2400 pixels - Processeur MediaTek Helio G88 Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55), Mali-G52 MC2 - RAM 4 Go - Mémoire 64 Go - Android 11 avec MIUI12.5 - Caméra arrière 50 MP, f/1.8 + capteur ultra grand angle de 8 MP (f/2.2, FOV 120°) + caméra macro de 2 MP (f/2.4) + capteur de profondeur de 2 MP (f/2.4) - HDR - Caméra Frontale 8 MP (f/2.0) - stereo speakers - 4G - Wifi - Bluetooth 5.1 - GPS - Lecteur d'empreinte Digitale - Batterie 5000 mAh - Charge rapide 18W  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1633811857_395.jpg",
+  "Offres": [
+    {
+      "Price": "539 DT",
+      "Last-update": "15/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/telephonie/smartphone-android/smartphone-xiaomi-redmi-10-64-go-gris.html"
+    },
+    {
+      "Price": "619 DT",
+      "Last-update": "30/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/smartphone-mobile-4g-tunisie/58191-smartphone-xiaomi-redmi-10c-4g-4-go-64-go-bleu.html"
+    },
+    {
+      "Price": "619 DT",
+      "Last-update": "01/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/smartphone-mobile-4g-tunisie/58202-smartphone-xiaomi-redmi-10c-4g-4-go-64-go-gris.html"
+    },
+    {
+      "Price": "619 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/smartphone-tunisie/smartphone-xiaomi-redmi-10c-4g-64g-bleu-ocean"
+    },
+    {
+      "Price": "679 DT",
+      "Last-update": "04/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/smartphones/3992-smartphone-xiaomi-redmi-10-64go-blanc.html"
+    },
+    {
+      "Price": "679 DT",
+      "Last-update": "04/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/smartphones/3991-smartphone-xiaomi-redmi-10-64go-gris.html"
+    },
+    {
+      "Price": "679 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphones-tunisie/3051-2728-xiaomi-redmi-10-4go-64go.html"
+    },
+    {
+      "Price": "679 DT",
+      "Last-update": "16/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/xiaomi-redmi-10-smartphone-android-64go-carbon-gray-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa79aa4f544720840cdaa"
+  },
+  "Name": "IKU - TELEPHONE PORTABLE V100",
+  "Reference": "IKU-V100",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Écran: 1.8\" - Mémoire RAM: 32 Mo - Stockage: 32 Mo - Micro SD extensible jusqu'à 32 Go - Capacité de Batterie: 800 mAh - Lampe torche situé au sommet - Radio FM sans fil - Jusqu'à 500 contacts ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1641903164_193.jpg",
+  "Offres": [
+    {
+      "Price": "49 DT",
+      "Last-update": "02/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/45623-telephone-portable-iku-v100-double-sim-bleu.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "02/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/45621-telephone-portable-iku-v100-double-sim-noir.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "02/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/45622-telephone-portable-iku-v100-double-sim-gris.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "02/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/45619-telephone-portable-iku-v100-double-sim-rouge.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/telephone-portable-iku-v100-rouge"
+    },
+    {
+      "Price": "52 DT",
+      "Last-update": "26/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/telephonie-tablette/53893-telephone-portable-iku-v100-double-sim-noir.html"
+    },
+    {
+      "Price": "53 DT",
+      "Last-update": "25/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3259-v100-iku-gsm.html"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "15/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-iku-v100-rouge.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa79ba4f544720840cdab"
+  },
+  "Name": "Logicom - Téléphone Portable POSH 178 DOUBLE SIM",
+  "Reference": "LOG-POSH-178",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 1.77\"  - Résolution d'écran: 128 x 160 pixels  - Mémoire RAM: 32 Mo - Stockage: 32 Mo - Mémoire Extensible: Jusqu'à 16 Go - Appareil photo: 0.3 Mégapixels - Capacité Batterie: Li-ion 800 mAh  - Double SIM  - avec Torche - Radio FM et Bluetooth - Dimensions: 115 x 49 x 14.2 mm - Poids: 70 g - Couleur: Bleu ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1583096290_195.jpg",
+  "Offres": [
+    {
+      "Price": "35 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/telephone-portable/5051-telephone-portable-logicom-le-posh-178-double-sim-bleu-posh-178bl-shopping-en-ligne-last-price-tunisie.html"
+    },
+    {
+      "Price": "35 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/telephone-portable/5062-telephone-portable-logicom-le-posh-178-double-sim-noir-posh-178bk-shopping-en-ligne-last-price-tunisie.html"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/2151-telephone-portable-logicom-double-sim-rouge-posh_178.html"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/2147-telephone-portable-logicom-double-sim-noir-posh_178.html"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "16/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/2150-telephone-portable-logicom-double-sim-bleu-posh_178.html"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "11/11/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7e82d-simop.png",
+      "product-link": "https://www.simop.com.tn/produits/view?id=780"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "30/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/logicom-posh-178-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa79ca4f544720840cdac"
+  },
+  "Name": "Logicom - Téléphone portable L-623",
+  "Reference": "L-623",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "L-623 Le téléphone mobile 2.31'' pour tous afin de communiquer simplement SIMPLE COMME BONJOUR Il n?est pas toujours simple d?utiliser un téléphone mobile et c?est pour cette raison, que le L-623 existe. Ce téléphone pour tous, prédestiné aux seniors, dispose de touches larges, d?une interface simplifiée, de haut-parleurs puissants et d?un bouton SOS en cas d?urgence. Il est facile de retrouver le L-623 avec sa station de rangement et de chargement, dans la droite lignée des téléphones résidentiels (le fil en moins mais les SMS en plus). Au-delà de toutes ces fonctions, il est toujours possible d?utiliser ce téléphone mobile pour senior avec un usage classique. Grâce à ses deux ports SIM, vous allez pouvoir passer vos appels, envoyer vos SMS ou bien prendre des photos. PRATIQUE OU UTILE, AU CHOIX ! Vous n?avez pas besoin d?un téléphone qui en fait des tonnes et qui, de par sa grande taille, prend une place telle qu?il doit se tenir en permanence à la main ou bien être placé dans un sac ? Cela tombe bien car le Logicom L-623 va répondre à toutes vos attentes et même un peu plus encore. Il prend si peu de place que vous allez en oublier son existence. Et si vous oubliez souvent où se trouve votre téléphone, sa station de rangement va vous combler. Tout a été pensé pour vous faciliter la vie, vraiment ! BATTERIE ROBUSTE Avec sa batterie de 1000 mAh, vous allez pouvoir discuter encore et encore avec vos proches (maximum 4h). Et si vous avez oublié votre chargeur, pas de panique ! Le L-623 peut rester en veille jusqu?à 8 jours. ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1541695146_865.jpg",
+  "Offres": [
+    {
+      "Price": "80 DT",
+      "Last-update": "19/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/1805-telephone-portable-logicom-noir-l-623.html"
+    },
+    {
+      "Price": "85 DT",
+      "Last-update": "28/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7e82d-simop.png",
+      "product-link": "https://www.simop.com.tn/produits/view?id=621"
+    },
+    {
+      "Price": "89 DT",
+      "Last-update": "24/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-logicom-l623-noir.html"
+    },
+    {
+      "Price": "89 DT",
+      "Last-update": "25/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3022-logicom-l623-noir-.html"
+    },
+    {
+      "Price": "89 DT",
+      "Last-update": "29/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/978fe-tdiscount.jpg",
+      "product-link": "https://tdiscount.tn/telephone-portable/telephone-portable-logicom-l-623-noir"
+    },
+    {
+      "Price": "99 DT",
+      "Last-update": "01/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/6153-telephone-mobile-231-noir-l-623-logicom.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa79ca4f544720840cdad"
+  },
+  "Name": "NOKIA - Téléphone PORTABLE Nokia 106 DS",
+  "Reference": "NOKIA-106",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran 1.8\" QQVGA - Processeur MTK 6261D - RAM 4 Mo - Mémoire interne 4 Mo - Batterie amovible de 800 mAh - Autonomie en conversation: Jusqu'à 15.7 heures - Autonomie en veille: Jusqu'à 21 jours - Couleur: Gris foncé ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1544121477_110.jpg",
+  "Offres": [
+    {
+      "Price": "75 DT",
+      "Last-update": "10/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/5427-telephone-portable-nokia-106-double-sim-gris.html"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/telephone-portable-nokia-106-gris-37506.html"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "25/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3004-nokia106.html"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephonie-portable-nokia-106-gris-nokia-106-gr.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "01/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-nokia-106-gris.html"
+    },
+    {
+      "Price": "79 DT",
+      "Last-update": "14/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/43828-telephone-portable-nokia-106-gris.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa79da4f544720840cdae"
+  },
+  "Name": "Servicom - Téléphone mobile Easy III DS",
+  "Reference": "EASYIII",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran 1.8\" - Mémoire 32 Mo - Caméra 0.3 megapixels - Bluetooth - Radio FM - Torche - Batterie 600 mAh - Couleur Blanc & Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1519923194_672.jpg",
+  "Offres": [
+    {
+      "Price": "40 DT",
+      "Last-update": "30/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/4393-telephone-mobile-servicom-easy-iii-noir-andcode-rouge.html"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "30/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/4392-telephone-mobile-servicom-easy-iii-noir-andcode-bleu.html"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "30/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/4391-telephone-mobile-servicom-easy-iii-noir-andcode-noir.html"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "30/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/4390-telephone-mobile-servicom-easy-iii-bleu-andcode-noir.html"
+    },
+    {
+      "Price": "40 DT",
+      "Last-update": "30/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/4389-telephone-mobile-servicom-easy-iii-blanc-andcode-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa79ea4f544720840cdaf"
+  },
+  "Name": "ITEL - TéLéPHONE PORTABLE 2160 / DOUBLE SIM",
+  "Reference": "IT2160",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran 1.8\" HVGA - Résolution: 320 x 480 - Mémoire interne: 64 Mo, Extensible Jusqu'à 8 Go - Réseau 2G - Caméra: 0.3 MP  - Lecteur MP3 - Radio FM - Batterie: 1000 mAh - Lampe torche, langues multiples -  Connectivité : Bluetooth, Jack, Micro USB - Applications: Facebook, Palmchat - Couleur: Noir -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1594649740_853.jpg",
+  "Offres": [
+    {
+      "Price": "41 DT",
+      "Last-update": "16/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/4209-telephone-portable-itel-2160-bleu.html"
+    },
+    {
+      "Price": "41 DT",
+      "Last-update": "16/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/4208-telephone-portable-itel-2160-noir.html"
+    },
+    {
+      "Price": "44 DT",
+      "Last-update": "27/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-itel-it-2160-noir-32661.html"
+    },
+    {
+      "Price": "44 DT",
+      "Last-update": "27/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-itel-it-2160-bleu-32662.html"
+    },
+    {
+      "Price": "44 DT",
+      "Last-update": "25/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3129-itel-2160-gsm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa79fa4f544720840cdb0"
+  },
+  "Name": "ITEL - TéLéPHONE PORTABLE 5081",
+  "Reference": "ITEL-5081",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 2.4\"  - Mémoire RAM: 64 Mo  - Stockage: 64 Mo  MicroSD, extensible à 32 Go - Caméra Arrière: VGA - Double SIM - Capacité Batterie: 1200 mAh  - Facebook / Opera Min ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1601055176_877.jpg",
+  "Offres": [
+    {
+      "Price": "49 DT",
+      "Last-update": "16/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/4205-telephone-portable-itel-5081-bleu.html"
+    },
+    {
+      "Price": "49 DT",
+      "Last-update": "16/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/4204-telephone-portable-itel-5081-noir.html"
+    },
+    {
+      "Price": "61 DT",
+      "Last-update": "17/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3131-itel-5081-gsm-.html"
+    },
+    {
+      "Price": "69 DT",
+      "Last-update": "07/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-itel-5081-bleu-34065.html"
+    },
+    {
+      "Price": "69 DT",
+      "Last-update": "07/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-itel-5081-noir-34066.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a0a4f544720840cdb1"
+  },
+  "Name": "ITEL - TéLéPHONE PORTABLE 2173",
+  "Reference": "ITEL-2173",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 1.8\"  - Mémoire RAM: 32 Mo  - Stockage: 32 Mo  MicroSD, extensible à 32 Go - Caméra Arrière: 0.3 MP - Double SIM - Capacité Batterie: 1000 mAh  - Bluetooth - Radio FM - Lampe torche - Facebook ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1601055228_582.jpg",
+  "Offres": [
+    {
+      "Price": "38 DT",
+      "Last-update": "16/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/4206-telephone-portable-itel-2173-noir.html"
+    },
+    {
+      "Price": "38 DT",
+      "Last-update": "16/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/4207-telephone-portable-itel-2173-bleu.html"
+    },
+    {
+      "Price": "52 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/-gsm-itel-2173-noir-32676.html"
+    },
+    {
+      "Price": "52 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-itel-2173-bleu-32677.html"
+    },
+    {
+      "Price": "52 DT",
+      "Last-update": "25/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3130-itel-2173-gsm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a1a4f544720840cdb2"
+  },
+  "Name": "ITEL - TéLéPHONE PORTABLE IT5260",
+  "Reference": "IT-5260",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Écran 2.4? pouces / Mémoire 8 Mb ROM + 8 Mb RAM / Radio FM / Capacité de la batterie 1900mAh / Caméra arrière / Dimention : 129*54.5*11.95mm / ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1616104058_798.jpg",
+  "Offres": [
+    {
+      "Price": "55 DT",
+      "Last-update": "12/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/telephonie/7926-telephone-portable-itel-it5260-gold.html"
+    },
+    {
+      "Price": "55 DT",
+      "Last-update": "12/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/telephonie/7925-telephone-portable-itel-it5260-bleu.html"
+    },
+    {
+      "Price": "67 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-itel-5260-bleu-34096.html"
+    },
+    {
+      "Price": "67 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-itel-5260-gold-34069.html"
+    },
+    {
+      "Price": "67 DT",
+      "Last-update": "17/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3132-itel-5260-gsm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a2a4f544720840cdb3"
+  },
+  "Name": "XIAOMI - TELEPHONE PORTABLE REDMI 10 / 6 GO / 4G / GRIS",
+  "Reference": "REDMI10-6-128-CG",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Écran 6.5\" DotDisplay LCD Gorilla Glass 3 - Taux de rafraîchissement de 90 Hz - Résolution Full HD+ 1080 x 2400 pixels - Processeur MediaTek Helio G88 Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55), Mali-G52 MC2 - RAM 6 Go - Mémoire 128 Go - Android 11 avec MIUI12.5 - Caméra arrière 50 MP, f/1.8 + capteur ultra grand angle de 8 MP (f/2.2, FOV 120°) + caméra macro de 2 MP (f/2.4) + capteur de profondeur de 2 MP (f/2.4) - HDR - Caméra Frontale 8 MP (f/2.0) - stereo speakers - 4G - Wifi - Bluetooth 5.1 - GPS - Lecteur d'empreinte Digitale - Batterie 5000 mAh - Charge rapide 18W  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1633811739_322.jpg",
+  "Offres": [
+    {
+      "Price": "729 DT",
+      "Last-update": "16/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/xiaomi-redmi-10-smartphone-128go-carbon-gray-tunisie"
+    },
+    {
+      "Price": "819 DT",
+      "Last-update": "11/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/smartphones/3989-smartphone-xiaomi-redmi-10-6go-128go-bleu.html"
+    },
+    {
+      "Price": "819 DT",
+      "Last-update": "15/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/smartphone-tunisie/redmi-10-6128go-carbon-gray-prix-tunisie"
+    },
+    {
+      "Price": "819 DT",
+      "Last-update": "15/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/smartphone-tunisie/redmi-10-6128go-blue-prix-tunisie"
+    },
+    {
+      "Price": "819 DT",
+      "Last-update": "16/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/xiaomi-redmi-10-smartphone-128go-sea-blue-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a2a4f544720840cdb4"
+  },
+  "Name": "Servicom - Téléphone Portable Easy Class",
+  "Reference": "EASY-CLASS",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran 2.4\" QVGA TFT, Processeur: MTK 6261D , Stockage: 32 Mo - Appareil photo: 1.3  MégaPixel avec Flash LED - Support MicroSD (16GB) - Bluetooth - Dual SIM - FM Radio ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1027_1.jpg",
+  "Offres": [
+    {
+      "Price": "55 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/3802-telephone-portable-servicom-easy-class-blanc-et-argent.html"
+    },
+    {
+      "Price": "55 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/3801-telephone-portable-servicom-easy-class-blanc-et-or.html"
+    },
+    {
+      "Price": "55 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/3800-telephone-portable-servicom-easy-class-noir-et-argent.html"
+    },
+    {
+      "Price": "55 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/3799-telephone-portable-servicom-easy-class-noir-et-or.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a3a4f544720840cdb5"
+  },
+  "Name": "VERSUS - Téléphone Portable X1 Double Sim",
+  "Reference": "X1",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 1.8\" QVGA - Appareil photo: VGA - Double Sim - avec Radio FM, Bluetooth, GPRS et Torche ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1516292854_971.jpg",
+  "Offres": [
+    {
+      "Price": "48 DT",
+      "Last-update": "23/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-versus-x1-noir-rouge-36641.html"
+    },
+    {
+      "Price": "48 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-versus-x1-rouge-14995.html"
+    },
+    {
+      "Price": "48 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-versus-x1bleu-14223.html"
+    },
+    {
+      "Price": "48 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-versus-x1bleu-14224.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a4a4f544720840cdb6"
+  },
+  "Name": "CLEVER - Téléphone portable C3 DOUBLE SIM",
+  "Reference": "CLEVER-C3",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 1.8\" TFT - Appareil photo Arriére: VGA  - Double SIM  - Radio FM Wifi  ( Radio Sans Kit ) - Couleur: Rouge ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1572785814_610.jpg",
+  "Offres": [
+    {
+      "Price": "39 DT",
+      "Last-update": "03/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/8707d-planeteinformatique-ok.jpg",
+      "product-link": "https://planete-informatique.tn/produit/telephone-portable-clever-c3-blanc/"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "03/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/8707d-planeteinformatique-ok.jpg",
+      "product-link": "https://planete-informatique.tn/produit/telephone-portable-clever-c3-bleu/"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "03/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/8707d-planeteinformatique-ok.jpg",
+      "product-link": "https://planete-informatique.tn/produit/telephone-portable-clever-c3-noir/"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "03/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/8707d-planeteinformatique-ok.jpg",
+      "product-link": "https://planete-informatique.tn/produit/telephone-portable-clever-c3-rouge/"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a4a4f544720840cdb7"
+  },
+  "Name": "IPRO - TéLéPHONE PORTABLE S8 / DOUBLE SIM",
+  "Reference": "IPRO-S8",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran 2.4\" QVGA - Résolution: 240 x 320 - Mémoire interne: 32 x 32 Mo, Extensible Jusqu'à 8 Go - Caméra: 1.3 MP / Flash  - Lecteur MP3 - Radio FM - Batterie: 1000 mAh - Lampe torche, langues multiples -  Connectivité sans fil:BT / FM / WIRLESS - Torche:LED flashlight ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1594984242_711.jpg",
+  "Offres": [
+    {
+      "Price": "89 DT",
+      "Last-update": "05/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-s8-double-sim-noir-prix-tunisie"
+    },
+    {
+      "Price": "89 DT",
+      "Last-update": "05/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-s8-double-sim-blanc-prix-tunisie"
+    },
+    {
+      "Price": "89 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-lpro-s8-double-sim-noir-ipro-s8-black.html"
+    },
+    {
+      "Price": "89 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-ipro-s8-double-sim-blanc-s8-b.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a5a4f544720840cdb8"
+  },
+  "Name": "IPRO - TÉLÉPHONE PORTABLE P1 ",
+  "Reference": "IPRO-P1",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Écran: 2.4\"  - Stockage: extensible jusqu'à 16Go  - Appareil Photo: 0.08 MégaPixels  - Capacité batterie: 2500 mAh  - Double SIM  - Radio FM, Bluetooth, Lecture MP3, Torche ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1635027093_870.jpg",
+  "Offres": [
+    {
+      "Price": "59 DT",
+      "Last-update": "05/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-p1-gold"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "05/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-p1-gris"
+    },
+    {
+      "Price": "60 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-ipro-p1-silver-ipro-p1-silver.html"
+    },
+    {
+      "Price": "60 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-ipro-p1-gold-ipro-p1-gold.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a6a4f544720840cdb9"
+  },
+  "Name": "Logicom - Téléphone Portable L-198",
+  "Reference": "L-198",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Téléphone Portable Logicom L-198 : Ecran: 1.77\" QVGA RADIO - MP3 -BLUETOOTH - Double SIM - Batterie: 600mAh - Torche ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1589045027_705.jpg",
+  "Offres": [
+    {
+      "Price": "45 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/-gsm-logicom-l-198-bleu-38316.html"
+    },
+    {
+      "Price": "45 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/-gsm-logicom-l-198-gris-38353.html"
+    },
+    {
+      "Price": "45 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/-gsm-logicom-l-198-noir-38313.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a6a4f544720840cdba"
+  },
+  "Name": "ITEL - TELEPHONE PORTABLE A17 / DOUBLE SIM ",
+  "Reference": "ITEL-A17-DB",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran 5\" - Processeur Quad-Core 1.3GHz - RAM 1 Go - Mémoire 16 Go - Android 10 Edition Go - Appareils Photos 5 MP (Arrière), 2 MP (Frontale) - 3G - Wifi - GPS - Batterie 2400 mAh  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1624317770_525.jpg",
+  "Offres": [
+    {
+      "Price": "239 DT",
+      "Last-update": "04/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/smartphones/3825-smartphone-itel-a17-3g-double-sim-bleu-clair.html"
+    },
+    {
+      "Price": "239 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphones-tunisie/2847-itel-a17-lac-blue-prix-tunisie.html"
+    },
+    {
+      "Price": "239 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphones-tunisie/2846-itel-a17-prix-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a7a4f544720840cdbb"
+  },
+  "Name": "SMARTEC - TÉLÉPHONE PORTABLE S18",
+  "Reference": "SMARTEC-S18",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Écran: 1.77\"  - Batterie: 800mAh - Nombre de SIM: 2 - Radio FM - Dimensions: 111.15 x 49.5 x 14.4 mm  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1638441228_123.jpg",
+  "Offres": [
+    {
+      "Price": "39 DT",
+      "Last-update": "16/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/smartec-s18-telephone-portable-dual-sim-debloque-black-tunisie"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "16/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/smartec-s18-telephone-portable-dual-sim-brown-tunisie"
+    },
+    {
+      "Price": "39 DT",
+      "Last-update": "16/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/smartphones-mobiles/smartec-s18-telephone-portable-dual-sim-light-blue-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a7a4f544720840cdbc"
+  },
+  "Name": "TECNO - T101 32M+32M",
+  "Reference": "TECNO-T101",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran 1.77 QVGA Réseau GSM Stockage  32 Mo ROM + 32 Mo RAM Processeur  MT6261D - Caméra  0,08 Caméra arrière Connectivité BT, FM Batterie  1000 mah type ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1650231983_418.jpg",
+  "Offres": [
+    {
+      "Price": "41 DT",
+      "Last-update": "25/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/2945-tecno-t101.html"
+    },
+    {
+      "Price": "50 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/-gsm-tecno-t101-bleu-38402.html"
+    },
+    {
+      "Price": "50 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/-gsm-tecno-t101-noir-38394.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a8a4f544720840cdbd"
+  },
+  "Name": "Servicom - Téléphone Portable Easy Premium",
+  "Reference": "EASY-PREMIUM",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 2.8\" TFT  - Mémoire RAM: 32 Mo ,  Mémoire Extensible Via Carte Mémoire SD - Appareil photo: 1,3 MégaPixels  avec Radio, Torche - Connectivité:  Bluetooth - Double SIM - Capacité Batterie: 1200 mAh  - Autonomie de Batterie: Jusqu'à 4 jours ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1522160382_432.jpg",
+  "Offres": [
+    {
+      "Price": "60 DT",
+      "Last-update": "30/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/3804-telephone-portable-servicom-easy-premium-noirsilver.html"
+    },
+    {
+      "Price": "60 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/3803-telephone-portable-servicom-easy-premium-blanc-or.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a8a4f544720840cdbe"
+  },
+  "Name": "Logicom - Téléphone PORTABLE POSH 280",
+  "Reference": "POSH-280",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 2.8\"  - Résolution d'écran: 240 x 320 pixels  - Mémoire RAM: 32 Mo - Stockage: 32 Mo - Mémoire Extensible: Jusqu'à 16 Go - Appareil photo: 0.3 Mégapixels - Capacité Batterie: Li-ion 1000 mAh  - Double SIM  - avec Torche - Radio FM et Bluetooth - Dimensions: 129 x 55 x 14 mm - Poids: 96 g - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1538578224_555.jpg",
+  "Offres": [
+    {
+      "Price": "55 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/telephone-portable/5050-telephone-portable-logicom-le-posh-280-double-sim-noir-posh-280bk-shopping-en-ligne-last-price-tunisie.html"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "11/11/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7e82d-simop.png",
+      "product-link": "https://www.simop.com.tn/produits/view?id=781"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7a9a4f544720840cdbf"
+  },
+  "Name": "IKU - TéLéPHONE PORTABLE S1",
+  "Reference": "IKU-S1",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran:  1.8\"  TFT - Résolution:  240 x 320 Pixels -  Camera - Wireless FM/Radio - Vibration - Double Sim - Batterie: 600 Mah - Torch Light ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1591806904_747.gif",
+  "Offres": [
+    {
+      "Price": "48 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-iku-s1-mini-noir.html"
+    },
+    {
+      "Price": "48 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-iku-s1-mini-bleu.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7aaa4f544720840cdc0"
+  },
+  "Name": "maxfone - Téléphone PORTABLE M118",
+  "Reference": "M118",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Téléphone Portable MAXFONE M118 Gold:Ecran: 1,77 poucesCapacité Batterie: 2000mAhTriple SIMCaméraMP4, FM Radio ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1615230523_597.jpg",
+  "Offres": [
+    {
+      "Price": "55 DT",
+      "Last-update": "25/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3167-maxfone-m118.html"
+    },
+    {
+      "Price": "59 DT",
+      "Last-update": "29/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/8707d-planeteinformatique-ok.jpg",
+      "product-link": "https://planete-informatique.tn/produit/telephone-portable-maxphone-m118-gold/"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7aaa4f544720840cdc1"
+  },
+  "Name": "NOKIA - TéLéPHONE PORTABLE NOKIA 225 ",
+  "Reference": "NOKIA-225",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 2.4\" QVGA (320 x 240 pixels) - Système d'exploitation: RTOS (Série 30+)  - Mémoire de Stockage: 128 + 64 Mo  Emplacement pour carte MicroSD Prend en charge jusqu'à 32 Go - Caméra Arriére: 0,3 MP VGA  - 4G - Dual SIM - FM Radio - Lecteur MP3 - Capacité de Batterie: 1150 mAh  - Connectivité Sans Fil: Bluetooth 5.0 - Connecteurs: Micro USB - Couleur: Sand -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1608583609_664.jpg",
+  "Offres": [
+    {
+      "Price": "149 DT",
+      "Last-update": "24/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-nokia-225-4g-bleu.html"
+    },
+    {
+      "Price": "149 DT",
+      "Last-update": "24/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-nokia-225-4g-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7aba4f544720840cdc2"
+  },
+  "Name": "NOKIA - SMARTPHONE 5.4 4G 128 Go",
+  "Reference": "NOKIA5.4",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double Sim - Ecran 6.39\" IPS 720 x 1560 px - Processeur Octa Core Qualcomm SM6115 Snapdragon 662 (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)  - RAM 4 Go - Mémoire 128 Go - Android 10 - Appareils photo (arrière)  48 MP f/1.8, (wide), PDAF + 5 MP 13mm (ultrawide) + 2 MP (macro) + 2 MP (Profondeur) , 16 MP, f/2.0, (wide) (Avant) - 4G - Wifi - Bluetooth - GPS - Batterie 4000 mAh - Couleur Violet -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1615974832_391.jpg",
+  "Offres": [
+    {
+      "Price": "499 DT",
+      "Last-update": "29/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphones-tunisie/2496-nokia-5-4-bleu-prix-tunisie.html"
+    },
+    {
+      "Price": "499 DT",
+      "Last-update": "29/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphones-tunisie/2615-nokia-54-purple-prix-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7aba4f544720840cdc3"
+  },
+  "Name": "IPRO - TELEPHONE PORTABLE A29",
+  "Reference": "IPRO-A29",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Réf :IPRO-A29  - RAM : 32 MO Stockage : 32 MO Nombre de SIM : Dual SIM Taille d'écran : 2.8 pouces Capacité de la batterie : 1400 mAh ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1615975630_852.jpg",
+  "Offres": [
+    {
+      "Price": "60 DT",
+      "Last-update": "19/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-ipro-a29-noirbleu-ipro-a29-noir-bleu.html"
+    },
+    {
+      "Price": "60 DT",
+      "Last-update": "19/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/telephone-portable-ipro-a29-noir-ipro-a29-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7aca4f544720840cdc4"
+  },
+  "Name": "ITEL - TELEPHONE PORTABLE 2192 / DOUBLE SIM ",
+  "Reference": "ITEL-2192-DB",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran 1.8\" HVGA - Résolution: 320 x 480 - Mémoire interne: 64 Mo, Extensible Jusqu'à 8 Go - Réseau 2G - Caméra: 0.3 MP  - Lecteur MP3 - Radio FM - Batterie: 1000 mAh - Lampe torche, langues multiples -  Connectivité : Bluetooth, Jack, Micro USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1624317875_195.jpg",
+  "Offres": [
+    {
+      "Price": "51 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-itel-2192-bleu-34067.html"
+    },
+    {
+      "Price": "51 DT",
+      "Last-update": "12/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/gsm-itel-2192-noir-33801.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7aca4f544720840cdc5"
+  },
+  "Name": "ITEL - TELEPHONE PORTABLE A37 / DOUBLE SIM",
+  "Reference": "ITEL-A37",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran 5.7\" Waterdrop  HD+ - Processeur Spreadtrum  Quad-core 1.3GHz - RAM 1 Go - Mémoire 16 Go - Android 10 (Edition Go) - Caméra Arrière 5 MP - Caméra Frontale 2 MP - Reconnaissance Faciale - Batterie 3020 mAh - 3G - Wifi  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1625584561_799.jpg",
+  "Offres": [
+    {
+      "Price": "209 DT",
+      "Last-update": "02/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphones-tunisie/2919-itel-a37-blue-prix-tunisie.html"
+    },
+    {
+      "Price": "209 DT",
+      "Last-update": "02/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphones-tunisie/2920-itel-a37-vert-prix-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7ada4f544720840cdc6"
+  },
+  "Name": "IPRO - TÉLÉPHONE PORTABLE F183 ",
+  "Reference": "F183",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 2.4 pouce TFT - Mémoire RAM: 32 Mo - Stockage: 32 Mo - Appareil photo: 0.08 Megapíxels - Double SIM - Batterie: 800 mAh -  MP3 / MP4 / Radio - Talk back / bouton SOS / torche - Prise en charge de la carte TF - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1658000281_374.jpg",
+  "Offres": [
+    {
+      "Price": "74 DT",
+      "Last-update": "16/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-f183-noir-prix-tunisie"
+    },
+    {
+      "Price": "75 DT",
+      "Last-update": "26/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3263-ipro-f183-gsm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7ada4f544720840cdc7"
+  },
+  "Name": "NOKIA - Téléphone Portable 3310 - 2017 DS",
+  "Reference": "TA-1030",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 2,4\" TFT QVGA (320 x 240 pixels) - Mémoire de Stockage: 16 Mo  - carte mémoire MicroSD Extensible jusqu? à 32 Go - Caméra Arriére 2.0 MégaPixels  avec Flash LED - Dual SIM - Torche électrique - FM Radio - Capacité de Batterie: 1200 mAh - Connectivité Micro USB (USB 2.0), Connectivité Sans Fil: Bluetooth 3.0 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1516291614_115.jpg",
+  "Offres": [
+    {
+      "Price": "169 DT",
+      "Last-update": "16/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphone-en-Tunisie-gsm/398-2675-Nokia-en-Tunisie-nokia-3310-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7aea4f544720840cdc8"
+  },
+  "Name": "Leagoo - Téléphone Portable C5 Double SIM",
+  "Reference": "C5",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Téléphone Portable LEAGOO C5 - Ecran: 1.77\" QQVGA, Résolution d'écran:128 x 160 pixels - Mémoire RAM: 32 Mo - Mémoire ROM: 32 Mo -  Mémoire Extensible Jusqu'à 16 Go - Appareil photo: 1,3 MP - Radio -  Bluetooth - Double SIM - Capacité Batterie: 1050 mAh ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1516616411_657.jpg",
+  "Offres": [
+    {
+      "Price": "40 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/3722-telephone-portable-double-sim-leagoo-c5.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7aea4f544720840cdc9"
+  },
+  "Name": "Leagoo - Téléphone Portable C6 Double Sim",
+  "Reference": "C6",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Téléphone Portable LEAGOO C6 - Ecran: 2.4\"  QVGA, Résolution d'écran:320 x 240 pixels - Mémoire RAM: 32 Mo - Mémoire ROM: 32 Mo -  Mémoire Extensible Jusqu'à 32 Go  - Appareil photo: 1,3 MP avec Flash LED - Radio -  Bluetooth - Double SIM - Capacité Batterie: 2050 mAh ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1516616437_498.jpg",
+  "Offres": [
+    {
+      "Price": "50 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/3723-telephone-portable-c6-leagoo.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7afa4f544720840cdca"
+  },
+  "Name": "Leagoo - Téléphone Portable C POWER",
+  "Reference": "CPOWER",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Téléphone Portable LEAGOO C POWER - Ecran: 2.4\" QVGA,  Résolution d'écran:320 x 240 pixels - Mémoire RAM: 32 Mo  - Mémoire ROM: 32 Mo  -  Mémoire Extensible Jusqu'à 32 Go  - Appareil photo: 1,3 MP  avec Flash LED - Radio -  Bluetooth - Double SIM - Capacité Batterie: 400 0 mAh ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1516616540_467.jpg",
+  "Offres": [
+    {
+      "Price": "75 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/3724-telephone-portable-leagoo-c-power-double-sim.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7afa4f544720840cdcb"
+  },
+  "Name": "Leagoo - Téléphone Portable D1 Double SIM",
+  "Reference": "D1",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran  1.77\" QQVGA  -  RAM 32 Mo - Mémoire 32 Mo - Appareil Photo 1.3 MP -   Radio FM - Torche - Batterie 800 mAh - Couleur Noir  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1519922478_602.jpg",
+  "Offres": [
+    {
+      "Price": "40 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/4707-telephone-portable-leagoo-d1-177-13mp-fm-radio-torche-800-mah.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b0a4f544720840cdcc"
+  },
+  "Name": "Evertek - Téléphone Portable Rock Double Sim",
+  "Reference": "EVER-ROCK",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "EVERTEK Rock - Ecran: 1.8\" QVGA (128 x 160 Pixels) - Stockage: extensible jusqu'à 8 Go Via Carte Mémoire SD.Torch - Appareil photo Arriére: VGA avec Flash - Connectivité: Bluetooth - Radio FM, Lecteur MP3 , WaterProof, anti-chute, anti-poussière - Batterie: 1000 mAh  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1522161528_827.jpg",
+  "Offres": [
+    {
+      "Price": "69 DT",
+      "Last-update": "19/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphone-en-Tunisie-gsm/396-484-evertek-rock-8-evertek-telephone-portabletunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b1a4f544720840cdcd"
+  },
+  "Name": "LP - TéLéPHONE PORTABLE - N28S",
+  "Reference": "N-28-S",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran 2.8'' ,Processeur Dual core ,Système D'exploitation Android 6.0 Marshmallow ,Mémoire RAM  512 Mo , Mémoire ROM 32mb ,Carte Mémoire oui, Nombre De SIM Dual Sim, Appareil Photo ArrièreVGA ,Batterie 1500mAh ,Connectivité BT ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1538476768_419.jpg",
+  "Offres": [
+    {
+      "Price": "69 DT",
+      "Last-update": "19/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphone-en-Tunisie-gsm/395-483-lp-n-28s-6-lp-telephone-portabletunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b1a4f544720840cdce"
+  },
+  "Name": "Leagoo - TéLéPHONE PORTABLE D2 3G Double Sim",
+  "Reference": "Leagoo-D2",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 2.4\" QQVGA - Mémoire RAM :32 Mo - Mémoire ROM: 32 Mo - Appareil Photo :1.3 MP - Radio FM - Torche - Double SIM- Capacité Batterie: 1700 mAh - Couleur noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1539004429_784.jpg",
+  "Offres": [
+    {
+      "Price": "50 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/4708-telephone-portable-leagoo-d2-24-13mp-flash-led-fm-radio-torche-1700-mah.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b2a4f544720840cdcf"
+  },
+  "Name": "Logicom - Téléphone étanche L-XTREM 21 NOIR",
+  "Reference": "L-XTREM21",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Compatibilité opérateurs Tous opérateurs Réseau 2G Fréquence Quadri-bandes Ecran TFT de 1,77\" 128x160 pixels Messagerie SMS, MMS Fonction Bluetooth Oui WiFi Non Technologie NFC Non Appareil photo Appareil photo 0,3 Mpixels Vidéos Lecteur et enregistreur de vidéo Sortie TV Non Prise Jack Oui, 3.5 mm Mémoire interne 16 Mo de mémoire ROM et 32 Mo de mémoire RAM Type de batterie Li-ion 1600 mAh Indice DAS Corps 0,742 W/Kg En savoir + Double sim Oui Dimensions 11,9 x 5,0 x 2,05 cm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1538476601_633.jpg",
+  "Offres": [
+    {
+      "Price": "109 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/telephone-mobile/6154-telephone-mobile-177-noir-l-xtrem21-nr-logicom.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b2a4f544720840cdd0"
+  },
+  "Name": "VERSUS - Téléphone Portable F180",
+  "Reference": "F180",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 1.8\" QVGA - Caméra :VGA - Connectivité : Bluetooth ? Radio FM -Torche - MP3 - 3GP - Double SIM  -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1553420890_480.jpg",
+  "Offres": [
+    {
+      "Price": "38 DT",
+      "Last-update": "22/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/telephone-portable/3673-telephone-portable-versus-f180-double-sim-blanc-f180-w-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b3a4f544720840cdd1"
+  },
+  "Name": "Evertek - Téléphone Portable HERO 4G",
+  "Reference": "EVER-HERO",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran 6.09\" U-Notch HD+ - Processeur SC9863A Octa-Core, 4A55 @1.6GHz + 4A55 @1.2GHz - RAM 3 Go - Mémoire 32 Go - Appareils Photos: 13MP + 2MP Arrirère / 5MP Frontale - Android 9.1 - Lecteur d'empreinte digitale - Reconnaissance faciale - 4G - Wifi - Bluetooth - Batterie 4000 mAh ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1580200714_386.jpg",
+  "Offres": [
+    {
+      "Price": "299 DT",
+      "Last-update": "05/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/smartphone-evertek-hero-4g-bleu.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b3a4f544720840cdd2"
+  },
+  "Name": "NOKIA - Téléphone PORTABLE Nokia 220 4G",
+  "Reference": "NOKIA-220",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 2.4\" TFT  - Résolution: 240 x 320 pixels - Mémoire RAM: 16 Mo  - Stockage: 24 Mo  - Appareil Photo: 0.3 MP Flash LED - Batterie: Li-Ion - Capacité de Batterie: 1200 mAh - Autonomie de Batterie: Jusqu'à 6 h 18 min de conversation - Radio FM Bluetooth 4.2 - 4G - Double SIM - Connecteurs: Micro USB 2.0, Port Jack 3.5 mm - Couleur: Noir  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1568070232_823.jpg",
+  "Offres": [
+    {
+      "Price": "142 DT",
+      "Last-update": "25/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphone-en-Tunisie-gsm/1196-1780-nokia-220-ds-4g-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b4a4f544720840cdd3"
+  },
+  "Name": "TECNO - Téléphone Portable T474 DOUBLE SIM",
+  "Reference": "TECNO-T474",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 2.8\"   - Mémoire RAM: 8 Mo  - Stockage: 8 Mo  - Appareil photo:: 0.3 Mégapixels  - Double SIM  - Capacité Batterie: 1900 mAh - Radio FM - Couleur: Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1581592694_375.jpg",
+  "Offres": [
+    {
+      "Price": "70 DT",
+      "Last-update": "06/03/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/telephone-portable-tecno-t474-double-sim-noir-19656.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b4a4f544720840cdd4"
+  },
+  "Name": "TECNO - Téléphone Portable T372 TRIPLE SIM",
+  "Reference": "TECNO-T372",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 2.4\"  - Résolution: 320 x 240 pixels - Mémoire RAM: 4 Mo  - Stockage: 4 Mo  - Caméra arrière: 0.3 mégapixels - Bluetooth - Radio FM - Batterie: 1150 mAh - Triple SIM - Dimension: 118 x 50.2 x 13.5 mm - Couleur: Bleu ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1581592713_665.jpg",
+  "Offres": [
+    {
+      "Price": "50 DT",
+      "Last-update": "06/03/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/telephones-portables/telephone-portable-tecno-t372-triple-sim-noir-19655.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b5a4f544720840cdd5"
+  },
+  "Name": "IPRO - TéLéPHONE PORTABLE A20",
+  "Reference": "IPRO-A20",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 2.4\" (240 x 320)  - Mémoire RAM: 32 Mo  - Stockage: 32 Mo  - Appareil photo: 0.08 Megapíxels  - Double SIM  - Batterie: 1400 mAh  -  MP3 / MP4 / FM sans fil - Torche - Prise en charge de la carte TF ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1598619235_709.jpg",
+  "Offres": [
+    {
+      "Price": "45 DT",
+      "Last-update": "14/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/telephone-portable/telephone-portable-ipro-a20-double-sim-bleu"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b5a4f544720840cdd6"
+  },
+  "Name": "IKU - Téléphone PORTABLE S2 DOUBLE SIM",
+  "Reference": "IKU-S2",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran: 1.8\"  - Mémoire RAM: 32 Mo  - Stockage: 32 Mo jusqu'à 16 Go - Appareil photo Arrière: VGA   - Double SIM - Radio FM sans fil - Batterie: 800 mAh  - Music Player - Torche ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1606116404_647.jpg",
+  "Offres": [
+    {
+      "Price": "70 DT",
+      "Last-update": "25/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3197-s2-iku-gsm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b6a4f544720840cdd7"
+  },
+  "Name": "maxfone - Téléphone PORTABLE V11",
+  "Reference": "V11",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Téléphone Portable MAXFONE V11 Noir: Ecran: 2.8 pouces (240 x 320)Capacité Batterie: 2000mAhStockage: 32 MB RAM + 32MB ROM Triple SIM Dimensions: 140 x 59 x 16mmPoids: 200 g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1615230650_385.jpg",
+  "Offres": [
+    {
+      "Price": "69 DT",
+      "Last-update": "16/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/8707d-planeteinformatique-ok.jpg",
+      "product-link": "https://planete-informatique.tn/produit/telephone-portable-maxphone-v11-noir/"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b7a4f544720840cdd8"
+  },
+  "Name": "NOKIA - SMARTPHONE 1.4 4G DOUBLE SIM 32Go",
+  "Reference": "NOKIA1.4",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Double SIM - Ecran 6.5\" HD+ - Processeur Qualcomm QM215 Snapdragon 215 Quad-core 1.3 GHz - RAM 2 Go - Mémoire 32 Go up to 512 Go - Android 10 - Appareils Photo: 2x Arrière 8MP + 2MP, 5MP Frontal - 4G - Wifi - Bluetooth - GPS - Lecteur d'empreintes digitales - Batterie 4000 mAh ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1615974991_833.jpg",
+  "Offres": [
+    {
+      "Price": "340 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphones-tunisie/2614-nokia-1-4-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b7a4f544720840cdd9"
+  },
+  "Name": "CLEVER - TéLéPHONE PORTABLE F01",
+  "Reference": "F01",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Téléphone Portable Clever F01 - Double SIM - Ecran 1.77\" TFT - Mémoire 32 Mo extensible Jusqu'à 16 Go via carte mémoire microSD - Batterie 800 mAh - Radio FM sans fil - Bluetooth - Caméra VGA ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1616104304_726.jpg",
+  "Offres": [
+    {
+      "Price": "49 DT",
+      "Last-update": "18/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/telephonie/telephone-portable/telephone-portable-clever-f01.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b8a4f544720840cdda"
+  },
+  "Name": "LP - Téléphone PORTABLE STARLIGHT M06",
+  "Reference": "LP-M06",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran LCD 1.77\" ,  Mémoire extensible à 32Go,  Capacité de la batterie: 1000 mAh, Appareil photo: VGA et Enregistreur Video - Call Recorder - Dimension: 114 x 47 x 14 mm ,  Radio FM, , Torche LED - Bluetooth - USB - Double SIM ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1616108726_385.jpg",
+  "Offres": [
+    {
+      "Price": "43 DT",
+      "Last-update": "25/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/univers-telephonie/3301-starlight-m06-lp-gsm.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b8a4f544720840cddb"
+  },
+  "Name": "Ami - TELEPHONE PORTABLE C14",
+  "Reference": "C14",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran : 1.8\" pouces - Mémoire externe Jusqu?à 8Go - Caméra Arrière : Re-VGA - Capacité Batterie : 1050 mAh Li-on - Double SIM - Radio Fm ,Lecteur MP3 MP4 ,Led torche - Poids: 65g  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1625583950_493.jpg",
+  "Offres": [
+    {
+      "Price": "49 DT",
+      "Last-update": "13/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/46175-telephone-portable-ami-c14-power-double-sim-rouge.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b9a4f544720840cddc"
+  },
+  "Name": "Evertek - ELITE",
+  "Reference": "EV.ELITE",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran 2.4 Inch QVGARam32MB Résolution Ecran 240*320 Batterie1000MaH Appareil Photo Arrière 0.08MP Camera Connectivité Bluetooth / FM Radio ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1627674799_862.jpg",
+  "Offres": [
+    {
+      "Price": "46 DT",
+      "Last-update": "01/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ea9f-tunisiatech.jpg",
+      "product-link": "https://tunisiatech.tn/smartphone-en-Tunisie-gsm/2848-evertek-elite.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7b9a4f544720840cddd"
+  },
+  "Name": "IKU - TELEPHONE PORTABLE S8",
+  "Reference": "IKU-S8",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran : 2.4\" - Mémoire RAM: 32Mo - Stockage: 32 Mo - Caméra Arrière: 1.3 MP / Flash - Capacité Batterie: 1000Mah - Double SIM  - Bluetooth intelligent , Radio, Wirless FM ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1630273696_437.jpg",
+  "Offres": [
+    {
+      "Price": "89 DT",
+      "Last-update": "26/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/telephone-portable-tunisie/42408-telephone-portable-iku-s8-noir-iku-s8black.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7baa4f544720840cdde"
+  },
+  "Name": "Ami - TELEPHONE PORTABLE C14 MINI DOUBLE SIM",
+  "Reference": "C14-MINI",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Ecran : 1.44\" -  Capacité de Batterie : 1050 mAh Li-ion - Radio: Wireless Radio Fm - Lecteur Audio:  MP3/ - Torche: Double Led torche - Bluetooth: IEEE802 .15 / 3 dBm - USB: Micro USB - Audio: Jack 3.5mm - Dimensions: 112*47*12 mm - Poids: 66g - Dual SIM  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1644961964_299.jpg",
+  "Offres": [
+    {
+      "Price": "39 DT",
+      "Last-update": "31/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/telephone-portable-ami-c14-mini-rouge.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efa7bba4f544720840cddf"
+  },
+  "Name": "crosscall - TéLéPHONE PORTABLE SHARK-X3 ÉTANCHE NOIR",
+  "Reference": "GSM-SHARK-X3",
+  "type": "/telephonie_internet/telephonie_mobile/telephone_portable",
+  "Specs": "Écran : 2.4\" TFT Résolution : QVGA, 240 x 320 pixels, 256 000 couleurs Processeur : MTK MT6276A RAM : 128 Mo Stockage : 64 Mo extensible jusqu?à 32 Go (Micro SD) Appareil photo : 5 MP Connectivité : 3G, Bluetooth, USB 2.0 Double SIM IP 68 : Étanchéité à l?eau salée 2m / 60min - Étanchéité à la poussière Totale Fonctionnalités : Réveil - Magnétophone - Radio FM /RDS - Lampe torche - Calendrier - Chronomètre/minuteur - Calculatrice Batterie : 950 mAh Couleur : Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_telephonie_mobile/1622112916_899.jpg",
+  "Offres": [
+    {
+      "Price": "389 DT",
+      "Last-update": "22/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/telephones-mobiles/2892-telephone-portable-crosscall-shark-x3-etanche-noir.html"
+    }
+  ]
+}]

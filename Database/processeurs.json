@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "62f035efbd3fc8c25a3102ff"
+  },
+  "Name": "intel - PROCESSEUR  CORE I7-10700KF (3.8 GHZ / 5.10 GHZ)",
+  "Reference": "i7-10700K",
+  "type": "/informatique/composant/processeurs",
+  "Specs": "Package : Intel Fréquence CPU : 3.80GHz Fréquence en mode Turbo : 5.1 GHz Nombre de core : 8 Nombre de Threads : 16 mémoire cache : 16 MB Intel Smart Cache Températures maximales : 100°C Puissance : 125W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1625558730_469.jpg",
+  "Offres": [
+    {
+      "Price": "1389 DT",
+      "Last-update": "18/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/processeurs/3149-processeur-intel-core-i7-10700kf-38-ghz-510-ghz.html"
+    },
+    {
+      "Price": "1399 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/processeur/41800-processeur-intel-core-i7-10700k-38-ghz-51-ghz.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f035f6bd3fc8c25a310300"
+  },
+  "Name": "intel - PROCESSEUR  CORE I5 10400F (2.9 GHZ / 4.3 GHZ)",
+  "Reference": "I5-10400F",
+  "type": "/informatique/composant/processeurs",
+  "Specs": "Package : Intel Fréquence CPU : 3.90GHz Fréquence en mode Turbo : 4.30 GHz Nombre de core : 6 Nombre de Threads : 12 mémoire cache : 12 MB Intel Smart Cache Températures maximales : 100°C Puissance : 65W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1625558752_525.jpg",
+  "Offres": [
+    {
+      "Price": "609 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/processeur-intel-core-i5-10400f-29-ghz-43-ghz.html"
+    },
+    {
+      "Price": "609 DT",
+      "Last-update": "30/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/composants-pc-ordinateur/processeur-intel-core-i5-10400f-box-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f035fabd3fc8c25a310301"
+  },
+  "Name": "AMD - PROCESSEUR RYZEN 7 3800X (3.9 GHZ / 4.5 GHZ)",
+  "Reference": "ryzen-7-3800x",
+  "type": "/informatique/composant/processeurs",
+  "Specs": "Package : AM4 Fréquence CPU : 3.9 GHz Fréquence en mode Turbo : 4.5 GHz Nombre de core : 8 Nombre de Threads : 16 Système de refroidissement (PIB) : Wraith Stealth RGB LED Températures maximales : 95?°C Mémoire : DDR4 Maximale : 3200 MHz ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1644765784_793.jpg",
+  "Offres": [
+    {
+      "Price": "1249 DT",
+      "Last-update": "02/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/processeurs/4098-processeur-amd-ryzen-7-3800x.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f035fdbd3fc8c25a310302"
+  },
+  "Name": "AMD - PROCESSEUR RYZEN 5 3600X (3.8 GHZ / 4.4 GHZ)",
+  "Reference": "ryzen-5-3600x",
+  "type": "/informatique/composant/processeurs",
+  "Specs": "Package : AM4 Fréquence CPU : 3.8 GHz Fréquence en mode Turbo : 4.4 GHz Nombre de core : 6 Nombre de Threads : 12 Système de refroidissement (PIB) : Wraith Spire Températures maximales : 95?°C Mémoire : DDR4 Maximale : 3200 MHz ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1644766379_626.jpg",
+  "Offres": [
+    {
+      "Price": "779 DT",
+      "Last-update": "02/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/processeurs/4095-processeur-amd-ryzen-5-3600.html"
+    }
+  ]
+}]

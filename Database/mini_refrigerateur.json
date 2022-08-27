@@ -1,0 +1,421 @@
+[{
+  "_id": {
+    "$oid": "62efe661dad16fd06dff9a95"
+  },
+  "Name": "MONTBLANC - Réfrigérateur FB23 230L",
+  "Reference": "FB23",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Réfrigérateur Mont Blanc FB23  - Volume brut: 230 Litre - Thermostat réglable - consommation énergie Kwh/ jour 0.696, Classe énergétique: Classe 3 - Nombre de ports: 1 - Dimensions 124 x 55 x 56 cm - Couleur: Blanc -Poids Net/Brut (kg) 36/39 -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1049_1.jpg",
+  "Offres": [
+    {
+      "Price": "599 DT",
+      "Last-update": "24/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/refrigerateur-mont-blanc-fb23-mini-refrigerateur.html"
+    },
+    {
+      "Price": "599 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/electromenager/2240-refrigerateur-fb-23-230-l-2-mont-blanc-blanc.html"
+    },
+    {
+      "Price": "599 DT",
+      "Last-update": "21/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/refrigerateur-montblanc-230l-blanc-fb23-bouteille-a-boire-650-ml-gratuit.html"
+    },
+    {
+      "Price": "599 DT",
+      "Last-update": "09/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/mont-blanc-fb23.html"
+    },
+    {
+      "Price": "699 DT",
+      "Last-update": "29/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/refrigerateur-congelateur/refrigerateur-montblanc-230l-fb23-blanc-prix-tunisie"
+    },
+    {
+      "Price": "699 DT",
+      "Last-update": "24/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/gros-electromenager/refrigerateurs/montblanc-bambi-fb23-refrigerateur-230l-blanc-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe665dad16fd06dff9a96"
+  },
+  "Name": "FOCUS - Réfrigérateur encastrable f.585 146L ",
+  "Reference": "f.585",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Réfrigérateur sous plan intégrable\nClasse énergétique : A\nTotalement encastrable\nVolume: 170 litres\nDégivrag automatique\nEmbase ventilé\nPorte Réversible\nClayettes en verre ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1517909570_263.jpg",
+  "Offres": [
+    {
+      "Price": "1449 DT",
+      "Last-update": "09/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/focus-f-585.html"
+    },
+    {
+      "Price": "1459 DT",
+      "Last-update": "29/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/frigo-encastrable-focus-170l-blanc-f585.html"
+    },
+    {
+      "Price": "1469 DT",
+      "Last-update": "10/09/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/congelateur-tunisie/32446-frigo-bar-encastrable-focus-f585-170l.html"
+    },
+    {
+      "Price": "1469 DT",
+      "Last-update": "02/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/6280c-lce.jpg",
+      "product-link": "http://lce.tn/refrigerateur-encastrable/795-refrigerateur-focus.html"
+    },
+    {
+      "Price": "1525 DT",
+      "Last-update": "01/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/gros-electromenager/congelateurs/focus-f585-congelateur-encastrable-170-litres-blanc-tunisie"
+    },
+    {
+      "Price": "1529 DT",
+      "Last-update": "25/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/congelateur/mini-bar-focus-f585-170-litres-blanc"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe666dad16fd06dff9a97"
+  },
+  "Name": "Acer - MINI BAR GT1001 89 LITRES DEFROST GT1001LX",
+  "Reference": "GT1001LX",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Mini Bar ACER MonoPorte - Système de refroidissement: DeFrost - Volume Total:  89 Litres - Classe Énergétique: 3 - Dimensions: 84 x 48 x 48 cm - Couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1576022649_122.jpg",
+  "Offres": [
+    {
+      "Price": "599 DT",
+      "Last-update": "12/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/refrigerateur-gros-electromenager-2/4185-mini-bar-acer-defrost-gt1001lx-89l-blanc.html"
+    },
+    {
+      "Price": "599 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/refrigerateur-tunisie/37773-mini-bar-acer-defrost-gt1001lx-89l-blanc.html"
+    },
+    {
+      "Price": "599 DT",
+      "Last-update": "11/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/mini-bar-acer-defrost-89l-blanc-gt1001lx.html"
+    },
+    {
+      "Price": "619 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/mini-bar-acer-gt1001lx-100-litres-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe66edad16fd06dff9a98"
+  },
+  "Name": "MONTBLANC - Réfrigérateur Mini bar KMB ECO 45L",
+  "Reference": "KMB-ECO-45",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Réfrigérateur Mini bar 45L avec une porte, Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1536859889_171.jpg",
+  "Offres": [
+    {
+      "Price": "479 DT",
+      "Last-update": "15/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/gros-electromenager/mini-refrigerateur/montblanc-kmbeco45-mini-bar-50-litres-1-porte-blanc-tunisie"
+    },
+    {
+      "Price": "529 DT",
+      "Last-update": "29/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/refrigerateur-tunisie/mini-bar-montblanc-kmb-eco-45l-blanc"
+    },
+    {
+      "Price": "559 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/refrigerateur/4964-mini-bar-montblanc-50-litres-blanc-kmbeco45.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe670dad16fd06dff9a99"
+  },
+  "Name": "MONTBLANC - TABLE BASSE CONNECTéE AVEC RéFRIGéRATEUR INTéGRé TBSM150 150L",
+  "Reference": "TBSM150",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Table basse connectée avec Réfrigérateur intégré - Capacité: 150 Litres - Haut parleur Bluetooth intégré - Eclairage LED - Surface en verre trempé - Unité de contrôle tactile - 2x ports USB - 2x prises d'alimentation ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1541331859_570.jpg",
+  "Offres": [
+    {
+      "Price": "3225 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/refrigerateur/4967-table-basse-connectee-avec-refrigerateur-150l-integre-montblanc-tbsm150g-noir.html"
+    },
+    {
+      "Price": "3225 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/refrigerateur/4966-table-basse-connectee-avec-refrigerateur-150l-integre-montblanc-tbsm150w-noir.html"
+    },
+    {
+      "Price": "3225 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/refrigerateur/4965-table-basse-connectee-avec-refrigerateur-150l-integre-montblanc-tbsm150b-noir.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe671dad16fd06dff9a9a"
+  },
+  "Name": "MONTBLANC - Réfrigérateur Mini-Bar FB14",
+  "Reference": "FB14",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Réfrigérateur Mini-Bar MontBlanc FB14 - Volume Brut: 128 L - Volume Net: 107 L - 3 Etoiles - Consommation d'énergie: 0.732 KWh/jour - Classe énergétique : 3 - Alimentation 230V/50Hz - -  Couleur Blanc - Dimensions: 83 x 55 x 56 cm - Poids 32 kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1520256890_724.jpg",
+  "Offres": [
+    {
+      "Price": "579 DT",
+      "Last-update": "21/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/gros-electromenager/mini-refrigerateur/montblanc-fb14-mini-refrigerateur-107-litres-blanc-tunisie"
+    },
+    {
+      "Price": "645 DT",
+      "Last-update": "25/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/refrigerateur-congelateur/refrigerateur-mini-bar-montblanc-fb14-blanc-prix-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe671dad16fd06dff9a9b"
+  },
+  "Name": "CONDOR - MINI BAR CRF-T5GM8 / 46L",
+  "Reference": "CRF-T5GM8",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Mini Bar Condor CRF-T5GM8 - Volume Brut: 46L - Classe énergétique A - Réfrigérant R600a - Dimensions: 470 x 435 x 470 mm - Couleur Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1576022073_270.jpg",
+  "Offres": [
+    {
+      "Price": "419 DT",
+      "Last-update": "19/05/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/refrigerateur-gros-electromenager-2/3834-mini-bar-condor-defrost-43-l-blanc.html"
+    },
+    {
+      "Price": "439 DT",
+      "Last-update": "02/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/mini-bar-condor-43l-blanc-crf-t5gm8.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe677dad16fd06dff9a9c"
+  },
+  "Name": "AUXSTAR - MINI BAR 50L BLANC",
+  "Reference": "BC-50",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Faible consommation d'énergie-porte réversible-bac à glaçons inclus-serrures et clés-Capacité de 50 litres- ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1046_1.jpg",
+  "Offres": [
+    {
+      "Price": "399 DT",
+      "Last-update": "23/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/mini-bar-auxstar-50-litres-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe67bdad16fd06dff9a9d"
+  },
+  "Name": "MONTBLANC - Réfrigérateur monoporte FT14",
+  "Reference": "FT14",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Réfrigérateur monoporte, 140L, Froid statique, Marron ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1523352932_307.jpg",
+  "Offres": [
+    {
+      "Price": "560 DT",
+      "Last-update": "31/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/refrigerateur/4946-refrigerateur-ft-14-140-l-41-porte-teck-montblanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe67cdad16fd06dff9a9e"
+  },
+  "Name": "FOCUS - Congélateur intégrable F.580 170L",
+  "Reference": "F.580",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Congélateur sous plan intégrable\nClasse énergétique : A\nTotalement encastrable\nVolume: 170 litres\nDégivrag automatique\nEmbase ventilé\nPorte Réversible\nCongélateur 3 Tiroirs ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1523945416_238.jpg",
+  "Offres": [
+    {
+      "Price": "1469 DT",
+      "Last-update": "02/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/6280c-lce.jpg",
+      "product-link": "http://lce.tn/refrigerateur-encastrable/1137-refrigerateur-focus.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe67cdad16fd06dff9a9f"
+  },
+  "Name": "BIOLUX - Mini Réfrigérateur MP 07 50 Litres",
+  "Reference": "MP07",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Mini Bar BIOLUX avec un Porte réversible\n? Système de refroidissement: Statique\n ? Volume total: 50 Litres \n? Classe climatique: ST \n? Gaz Réfrigérant: R600a \n? Consommation d?énergie: 0.29 Kwh/24h \n? Puissance : 220/240V\n? Fréquence : 50Hz ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1548845158_938.jpg",
+  "Offres": [
+    {
+      "Price": "459 DT",
+      "Last-update": "06/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/refrigerateur/49338-mini-bar-biolux-46-litres-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe67ddad16fd06dff9aa0"
+  },
+  "Name": "NewStar - MINI BAR MP1200 120 LITRES",
+  "Reference": "mp1200",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "réf: mp1200 - Mini Bar NEWSTAR avec un Porte réversible - Système de refroidissement:  Statique  - Volume Net total:  120 Litres  - Classe climatique:  ST - Consommation d?énergie:  0.3 Kwh/24h - Puissance : 220/240V - Fréquence : 50Hz - Couleur: Blanc  -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1576023124_442.jpg",
+  "Offres": [
+    {
+      "Price": "449 DT",
+      "Last-update": "16/08/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/gros-electromenager/mini-refrigerateur/newstar-mp1200-mini-refrigerateur-120-litres-blanc-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe67edad16fd06dff9aa1"
+  },
+  "Name": "HISENSE - Mini Bar RS-12DR / 91L",
+  "Reference": "RS-12DR",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Mini Bar HISENSE - Capacité du Réfrigérateur: 92 Litres - Porte réversible - Tension: 220-240 V - Fréquence: 50 Hz-60 Hz - Contrôle du thermostat réglable - Réfrigérant R600A - Dimensions: 84.2 x 47.5 x 44.6 cm - Couleur: Silver ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1592996776_906.jpg",
+  "Offres": [
+    {
+      "Price": "529 DT",
+      "Last-update": "28/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/gros-electromenager/mini-refrigerateur/hisense-rs-12dr-mini-bar-92-litres-porte-reversible-silver-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe67fdad16fd06dff9aa2"
+  },
+  "Name": "NewStar - MINI BAR DEFROST 50L BLANC",
+  "Reference": "0500B",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Système de refroidissement : Statique Volume total : 50 Litres Classe climatique :ST Gaz Réfrigérant : R600a Consommation d?énergie : 0.29 Kwh/24 h Puissance : 220/240 V Fréquence : 50 Hz Couleur : Blanc  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1622190770_570.jpg",
+  "Offres": [
+    {
+      "Price": "409 DT",
+      "Last-update": "06/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/refrigerateur-gros-electromenager-2/2377-mini-bar-newstar-defrost-50l-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe680dad16fd06dff9aa3"
+  },
+  "Name": "NewStar - MINI BAR 120L BLANC",
+  "Reference": "1200B",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Mini Bar NEWSTAR avec un Porte réversible Système de refroidissement :  Statique Volume Net total :   120 Litres   Classe climatique :  ST   Consommation d?énergie :  0.3 Kwh/24h Puissance : 220/240V Fréquence : 50Hz Couleur : silver ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1622190823_532.jpg",
+  "Offres": [
+    {
+      "Price": "450 DT",
+      "Last-update": "28/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/refrigerateur-gros-electromenager-2/2689-mini-bar-newstar-120l-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe681dad16fd06dff9aa4"
+  },
+  "Name": "NewStar - MINI BAR 120L SILVER",
+  "Reference": "1200S",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Système de refroidissement : Statique Volume Net total : 120 Litres Classe climatique :ST Consommation d?énergie : 0.3 Kwh/24 h Puissance : 220/240 V Fréquence : 50 Hz Couleur : Silver ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1622190835_778.jpg",
+  "Offres": [
+    {
+      "Price": "450 DT",
+      "Last-update": "28/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/refrigerateur-gros-electromenager-2/2379-mini-bar-newstar-120l-silver.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe681dad16fd06dff9aa5"
+  },
+  "Name": "AUXSTAR - MINI BAR 90 LITRES SILVER",
+  "Reference": "BC90S",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Mini Bar AUXSTAR - Volume brut: 90 Litres - Classe Énergétique: A - Fluide réfrigérant: R600a - Thermostat réglable: 7 niveaux - Compartiments : 3 balconnets transparents, un Grand Bac à Légumes, un clayette, un Bac à ?uf, un Bac à glaçon - Dimensions: 45,3 x 45,6 x 82,5 cm - Couleur: Silver ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1626171460_880.jpg",
+  "Offres": [
+    {
+      "Price": "679 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/refrigerateur/41549-mini-bar-auxstar-90-litres-silver-bc90s.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62efe682dad16fd06dff9aa6"
+  },
+  "Name": "CLATRONIC - CAVE à VIN 12 BOUTEILLES NOIR PC-GK1164",
+  "Reference": "PC-GK1164",
+  "type": "/electromenager/froid/mini_refrigerateur",
+  "Specs": "Cave à Vin Clatronic 12 Bouteilles à 0,75l Capacité : 32L Contrôle tactile du capteur Panneau de commande avec écran LED (éclairage bleu) Contrôle et réglage électronique de la température (sans refroidissement) Refroidissement thermoélectrique Classe climatique N (+16°C à +32°C) Silencieux Pas de compresseur Température et affichage numériques (éclairage bleu) Plage de température réglable : + 10 °C à + 18 °C. 15°C sous la température ambiante Eclairage intérieur LED 5 tablettes chromées amovibles Porte vitrée double avec poignée inox Pieds réglables Couleur Noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_froid/1612402420_568.jpg",
+  "Offres": [
+    {
+      "Price": "999 DT",
+      "Last-update": "28/05/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cave-a-vin/303-cave-a-vin-clatronic-12-bouteilles-noir.html"
+    }
+  ]
+}]

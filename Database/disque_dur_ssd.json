@@ -1,0 +1,338 @@
+[{
+  "_id": {
+    "$oid": "62f02f02f3d0211fae71b298"
+  },
+  "Name": "ADATA - 256Go SSD 2.5\" SATAIII (ASU800SS-256GT-C)",
+  "Reference": "ASU800SS-256GT-C",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Disque Dur Interne ADATA ASU800SS - Capacité de Disque: 256 Go - Type de disque : SSD - Format de Disque: 2.5 \" - interface : SATA 6 Gb/s - Vitesse de Lecture : Jusqu'à 560 Mo/s - Vitesse d'Ecriture : Jusqu'à 520 Mo / s - Poids du produit : 45 gr ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1136_1.jpg",
+  "Offres": [
+    {
+      "Price": "269 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/5/ADATA-SSD-SP550-25"
+    },
+    {
+      "Price": "269 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/3932-disque-dur-ssd-adata-asu800ss-256-go-25-sata-iii.html"
+    },
+    {
+      "Price": "499 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/5046-disque-dur-ssd-adata-su800-512-go-25.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f02f3d0211fae71b299"
+  },
+  "Name": "SANDISK - Plus 480Go SSD - 2.5\" (SDSSDA-480G-G26)",
+  "Reference": "SDSSDA-480G",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Disque Dur Interne Sandisk Plus - Modèle: SDSSDA-480G-G26 - Format De Disque: 2.5 \" - Type de Disque: SSD interne - Type de mémoire Flash: TLC (Triple-Level Cell) - Capacité de Stockage: 480 Go - Interface: Serial ATA 6Gb/s (SATA Revision 3) - Vitesse en Lecture: Jusqu'à 535Mo/s , Vitesse en Ecriture Jusqu'à 445 Mo/s - Jusqu'à 20 fois plus rapide qu'un disque dur standard - Résistant aux chocs pour une durabilité éprouvée (Chocs : Résistante jusqu'à 1500G / Vibration : Résistant 5 gRMS, 10-2000 HZ / 4,9 gRMS, 7-800 HZ ) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1162_1.jpg",
+  "Offres": [
+    {
+      "Price": "410 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/4676-disque-dur-sandisk-ssd-plus-tlc-25-480-go.html"
+    },
+    {
+      "Price": "439 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/113/DISQUE-SANDISK-SSD-PLUS-480GB"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f03f3d0211fae71b29a"
+  },
+  "Name": "ADATA - DISQUE INTERNE XPG SX6000 256GO SSD PCIE GEN3X2 M.2 2280",
+  "Reference": "ASX6000NP-256GT-C",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Disque SSD Interne ADATA XPG SX6000 - Capacité: 256 Go  - Type de Disque Dur: SSD  - Interface: PCIe Gen3x2 - Facteur de forme: M.2 2280 - Flash NAND: TLC 3D NAND - Format de Disque: 2.5\"  - Controller: Realtek - Vitesse en lecture : 1000 Mo/s  - Vitesse en écriture : 800 Mo/s  - Dimensions: 22 x 80 x 3,5 mm - Poids: 8g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1524563985_104.jpg",
+  "Offres": [
+    {
+      "Price": "225 DT",
+      "Last-update": "01/07/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/4162-disque-interne-adata-xpg-sx6000-256go-ssd-pcie-gen3x2-m2-2280.html"
+    },
+    {
+      "Price": "289 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/5050-disque-dur-256-go-adata-xpg-sx6000-ssd-m2-2280.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f04f3d0211fae71b29b"
+  },
+  "Name": "ADATA - DISQUE INTERNE XPG SX6000 512GO SSD PCIE GEN3X2 M.2 2280",
+  "Reference": "ASX6000NP-512GT-C",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Disque SSD Interne ADATA XPG SX6000 - Capacité: 512 Go  - Type de Disque Dur: SSD  - Interface: PCIe Gen3x2 - Facteur de forme: M.2 2280 - Flash NAND: TLC 3D NAND - Format de Disque: 2.5\"  - Controller: Realtek - Vitesse en lecture : 1000 Mo/s  - Vitesse en écriture : 800 Mo/s  - Dimensions: 22 x 80 x 3,5 mm - Poids: 8g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1524563985_490.jpg",
+  "Offres": [
+    {
+      "Price": "210 DT",
+      "Last-update": "03/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/disque-dur-interne-adata-512-go-ssd-asx8100np-512gt-c.html"
+    },
+    {
+      "Price": "360 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/4161-disque-interne-adata-xpg-sx6000-512go-ssd-pcie-gen3x2-m2-2280.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f04f3d0211fae71b29c"
+  },
+  "Name": "PNY - DISQUE DUR SSD XLR8 SéRIE CS3030 PCIE NVME 1 TO",
+  "Reference": "M280CS3030-1TB",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Encombrement : M.2 Interface : PCIe Vitesse de Lecture Maximum : 3 500 Mo / s  Vitesse d'écriture Maximum  : 3 000 Mo / s  Type de mémoire Flash  :  3D TLC Flash Memory ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1559351515_663.jpg",
+  "Offres": [
+    {
+      "Price": "525 DT",
+      "Last-update": "15/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/disque-dur-interne-pny-cs3030-1to-ssd-m2-m280cs3030-1tb-rb.html"
+    },
+    {
+      "Price": "534 DT",
+      "Last-update": "21/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/11127-disque-dur-pny-ssd-m2-nvme-1tb-tlc-cs3030.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f05f3d0211fae71b29d"
+  },
+  "Name": "PNY - DISQUE DUR SSD XLR8 SéRIE CS3030 PCIE NVME 500 GO",
+  "Reference": "M280CS3030-500",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Encombrement : M.2 Interface : PCIe Vitesse de Lecture Maximum : 3 500 Mo / s  Vitesse d'écriture Maximum  : 2 000 Mo / s  Type de mémoire Flash  :  3D TLC Flash Memory ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1559351518_805.jpg",
+  "Offres": [
+    {
+      "Price": "272 DT",
+      "Last-update": "23/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/disque-dur-interne-pny-cs3030-500go-ssd-25-m280cs3030-500-rb.html"
+    },
+    {
+      "Price": "295 DT",
+      "Last-update": "26/01/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/11123-disque-dur-pny-ssd-500g-m2-nvme-cs3030.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f06f3d0211fae71b29e"
+  },
+  "Name": "PNY - DISQUE DUR SSD XLR8 SéRIE CS3030 PCIE NVME 250 GO",
+  "Reference": "M280CS3030-250",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Encombrement : M.2 Interface : PCIe Vitesse de Lecture Maximum : 3 500 Mo / s  Vitesse d'écriture Maximum  : 1 050 Mo / s  Type de mémoire Flash  :  3D TLC Flash Memory ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1559351521_829.jpg",
+  "Offres": [
+    {
+      "Price": "172 DT",
+      "Last-update": "29/09/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/11120-disque-dur-pny-cs3030-disque-ssd-250-go-m2-2.html"
+    },
+    {
+      "Price": "179 DT",
+      "Last-update": "26/03/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/disque-dur-ssdhdd/disque-dur-ssd-pny-xlr8-serie-cs3030-pcie-nvme-250-go-12833.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f06f3d0211fae71b29f"
+  },
+  "Name": "SANDISK - Plus 240Go - 2.5\" (SDSSDA-240G-G26)",
+  "Reference": "SDSSDA-240G",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Disque Dur Interne Sandisk Plus - Modèle: SDSSDA-240G-G26 - Format De Disque: 2.5 \" - Type de Disque: SSD interne - Type de mémoire Flash: TLC (Triple-Level Cell) - Capacité de Stockage: 240 Go - Interface: Serial ATA 6Gb/s (SATA Revision 3) - Vitesse en Lecture: Jusqu'à 530Mo/s , Vitesse en Ecriture Jusqu'à 44 0Mo/s - Jusqu'à 20 fois plus rapide qu'un disque dur standard - Résistant aux chocs pour une durabilité éprouvée (Chocs : Résistante jusqu'à 1500G / Vibration : Résistant 5 gRMS, 10-2000 HZ / 4,9 gRMS, 7-800 HZ ) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1133_1.jpg",
+  "Offres": [
+    {
+      "Price": "270 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/112/DISQUE-SANDISK-SSD-PLUS-240GB"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f07f3d0211fae71b2a0"
+  },
+  "Name": "ADATA - 512Go SSD 2.5\" SATAIII (ASU800SS-512GT-C)",
+  "Reference": "ASU800SS-512GT-C",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Disque Dur Interne ADATA ASU800SS - Capacité de Disque: 512 Go - Type de disque : SSD - Format de Disque: 2.5 \" - Interface SATA III 6 Gb / s - Vitesse lecture:  560 Mo/s - Vitesse d'écriture: 520 Mo/s - Avec 3D avancée NAND Flash pour une haute fiabilité et durabilité - Composants de la mémoire : 3-D Vertical - Profondeur : 100.45mm - Poids: 47.50g ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1166_1.jpg",
+  "Offres": [
+    {
+      "Price": "499 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/643/Disque-dur-AData-Ultimate-SU800-512-Go-SSD-SATA-III"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f08f3d0211fae71b2a1"
+  },
+  "Name": "ADATA - DISQUE DUR PREMIER PRO SP600 256 GO SSD SATA III",
+  "Reference": "ASP600S3-256GM-C",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Disque Dur interne SP600 Antichoc Capacité de Stockage: 256 Go Interface : SATA 6 Gb/s Format De Disque : 3.5 Pouces Type de Disque: SSD Vitesse de Transfert en Lecteur: 540 Mo-s Vitesse de Transfert en écriture: 290 Mo-s Dimensions: 13 x 25 x 14 cm Poids: 225 g Câble Inclus:Cable USB 3.0 Couleur: noir ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1524563984_994.jpg",
+  "Offres": [
+    {
+      "Price": "319 DT",
+      "Last-update": "04/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/3930-disque-dur-ssd-adata-sp600-256-go-25.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f09f3d0211fae71b2a2"
+  },
+  "Name": "GOODRAM - SSD IRDM PRO 256GB SATA3",
+  "Reference": "SSDPR-CL100-256-G2",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Format de Disque: 2.5\"  Capacité : 256 Go  Vitesse de Lecture: 555 Mo/s  Vitesse d'écriture: 535 Mo/s Interface: SATA III (6.0 Gb/s) Type de Disque : SSD ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1616880924_121.jpg",
+  "Offres": [
+    {
+      "Price": "189 DT",
+      "Last-update": "21/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/11121-disque-dur-ssd-goodram-irdm-pro-256gb-sata3-25-gen2.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f0bf3d0211fae71b2a3"
+  },
+  "Name": "GOODRAM - DISQUE DUR SSD SATA III 2,5 CX400 1TO (SSDPR-CX400-01T)",
+  "Reference": "SSDPR-CX400-01T",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Disque Dur Interne GOODRAM - Format de Disque: 2.5 \" - Capacité: 1 To - Vitesse de Lecture: 555 Mo/s - Vitesse d'écriture: 490 Mo/s - Interface: SATA III - Type de Disque : SSD - technologie 3D NAND flash ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1616274080_907.jpg",
+  "Offres": [
+    {
+      "Price": "475 DT",
+      "Last-update": "21/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/11126-disque-dur-ssd-goodram-cx400-1tb-sata3-25.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f0cf3d0211fae71b2a4"
+  },
+  "Name": "Kodak - DISQUE DUR SSD PORTABLE DE 120GO, X100 SERIES 550 MB/S",
+  "Reference": "X100-120G",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Les personnes qui cherchent un disque dur SSD pas cher ont des chances de trouver satisfaction en optant pour le modèle Kodak X100 Series. Malgré son prix très abordable, cet article d?une capacité de stockage de 120 Go a la réputation de pouvoir redonner une vie palpitante à votre ordinateur. En effet, mise à part sa capacité de stockage assez limitée, ce matériel informatique bénéficie d?une vitesse de lecture qui peut atteindre les 550 Mo/s, ce qui n?est pas négligeable. En outre, il est très facile d?installer ce dispositif sur notre PC et la meilleure nouvelle c?est qu?il peut s?adapter à tous les ordinateurs s?ils jouissent de la connectique SATA. Enfin, son prix est bien raisonnable pour sa qualité et ses capacités d?autant plus qu?il s?agit d?un disque dur SSD fiable. Vous recherchez un disque dur interne avec un bon équilibre entre prix et performances ? D?après les différents retours du public, le X100 pourrait bien être le modèle idéal. Il est nettement plus rapide qu?un disque dur traditionnel.  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1616200259_522.png",
+  "Offres": [
+    {
+      "Price": "75 DT",
+      "Last-update": "02/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/Peripheriques-Stockage/disque-dur-ssd-portable-kodak-120go-x100-series-550mbs-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f0df3d0211fae71b2a5"
+  },
+  "Name": "Kodak - DISQUE DUR SSD PORTABLE DE 480GO, X100 SERIES 550 MB/S",
+  "Reference": "X100-480G",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Les personnes qui cherchent un disque dur SSD pas cher ont des chances de trouver satisfaction en optant pour le modèle Kodak X100 Series. Malgré son prix très abordable, cet article d?une capacité de stockage de 480 Go a la réputation de pouvoir redonner une vie palpitante à votre ordinateur. En effet, mise à part sa capacité de stockage assez limitée, ce matériel informatique bénéficie d?une vitesse de lecture qui peut atteindre les 550 Mo/s, ce qui n?est pas négligeable. En outre, il est très facile d?installer ce dispositif sur notre PC et la meilleure nouvelle c?est qu?il peut s?adapter à tous les ordinateurs s?ils jouissent de la connectique SATA. Enfin, son prix est bien raisonnable pour sa qualité et ses capacités d?autant plus qu?il s?agit d?un disque dur SSD fiable. Vous recherchez un disque dur interne avec un bon équilibre entre prix et performances ? D?après les différents retours du public, le X100 pourrait bien être le modèle idéal. Il est nettement plus rapide qu?un disque dur traditionnel. Commandez ce produit dès maintenant au prix sur le marché en Tunisie directement en ligne sur Numedia. ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1616200332_335.png",
+  "Offres": [
+    {
+      "Price": "235 DT",
+      "Last-update": "02/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/Peripheriques-Stockage/disque-dur-ssd-portable-kodak-480go-x100-series-550-mbs-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f0df3d0211fae71b2a6"
+  },
+  "Name": "Kodak - DISQUE DUR SSD PORTABLE DE 256GO, X200 SERIES 500 MB/S",
+  "Reference": "X200-256G",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Si l?idée d?acheter un SSD externe de chez Kodak vous déduit, alors, vous pourrez être intéressé par le modèle X200 Serie. Cet article se distingue par son apparence élégante et son design unique en nid d'abeille, ses dimensions minces et miniatures pour un transport facile, un toucher agréable et une toute nouvelle expérience d'utilisation. Il s?agit d?un disque dur interne qui a une capacité de stockage de 256 Go. En outre, il offre une vitesse de lecture jusqu'à 500 Mb/s. A noter aussi que cet équipement informatique est fiable et donc, vous pouvez y compter pour rendre votre ordinateur rapide. Pour ce qui est de sa consommation électrique, elle est relativement basse et la bonne nouvelle c?est que ce disque dur SSD est compatible avec tous les systèmes d?exploitation et tous les ordinateurs tant qu?ils sont pourvus de connectiques SSD. Ce matériel conviendrait tout à fait aux personnes qui cherchent à faire des économies et qui veulent définitivement changer leur rapport avec leur ordinateur. De plus, ce dispositif jouit d?une garantie de 1 an, ce qui prouve entre autres choses, la fiabilité de la marque ! Commandez ce produit dès maintenant au prix sur le marché en Tunisie directement en ligne sur Numedia. ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1616200343_979.png",
+  "Offres": [
+    {
+      "Price": "179 DT",
+      "Last-update": "02/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/Peripheriques-Stockage/disque-dur-ssd-portable-kodak-256go-x200-series-500-mbs-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f0ef3d0211fae71b2a7"
+  },
+  "Name": "Western Digital - DISQUE DUR SSD WD 120GO GREEN SATA III",
+  "Reference": "WDS120G",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "Disque Dur Interne PNY CS900 6 Capacitde stockage: 120 Go - Interface: SATA III 6Gb - Format de Disque: 2.5\" - Vitesse en lecture: 515 Mo/s - Vitesse en riture: 490 Mo/s - Consommation d'ergie: 2,2 W actif, 0,17 W au ralenti - Les SSD PNY sont jusqu'30 fois plus robustes que les disques durs traditionnels - Les moires NAND non volatiles du syste permettent au SSD de conserver les informations enregistrs me si votre ordinateur chute ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1616271354_662.jpg",
+  "Offres": [
+    {
+      "Price": "101 DT",
+      "Last-update": "21/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/disque-dur-ssd/11117-disque-dur-ssd-wd-120go-green-sata-iii.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f02f0ff3d0211fae71b2a8"
+  },
+  "Name": "Kodak - Disque dur SSD Portable de Kodak 240Go, X100 series 550 Mb/s",
+  "Reference": "X100-240G",
+  "type": "/informatique/stockage/disque_dur_ssd",
+  "Specs": "capacité de stockage de 240 Go a la réputation de pouvoir redonner une vie palpitante à votre ordinateur. En effet, mise à part sa capacité de stockage assez limitée, ce matériel informatique bénéficie d?une vitesse de lecture qui peut atteindre les 550 Mo/s, ce qui n?est pas négligeable. En outre, il est très facile d?installer ce dispositif sur notre PC et la meilleure nouvelle c?est qu?il peut s?adapter à tous les ordinateurs s?ils jouissent de la connectique SATA. Enfin, son prix est bien raisonnable pour sa qualité et ses capacités d?autant plus qu?il s?agit d?un disque dur SSD fiable. Vous recherchez un disque dur interne avec un bon équilibre entre prix et performances ? D?après les différents retours du public, le X100 pourrait bien être le modèle idéal. Il est nettement plus rapide qu?un disque dur traditionnel ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_stockage/1616351564_832.png",
+  "Offres": [
+    {
+      "Price": "129 DT",
+      "Last-update": "21/02/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/Peripheriques-Stockage/disque-dur-ssd-portable-kodak-240go-x100-series-550mbs-tunisie "
+    }
+  ]
+}]

@@ -1,0 +1,881 @@
+[{
+  "_id": {
+    "$oid": "62f0387843f7611ba942f4c8"
+  },
+  "Name": "EPSON - VIDéO PROJECTEUR EB-E10 3600 LUMENS XGA (V11H975040)",
+  "Reference": "V11H975040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Réf : V11H975040 - Epson EB-E10 - projecteur 3LCD - Appareils intégrés Haut-parleur Luminosité - 3600 Rapport de contraste 15000:1 Résolution XGA - Durée de vie de la lampe Jusqu'à 6000heure(s) - mode normal Jusqu'à 12000 heure(s) - mode économique Alimentation  Consommation en fonctionnement 327Watt Dimensions (LxPxH)30.2 cm x 23.7cmx8.2cm Poids 2.4kg  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1617013994_937.jpg",
+  "Offres": [
+    {
+      "Price": "1179 DT",
+      "Last-update": "09/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/videoprojecteurs/48172-videoprojecteur-professionnel-3lcd-epson-eb-e10.html"
+    },
+    {
+      "Price": "1179 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/video-projecteur/47655-projecteur-epson-eb-e10-3lcd-v11h975040.html"
+    },
+    {
+      "Price": "1199 DT",
+      "Last-update": "24/02/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/image-son/9434-video-projecteur-epson-eb-e10-xga.html"
+    },
+    {
+      "Price": "1229 DT",
+      "Last-update": "17/09/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/71efe-try-buy.png",
+      "product-link": "https://www.tryandbuy.tn/videoprojecteur/video-projecteur-epson-eb-e10-xga-v11h975040-prix-tunisie"
+    },
+    {
+      "Price": "1299 DT",
+      "Last-update": "03/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/video-projecteur-epson-eb-e10-v11h975040.html"
+    },
+    {
+      "Price": "1299 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/video-projecteur-epson-eb-e10-pointeur-laser-sacoche-de-transport-v11h975040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0387b43f7611ba942f4c9"
+  },
+  "Name": "EPSON - VIDéO PROJECTEUR EH-TW750 FULL HD 3400 LUMENS ",
+  "Reference": "V11H980040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Réf : V11H980040 - Vidéoprojecteur 3LCD Full HD Durée de vie de la lampe : jusqu'à 12 000 heures (mode Eco) Luminosité : 3400 Lumens Installation optimisée : zoom 1.2x, correction Keystone (manuel H+/-30°, auto V+/-30°), Quick Corner Technologies Wi-Fi et Miracast intégrées 2 entrées HDMI (dont MHL) Haut-parleur embarqué  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1616270704_865.jpg",
+  "Offres": [
+    {
+      "Price": "1999 DT",
+      "Last-update": "03/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/video-projecteur-epson-eh-tw750-v11h980040.html"
+    },
+    {
+      "Price": "1999 DT",
+      "Last-update": "30/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/videoprojecteurs/49283-videoprojecteur-professionnel-3lcd-epson-eh-tw750.html"
+    },
+    {
+      "Price": "2029 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/video-projecteur-epson-eh-tw750-f-v11h980040.html"
+    },
+    {
+      "Price": "2055 DT",
+      "Last-update": "30/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/video-projecteur/39177-video-projecteur-epson-eh-tw750-3lcd-v11h980040.html"
+    },
+    {
+      "Price": "2099 DT",
+      "Last-update": "19/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/image-son/9438-video-projecteur-epson-eh-tw750.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0387c43f7611ba942f4ca"
+  },
+  "Name": "EPSON - VIDéO PROJECTEUR EB-W51 WXGA - (V11H977040)",
+  "Reference": "V11H977040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéo Projecteur EPSON EB-W51 WXGA - Technologie: 3LCD  - Ecran: LCD 0.55 \" - Luminosité: 4000 lumens, 2600 lumens (économie) - Résolution: XGA, 1280 x 800  - Format de l'image: 16:10  - Contraste: 16.000:1 - Durée de vie de la lampe: 6000 h, 12.000 h (mode économie) - Ports: USB 2.0 type A, USB 2.0 type B, Entrée VGA, Entrée HDMI, Entrée composite, Entrée RCA, Réseau local sans fil IEEE 802.11b/g/n (WiFi 4) (en option) -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1617265678_975.png",
+  "Offres": [
+    {
+      "Price": "1599 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/video-projecteur-epson-eb-w51-wxga-v11h977040.html"
+    },
+    {
+      "Price": "1599 DT",
+      "Last-update": "30/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/videoprojecteurs/48171-videoprojecteur-professionnel-3lcd-epson-eb-w51-sacoche-de-transport-.html"
+    },
+    {
+      "Price": "1599 DT",
+      "Last-update": "14/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/video-projecteur/39170-video-projecteur-epson-eb-w51-v11h977040.html"
+    },
+    {
+      "Price": "1599 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/video-projecteur-epson-eb-w51-avec-saccoche-v11h977040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0387d43f7611ba942f4cb"
+  },
+  "Name": "EPSON - VIDéO PROJECTEUR EB-X51 - (V11H976040)",
+  "Reference": "V11H976040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéo Projecteur EPSON EB-X51 - Technologie: 3LCD  - Ecran: LCD 0.55 \" - Luminosité: 3800 lumens, 2500 lumens (économie) - Résolution: XGA, 1024 x 768  - Format de l'image: 4:3  - Contraste: 16.000:1 - Durée de vie de la lampe: 6000 h, 12.000 h (mode économie) - Ports: USB 2.0 type A, USB 2.0 type B, Entrée VGA, Entrée HDMI, Entrée composite, Entrée RCA, Réseau local sans fil IEEE 802.11b/g/n (WiFi 4) (en option) -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1617265757_257.jpg",
+  "Offres": [
+    {
+      "Price": "1379 DT",
+      "Last-update": "30/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/videoprojecteurs/48169-videoprojecteur-professionnel-3lcd-epson-eb-x51.html"
+    },
+    {
+      "Price": "1379 DT",
+      "Last-update": "30/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/video-projecteur/39173--projecteur-epson-eb-x51-xga-3lcd.html"
+    },
+    {
+      "Price": "1381 DT",
+      "Last-update": "30/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/video-projecteur-epson-eb-x51-v11h976040.html"
+    },
+    {
+      "Price": "1499 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/video-projecteur-epson-eb-x51-xga-blanc-v11h976040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0387d43f7611ba942f4cc"
+  },
+  "Name": "EPSON - Vidéo projecteur professionnel 3LCD EB-E01",
+  "Reference": "V11H971040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéoprojecteur professionnel 3LCD EPSON EB-E01- Résolution XGA 1024 x 768 pixels 4:3 - Technologies 3LCD, Obturateur RVB à cristaux liquides - Luminosité  3300 Lumens - Contraste 15000 /1 - Focale Manuel - Distance focale 16.7 mm - Lampe UHE 210W - Durée de vie de la lampe 12 000 Heures - Niveau sonore maxi 37 dB - Haut Parleur 2W - USB 2.0 type B - Entrée VGA - Entrée HDMI - Dimensions 302 x 82 x 237 mm - Poids 2.4kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1622728299_343.jpg",
+  "Offres": [
+    {
+      "Price": "1049 DT",
+      "Last-update": "21/10/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/epson-eb-e01.html"
+    },
+    {
+      "Price": "1129 DT",
+      "Last-update": "22/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/video-projecteur-epson-eh-e01-xga-v11h971040.html"
+    },
+    {
+      "Price": "1129 DT",
+      "Last-update": "27/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/video-projecteur/47656-video-projecteur-epson-eb-e01-xga-v11h971040.html"
+    },
+    {
+      "Price": "1139 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/image-son/9428-video-projecteur-epson-eb-e01-v11h971040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0387e43f7611ba942f4cd"
+  },
+  "Name": "EPSON - VIDéOPROJECTEUR PROFESSIONNEL 3LCD EH-TW740",
+  "Reference": "V11H979040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéoprojecteur professionnel 3LCD EPSON EH-TW750 - Résolution Full HD 1920 x 1080 pixels - Technologie 3LCD - Luminosité  3300 Lumens - Contraste 16000 /1 - Focale standard - Distance focale 16.7 mm - Rapport de projection 1.21 - 1.63:1 - Lampe UHE 210W - Durée de vie de la lampe 6000 Heures - Niveau sonore maxi 37 dB - Haut Parleur 2W - HDMI + USB 2.0 type A + USB 2.0 type B - Sortie audio mini-jack - Dimensions 302 x 92 x 252 mm - Poids 2.8kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1631633532_802.jpg",
+  "Offres": [
+    {
+      "Price": "1855 DT",
+      "Last-update": "30/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/videoprojecteurs/51231-videoprojecteur-professionnel-3lcd-epson-eh-tw740.html"
+    },
+    {
+      "Price": "1879 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/video-projecteur-epson-eh-tw740-3300lum-full-hd-v11h979040.html"
+    },
+    {
+      "Price": "1889 DT",
+      "Last-update": "15/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/video-projecteur/43149-video-projecteur-epson-eh-tw740-full-hd.html"
+    },
+    {
+      "Price": "1919 DT",
+      "Last-update": "22/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/video-projecteur-epson-eh-tw740-3300lum-full-hd-v11h979040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0388043f7611ba942f4ce"
+  },
+  "Name": "EPSON - Vidéoprojecteur EB-S41 - V11H842040",
+  "Reference": "V11H842040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Projecteur SVGA - Technologie 3LCD - Panneau LCD 0.55\" avec D7 - Luminosité couleur: 3.300-2.050 lumen - Résolution SVGA, 800 x 600, 4:3 - Contraste 15.000:1 - Lampe UHE, 210 W, 6.000h , 10.000h Longévité - Objectif Optique - Taille de l'image 30-350\" - Distance de projection 1,77a-2,4a - USB 2.0 - VGA - HDMI - RCA - Dimensions: 302? x 237 x 82 mm - Poids: 2.5 Kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1515520778_952.jpg",
+  "Offres": [
+    {
+      "Price": "1029 DT",
+      "Last-update": "29/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/video-projecteur/13619-videoprojecteur-epson-eb-s41.html"
+    },
+    {
+      "Price": "1075 DT",
+      "Last-update": "07/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/7283-video-projecteur-epson-eb-s41-svga-v11h842040-avec-sacoche.html"
+    },
+    {
+      "Price": "1128 DT",
+      "Last-update": "28/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1746/VIDO-PROJECTEUR-EPSON-EB-S41-SVGA-SACOCHE"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0388143f7611ba942f4cf"
+  },
+  "Name": "EPSON - Vidéoprojecteur EB-X41 XGA (V11H843040)",
+  "Reference": "V11H843040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Système de projection: Technologie 3LCD - Panneau LCD: 0,55 pouce avec MLA - Luminosité couleur: 3.600 lumen- 2.235 lumen - Sortie lumière blanche: 3.600 lumen- 2.235 lumen - Résolution: XGA, 1024 x 768, 4:3 - Rapport de contraste: 15.000 : 1 - Lampe: UHE, 210 W, 6.000 h Longévité, 10.000 h Longévité (en mode économique) - Haut-parleur: 2W - Connecteurs: HDMI, Entrée VGA, USB 2.0 - Couleur: Blanc ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1515716082_632.jpg",
+  "Offres": [
+    {
+      "Price": "1369 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/accueil/13621-video-projecteur-epson-eb-x41-v11h843040.html"
+    },
+    {
+      "Price": "1399 DT",
+      "Last-update": "10/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/7285-video-projecteur-epson-eb-x41-xga-v11h843040.html"
+    },
+    {
+      "Price": "1689 DT",
+      "Last-update": "28/11/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/tv-photos/videoprojecteur/video-projecteur-epson-eb-x41-xga-v11h843040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0388243f7611ba942f4d0"
+  },
+  "Name": "EPSON - Vidéoprojecteur SVGA EB-S05 - (V11H838040)",
+  "Reference": "V11H838040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Projecteur SVGA - Technologie 3LCD - Panneau LCD 0.55\" avec D7 - Luminosité couleur 3.200 lumen- 1.985 lumen (économie) - Résolution SVGA 800 x 600 - Contraste 15.000:1 - Lampe 210W - Objectif Optique - Taille de l'image 30\" - 350\" - Distance de projection: 1,77 a - 2,4 a ( 60 pouce écran) - RCA - HDMI - VGA - USB - Dimensions 302? x 237 x 82 mm - Wifi en Option - ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1520412275_143.jpg",
+  "Offres": [
+    {
+      "Price": "1099 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/tv-photos/videoprojecteur/video-projecteur-svga-epson-eb-s05.html"
+    },
+    {
+      "Price": "1149 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/929/Video-Projecteur-SVGA-EPSON-EB-S05-avec-Support-rglable"
+    },
+    {
+      "Price": "1440 DT",
+      "Last-update": "07/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/7280-video-projecteur-epson-eb-s05-svga-v11h838040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0388343f7611ba942f4d1"
+  },
+  "Name": "EPSON - Vidéoprojecteur EB-X05 XGA - (V11H839040)",
+  "Reference": "V11H839040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Technologie: 3LCD - Ecran: LCD 0.55\" - Luminosité: 3300 lumens, 2050 lumens (économie) - Résolution: XGA, 1024 x 768 - Format de l'image: 4:3 - Contraste: 15.000:1 - Durée de vie de la lampe: 6000 h, 10.000 h (mode économie) - Ports: 1 x USB 2.0 Type A, 1 x USB 2.0 Type B, 1 x Entrée VGA, 1 x Entrée HDMI, 1 x Entrée composite, 1 x Entrée audio Cinch -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1521032475_924.jpg",
+  "Offres": [
+    {
+      "Price": "1149 DT",
+      "Last-update": "19/12/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1637/Vido-Projecteur-EPSON-EB-X05-XGA"
+    },
+    {
+      "Price": "1240 DT",
+      "Last-update": "07/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/7281-video-projecteur-epson-eb-x05-xga-v11h839040.html"
+    },
+    {
+      "Price": "1579 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/tv-photos/videoprojecteur/video-projecteur-epson-eb-x05-xga-v11h839040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0388343f7611ba942f4d2"
+  },
+  "Name": "EPSON - VIDEOPROJECTEUR PROFESSIONNEL 3LCD FULL HD EB-992F",
+  "Reference": "V11H988040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéoprojecteur professionnel 3LCD Full HD EPSON EB-992F - Résolution Full HD 1920 x 1080px - Technologie LCD - Luminosité 4000 ANSI lumens - Contraste 16000 /1 - Focale standard - Distance focale mini 18,2 mm - Distance focale maxi 29,2 mm - Ratio de projection maxi 2.14 - Lampe UHE 230W - Durée de vie de la lampe 6500Heures - Niveau sonore maxi 37 dB - Haut Parleur 16W - Entrée Vidéo: 1x Video Composite, 2x VGA (D-sub 15) , 2x HDMI - Entrée Audio: 2x Jack 3,5mm, Micro (Jack 3.5mm Femelle) , Audio stéréo (2x RCA) - 1x Port Série RS-232 - 1x Port RJ45 Fast Ethernet - USB - Dimensions 309 x 90 x 282 mm - Poids 3.1kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1616269436_371.jpg",
+  "Offres": [
+    {
+      "Price": "3099 DT",
+      "Last-update": "23/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/videoprojecteurs/47404-videoprojecteur-professionnel-3lcd-full-hd-epson-eb-992f.html"
+    },
+    {
+      "Price": "3199 DT",
+      "Last-update": "03/08/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/video-projecteur-epson-eb-992f-full-hd-wi-fi-blanc-v11h988040.html"
+    },
+    {
+      "Price": "3199 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/video-projecteur-epson-eb-992f-full-hd-4000-lumens-v11h988040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0388643f7611ba942f4d3"
+  },
+  "Name": "EPSON - VIDEO PROJECTEUR EF-100",
+  "Reference": "EF-100",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéoprojecteur Home Cinéma Tri LCD / Technologie  3LCD, Obturateur RVB à cristaux liq uides / Luminosité couleur: 2000 lumens / Contraste 2 500 000:1 /Résolution: Full HD 1080p, 1280x 720 / Reproduction des couleurs: Jusqu'à 1,07 milliards de couleurs / Taille de l'image : 30 Pouces - 150 pouces / Rapport de projection 1,04 - 1,40:1 / Connnectivité : USB 2.0 type-A, USB 2.0 type-B, Entrée HDMI, Sortie audio mini-jack, Bluetooth / Dimensions (LxHxP) : 210 x 230 x 92 mm / Poids : 2,7Kg / ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1616270538_122.jpg",
+  "Offres": [
+    {
+      "Price": "2799 DT",
+      "Last-update": "05/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/0bcee-zoom.png",
+      "product-link": "https://www.zoom.com.tn/image-son/6725-video-projecteur-epson-ef-100.html"
+    },
+    {
+      "Price": "2829 DT",
+      "Last-update": "06/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/videoprojecteurs/45729-videoprojecteur-portable-3lcd-hd-ready-epson-ef-100.html"
+    },
+    {
+      "Price": "2829 DT",
+      "Last-update": "06/03/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/videoprojecteurs/45730-videoprojecteur-portable-3lcd-hd-ready-epson-ef-100-blanc.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0388743f7611ba942f4d4"
+  },
+  "Name": "EPSON - Vidéo projecteur professionnel 3LCD EB-X06",
+  "Reference": "V11H972040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéoprojecteur professionnel 3LCD EPSON EB-X06 - Résolution XGA 1024 x 768 pixels - Technologie LCD - Luminosité  3600 Lumens - Contraste 16000 /1 - Focale standard - Distance focale mini 16.9 mm - Distance focale maxi 20.28 mm - Ratio de projection maxi 1.77 - Lampe UHE 210W - Durée de vie de la lampe 6000Heures - Niveau sonore maxi 37 dB - Haut Parleur 2W - 1x HDMI + 1x VGA + Composite -  Audio stéréo 2x RCA Femelle  - USB 2.0 Type A Femelle - USB 2.0 Type B Femelle - Dimensions 302 x 87 x 237 mm - Poids 2.5kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1622728373_278.jpg",
+  "Offres": [
+    {
+      "Price": "1339 DT",
+      "Last-update": "08/01/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/videoprojecteurs/48168-videoprojecteur-professionnel-3lcd-full-hd-epson-eb-992f.html"
+    },
+    {
+      "Price": "1339 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/video-projecteur/39168-video-projecteur-epson-eb-x06-3lcd-xga-1080p.html"
+    },
+    {
+      "Price": "1399 DT",
+      "Last-update": "14/07/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/epson-eb-x06.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0388843f7611ba942f4d5"
+  },
+  "Name": "EPSON - VIDéO PROJECTEUR EB-FH52 WI-FI - BLANC (V11H978040)",
+  "Reference": "V11H978040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéo Projecteur EPSON EB-FH52 - Technologie: 3LCD  - Ecran: LCD 0.61 \" - Luminosité: 4000 lumens, 2400 lumens (économie) - Résolution: FULL HD, 1920 x 1080  - Format de l'image: 16:9 - Contraste: 16.000:1 - Taille de l'image: 30 pouces - 300 pouces - Distance focale: 18,2 mm - 29,2 mm - Nombre d'ouverture de l'objectif de projection: 1,51 - 1,99 - Zoom: Manual, Factor: 1,6 - Durée de vie de la lampe: UHE, 230 W, 5.500 h Longévité, 12.000 h Longévité (en mode économique) - Connectivité: Wi-Fi - Ports: USB 2.0 type A, USB 2.0 type B, VGA, 2 x HDMI, Entrée composite, Entrée RCA, Miracast - Dimensions: 309? x 282 x 90 mm - Poids: 3.1 kg - Couleur: Blanc -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1629193874_531.jpg",
+  "Offres": [
+    {
+      "Price": "2499 DT",
+      "Last-update": "23/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/videoprojecteurs/50288-videoprojecteur-professionnel-3lcd-epson-eb-fh52-wifi.html"
+    },
+    {
+      "Price": "2499 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/video-projecteur-epson-eb-fh52-wi-fi-blanc-v11h978040.html"
+    },
+    {
+      "Price": "2799 DT",
+      "Last-update": "31/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/video-projecteur-epson-eb-fh52-wi-fi-blanc-v11h978040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0388d43f7611ba942f4d6"
+  },
+  "Name": "EPSON - MODULE WIFI (B/G/N)-ELPAPIO - V12H731P01",
+  "Reference": "V12H731P01",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Référence V12H731P01 - Compatible : EB-1970W, EB-520, EB-535W, EB-575Wi, EB585Wi, EB-955WH, EB-S04, EB-U4, EB-W31, EB-1761W, EB-1771W, EB-1975W, EB-525W, EB-570, EB-580, EB-595Wi, EB-965H, EB-X27 - Poids brut 0.5  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1535928602_445.jpg",
+  "Offres": [
+    {
+      "Price": "599 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/prix-epson-module-wi-fi-pour-videoprojecteurs-epson-elpap10-tunisie.html"
+    },
+    {
+      "Price": "799 DT",
+      "Last-update": "23/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/accessoires-pour-videoprojecteurs/36714-module-wi-fi-pour-videoprojecteurs-epson-bgn-elpap10.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0388f43f7611ba942f4d7"
+  },
+  "Name": "EPSON - VIDEO PROJECTEUR EB-W06 - (V11H973040)",
+  "Reference": "V11H973040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Réf : V11H973040 - Créez l'expérience sur grand écran: des coffrets aux présentations professionnelles, captez l'attention de tous,Lumineux même avec la lumière ambiante: puissance lumineuse blanche et couleur égale à 3700 lumens,Équipement de haute technologie abordable: profitez de ce projecteur WXGA,Portable et rapide à installer: facile à positionner grâce au curseur trapézoïdal, ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1617013826_767.jpg",
+  "Offres": [
+    {
+      "Price": "1529 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/video-projecteur-epson-eb-w06-wxga-blanc-v11h973040.html"
+    },
+    {
+      "Price": "1569 DT",
+      "Last-update": "01/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/projection/40573-video-projecteur-epson-eb-w06-v11h973040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0389143f7611ba942f4d8"
+  },
+  "Name": "Optoma - S316 + Sacoche",
+  "Reference": "S316",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Video Projecteur OPTIMA S316, Projections lumineuses: 3200 ANSI Lumens,Résolution: SVGA, Durée de vie de lampe jusqu'à 10 000h,Contraste: 20 000/1, Consommation:225 W, Consommation en veille: 0,5 W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1020_1.jpg",
+  "Offres": [
+    {
+      "Price": "803 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/3841-videoprojecteur-optoma-svga-s316.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0389443f7611ba942f4d9"
+  },
+  "Name": "Optoma - Video Projecteur X312 DLP XGA",
+  "Reference": "95.73701GC0E",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Video Projecteur OPTOMA X312 - Système de projection  XGA-DLP . Ecran 0.55 pouces . Résolution Natif XGA (1024 x 768) . Luminosité: 3200 ANSI lumens - Formats 3D pris en charge - Ports: USB / HDMI / VGA / S-Video / Entreé/Sortie audio ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1024_1.jpg",
+  "Offres": [
+    {
+      "Price": "803 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/3842-videoprojecteur-optoma-svga-s312.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0389543f7611ba942f4da"
+  },
+  "Name": "EPSON - Vidéoprojecteur EB-S31",
+  "Reference": "V11H719040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Epson EB-S31, Système de projection: Technologie 3LCD, Résolution: SVGA, 800 x 600, 4:3, Rapport de contraste: 15.000 : 1, Sortie lumière (couleur/ blanche): 3.200 lumen - 2.240 lumen, Traitement vidéo: 10 Bits, Connexions: USB ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1025_1.jpg",
+  "Offres": [
+    {
+      "Price": "1049 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/tv-photos/videoprojecteur/video-projecteur-epson-eb-s31.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0389643f7611ba942f4db"
+  },
+  "Name": "EPSON - Vidéoprojecteur  - Home Cinéma EH-TW570",
+  "Reference": "V11H664040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "VIDEO PROJECTEUR EPSON EH-TW570 - Home Cinéma - Compatible 3D , Système de projection: Technologie 3LCD, Obturateur RVB à cristaux liquides, Résolution WXGA, Luminosité: 3000 Lumens, Contraste 15000:1, USB 2.0 type A, USB 2.0 type B, Entrée 1 HDMI, Poids: 2.4Kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1038_1.jpg",
+  "Offres": [
+    {
+      "Price": "1619 DT",
+      "Last-update": "21/02/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/epson-eh-tw570.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0389a43f7611ba942f4dc"
+  },
+  "Name": "Optoma - ML750e DLPW XGA",
+  "Reference": "95.8UA02GC1E",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Video Projecteur OPTOMA ML750e - Système de projection WXGA DMD avec puce DLP . Ecran 0.45 pouces . Résolution WXGA (1280 x 800) . Luminosité: 700 Luminosité LED - Contraste: 15 000:1 - Formats 3D pris en charge - Ports: USB Type A / HDMI-MHL / Universal I/O / microSD / VGA /Sortie audio 3.5mm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1041_1.jpg",
+  "Offres": [
+    {
+      "Price": "1270 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/3843-videoprojecteur-optoma-ultra-mobile-led-ml750e.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0389b43f7611ba942f4dd"
+  },
+  "Name": "EPSON - Videoprojecteur EB-X27 XGA - 3LCD",
+  "Reference": "V11H692040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "VidéoProjecteur EPSON EB-X27 - Ecran LCD 0,55 pouce - Technologie de Projection: 3LCD - Résolution de Projection: XGA, 1024 x 768 - Sortie lumière (couleur/blanche): 2.700 lumen - 1.890 lumen (economie) - Rapport de contraste: 10.000 : 1 - Distance focale: 16,9 mm - 20,28 mm - Connceteurs: 1 x HDMI, 1 x S-Vidéo, 2 x VGA, 1 x Vidéo composite (RCA) - 1 x Série (RS-232), 2 x Jack 3,5mm, 1 x Ethernet - 1 x RJ45, USB 2.0 Type A, USB 2.0 Type B ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1496963403_141.jpg",
+  "Offres": [
+    {
+      "Price": "1069 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/tv-photos/videoprojecteur/videoprojecteur-epson-eb-x27-xga-3lcd.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0389d43f7611ba942f4de"
+  },
+  "Name": "EPSON - Videoprojecteur Lumineux 3LCD EB-S27 - V11H694040",
+  "Reference": "V11H694040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéo Projecteur EPSON EB-S27  - Résolution: SVGA, 800 x 600 pixels 4:3 - Technologie de Projection: 3 LCD - Luminosité (Blanche / Couleur): 2700 lumens - Rapport de Contraste: 10000:1 (dynamique) - Taille de L'image: 76 cm - 889 cm - Distance de Projection: 1,77 a - 2,4 a - Ouverture de l'objectif: F/1.44 - Puissance de la Lampe: 273 Watt - Durée de vie de la lampe: 5000 heures - Puissance sonore: 5 Watt - Connecteurs: RCA, HDMI, S-Vidéo, VGA, RS-232, USB 2.0 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1515520658_773.jpg",
+  "Offres": [
+    {
+      "Price": "949 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/263/Vido-projecteur-EPSON-EB-S27"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0389f43f7611ba942f4df"
+  },
+  "Name": "EPSON - Vidéoprojecteur EB-U42 WUXGA WiFi - V11H846040",
+  "Reference": "V11H846040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Système de projection: Technologie 3LCD - Panneau LCD: 0,67 pouce - Luminosité couleur: 3.600 lumen- 2.235 lumen (économie) - Sortie lumière blanche: 3.600 lumen - 2.235 lumen (économie) - Résolution: WUXGA, 1920 x 1200, 16:10 Full HD - Lampe: UHE, 210 W, 6.000 h Longévité, 10.000 h Longévité (en mode économique) - Connectivité: Wifi ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1515538536_430.jpg",
+  "Offres": [
+    {
+      "Price": "2399 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1283/Vido-Projecteur-EPSON-EB-U42-WUXGA-WiFi"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038a143f7611ba942f4e0"
+  },
+  "Name": "EPSON - Video projecteur eb-w31",
+  "Reference": "EB-W31",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Technologie 3LCD / Sorties lumière blanche : 3.200 lumen / Résolution : WXGA, 1280 x 800, 16:10 / Taux de contraste de 15 000:1 / Installation simple / Reproduction des couleurs : Jusqu'à 1,07 milliards de couleurs / Reproduction des couleurs jusqu?à 1,07 milliards de couleurs / Connectivité :  USB 2.0 / VGA / HDMI / Composite /  S-vidéo / MHL / RCA  / ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1522846124_305.jpg",
+  "Offres": [
+    {
+      "Price": "1279 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/07a9d-octanet-ok.jpg",
+      "product-link": "https://octanet.tn/tv-photos/videoprojecteur/video-projecteur-epson-eb-w31.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038a143f7611ba942f4e1"
+  },
+  "Name": "EPSON - VIDEOPROJECTEUR EB-680WI INTERACTIF TACTILE",
+  "Reference": "V11H742040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Système de projection :  Technologie 3LCD Résolution:  WXGA, 1280 x 800, 16:10 Rapport de contraste:  14.000 : 1 Sortie lumière : 3.200 lumen Haute définition: HD ready Connectique: USB, Interface Ethernet (100 Base-TX/10 Base-T), Réseau local sans fil IEEE 802.11b/g/n (en option), VGA,  HDMI ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1547229508_917.jpg",
+  "Offres": [
+    {
+      "Price": "9590 DT",
+      "Last-update": "07/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/7286-video-projecteur-epson-eb-680wi-tactile-interactif-v11h742040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038a343f7611ba942f4e2"
+  },
+  "Name": "EPSON - VIDéO PROJECTEUR BUREAUTIQUE EB-2155W - V11H818040",
+  "Reference": "V11H818040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Utilisation Présentation et multimédia Résolution 1280 x 800 Type d'image 720p Luminosité 5000 ANSI lumens 5000 lumens Sortie vidéo Composite video HDMI MHL VGA ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1583269774_830.jpg",
+  "Offres": [
+    {
+      "Price": "3750 DT",
+      "Last-update": "07/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/11929-video-projecteur-home-cinema-epson-eb-2155w-full-hd.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038a443f7611ba942f4e3"
+  },
+  "Name": "Optoma - Vidéoprojecteur X402 DLP XGA Business",
+  "Reference": "95.70701GC0E",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéoprojecteur Optoma X402 DLP XGA Business - Full 3D avec haut parleur 10W intégré - Résolution 1024 x 768 pixels - Luminosité 4200 ANSI lumens - Contraste 20000 /1 - Distance focale mini 18,2 mm - Distance focale maxi 21,9 mm - Ouverture maximale F/2.4~2.66 ; f=18.2~21.9mm - Taille image 0.92 - 7.69 m - Zoom manuel 1.2x - 1x RCA - 2x VGA - 1x HDMI - 1x S-Vidéo - 1x RS232 - 1x Ethernet RJ45 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1515716692_281.jpg",
+  "Offres": [
+    {
+      "Price": "2000 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/3844-videoprojecteur-optoma-x402-dlp-xga-business.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038a543f7611ba942f4e4"
+  },
+  "Name": "Optoma - VIDéOPROJECTEUR W310 95.8WR02GC2E",
+  "Reference": "95.8WR02GC2E",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Technologie: DLP, Puissance lumineuse: 3 000 Lumens ANSI, Résolution physique: 1 280 x 800, Taux de contraste: 20 000:1, Durée de vie de la lampe (normal): 5 000 heures  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1617013671_234.jpg",
+  "Offres": [
+    {
+      "Price": "1090 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/3845-videoprojecteur-optoma-w310.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038a843f7611ba942f4e5"
+  },
+  "Name": "ORAY - KIT DE FIXATION PLAFOND POUR VIDéOPROJECTEUR",
+  "Reference": "SVP003SW",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Kit de fixation Plafond pour Vidéoprojecteur ORAY SVP003SW Kit de Fixation au Plafond - Réglage à 90 cm en hauteur - Support plafond universel pour vidéoprojecteur - Charge max: 15 Kg - Attache réglable de 07 à 90 cm  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1622728477_273.jpg",
+  "Offres": [
+    {
+      "Price": "220 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/accessoire-videoprojecteur/4835-kit-de-fixation-plafond-pour-video-projecteur-oray.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038a943f7611ba942f4e6"
+  },
+  "Name": "EPSON - Vidéoprojecteur EH-TW610 Full HD WiFi - (V11H849140)",
+  "Reference": "V11H849140",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Technologie: 3LCD - Ecran: LCD 0.61\" - Luminosité: 3000 lumens, 1925 lumens (économie) - Résolution: Full HD 1080p - Format de l'image: 16:9 - Contraste: 10.000:1 - Durée de vie de la lampe: 4500 h, 7500 h (mode économie) - Connectivité Sans Fil: WiFi - Ports: 1 x USB 2.0 type A, 1 x USB 2.0 type B, 1 x Entrée VGA, 2 x Entrée HDMI, 1 x Entrée composite, MHL, 1 x Entrée RCA -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1522846619_193.jpg",
+  "Offres": [
+    {
+      "Price": "1729 DT",
+      "Last-update": "07/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/11928-video-projecteur-epson-eh-tw610-full-hd-wifi-v11h849140.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038aa43f7611ba942f4e7"
+  },
+  "Name": "EPSON - VidÉoprojecteur eb-x39 XGA V11H855040",
+  "Reference": "V11H855040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Technologie 3LCD avec un panneau LCD de 0.55 pouces avec MLA D10; Résolution: XGA, (1024x768) pixels, 4:3- Contraste: 15.000:1; Luminosité de 3.500 Lumen, 2.230 lumen (économie); Lampe: 210 W, 6.000 h; longévité, 12.000 h longévité (en mode économique); Haut parleur 5 W; Wifi (optionnel); Entrée VGA (2x), Sortie VGA, Entrée HDMI, Entrée composite, Entrée composante (2x), Entrée RVB (2x), Sortie audio mini-jack, Entrée audio mini-jack (2x), Interface Ethernet (100 BaseTX/10 Base-T). ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1522846797_400.jpg",
+  "Offres": [
+    {
+      "Price": "1560 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/7284-video-projecteur-epson-eb-x39-xga-v11h855040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038ab43f7611ba942f4e8"
+  },
+  "Name": "BenQ - Vidéoprojecteur W1700 DLP 4K UHD HDR 3D",
+  "Reference": "W1700",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Projecteur DLP - Luminosité: 2200 Lumens - Résolution native 4K UHD (3840 x 2160 pixels) - Prise en charge HDR - Contraste 10 000:1 - CinematicColor - Zoom 1.2x - Durée de vie de la lampe : Jusqu'à 10000 h - Compatible 3D - Technologie SmartEco - 2x HDMI - 1x VGA - 1x Composite - 1x RS-232 - 1x USB (Type Mini-B) - Enceinte 1 x 5W - Dimensions: 353 x 135 x 272 mm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1523316172_356.jpg",
+  "Offres": [
+    {
+      "Price": "3899 DT",
+      "Last-update": "07/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/videoprojecteurs/29494-videoprojecteur-benq-w1700-dlp-4k-uhd-hdr-3d.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038ab43f7611ba942f4e9"
+  },
+  "Name": "EPSON - VIDéO PROJECTEUR EB-S39 SVGA (V11H854040)",
+  "Reference": "V11H854040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéo Projecteur Epson EB-S39 - Système de projection: Technologie 3LCD - Luminosité: 3300 lumens, 2050 lumens (économie) - Résolution: SVGA, 800 x 600  - Rapport hauteur/largeur: 4:3  - Rapport de contraste: 15.000 : 1 - Puissance Lampe: 210 W , Durée de Vie Lampe: 6000 h Longévité, 10000 h  Longévité (en mode économique) - Zoom: Manual, Factor: 1,35 - Distance focale: 16,7 mm - Connecteurs: 1 x USB 2.0 type A, 1 x USB 2.0 type B, 1 x RS-232C, 2 x Entrée VGA, 1 x Sortie VGA, 1 x Entrée HDMI, 1 x Entrée composite, 2 x Entrée composante, 2 x Entrée RVB, 1 x Sortie audio mini-jack, 2 x Entrée audio mini-jack - Dimensions: 302? x 249 x 92 mm - Poids: 2.7 kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1536882615_194.jpg",
+  "Offres": [
+    {
+      "Price": "1620 DT",
+      "Last-update": "07/10/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/4f70a-darishop-ok.jpg",
+      "product-link": "https://dari-shop.tn/videoprojecteur/7282-video-projecteur-epson-eb-s39-svga-v11h854040.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038ac43f7611ba942f4ea"
+  },
+  "Name": "ACER - VIDéO PROJECTEUR X118H SVGA",
+  "Reference": "X118H",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéo Projecteur ACER - Système de projection: Technologie DLP  - Luminosité: 3600 lumens  - Résolution: SVGA , 800 x 600 - Rapport hauteur/largeur Compatible: 16:9 - Rapport de contraste: 20.000 : 1 - Ratio de projection: 1,94 à 2,16 - Zoom numérique: 2x - Ouverture maximale de l'objectif: F/2,53 - Distance de projection maximum: 11.8m - Longévité de la lampe : 4000 Heures (Standard) - 6000 Heures (ECO), 10000 Heures (ExtremeEco) - Compatible 3D - Connecteurs: HDMI, USB, VGA - Poids: 2.7 kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1577204491_386.jpg",
+  "Offres": [
+    {
+      "Price": "999 DT",
+      "Last-update": "05/11/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/62f2b-promouv.png",
+      "product-link": "http://www.promouv.com/acer-x118h.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038ac43f7611ba942f4eb"
+  },
+  "Name": "PORT - PROJECTEUR ABLE ONN FULL HD 1080P HDMI-AV IN -AUX -VGA - USB AVEC TéLéCOMMANDE",
+  "Reference": "ONN3100",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Projecteur Portable ONN Full HD 1080P HDMI-AV In -Aux -VGA - USB -Avec Télécommande -Interface matérielle : VGA, USB x2 , AV, HDMI x3 -Marque :ONN -Luminosité :3100 lm (couleurs LED )-Résolution Native : FULL HD 1080P (1920 x 1080) -Taux de contraste d'image :20000:1 -Résolution d'affichage maximale :1080P Full HD -Tension :5W (4 ohm) x2 -distance de Projection : 1m/6m -Poids de l'article: 2.6 Kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1622728584_822.jpg",
+  "Offres": [
+    {
+      "Price": "429 DT",
+      "Last-update": "05/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/96e72-lastpricetunisie-ok.jpg",
+      "product-link": "https://www.lastpricetunisie.tn/video-projecteur/5650-projecteur-portable-onn-full-hd-1080p-hdmi-av-in-aux-vga-usb-avec-telecommande-onn3100-shopping-en-ligne-last-price-tunisie.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038ad43f7611ba942f4ec"
+  },
+  "Name": "EPSON - VIDéOPROJECTEUR PROFESSIONNEL 3LCD EB-X49",
+  "Reference": "V11H982040",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Projecteur XGA - Technologie 3LCD - Panneau LCD 0.55\" avec MLA D10 - Luminosité couleur: 3.600-2.235 lumen - Résolution XGA, 1024 x 768, 4:3 - Contraste 16.000:1 - Lampe UHE, 210 W, 6.000h , 12.000h Longévité - Objectif Optique - Taille de l'image 30-300\" - Rapport de projection 1.48 - 1.77:1 - USB 2.0 type B - RS-232C - Interface Ethernet - 2x VGA - HDMI - Entrée composite - Sortie audio mini-jack - 2x Entrée audio mini-jack - Entrée RCA - USB 2.0 type A - Dimensions: 302? x 249 x 87 mm - Poids: 2.7 Kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1631633629_731.jpg",
+  "Offres": [
+    {
+      "Price": "1739 DT",
+      "Last-update": "07/07/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/video-projecteur-epson-eb-x49-3600lum-usb.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f038ae43f7611ba942f4ed"
+  },
+  "Name": "EPSON - VIDéOPROJECTEUR PROFESSIONNEL 3LCD EH-TW710",
+  "Reference": "V11H980140",
+  "type": "/image_son/projection/video_projecteurs",
+  "Specs": "Vidéoprojecteur professionnel 3LCD EPSON EH-TW710 - Résolution Full HD 1920 x 1080 pixels - Technologie 3LCD - Luminosité  3400 Lumens - Contraste 16000 /1 - Focale standard - Distance focale mini 14.06 mm - Distance focale maxi 16.82 mm - Ratio de projection maxi 1.23 - Lampe UHE 210W - Durée de vie de la lampe 6000 Heures - Niveau sonore maxi 37 dB - Haut Parleur 2W - 2x HDMI + 1x VGA + USB Type B Femelle - Wifi Miracast - Entrée composite - RCA - USB Type A Femelle - Sortie audio mini-jack - Dimensions 302 x 92 x 252 mm - Poids 2.8kg ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_projection/1631633703_125.jpg",
+  "Offres": [
+    {
+      "Price": "2159 DT",
+      "Last-update": "27/06/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/video-projecteur/43131-video-projecteur-epson-eh-tw710-full-hd.html"
+    }
+  ]
+}]

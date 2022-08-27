@@ -1,0 +1,298 @@
+[{
+  "_id": {
+    "$oid": "62f028bb4ee1644bd663fc59"
+  },
+  "Name": "LENOVO - SERVEUR TS150 E3-1225 8 GO 2TO (70UB001)",
+  "Reference": "70UB001",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "ThinkServer LENOVO TS150 - Format: Tour - Processeur: Intel Xeon E3-1225 v6 4C  (3,3 GHz up to 3,7 GHz , 8 Mo  de mémoire cache, 4 c?urs) - Mémoire: 8Go  SDRAM DDR4-2400 - Disque Dur: 2To  SATA (7200 Tours/min) - Chipset: Intel C236 - Disque Dur Supporté: 2 x 3,5\" - Ventilation: Redondante - Interface Réseau: Intel I219LM (1 x Port Gigabit Ethernet ) - Connecteurs: 8 ports USB 3.0, 1 port DisplayPort, 1 port VGA DB-15, 1 port série DB-9, 3 connecteurs audio, Interne: 1x port USB 2.0 pour le lecteur de sauvegarde RDX - 4 Slots PCIe - DVD-R - Alimentation: 250W p/s   -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537618003_845.jpg",
+  "Offres": [
+    {
+      "Price": "2190 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/987/Serveur-LENOVO-ThinkServer-TS150-Xeon-E3-1225-1To-8Go"
+    },
+    {
+      "Price": "2589 DT",
+      "Last-update": "16/05/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-lenovo-ts150-e3-1225-8-go-2to.html"
+    },
+    {
+      "Price": "2589 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1484/Serveur-LENOVO-TS150-E3-1225-8-Go-2To"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028bc4ee1644bd663fc5a"
+  },
+  "Name": "LENOVO - SERVEUR THINK SYSTEM ST550 XEON SILVER 4110 16GO (7X10A017EA)",
+  "Reference": "7X10A017EA",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Serveur ThinkSystem LENOVO ST550 - Format: Tour 4U - Processeur: Intel Xeon Silver 4110 8C  (2,1 GHz up to 3,0 GHz , 11 Mo  de mémoire cache, 8 c?urs) - Mémoire: 16Go DDR4 2666 MHz - Disque Dur: Sans Disque Dur  - Chipset: Intel C624 - Disque Dur Supporté: 8 de base extensible 16 hot-swap internal M.2 boot - Ventilation: Redondante - Interface Réseau: 2 x Port Gigabit Ethernet - Connecteurs: 3 ports USB 3.0, 1 port USB 2.0, 1 port VGA DB-15 - 8 Slots PCI Extensible à 11 - Multi burner - Controleur Raid: RAID 930-8i (0,1,10,5,50,6,60)  - Alimentation: 7 50W platinum hot-swap  -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539178811_531.jpg",
+  "Offres": [
+    {
+      "Price": "6589 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1007/Serveur-Lenovo-ThinkSystem-ST550"
+    },
+    {
+      "Price": "6595 DT",
+      "Last-update": "08/06/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/31550-serveur-tour-lenovo-thinksystem-st550.html"
+    },
+    {
+      "Price": "6599 DT",
+      "Last-update": "31/07/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-lenovo-st550-16-go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028be4ee1644bd663fc5b"
+  },
+  "Name": "DELL - SERVEUR POWEREDGE T130 E3-1220V6 8GO 2X1 TO",
+  "Reference": "PET130",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Serveur DELL PowerEdge T130 - Format: Tour, Processeur: Intel Xeon E3-1220v6  (Quad-Core , 3.0 GHz Up To 3.5 GHz, 8 Mo de Mémoire Cache , 72W), Mémoire: 8Go DDR4 UDIMM 2400 MT/s - Emplacement Mémoire: 4 DIMM - Disque Dur: 2 x 1 To 7.2K RPM SATA 6Gbps 3.5\" - Emplacement Disque Dur: 4 x disques 3,5'' - DVD RW - Contrôleur Raid S 130 SoftWare RAID - Interface réseau: On-Board LOM 1GBE Dual Port (BCM5720 GbE LOM)  - Non Redondante - Sans Système d'exploitation ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537618014_505.jpg",
+  "Offres": [
+    {
+      "Price": "3439 DT",
+      "Last-update": "10/07/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-dell-poweredge-t130-e3-1220-v6-8go-2to.html"
+    },
+    {
+      "Price": "3569 DT",
+      "Last-update": "29/08/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/25259-serveur-tour-dell-poweredge-t130-2x-1to.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028bf4ee1644bd663fc5c"
+  },
+  "Name": "HP - SERVEUR PROLIANT ML110 GEN10 / 8.25 MB L3 / TOUR 4.5U P03684-425",
+  "Reference": "P03684-425",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Réf : P03684-425 - Processeur: Bronze 3104 (6 Core, 1.7Ghz), Mémoire cache: 8.25 MB L3, Memoire: HPE 8GB 1Rx8 PC4-2666V-R Smart Kit, Lecteur: DVD-RW, Carte Réseau: HPE Ethernet 1Gb 2-port 332i Adapter, Sans Disque, Format: Tour (4.5U) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539179647_751.jpg",
+  "Offres": [
+    {
+      "Price": "3729 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/871/Serveur-HP-ProLiant-ML110-Gen10-825-MB-L3-Tour-45U"
+    },
+    {
+      "Price": "4369 DT",
+      "Last-update": "08/09/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/serveurs-hp/19408-serveur-hp-ml110-gen10-8-go-sans-disques.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028c04ee1644bd663fc5d"
+  },
+  "Name": "DELL - SERVEUR POWEREDGE T630 E3-2620V4",
+  "Reference": "PET630",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Serveur DELL PowerEdge T630 - Format: Tour, Processeur:  Intel Xeon E3-2620v4  (8 Coeurs, 2.1 GHz, 20 Mo  de Mémoire Cache) - Mémoire: 32 Go  DDR4 DIMMs 2133 Mhz - Disque Dur: 3 x 300GB  10K SAS 3.5\" Hot plug (8 disques  supporté) - Controleur Raid PERC H330  Adaptater raid controller - Graveur DVD 16x DVD+/-RW - Double Alimentation 495W -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539180534_127.jpg",
+  "Offres": [
+    {
+      "Price": "7099 DT",
+      "Last-update": "31/07/2018",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-dell-poweredge-t630-e3-2620v4-16go.html"
+    },
+    {
+      "Price": "7529 DT",
+      "Last-update": "17/04/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-dell-poweredge-t630-e5-2620v4-8go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028c14ee1644bd663fc5e"
+  },
+  "Name": "HP - ProLiant ML30 Gen9 XEON E5-1220V5 2To",
+  "Reference": "831068-425",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Serveur  HP  ML30 GEN9, Format: Tour 4U , Processeur: INTEL XEON E5-1220V5 (4 coeurs, 3.00 GHz, 8 Mo de Mémoire Cache, 80W),  Mémoire: 8Go DDR4, Disque Dur: 2To (6G SATA 7.2k 3.5in HOT PLUG ), DVD-RW, Ethernet 1GB 2ports, Redondance: Non ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1003_1.jpg",
+  "Offres": [
+    {
+      "Price": "2299 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/142/HP-ML30-G9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028c34ee1644bd663fc5f"
+  },
+  "Name": "DELL - Power Edge T430(5U) 3x300Go",
+  "Reference": "PE210-T4303-3x300",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Processeur Intel Xeon E5-2603V3, 1.6 GHz, 15M Cache, 6 coeurs) - Chipset Intel C600 - Mémoire 8Go (1x8GB) Dual Rank LV RDIMMs2133MHz Jusqu'à 192Go (6 DIMM Slots) - 3x 300Go SAS 15k 3.5\" HD Hot Plug - Max. disques 8 de 3.5\" - Contrôleur RAID 5 PERC H330 - Réseau Broadcom 5720 Dual Port 1Gb LOM - Graveur DVD 16XDVD+/-RW - Alimentation Dual Hot Plug Power Supply (1+1)495W ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/64048-1.jpg",
+  "Offres": [
+    {
+      "Price": "5509 DT",
+      "Last-update": "07/11/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-dell-poweredge-t430-e5-2603v3-8go.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028c44ee1644bd663fc60"
+  },
+  "Name": "HP - ML110 Gen9 V4 Tour 5U 1To",
+  "Reference": "840675-425-1TB",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Format Tour 5U - Processeur Intel Xeon E5-2620 v4, 8 core, 2.1 GHz, 20 Mo de cache, 85W - Mémoire HPE 8Go 1Rx8 PC4-2400T-R Kit - Disque 1xHP 1To 6G SATA 7.2K 3.5in SC MDL HDD - Disques supportés 4 SATA HP LFF - Controleur Raid HP B140i SATA - Lecteur DVD-RW - Réseau 2x1 GbE embedded - Alimentation Non redondante HP 350W Power Supply ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/63e78-1.jpg",
+  "Offres": [
+    {
+      "Price": "4199 DT",
+      "Last-update": "22/01/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/21792-serveur-hp-ml110-gen9-v4-tour-5u-1to.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028c54ee1644bd663fc61"
+  },
+  "Name": "DELL - SERVEUR POWEREDGE T30 E3-122V5 8GO 1TO",
+  "Reference": "PET3002",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Serveur DELL PowerEdge T30 - Format: Tour, Processeur: Intel Xeon E3-1225v5 (Quad-Core , 3.3 GHz Up To 3.5 GHz, 8 Mo de Mémoire Cache , 80W), Mémoire: 8Go DDR4 UDIMM 2133 MT/s - Mémoire Max: 64Go - Disque Dur: 1 To 7.2K RPM SATA 6Gbps 3.5\" NHP - Emplacement Disque Dur: 4 x disques 3,5'' - DVD RW - Contrôleur Raid Embedded BMC - Contrôleur réseau: Intel I217-LM 1 x LAN (Gigabit Ethernet) - Non Redondante - Sans Système d'exploitation ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537617101_615.jpg",
+  "Offres": [
+    {
+      "Price": "2299 DT",
+      "Last-update": "03/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1021/Serveur-DELL-mini-tour-PowerEdge-T30-8Go-1To"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028c74ee1644bd663fc62"
+  },
+  "Name": "HP - SERVEUR PROLIANT ML150 GEN9 5U XEON E5-2603V4 8GO- (834606-421)",
+  "Reference": "834606-421",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Serveur HP ProLiant ML150 Gen9, Modèle: 834606-421 - Format: Tour 5U, Processeur: Intel Xeon E5-2603v4  (6 c?urs , 1.7 GHz, 15 Mo L3 de Mémoire Cache, 85W), Mémoire: 8Go  DDR4 SDRAM Advanced ECC - PC4-19200 - Mémoire Max Supporté: 256 Go - Sans Disque Dur  - Emplacement Disque Dur: Non-hot-swap 3.5 \" - Contrôleur graphique: Matrox G200 - Contrôleur de stockage: RAID (SATA 6Gb/s) HP Dynamic Smart Array B140i - Carte Réeseau: 2 x Gigabit Ethernet, Sans Lecteur Optique, Alimentation: 550W , Non Redondance,  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537617223_773.jpg",
+  "Offres": [
+    {
+      "Price": "2359 DT",
+      "Last-update": "18/11/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/002d2-spacenet.jpg",
+      "product-link": "https://spacenet.tn/serveurs-hp/44502-serveur-hpe-proliant-ml150-gen9-e5-2603v4-8go-834606-421.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028c94ee1644bd663fc63"
+  },
+  "Name": "HP - SERVEUR PROLIANT ML10 GEN9 4U XEON E3-1225V5 8GO 838124-425",
+  "Reference": "838124-425",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Serveur HP ProLiant ML10 Gen9 , Modèle: 838124-425 - Format:  Tour 4U, Processeur: Intel Xeon E3-1225v5 (4 c?urs, 3.3 GHz, 8 Mo L3 de Mémoire Cache, 80W), Mémoire: 8Go DDR4-SDRAM , 2133 MHz 4DIMM, 1R x8 PC4-2133P-E-15 - Mémoire Max: 64Go - Disque Dur: 2To  (6G SATA 7.2k 3.5\" NHP HDD), Nombre de Disque Dur Supporté: 4 Disque SATA NHPL LFF - Carte Réeseau: HP 1Gb 1-port I219LM PCI exp Adapter, Alimentation: 300W, Redondance: Non,   ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537617265_761.jpg",
+  "Offres": [
+    {
+      "Price": "2159 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/187/HP-ML10-G9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028c94ee1644bd663fc64"
+  },
+  "Name": "DELL - SERVEUR POWEREDGE T330 E3-1220V6 8GO 1TO",
+  "Reference": "PET330",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Serveur DELL PowerEdge T330 - Format: Tour, Processeur: Intel Xeon E3-1220v6  (Quad-Core , 3.0 GHz Up To 3.5 GHz, 8 Mo de Mémoire Cache , 72W), Mémoire: 8Go DDR4  UDIMM 2400 MT/s - Emplacement Mémoire: 4 DIMM - Disque Dur: 1 To 7.2K  RPM SATA 6Gbps 3.5\" - Emplacement Disque Dur: 8 x disques 3,5'' - DVD RW - Contrôleur Raid Dell PERC H330 SATA 6Gb/s - Contrôleur réseau: On-Board LOM 1GBE Dual Port (BCM5720 GbE LOM) - 495W - Non Redondante - Sans Système d'exploitation ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1537617373_760.jpg",
+  "Offres": [
+    {
+      "Price": "4165 DT",
+      "Last-update": "11/05/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/b0ef2-tunisianet.jpg",
+      "product-link": "https://www.tunisianet.com.tn/serveur-informatique-tunisie/35547-serveur-tour-dell-poweredge-t330-1-to.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028cb4ee1644bd663fc65"
+  },
+  "Name": "HP - SERVEUR D'ENTRéE DE GAMME E PROLIANT ML30 GEN9/ E3-1220V6 / 8MO P03704-425",
+  "Reference": "P03704-425",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Réf: P03704-425 - Processeur: E3-1220 V6 (4 CORE 3,0 Ghz), Mémoire Cache: 8 Mo, Mémoire : HPE 8GB 1Rx8 PC4-2400T-E STND Kit, Sans lecteur, Carte Réseau: Broadcom 5720 Dual-port 1GbE ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539179656_102.jpg",
+  "Offres": [
+    {
+      "Price": "2749 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/1055/Serveur-HPE-ProLiant-ML30-Gen9"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028ce4ee1644bd663fc66"
+  },
+  "Name": "DELL - SERVEUR TOUR POWEREDGE T330 / 2X 300 GO PE210-T330",
+  "Reference": "PE210-T330",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Processeur Intel Xeon E3-1220 v5, 3.0 GHz, 8 Mo de mémoire cache, 4C/4T, turbo (80W) - Mémoire 8 Go UDIMM, 2133 MT/s, ECC (ZR) - Mémoire max. 64 Go DDR4 (4 slots) - Disque 2x 300 Go SAS 10k 2.5\" HD Hybrid 3.5\" - Supporte 8 Disques 3.5\" - Contrôleur Raid PERC H330  - Réseau: On-Board LOM 1GBE Dual Port (BCM5720 GbE LOM) - Graveur DVD+/-RW - Double Alimentation 495W - Sans système ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539020811_249.jpg",
+  "Offres": [
+    {
+      "Price": "5099 DT",
+      "Last-update": "11/04/2019",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/serveur-dell-poweredge-t330-e3-1220v5-8go-600go-210-t330.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f028d14ee1644bd663fc67"
+  },
+  "Name": "HP - SERVEUR PROLIANT ML350 GEN10 | 11MO TOUR 4U 877621-421",
+  "Reference": "877621-421",
+  "type": "/informatique/serveurs/tour",
+  "Specs": "Réf : 877621-421 - Processeur: Silver 4110 (8 core, 2.1 GHz), mémoire cache: 11 Mo, Mémoire : HPE 16GB 1Rx4 PC4-2666V-R Smart Kit, Lecteur: DVD-RW, Carte réseau: HP 1Gb 4-port 331i Adapter, NB HDD: 8 X SFF ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_serveurs/1539179640_647.jpg",
+  "Offres": [
+    {
+      "Price": "8599 DT",
+      "Last-update": "02/05/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/93b48-shoppi-ok.jpg",
+      "product-link": "https://shoppi.tn/site/details/893/Serveur-HP-RPS-de-base-HPE-ProLiant-ML350-Gen10-4110-monoprocesseur-16-Go-de-RAM-P408i-a-8-lecteurs-faible-encombrement-1x800W"
+    }
+  ]
+}]

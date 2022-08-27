@@ -1,0 +1,459 @@
+[{
+  "_id": {
+    "$oid": "62f0341c6e9520ab260b32ae"
+  },
+  "Name": "ASUS - CARTE MèRE PRIME B450M-A",
+  "Reference": "B450M-A",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : AMD Processeur AM4 Socket for 3rd/2nd/1st Gen Chipset : AMD B450 Mémoire : 4x DIMM, Max. 128GB, DDR4 2800MHz to 4400 MHz (Dual-Channel) Slots d´extension : 1 x PCIe 3.0/2.0 x16 (mode x16) - 1 x PCIe 3.0/2.0 x16 (mode x8) Stockage : 4 x port(s) SATA 6 Gb/s - 1 x M.2 socket 3 LAN : Realtek® RTL8111H, 1 x Contrôleur Gigabit LAN Audio : CODEC Realtek® ALC887 8 canaux audio haute définition Ports USB : 4 x port(s) USB 3.1 Gen 1 [bleu]) - 2 x port(s) USB 3.1 Gen 2 ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623062085_400.jpg",
+  "Offres": [
+    {
+      "Price": "289 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/carte-mere-asus-prime-b450m-a-asus-b450m-a.html"
+    },
+    {
+      "Price": "299 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3039-carte-mere-asus-prime-b450m-a.html"
+    },
+    {
+      "Price": "319 DT",
+      "Last-update": "12/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/carte-mere/carte-mere-asus-prime-b450m-a-15088.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0341d6e9520ab260b32af"
+  },
+  "Name": "ASUS - CARTE MèRE ROG STRIX X570-E GAMING",
+  "Reference": "X570-E",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : AMD AM4 Socket for AMD Ryzen? 5000 Series Chipset : AMD X570 Mémoire : 4x DIMM 128 Go DDR4 4600MHz (OC) Carte graphique : Supports HDMI 2.0b avec une résolution maximale 4096 x 2160 @ 60 Hz Slots d´extension : 2 x PCIe 4.0 x16 (x16 or dual x8) - 2 x PCIe 3.0 x16 (x16 or dual x8) - 1 x PCIe 3.0 x16 (x8 mode) Stockage : 1x M.2 Socket 3 (SATA & PCIE 3.0 x 4 mode) - 1 x M.2 Socket 3 (SATA mode) - 8 x SATA 6Gb/s port(s) Wi-Fi : Intel® Wi-Fi 6 AX200 LAN : Intel® I211-AT, 1 x Gigabit LAN Controller(s) Bluetooth® : 5.0 USB Ports : 4x USB 3.1 Gen 2 - 4x USB 3.1 Gen 1 - 1x Type-C Facteur d´encombrement : ATX 12 cm x 9.6  cm (30.5 pouces x 24.4 pouces) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623231453_694.jpg",
+  "Offres": [
+    {
+      "Price": "1049 DT",
+      "Last-update": "09/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/carte-mere/3047-carte-mere-asus-rog-strix-x570-f-gaming.html"
+    },
+    {
+      "Price": "1399 DT",
+      "Last-update": "25/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/composants-pc-ordinateur/carte-mere-asus-rog-strix-x570-e-gaming-wifi-ii-tunisie"
+    },
+    {
+      "Price": "1400 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3045-carte-mere-asus-rog-strix-x570-e-gaming.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034206e9520ab260b32b0"
+  },
+  "Name": "ASUS - CARTE MèRE TUF X570-PLUS GAMING",
+  "Reference": "X570-P",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : AMD AM4 Socket AMD RyzenTM 5000 Series Chipset : AMD X570 Mémoire : 4x DIMM, Max. 128GB DDR4 5100 MHz Slots d´extension : Supports AMD CrossFireX? Technology Stockage : 1x M.2 Socket 3 - 8x SATA 6Gb/s port(s) LAN : Realtek® L8200A Ports USB : 4x USB 3.2 Gen 1 - 3x USB 3.2 Gen 2 - 2x USB 3.2 Gen 1 - 4 x USB 2.0 Facteur d´encombrement : ATX Form Factor 12.0 inch x 9.6  inch ( 30.5  cm x 24.4  cm ) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1625558932_567.jpg",
+  "Offres": [
+    {
+      "Price": "879 DT",
+      "Last-update": "09/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/carte-mere/carte-mere-asus-tuf-x570-plus-gaming-33841.html"
+    },
+    {
+      "Price": "899 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3089-carte-mere-asus-tuf-x570-plus-gaming.html"
+    },
+    {
+      "Price": "1029 DT",
+      "Last-update": "25/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/3ac87-numedia-ok.jpg",
+      "product-link": "https://numedia.tn/composants-pc-ordinateur/carte-mere-asus-prime-x570-pro-atx-socket-am4-amd-tunisie"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034216e9520ab260b32b1"
+  },
+  "Name": "ASUS - CARTE MèRE TUF B550M-PLUS GAMING",
+  "Reference": "B550M-PLUS",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : AMD AM4 Socket for AMD Ryzen? 5000 Series/ 4000 G-Series/ 3000 Series Desktop Processors Chipset : AMD B550 Mémoire : 4x DIMM, Max. 128GB, DDR4 4600 MHz Support multi-GPU : Supports AMD 2-Way CrossFireX Technology Slots d´extension : 1 x PCIe 4.0 x16 (x16 mode) - 1 x PCIe 3.0 x16 (x16 mode) - 1 x PCIe 3.0 x16 (x4 mode) Stockage : 1x M.2_1 socket 3 - 4x SATA 6Gb/s port(s) LAN : Realtek RTL8125B 2.5Gb Ethernet Ports USB : 2x USB 3.2 Gen 2 - 4x USB 3.2 Gen 1 - 2x USB 2.0 Facteur d´encombrement : mATX Form Factor 9.6  inch x 9.6  inch ( 24.4  cm x 24.4  cm) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1625559281_374.jpg",
+  "Offres": [
+    {
+      "Price": "469 DT",
+      "Last-update": "02/03/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/deec8-mytek.jpg",
+      "product-link": "https://www.mytek.tn/carte-mere-gamer-asus-tuf-b550m-plus.html"
+    },
+    {
+      "Price": "529 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3081-carte-mere-asus-tuf-b550m-plus-gaming.html"
+    },
+    {
+      "Price": "549 DT",
+      "Last-update": "09/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/carte-mere/carte-mere-asus-tuf-b550m-plus-gaming-33839.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034226e9520ab260b32b2"
+  },
+  "Name": "ASUS - CARTE MèRE PRIME A320M-K",
+  "Reference": "A320M-K",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "Carte Mère ASUS PRIME A320M-K - Support du processeur: Socle AM4 AM4  AMD Ryzen ? 2ème génération - Chipset: AMD A320 - Format de Carte Mère: Micro ATX - Format de mémoire: 2 x DIMM 288 pins (DDR4) - Fréquence(s) Mémoire: DDR4 3200 MHz - Type de mémoire: DDR4 - Technologie mémoire: Dual Channel - Capacité maximale de RAM: 32 Go  (2 Slots x 16Go) - Connecteur(s) graphique: 1 x PCI Express 3.0 16x - Nombre et Type de slots: 2 x PCI Express 2.0 1x - Chipset Audio: Realtek ALC887 - Nombre de canaux audio: 8 - Connecteurs Disques: 1 x M.2 - PCI-E 3.0 4x + SATA 6 Gb/s, 4 x Serial ATA 6Gb/s (SATA 3) - Nombre de connecteurs pour ventilateurs: 2 - Connecteurs: 6 x USB 2.0, 6 x USB 3.0, 3 x Jack 3,5mm, 1 x RJ45, 1 x HDMI Femelle, 1 x VGA  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1540218527_774.jpg",
+  "Offres": [
+    {
+      "Price": "175 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/carte-mere-asus-prime-a320m-k-a320m-k.html"
+    },
+    {
+      "Price": "239 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3037-carte-mere-asus-prime-a320m-k.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034276e9520ab260b32b3"
+  },
+  "Name": "ASUS - CARTE MèRE ROG STRIX Z390-E GAMING",
+  "Reference": "Z390-E",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : Intel® Socket 11519th / 8th Gen Intel® Core?, Pentium® Gold and Celeron® Chipset : Intel® Z390 Memory : 4x DIMM max 128Gb ddr4 4266 MHz Carte graphique : 3x PCIe 3.0/2.0 x1 - 2x PCIe 3.0/2.0 x16 (x16 or dual x8) - 1x PCIe 3.0/2.0 x16 (max at x4 mode) Storage : 1x M.2 Socket 3 - 6x SATA 6Gb/s port(s) LAN : Intel® I219V  WI-FI : Intel® Wireless-AC 9560 Bluetooth® 5.0 USB Ports : 4x usb 3.1 Gen 2 - 4x usb 3.1 Gen 1 - 6x usb 2.0 Facteur d´encombrement : ATX 12 cm x 9.6  cm (30.5 pouces x 24.4 pouces) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623335888_312.jpg",
+  "Offres": [
+    {
+      "Price": "969 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3048-carte-mere-asus-rog-strix-z390-e-gaming.html"
+    },
+    {
+      "Price": "969 DT",
+      "Last-update": "08/04/2022",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/28746-technopro-online.jpg",
+      "product-link": "https://www.technopro-online.com/carte-mere-asus-rog-strix-z390-e-gaming-z390-e.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034286e9520ab260b32b4"
+  },
+  "Name": "ASUS - CARTE MèRE TUF B360-PRO GAMING",
+  "Reference": "B360-PRO",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : Intel® Pentium®/Celeron® Socket 1151 for 9th / 8th Generation Chipset : Intel® B360 Mémoire : 4x DIMM, Max. 64 Go, DDR4 2666/2400/2133 MHz Non-ECC, Un-buffered Slots d´extension : 1 x PCIe 3.0/2.0 x16 (mode x16) - 1 x PCIe 3.0/2.0 x16 (maximum en mode x4 ) - 4 x PCIe 3.0/2.0 x1 Stockage : 2x M.2 socket 3 - 6 x port(s) SATA 6 Gb/s, [gris] - Compatible avec la mémoire Intel® Optane LAN : Intel® I219V, 1 x Contrôleur Gigabit LAN - ASUS Turbo LAN Utility Ports USB : 2x port(s) USB 3.1 Gen 2 - 3x port(s) USB 3.1 Gen 1 - 6x port(s) USB 2.0 Facteur d´encombrement : ATX 12.0  cm x 9.29  cm (30.5  pouces x 23.6  pouces) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623335946_240.jpg",
+  "Offres": [
+    {
+      "Price": "449 DT",
+      "Last-update": "25/06/2020",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/carte-mere/asus-tuf-b360-pro-gaming-wi-fi--23417.html"
+    },
+    {
+      "Price": "489 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3077-carte-mere-asus-tuf-b360-pro-gaming.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0342a6e9520ab260b32b5"
+  },
+  "Name": "ASUS - CARTE MèRE TUF B450-PRO GAMING",
+  "Reference": "F B450-P",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : AMD AM4 Socket for AMD Ryzen? 5000 Series/ 4000 G-Series/ 3rd/2nd/1st Gen Chipset : AMD B450 Mémoire : 4x DIMM, Max. 128GB, DDR4 4400 MHz Dual Channel Memory Architecture Slots d´extension : 1 x PCIe 3.0/2.0 x16 (x16 mode) - 1 x PCIe 3.0/2.0 x16 (x8 mode) - 1 x PCIe 3.0/2.0 x16 (x4 mode) Stockage : 2x M.2 Socket 3 - 4x SATA 6Gb/s port(s) LAN : Realtek® RTL8111H USB Ports : 2x USB 3.1 Gen 1 type A - 1 x USB 3.1 Gen 1 port(s) type C - 6 x USB 2.0 port(s) Facteur d´encombrement : ATX Form Factor 12.0  inch x 9.6  inch (30.5  cm x 24.4  cm) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623403151_372.jpg",
+  "Offres": [
+    {
+      "Price": "449 DT",
+      "Last-update": "09/12/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/carte-mere/asus-tuf-b450-pro-gaming--23416.html"
+    },
+    {
+      "Price": "459 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3078-carte-mere-asus-tuf-b450-pro-gaming.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0342a6e9520ab260b32b6"
+  },
+  "Name": "MSI - CARTE MèRE B460M-A PRO",
+  "Reference": "B460M-A",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : Supports 10th Gen Intel® Core? and Pentium® Gold / Celeron® processors for LGA 1200 socket Chipset : Intel® B460 Mémoire : 2x DDR4 support up to 64GB 2666 MHz Carte graphique : 1x PCIe 3.0 x16 - 2x PCIe 3.0 x1 Storage : 6x SATA 6Gb/s - 1x M.2 slot LAN : 1x Realtek® 8111H Gigabit LAN controller USB Ports : 6x USB 3.2 Gen 1 - 6x USB 2.0 Facteur d´encombrement : Miro-ATX Form Factor 9.3 in. x 7.6 in. (23.6 cm x 19.2 cm) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623403252_335.jpg",
+  "Offres": [
+    {
+      "Price": "259 DT",
+      "Last-update": "11/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/8707d-planeteinformatique-ok.jpg",
+      "product-link": "https://planete-informatique.tn/produit/carte-mere-msi-b460m-a-pro/"
+    },
+    {
+      "Price": "279 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3096-carte-mere-msi-b460m-a-pro.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0342c6e9520ab260b32b7"
+  },
+  "Name": "MSI - CARTE MèRE A520M PRO",
+  "Reference": "MSI A520M PRO",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : Support 3rd Gen AMD Ryzen? Desktop Processors and AMD Ryzen? 4000 G-Series Desktop Processors Chipset : AMD A520 Mémoire : 2x DDR4 memory slots, support up to 64GB 3200 MHz Carte graphique : 1x PCIe x16 slot (PCI_E2) - 2x PCIe 3.0 x1 slots Storage : 1x M.2 slot - 4x SATA 6Gb/s ports LAN : 1x Realtek® RTL8111H LAN controller USB Ports : 2x USB 3.2 Gen 1 - 6x USB 2.0 ports Facteur d´encombrement : M-ATX Form Factor 9.6 in. x 8.3 in. (24.4 cm x 21 cm) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623403440_157.jpg",
+  "Offres": [
+    {
+      "Price": "235 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3092-carte-mere-msi-a520m-pro.html"
+    },
+    {
+      "Price": "235 DT",
+      "Last-update": "05/04/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/9ed2f-wiki.jpg",
+      "product-link": "https://www.wiki.tn/carte-mere/carte-mere-msi-a520m-pro-33823.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0342d6e9520ab260b32b8"
+  },
+  "Name": "ASUS - CARTE MèRE PRIME A520M-K",
+  "Reference": "A520M-K",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "Format de carte mère: Micro ATX - Support du processeur: AMD AM4 - Chipset: AMD A520 - Format de mémoire: 2 X DIMM 288 pins (DDR4) - Fréquence(s) Mémoire: Up to DDR4 4600 MHz Dual Channel - Capacité maximale de RAM: 64 Go - Connecteurs panneau arrière: 3 X Jack 3,5mm Femelle Stéréo - 1 X MiniDin 6 Femelle (PS/2) - 1 X RJ45 Femelle - 2 X USB 2.0 - 4 X USB 3.0 - 1 X HDMI Femelle - 1 X VGA (D-sub 15 Femelle) - Longueur: 226 mm - Largeur: 221 mm ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1616328512_307.jpg",
+  "Offres": [
+    {
+      "Price": "229 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3038-carte-mere-asus-prime-a520m-k.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034386e9520ab260b32b9"
+  },
+  "Name": "ASUS - CARTE MèRE PRIME TRX40-PRO",
+  "Reference": "TRX40-PRO",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : AMD Processeur Socket sTRX4 for 3rd Gen AMD Ryzen? Threadripper? Series Desktop Chipset : AMD TRX40 Intégré Mémoire : 8 x DIMM, Max. 256GB, DDR4 4666 MHz Support multi-GPU :  Support de la technologie NVIDIA® SLI? Quad-GPU Slots d´extension : 3 x PCIe 4.0 x16 (x16/x16/x16) - 1 x PCIe 4.0 (mode x4) Stockage : 1x M.2 socket 3 - 8x port(s) SATA 6 Gb/s LAN : Intel® I211-AT ASUS Turbo lan utility Ports USB : 6 x port(s) USB 3.2 Gen 1 - 2 x port(s) USB 2.0 - 1 x Type-C Facteur d´encombrement : ATX 12 cm x 9.6  cm (30.5 pouces x 24.4 pouces) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623073180_650.jpg",
+  "Offres": [
+    {
+      "Price": "1790 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3041-carte-mere-asus-prime-trx40-pro.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034396e9520ab260b32ba"
+  },
+  "Name": "ASUS - CARTE MèRE ROG STRIX B450-E GAMING",
+  "Reference": "B450-E",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : AMD AM4 Socket for AMD Ryzen? 5000 Series/ 4000 G-Series/ 3rd/2nd/1st Gen AMD Ryzen? Chipset : AMD B450 Mémoire : 4x DIMM  Dual-channel 64Go DDR4 3466MHz (OC) Carte graphique : Supports HDMI 2.0b avec une résolution maximale o4096 x 2160 @ 60 Hz Slots d´extension : 2x PCIe 3.0/2.0 x16 (x16 or x8/x4) - 1 x PCIe 3.0/2.0 x16 (x8 mode) - 1 x PCIe 2.0 x16 (max at x4 mode) - 3 x PCIe 2.0 x1 Stockage : 1x M.2 Socket 3 (SATA & PCIE 3.0 x 4 mode) - 1 x M.2 Socket 3 (SATA mode) - 6 x SATA 6Gb/s port(s) LAN : Intel® I211-AT, 1 x Gigabit LAN Controller(s) Bluetooth® : 5.0 USB Ports : 3x USB 3.1 Gen - 1x Type C - 4x USB 2.0 Facteur d´encombrement : ATX 12 cm x 9.6  cm (30.5 pouces x 24.4 pouces) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623073191_292.jpg",
+  "Offres": [
+    {
+      "Price": "629 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3043-carte-mere-asus-rog-strix-b450-e-gaming.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0343a6e9520ab260b32bb"
+  },
+  "Name": "ASUS - CARTE MèRE STRIX B450-F GAMING",
+  "Reference": "B450-F",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : AMD AM4 Socket for 3rd/2nd/1st AMD Ryzen? Chipset : AMD B450 Mémoire : 4x DIMM  Dual-channel 128Go DDR4 3600MHz (OC) Carte graphique : Supports HDMI 2.0b avec une résolution maximale 4096 x 2160 @ 60 Hz Slots d´extension : 2x PCIe 3.0/2.0 x16 (x16 or x8/x4) - 1 x PCIe 2.0 x16 (x4 mode) - 3 x PCIe 2.0 x1 - 1 x PCIe 3.0/2.0 x16 (x8 mode) Stockage : 2x M.2 Socket 3 (SATA & PCIE 3.0 x 4 mode) - 4x SATA 6Gb/s port(s) LAN : Intel® I211-AT, 1 x Gigabit LAN Controller(s) USB Ports : 3x USB 3.1 Gen 1 - 1x Type C - 6x USB 2.0 Facteur d´encombrement : ATX 12 cm x 9.6  cm (30.5 pouces x 24.4 pouces) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623073201_824.jpg",
+  "Offres": [
+    {
+      "Price": "519 DT",
+      "Last-update": "07/06/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/carte-mere/3044-carte-mere-asus-strix-b450-f-gaming.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0343b6e9520ab260b32bc"
+  },
+  "Name": "ASUS - CARTE MèRE PRIME B550M-K",
+  "Reference": "B550M-K",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : AMD Processeur AM4 Socket for 3rd Gen AMD Ryzen Chipset : AMD B550 Mémoire : 4x DIMM, Max. 128 GB, DDR4 4600 MHz Carte graphique : 1x D-Sub - 1x DVI-D - 1X HDMI 2.1 (4k@60Hz) Slots d´extension : 1x PCIe 4.0 x16 (mode x16) - 1x PCIe 3.0 x16 (mode x16) - 2x PCIe 3.0 x1 Stockage : 1x M.2_2 socket 3 - 4x ports sata 6Gb/s LAN : Realtek RTL8111H 1Gb Ethernet Ports USB : 2x USB 3.2 Gen 2 port(s)(2x Type-A) - 4x USB 2.0 Gen 1 port(s)(4x Type-A) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623073217_817.jpg",
+  "Offres": [
+    {
+      "Price": "335 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3040-carte-mere-asus-prime-b550m-k.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0343c6e9520ab260b32bd"
+  },
+  "Name": "ASUS - CARTE MèRE TUF B450-PLUS GAMING",
+  "Reference": "B450-PLUS",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : AMD Processeur AM4 Socket for 3rd/2nd/1st Gen Chipset : AMD B450 Mémoire : 4x DIMM, Max. 128GB, DDR4 4400 MHz Support multi-GPU : Support de la technologie AMD® CrossFireX? Slots d´extension : 1 x PCIe 3.0/2.0 x16 (mode x16) - 1 x PCIe 3.0/2.0 x16 (mode x8) - 1 x PCIe 3.0/2.0 x16 (mode x4) Stockage : 1x M.2 socket 3 - 4x port(s) SATA 6 Gb/s LAN : Realtek® RTL8111H Ports USB : 2 x port(s) USB 3.1 Gen 1 type A - 6 x port(s) USB 2.0 Facteur d´encombrement : ATX 12.0  cm x 9.6  cm (30.5  pouces x 24.4  pouces) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623403166_206.jpg",
+  "Offres": [
+    {
+      "Price": "399 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3079-carte-mere-asus-tuf-b450-plus-gaming.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0343f6e9520ab260b32be"
+  },
+  "Name": "ASUS - CARTE MèRE TUF H310M-PLUS GAMING",
+  "Reference": "H310M-PL",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : Intel® Socket 1151 9th / 8th Gen Intel® Core? Chipset : Intel® H310 Mémoire : 2x DIMM, Max. 32GB, DDR4 2666 MHz Slots d´extension : 1x PCIe 3.0/2.0 x16 (x16 mode) - 2x PCIe 2.0 x1 Stockage : 1x M.2 Socket 3 - 4x SATA 6Gb/s port(s LAN : Intel® I219V, 1 x Gigabit LAN Controller(s) Ports USB : 4x USB 3.1 Gen 1 - 6x USB 2.0/1.1 port(s) Facteur d´encombrement : mATX Form Factor 8.9  inch x 8.2  inch ( 22.6  cm x 20.8  cm ) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623403190_910.jpg",
+  "Offres": [
+    {
+      "Price": "309 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3087-carte-mere-asus-tuf-h310m-plus-gaming.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034416e9520ab260b32bf"
+  },
+  "Name": "MSI - CARTE MèRE B450-A PRO MAX",
+  "Reference": "B450-A PRO MAX",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : Supports 1st, 2nd and 3rd Gen AMD Ryzen? Chipset : AMD® B450 Mémoire : 4x DDR4 memory slots, support up to 64GB 2667 MHz Carte graphique : 1 x PCIe 3.0 x16 - 1 x PCIe 2.0 x16 - 4 x PCIe 2.0 x1 Slots d´extension : Supports 2-Way AMD® CrossFire? Technology Storage : 4x SATA 6Gb/s - 1x M.2 LAN : 1 x Realtek® 8111H Gigabit LAN controller USB Ports : 2x USB 3.2 Gen 2 - 2 x USB 3.2 Gen 1 - 6x USB 2.0 Facteur d´encombrement : ATX Form Factor 12 in. x 9.6 in. (30.5 cm x 24.4 cm) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1623403225_670.jpg",
+  "Offres": [
+    {
+      "Price": "349 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3094-carte-mere-msi-b450-a-pro-max.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f034426e9520ab260b32c0"
+  },
+  "Name": "MSI - CARTE MèRE MPG X570 GAMING EDGE WIFI",
+  "Reference": "MPG X570 GAMING EDGE WIFI",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : Supports 2nd and 3rd Gen AMD Ryzen? / Ryzen? 4000 G-Series Chipset : AMD® X570 Mémoire : 4x DDR4 memory slots, support up to 128GB 3200 MHz Slots d´extension :  1x PCIe 4.0/ 3.0 x16 - 1x PCIe 4.0/ 3.0 x16 slot - 3x PCIe 3.0 x1 Stockage :  4x SATA 6Gb/s - 2x M.2 LAN :  1x Realtek® 8111H Gigabit LAN Controller USB Ports :  2x USB 3.2 Gen 2 - 4x USB 3.2 Gen 1 - 6x USB 2.0 WI-FI & Bleutooth : Intel® Dual Band Wireless-AC 3168 Facteur d´encombrement :  ATX Form Factor 12 in. x 9.6 in. (30.4 cm x 24.3 cm) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1625558521_935.jpg",
+  "Offres": [
+    {
+      "Price": "649 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3138-carte-mere-msi-mpg-x570-gaming-edge-wifi.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0344b6e9520ab260b32c1"
+  },
+  "Name": "ASUS - CARTE MèRE TUF Z590-PLUS GAMING WIFI",
+  "Reference": "Z590-PLUS",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : Intel® Socket LGA1200 for 11th Gen Intel® Core? Processors & 10th Gen Intel® Core?, Pentium® Gold and Celeron® Chipset : Intel® Z590 Mémoire : 4x DIMM, Max. 128GB, DDR4 2133 MHz to 5133 MHz Slots d´extension : 1 x PCIe 4.0/3.0 x16 slot - 1 x PCIe 3.0 x16 slot (supports x4 mode) - 2 x PCIe 3.0 x1 slots Stockage : 6 x port(s) SATA 6 Gb/s - 1 x M.2 socket 3 WI-Fi / Bluetooth : Intel® Wi-Fi 6 / Bluetooth v5.0 or later Audio : Realtek ALC S1200A 7.1 Ports USB : 4 x USB 3.2 Gen 1 port(s)(4 x Type-A) - 2 x USB 2.0 port(s)(2 x Type-A)  Form Factor : ATX 30.5cm x 24.4 cm² ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1625559194_271.jpg",
+  "Offres": [
+    {
+      "Price": "899 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3248-carte-mere-asus-tuf-z590-plus-gaming-wifi.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0344c6e9520ab260b32c2"
+  },
+  "Name": "ASUS - CARTE MèRE TUF B550-PLUS GAMING",
+  "Reference": "B550-PLUS",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : AMD AM4 Socket for AMD Ryzen? 5000 Series/ 4000 G-Series/ 3000 Series Chipset : AMD B550 Mémoire : 4 x DIMM, Max. 128GB, DDR4 4600 MHz Support multi-GPU : Supports AMD 2-Way CrossFireX Technology Slots d´extension : 1x PCIe 4.0 x16 (x16 mode) - 1x PCIe 3.0 x16 (x16 mode) - 1x PCIe 3.0 x16 (x4 mode) - 3x PCIe 3.0 x1 Stockage : 1 x M.2 Socket 3 - 6 x SATA 6Gb/s port(s) LAN : Realtek RTL8125B 2.5Gb Ethernet WI-FI : M.2 slot only (Key E) (Support PCIe interface) Ports USB : 2x USB 3.2 Gen 2 - 4 x USB 3.2 Gen 1 - 2 x USB 2.0 Facteur d´encombrement : ATX Form Factor 12  inch x 9.6  inch ( 30.5  cm x 24.4  cm ) ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1625559255_482.jpg",
+  "Offres": [
+    {
+      "Price": "569 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3083-carte-mere-asus-tuf-b550-plus-gaming.html"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f0344d6e9520ab260b32c3"
+  },
+  "Name": "ASUS - CARTE MèRE PRIME B450M-K V2",
+  "Reference": "B450M-K",
+  "type": "/informatique/composant/carte-mere",
+  "Specs": "CPU : AMD Processeur AM4 Socket ? 5000 Series / 5000 G-Series / 4000 G-Series / 3rd/2nd/1st Gen Chipset : AMD B450 Mémoire : 2x DIMM, Max. 64GB, DDR4 2800MHz to 4400 MHz Slots d´extension : 1 x PCIe 3.0 x16 (x16 mode) - 1 x PCIe 3.0 x16 (x8 mode) - 1 x PCIe 3.0 x16 (x4 mode) - 2 x PCIe 2.0 x1 Stockage : 4 x port(s) SATA 6 Gb/s - 1 x M.2 socket 3 LAN : Realtek® RTL8111H Audio : CODEC Realtek® ALC887 8 canaux audio haute définition Ports USB : 4 x USB 3.2 Gen 1 port(s)(4 x Type-A) - 2 x USB 2.0 port(s)(2 x Type-A) -  ",
+  "Image": "https://www.mega.tn/assets/uploads/img/pr_composant/1625559325_363.jpg",
+  "Offres": [
+    {
+      "Price": "299 DT",
+      "Last-update": "16/08/2021",
+      "Store": "https://www.mega.tn/assets/uploads/img/logo_boutique/7de75-selectshop.jpg",
+      "product-link": "https://selectshop.tn/cartes-meres/3236-carte-mere-asus-prime-b450m-k-v2.html"
+    }
+  ]
+}]
