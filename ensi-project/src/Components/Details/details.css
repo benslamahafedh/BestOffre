@@ -154,19 +154,20 @@ figure {
   padding-bottom: 30px;
   line-height: 25px;
   left: 0px;
-  box-shadow: 20px 40px 49px 8px rgba(128, 128, 128, 0.46);
-  -webkit-box-shadow: 20px 40px 49px 8px rgba(128, 128, 128, 0.46);
-  -moz-box-shadow: 20px 40px 49px 8px rgba(128, 128, 128, 0.46);
+  box-shadow: -20px 40px 49px 8px rgba(128, 128, 128, 0.46);
+  -webkit-box-shadow: -20px 40px 49px 8px rgba(128, 128, 128, 0.46);
+  -moz-box-shadow: -20px 40px 49px 8px rgba(128, 128, 128, 0.46);
   text-align: left;
   color: black;
   background-color: rgba(227, 233, 227, 0.88);
   padding: 30px;
   border-radius: 20px;
+  position: relative;
 }
 @media (min-width: 54em) {
   .post__text {
-    margin-right: 500px;
-    width: 400px;
+    margin-right: 50px;
+    width: 800px;
     left: 20%;
   }
 }
@@ -191,6 +192,7 @@ figure {
   height: 450px;
   border-radius: 30px;
   border: solid 2px black;
+  position: relative;
 }
 /**
  * Animations
@@ -260,15 +262,15 @@ figure {
   border-bottom-right-radius: 20px;
   width: 100%;
   white-space: normal;
-  /* box-shadow: 20px -24px 51px 8px rgba(128, 128, 128, 0.46);
-  -webkit-box-shadow: 20px -24px 51px 8px rgba(128, 128, 128, 0.46);
-  -moz-box-shadow: 20px -24px 51px 8px rgba(128, 128, 128, 0.46); */
   background-color: rgba(227, 233, 227, 0.88);
   padding-left: 50px;
   padding-right: 50px;
   padding-top: 10px;
   display: flex;
+  height: 1000px;
   margin-bottom: 30px;
+  /* overflow: scroll;
+  overflow-x: hidden; */
 }
 @media (min-width: 54em) {
   .bottom {
@@ -307,3 +309,27 @@ figure {
     max-width: 40%;
   }
 }
+.bottom-text{
+  width: 900px;
+  margin-left: 70px;
+}
+.OtherOffres{
+  overflow: scroll;
+  overflow-x: hidden;
+  height: 700px;
+}
+::-webkit-scrollbar{
+  width: 1em;
+}
+::-webkit-scrollbar-thumb{
+  background-color: rgba(227, 233, 227, 0.88);
+  border-radius: 10px;
+  margin:5px;
+}
+::-webkit-scrollbar-track{
+  border-radius: 10px;
+  background-color: rgb(103, 101, 101);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+

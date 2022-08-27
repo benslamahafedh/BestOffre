@@ -5,9 +5,19 @@ import iphone from "../iphone";
 import "./details.css";
 import { Button } from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Offre from "../Offre/offre";
 export default function Details(){
     const Reference = useParams();
-    const product=getProductById(Reference.productreference,iphone)
+    const product=getProductById(Reference.productreference,iphone);
+    const OtherOffres=product.Offres.map((item) =>{
+        return(
+          <Offre logo={item["Store"]}
+          prix={item.Price}
+          maj={item["Last-update"]}
+          Link={item["product-link"]}
+          />
+        )
+      })
     return(
         <div>
             <article className="post">
@@ -28,15 +38,28 @@ export default function Details(){
                         <div className="best-offre">
                             <h3 className="price">Meilleur prix: {product.Offres[0].Price}</h3>
                             <img src={product.Offres[0].Store} className="store-logo" />
-                            <Link to={product.Offres[0]["product-link"]}>
-                                <Button variant="outline-success">Vers boutique</Button>   
-                            </Link>
+                            
+                                <Button variant="outline-success"
+                                 onClick={(e) => {
+                                    e.preventDefault();
+                                    window.location.href=`${product.Offres[0]["product-link"]}`;
+                                    }}>
+                            
+                                    Vers boutique
+                                </Button>   
                         </div>
                     </div>
                 </div>
             </article>
             <div className="bottom">
-                <p className="post__text" >{product.Specs}</p>
+                <div className="bottom-text">
+                    <div className="post__text" >
+                        {product.Specs}
+                        <div className="OtherOffres">{OtherOffres}</div>
+                        
+                    </div>            
+                </div>
+                
             </div>
         </div>
     )

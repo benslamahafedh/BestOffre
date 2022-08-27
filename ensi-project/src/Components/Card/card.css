@@ -21,11 +21,12 @@
 	 box-shadow: 0 0 10px 5px #a3a8b4;
 	 height: 300px;
 	 width: 250px;
+	 background-color: rgba(227, 233, 227, 0.88);
 	 position: relative;
      margin-bottom: 10px;
-     margin-top:10px;
+     /* margin-top:10px; */
+	 overflow: hidden;
 	 border-radius: 30px;
-	 background-color: #ffffff;
 }
  .card__img {
 	 width: 100px;
@@ -77,7 +78,7 @@
 	 cursor: pointer;
 }
  .card__btn:hover {
-	 color: #071d64;
+	 color: #226b0e;
 }
  @media screen and (min-width: 600px) {
 	 .wrapper {

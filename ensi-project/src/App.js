@@ -37,7 +37,6 @@ function App() {
         <Routes>
           <Route exact path='/' element={<CarouselFadeExample/>}/>
         </Routes>
-       <List1/>
         <div className='product'>
           <Routes>
             <Route exact path='/' element={Product}/>

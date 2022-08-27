@@ -1,0 +1,63 @@
+.offre-component{
+    font-weight: 500;
+    animation: fade-in 0.8s ease-in-out both 0.5s;
+    margin-top: 32px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    margin-left: 60px;
+    line-height: 25px;
+    left: 0px;
+    text-align: left;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    width: 600px;
+
+}
+/* @media (min-width: 54em) {
+    .main {
+      margin-right: 50px;
+      width: 800px;
+      left: 20%;
+    }
+  } */
+.store-logo{
+  height: 45px;
+  width: 80px;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+  border: 2px solid black;
+
+}
+.prix{
+  position: relative;
+  font-weight: 900;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  overflow: hidden;
+  color: black;
+}
+.maj{
+  position: relative;
+  font-weight: 500;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  margin-left: 15px;
+}
+.info{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+.store_button{
+  height: 45px;
+}
