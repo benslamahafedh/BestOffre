@@ -19,20 +19,12 @@ function Header(){
     <>
       <Navbar bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="/">
-            <img
-              alt=""
-              src={require('../logo.png')}
-              width="30"
-              height="30"
-              className="d-inline-block align-top"
-            />{' '}
-            BestOffre
-          </Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/">Features</Nav.Link>
-            <Nav.Link href="/">Pricing</Nav.Link>
+            <Nav.Link href="/">HOME</Nav.Link>
+            <Nav.Link href="/">QUI SOMMES NOUS</Nav.Link>
+            <Nav.Link href="/">CONDITIONS GENERALES</Nav.Link>
+            <Nav.Link href="/">PAIEMENT</Nav.Link>
+            <Nav.Link href="/">CONTACTEZ NOUS</Nav.Link>
           </Nav>
           <Form className="d-flex">
             <Form.Control

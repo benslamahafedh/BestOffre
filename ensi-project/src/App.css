@@ -7,7 +7,11 @@
     padding: 10px;
 }
 body{
-    background-color: rgb(65, 64, 64);
+    background-image: url("./Components/Images/background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .product{
     margin: auto;
