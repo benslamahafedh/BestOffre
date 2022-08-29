@@ -5,7 +5,6 @@ import time
 from selenium.webdriver.common.by import By
 from pymongo import MongoClient
 
-client=MongoClient()
 client=MongoClient('localHost',27017)
 db=client.Products_Data
 DataList=[]
