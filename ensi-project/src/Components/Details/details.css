@@ -311,7 +311,7 @@ figure {
 }
 .bottom-text{
   width: 900px;
-  margin-left: 70px;
+  margin-left: 25px;
 }
 .OtherOffres{
   overflow: scroll;
@@ -320,11 +320,13 @@ figure {
 }
 ::-webkit-scrollbar{
   width: 1em;
+  background-color: transparent;
+
 }
 ::-webkit-scrollbar-thumb{
   background-color: rgba(227, 233, 227, 0.88);
   border-radius: 10px;
-  margin:5px;
+  margin: 5px;
 }
 ::-webkit-scrollbar-track{
   border-radius: 10px;

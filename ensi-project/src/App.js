@@ -39,7 +39,7 @@ function App() {
         </Routes>
         <div className='product'>
           <Routes>
-            <Route exact path='/' element={Product}/>
+            {/* <Route exact path='/' element={Product}/> */}
             <Route exact path='/iphone' element={
               <div className="product-grid">
                   {products}
