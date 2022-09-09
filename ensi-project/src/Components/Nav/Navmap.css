@@ -1,0 +1,13 @@
+.link:hover{
+    color:rgb(91, 117, 235);
+    
+}
+.link{
+    text-decoration: none;
+}
+.place{
+    text-align: center;
+}
+.link-main{
+    text-decoration: none;
+}
