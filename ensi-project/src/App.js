@@ -14,7 +14,6 @@ import List1 from './Components/Main/List1'
 import "./App.css"
 
 function App() {
- 
   const products=iphone.map((item)=>{
     return(
       <Card  img={item.Image}
@@ -33,7 +32,7 @@ function App() {
         </Routes>
         <div className='product'>
           <Routes>
-            {/* <Route exact path='/' element={products}/> */}
+            {/* <Route exact path='/' element={Product}/> */}
             <Route exact path='/iphone' element={
               <div className="product-grid">
                   {products}
